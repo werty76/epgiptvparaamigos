@@ -121,12 +121,12 @@
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="Barça TV">
-    <display-name lang="pt">Barça TV</display-name>
-    <url>http://www.portalnacional.com.pt</url>
+    <display-name lang="es">Barça TV</display-name>
+    <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="Chelsea TV">
-    <display-name lang="pt">Chelsea TV</display-name>
-    <url>http://www.portalnacional.com.pt</url>
+    <display-name lang="en">Chelsea TV</display-name>
+    <url>http://www.tvguide.co.uk</url>
   </channel>
   <channel id="MUTV">
     <display-name lang="en">MUTV</display-name>
@@ -10927,6 +10927,1702 @@
   </programme>
   <programme start="20180819200000 +0100" stop="20180820020000 +0100" channel="Real Madrid TV">
     <title lang="pt">-RMTV</title>
+  </programme>
+  <programme start="20180813060000 +0000" stop="20180813080000 +0000" channel="Barça TV">
+    <title lang="es">Supercopa de España</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813080000 +0000" stop="20180813091500 +0000" channel="Barça TV">
+    <title lang="es">El marcador (T16/17): Post-Partit</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813091500 +0000" stop="20180813093000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: Joan Gamper 2016: Barcelona-Sampdoria</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813093000 +0000" stop="20180813111500 +0000" channel="Barça TV">
+    <title lang="es">Pretemporada (T18/19): Figueres-Barcelona B</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813111500 +0000" stop="20180813114500 +0000" channel="Barça TV">
+    <title lang="es">Seguim en joc</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813114500 +0000" stop="20180813120000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: Gamper 2008: Barcelona-Boca Juniors</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813120000 +0000" stop="20180813140000 +0000" channel="Barça TV">
+    <title lang="es">Supercopa de España</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813140000 +0000" stop="20180813141000 +0000" channel="Barça TV">
+    <title lang="es">Barça News Flash</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813141000 +0000" stop="20180813153000 +0000" channel="Barça TV">
+    <title lang="es">Gampers de somni</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813153000 +0000" stop="20180813171500 +0000" channel="Barça TV">
+    <title lang="es">Pretemporada (T18/19): Figueres-Barcelona B</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813171500 +0000" stop="20180813173000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: 15/16: Barcelona-Roma (Gamper)</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813173000 +0000" stop="20180813174500 +0000" channel="Barça TV">
+    <title lang="es">Especial: Tots els gols de Sergio Busquets</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813174500 +0000" stop="20180813180000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: Gamper 2007: Barcelona-Inter</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813180000 +0000" stop="20180813193000 +0000" channel="Barça TV">
+    <title lang="es">Recorda, Míster: Terry Venables</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813193000 +0000" stop="20180813194500 +0000" channel="Barça TV">
+    <title lang="es">Especial: Benvingut Malcom</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813194500 +0000" stop="20180813200000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: Supercopa de España 2018: Sevilla-Barcelona</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813200000 +0000" stop="20180813200500 +0000" channel="Barça TV">
+    <title lang="es">Barça News Flash</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813200500 +0000" stop="20180813204500 +0000" channel="Barça TV">
+    <title lang="es">Especial: Gols de Gamper</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813204500 +0000" stop="20180813210000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: Gamper 2008: Barcelona-Boca Juniors</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813210000 +0000" stop="20180813224500 +0000" channel="Barça TV">
+    <title lang="es">Supercopa de España</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813224500 +0000" stop="20180813230000 +0000" channel="Barça TV">
+    <title lang="es">Especial: Benvingut Lenglet</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813230000 +0000" stop="20180813233000 +0000" channel="Barça TV">
+    <title lang="es">Especial: Tots els gols de Rakitic</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813233000 +0000" stop="20180813234500 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: 15/16: Barcelona-Roma (Gamper)</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813234500 +0000" stop="20180814001500 +0000" channel="Barça TV">
+    <title lang="es">Històries: Qui és el senyor B?</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180814001500 +0000" stop="20180814003000 +0000" channel="Barça TV">
+    <title lang="es">Especial: Benvingut Malcom</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180814003000 +0000" stop="20180814014500 +0000" channel="Barça TV">
+    <title lang="es">Gampers de somni</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180814014500 +0000" stop="20180814020000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: Gamper 2007: Barcelona-Inter</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180814020000 +0000" stop="20180814034500 +0000" channel="Barça TV">
+    <title lang="es">Pretemporada (T18/19): Figueres-Barcelona B</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180814034500 +0000" stop="20180814043000 +0000" channel="Barça TV">
+    <title lang="es">Especial: Gols de Gamper</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180814043000 +0000" stop="20180814061500 +0000" channel="Barça TV">
+    <title lang="es">Trofeo Joan Gamper 2006: Barcelona-Bayern Múnich</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815043000 +0000" stop="20180815061500 +0000" channel="Barça TV">
+    <title lang="es">Trofeo Joan Gamper 2006: Barcelona-Bayern Múnich</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815061500 +0000" stop="20180815064500 +0000" channel="Barça TV">
+    <title lang="es">Jugadors de llegenda (T2015): Abidal</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815064500 +0000" stop="20180815071500 +0000" channel="Barça TV">
+    <title lang="es">Aquí Palau: Resum de la temporada 2017/18</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815071500 +0000" stop="20180815090000 +0000" channel="Barça TV">
+    <title lang="es">Pretemporada 16/17 (T16/17): Barcelona - Boca Juniors</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815090000 +0000" stop="20180815100000 +0000" channel="Barça TV">
+    <title lang="es">Jugadors de llegenda (T2015): Samuel Eto o</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815100000 +0000" stop="20180815104500 +0000" channel="Barça TV">
+    <title lang="es">Recorda, Míster: Laureano Ruíz</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815104500 +0000" stop="20180815110000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: Gamper 2008: Barcelona-Boca Juniors</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815110000 +0000" stop="20180815113000 +0000" channel="Barça TV">
+    <title lang="es">Especial: Gols de Gamper</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815113000 +0000" stop="20180815120000 +0000" channel="Barça TV">
+    <title lang="es">Especial: Previ Gamper, l\'inventor del club</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815120000 +0000" stop="20180815130000 +0000" channel="Barça TV">
+    <title lang="es">Especial: Gamper, l'inventor del Barça</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815130000 +0000" stop="20180815140000 +0000" channel="Barça TV">
+    <title lang="es">Especial: Post Gamper, l\'inventor del club</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815140000 +0000" stop="20180815141000 +0000" channel="Barça TV">
+    <title lang="es">Barça News Flash</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815141000 +0000" stop="20180815144000 +0000" channel="Barça TV">
+    <title lang="es">Seguim en joc</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815144000 +0000" stop="20180815150000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: Gamper 2007: Barcelona-Inter</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815150000 +0000" stop="20180815160000 +0000" channel="Barça TV">
+    <title lang="es">Messi, un líder en silenci</title>
+    <category lang="es">Documentales</category>
+  </programme>
+  <programme start="20180815160000 +0000" stop="20180815163000 +0000" channel="Barça TV">
+    <title lang="es">Jugadors de llegenda (T2015): Guardiola</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815163000 +0000" stop="20180815170000 +0000" channel="Barça TV">
+    <title lang="es">Històries: Qui és el senyor B?</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815170000 +0000" stop="20180815171500 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: 15/16: Barcelona-Roma (Gamper)</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815171500 +0000" stop="20180815174500 +0000" channel="Barça TV">
+    <title lang="es">Especial: Gols de Gamper</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815174500 +0000" stop="20180815180000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: Gamper 2008: Barcelona-Boca Juniors</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815180000 +0000" stop="20180815194500 +0000" channel="Barça TV">
+    <title lang="es">Supercopa de España</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815194500 +0000" stop="20180815200000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: 15/16: Barcelona-Roma (Gamper)</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815200000 +0000" stop="20180815220000 +0000" channel="Barça TV">
+    <title lang="es">Pretemporada (T18/19): Barcelona B-Bengaluru</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815220000 +0000" stop="20180815221500 +0000" channel="Barça TV">
+    <title lang="es">Especial: Benvingut Arturo Vidal</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815221500 +0000" stop="20180815233000 +0000" channel="Barça TV">
+    <title lang="es">Gampers de somni</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180815233000 +0000" stop="20180816000000 +0000" channel="Barça TV">
+    <title lang="es">Seguim en joc</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180816000000 +0000" stop="20180816014500 +0000" channel="Barça TV">
+    <title lang="es">Pretemporada (T18/19): Barcelona B-Bengaluru</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180816014500 +0000" stop="20180816020000 +0000" channel="Barça TV">
+    <title lang="es">600'' de futbol: Gamper 2008: Barcelona-Boca Juniors</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180816020000 +0000" stop="20180816060000 +0000" channel="Barça TV">
+    <title lang="es">Barça TV</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180817020000 +0000" stop="20180817060000 +0000" channel="Barça TV">
+    <title lang="es">Barça TV</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180817060000 +0000" stop="20180817060000 +0000" channel="Barça TV">
+    <title lang="es">Barça TV</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180817060000 +0000" stop="20180817060000 +0000" channel="Barça TV">
+    <title lang="es">Barça TV</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180817060000 +0000" stop="20180817060000 +0000" channel="Barça TV">
+    <title lang="es">Barça TV</title>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20180813080000 +0100" stop="20180813093000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Classic Chelsea - Arsenal 92/93: Classic Chelsea - Arsenal 92/93(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+    <episode-num>A chance to relive some classic Chelsea encounters. Here, the Blues host Arsenal at Stamford Bridge in the 1992-93 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180813093000 +0100" stop="20180813094500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180813094500 +0100" stop="20180813100000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Inter - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea meet Inter Milan in Nice in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180813100000 +0100" stop="20180813120000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180813120000 +0100" stop="20180813123000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Barcelona v Chelsea - UCL 11/12: Barcelona v Chelsea - UCL 11/12 Barcelona welcome Chelsea to the Nou Camp for the second leg of their UEFA Champions League semi-final(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+  </programme>
+  <programme start="20180813130000 +0100" stop="20180813130100 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News Headlines</title>
+    <desc lang="en">13/08/2018 The latest news in 60 seconds from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag6.jpg" />
+  </programme>
+  <programme start="20180813130100 +0100" stop="20180813131500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Anelka A look at some of the best moments from the lethal striker's time with the Blues(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180813131500 +0100" stop="20180813133000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Ballack The best moments from the German midfielder's time at Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180813133000 +0100" stop="20180813153000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180813153000 +0100" stop="20180813170000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Classic Chelsea - Arsenal 92/93: Classic Chelsea - Arsenal 92/93(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+    <episode-num>A chance to relive some classic Chelsea encounters. Here, the Blues host Arsenal at Stamford Bridge in the 1992-93 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180813170000 +0100" stop="20180813170100 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News Headlines</title>
+    <desc lang="en">13/08/2018 The latest news in 60 seconds from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag6.jpg" />
+  </programme>
+  <programme start="20180813170100 +0100" stop="20180813173000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Barcelona v Chelsea - UCL 11/12: Barcelona v Chelsea - UCL 11/12 Barcelona welcome Chelsea to the Nou Camp for the second leg of their UEFA Champions League semi-final(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+  </programme>
+  <programme start="20180813174500 +0100" stop="20180813180000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Ballack The best moments from the German midfielder's time at Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180813180000 +0100" stop="20180813183000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2008/2009(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>A look back at the 2008/09 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180813183000 +0100" stop="20180813184500 +0100" channel="Chelsea TV">
+    <title lang="en">Post Match Round-Up</title>
+    <desc lang="en">Post Match Round Up 13/08 The post-match round up from the latest match for the Blues(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20180813184500 +0100" stop="20180813190000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180813190000 +0100" stop="20180813191500 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Lyon - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Live commentary as Chelsea meet Lyon in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180813191500 +0100" stop="20180813193000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180813193000 +0100" stop="20180813194500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Kalou The finest moments from Chelsea's pacey striker(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180813194500 +0100" stop="20180813200000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Poyet A look at some of the best moments from the Uruguayan midfielder's time with the Blues(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180813200000 +0100" stop="20180813203000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2009/10: Premier League Years 2009/2010(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelsea2009.jpg" />
+    <episode-num>A look back at the 2009/10 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180813203000 +0100" stop="20180813204500 +0100" channel="Chelsea TV">
+    <title lang="en">Post Match Round-Up</title>
+    <desc lang="en">Post Match Round Up 13/08 The post-match round up from the latest match for the Blues(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20180813204500 +0100" stop="20180813210000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180813210000 +0100" stop="20180813211500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180813211500 +0100" stop="20180813213000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Inter - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea meet Inter Milan in Nice in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180813213000 +0100" stop="20180813220000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Barcelona v Chelsea - UCL 11/12: Barcelona v Chelsea - UCL 11/12 Barcelona welcome Chelsea to the Nou Camp for the second leg of their UEFA Champions League semi-final(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+  </programme>
+  <programme start="20180813220000 +0100" stop="20180813221500 +0100" channel="Chelsea TV">
+    <title lang="en">Post Match Round-Up</title>
+    <desc lang="en">Post Match Round Up 13/08 The post-match round up from the latest match for the Blues(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20180813221500 +0100" stop="20180813223000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180813223000 +0100" stop="20180814000000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Classic Chelsea - Arsenal 92/93: Classic Chelsea - Arsenal 92/93(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+    <episode-num>A chance to relive some classic Chelsea encounters. Here, the Blues host Arsenal at Stamford Bridge in the 1992-93 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814000000 +0100" stop="20180814020000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814020000 +0100" stop="20180814023000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Brom - Prem 10/11: Chelsea v West Brom - Prem 10/11 The Premier League encounter at Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814023000 +0100" stop="20180814024500 +0100" channel="Chelsea TV">
+    <title lang="en">Post Match Round-Up</title>
+    <desc lang="en">Post Match Round Up 13/08 The post-match round up from the latest match for the Blues(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20180814024500 +0100" stop="20180814030000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814030000 +0100" stop="20180814031500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814031500 +0100" stop="20180814033000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Inter - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea meet Inter Milan in Nice in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814033000 +0100" stop="20180814040000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2009/10: Premier League Years 2009/2010(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelsea2009.jpg" />
+    <episode-num>A look back at the 2009/10 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814040000 +0100" stop="20180814060000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814060000 +0100" stop="20180814061500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814061500 +0100" stop="20180814063000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814063000 +0100" stop="20180814070000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Brom - Prem 10/11: Chelsea v West Brom - Prem 10/11 The Premier League encounter at Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814070000 +0100" stop="20180814071500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Kalou The finest moments from Chelsea's pacey striker(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814071500 +0100" stop="20180814073000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Poyet A look at some of the best moments from the Uruguayan midfielder's time with the Blues(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814073000 +0100" stop="20180814080000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2009/10: Premier League Years 2009/2010(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelsea2009.jpg" />
+    <episode-num>A look back at the 2009/10 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814080000 +0100" stop="20180814093000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Classic Chelsea - Arsenal 04/05 Arsenal v Chelsea at Highbury(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+  </programme>
+  <programme start="20180814093000 +0100" stop="20180814094500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814094500 +0100" stop="20180814100000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814100000 +0100" stop="20180814120000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea U18</title>
+    <desc lang="en">Arsenal v Chelsea - FAYC 17/18: Arsenal v Chelsea - FAYC Final 17/18 Chelsea U18s meet Arsenal U18s in the second leg of the final of the FA Youth Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814120000 +0100" stop="20180814123000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Brom - Prem 10/11: Chelsea v West Brom - Prem 10/11 The Premier League encounter at Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814123000 +0100" stop="20180814130000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2009/10: Premier League Years 2009/2010(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelsea2009.jpg" />
+    <episode-num>A look back at the 2009/10 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814130000 +0100" stop="20180814130100 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News Headlines</title>
+    <desc lang="en">147/08/2018 The latest news in 60 seconds from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag6.jpg" />
+  </programme>
+  <programme start="20180814130100 +0100" stop="20180814131500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Kalou The finest moments from Chelsea's pacey striker(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814131500 +0100" stop="20180814133000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Poyet A look at some of the best moments from the Uruguayan midfielder's time with the Blues(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814133000 +0100" stop="20180814153000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (2 hrs)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814153000 +0100" stop="20180814170000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Classic Chelsea - Arsenal 04/05 Arsenal v Chelsea at Highbury(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+  </programme>
+  <programme start="20180814170000 +0100" stop="20180814170100 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News Headlines</title>
+    <desc lang="en">147/08/2018 The latest news in 60 seconds from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag6.jpg" />
+  </programme>
+  <programme start="20180814170100 +0100" stop="20180814173000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Brom - Prem 10/11: Chelsea v West Brom - Prem 10/11 The Premier League encounter at Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814173000 +0100" stop="20180814174500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Kalou The finest moments from Chelsea's pacey striker(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814174500 +0100" stop="20180814180000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Poyet A look at some of the best moments from the Uruguayan midfielder's time with the Blues(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814180000 +0100" stop="20180814183000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2009/10: Premier League Years 2009/2010(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelsea2009.jpg" />
+    <episode-num>A look back at the 2009/10 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814183000 +0100" stop="20180814184500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News</title>
+    <desc lang="en">14/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag9.jpg" />
+  </programme>
+  <programme start="20180814184500 +0100" stop="20180814190000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814190000 +0100" stop="20180814191500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814191500 +0100" stop="20180814193000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Lyon - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Live commentary as Chelsea meet Lyon in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814193000 +0100" stop="20180814194500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of John Terry A look at some of the best moments from the Chelsea captain's time with the Blues so far(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814194500 +0100" stop="20180814200000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Lampard All the best moments and goals from the Blues' dynamic midfielder(n)</desc>
+    <category lang="en">General Sports</category>
+  </programme>
+  <programme start="20180814200000 +0100" stop="20180814203000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2010/2011(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>A look back at Chelsea's best goals in all competitions during the 2010/11 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814203000 +0100" stop="20180814204500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News</title>
+    <desc lang="en">14/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag9.jpg" />
+  </programme>
+  <programme start="20180814204500 +0100" stop="20180814210000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814210000 +0100" stop="20180814211500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180814211500 +0100" stop="20180814213000 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues</title>
+    <desc lang="en">Retro Blues v Arsenal - The 90s Chelsea v Arsenal at Stamford Bridge from 1991(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20180814213000 +0100" stop="20180814220000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Brom - Prem 10/11: Chelsea v West Brom - Prem 10/11 The Premier League encounter at Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814220000 +0100" stop="20180814221500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News</title>
+    <desc lang="en">14/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag9.jpg" />
+  </programme>
+  <programme start="20180814221500 +0100" stop="20180814223000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 13/14: Chelsea v Arsenal - Prem 13/14 Chelsea welcome Arsenal to Stamford Bridge for this Barclays Premier League clash(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180814223000 +0100" stop="20180815000000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Classic Chelsea - Arsenal 04/05 Arsenal v Chelsea at Highbury(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+  </programme>
+  <programme start="20180815000000 +0100" stop="20180815020000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea U18</title>
+    <desc lang="en">Arsenal v Chelsea - FAYC 17/18: Arsenal v Chelsea - FAYC Final 17/18 Chelsea U18s meet Arsenal U18s in the second leg of the final of the FA Youth Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815020000 +0100" stop="20180815021500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Ham - Prem 16/17: Chelsea v West Ham - Prem 16/17(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea play West Ham United at Stamford Bridge in the first week of the 2016-17 Premier League season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815021500 +0100" stop="20180815023000 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues</title>
+    <desc lang="en">Retro Blues v Arsenal - The 90s Chelsea v Arsenal at Stamford Bridge from 1991(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20180815023000 +0100" stop="20180815024500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News</title>
+    <desc lang="en">14/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag9.jpg" />
+  </programme>
+  <programme start="20180815024500 +0100" stop="20180815030000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 13/14: Chelsea v Arsenal - Prem 13/14 Chelsea welcome Arsenal to Stamford Bridge for this Barclays Premier League clash(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815030000 +0100" stop="20180815031500 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815031500 +0100" stop="20180815033000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815033000 +0100" stop="20180815040000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2010/2011(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>A look back at Chelsea's best goals in all competitions during the 2010/11 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815040000 +0100" stop="20180815060000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Arsenal v Chelsea - Prem 17/18: Arsenal v Chelsea - Prem 17/18 The Blues travel to the Emirates Stadium to take on Arsenal in a big clash from the Premier League. The reverse match ended 0-0(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815060000 +0100" stop="20180815061500 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815061500 +0100" stop="20180815063000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815063000 +0100" stop="20180815064500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Ham - Prem 16/17: Chelsea v West Ham - Prem 16/17(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea play West Ham United at Stamford Bridge in the first week of the 2016-17 Premier League season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815064500 +0100" stop="20180815070000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 13/14: Chelsea v Arsenal - Prem 13/14 Chelsea welcome Arsenal to Stamford Bridge for this Barclays Premier League clash(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815070000 +0100" stop="20180815071500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of John Terry A look at some of the best moments from the Chelsea captain's time with the Blues so far(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815071500 +0100" stop="20180815073000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Lampard All the best moments and goals from the Blues' dynamic midfielder(n)</desc>
+    <category lang="en">General Sports</category>
+  </programme>
+  <programme start="20180815073000 +0100" stop="20180815080000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2010/2011(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>A look back at Chelsea's best goals in all competitions during the 2010/11 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815080000 +0100" stop="20180815093000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Classic Chelsea - Arsenal 00/01 Chelsea v Arsenal. The Premiership encounter at Stamford Bridge from 2000/01(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+  </programme>
+  <programme start="20180815093000 +0100" stop="20180815094500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Ham - Prem 16/17: Chelsea v West Ham - Prem 16/17(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea play West Ham United at Stamford Bridge in the first week of the 2016-17 Premier League season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815094500 +0100" stop="20180815100000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815100000 +0100" stop="20180815120000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (2 hrs)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815120000 +0100" stop="20180815121500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Ham - Prem 16/17: Chelsea v West Ham - Prem 16/17(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea play West Ham United at Stamford Bridge in the first week of the 2016-17 Premier League season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815121500 +0100" stop="20180815123000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815123000 +0100" stop="20180815130000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2010/2011(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>A look back at Chelsea's best goals in all competitions during the 2010/11 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815130000 +0100" stop="20180815130100 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News Headlines</title>
+    <desc lang="en">15/08/2018 The latest news in 60 seconds from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag6.jpg" />
+  </programme>
+  <programme start="20180815130100 +0100" stop="20180815131500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of John Terry A look at some of the best moments from the Chelsea captain's time with the Blues so far(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815131500 +0100" stop="20180815133000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Lampard All the best moments and goals from the Blues' dynamic midfielder(n)</desc>
+    <category lang="en">General Sports</category>
+  </programme>
+  <programme start="20180815133000 +0100" stop="20180815153000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 13/14: Chelsea v Arsenal - Prem 13/14 Chelsea welcome Arsenal to Stamford Bridge for this Barclays Premier League clash(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815153000 +0100" stop="20180815170000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Classic Chelsea - Arsenal 00/01 Chelsea v Arsenal. The Premiership encounter at Stamford Bridge from 2000/01(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+  </programme>
+  <programme start="20180815170000 +0100" stop="20180815170100 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News Headlines</title>
+    <desc lang="en">15/08/2018 The latest news in 60 seconds from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag6.jpg" />
+  </programme>
+  <programme start="20180815170100 +0100" stop="20180815171500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815171500 +0100" stop="20180815173000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Ham - Prem 16/17: Chelsea v West Ham - Prem 16/17(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea play West Ham United at Stamford Bridge in the first week of the 2016-17 Premier League season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815173000 +0100" stop="20180815174500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of John Terry A look at some of the best moments from the Chelsea captain's time with the Blues so far(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815174500 +0100" stop="20180815180000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Lampard All the best moments and goals from the Blues' dynamic midfielder(n)</desc>
+    <category lang="en">General Sports</category>
+  </programme>
+  <programme start="20180815180000 +0100" stop="20180815183000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2010/2011(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>A look back at Chelsea's best goals in all competitions during the 2010/11 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815183000 +0100" stop="20180815184500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News</title>
+    <desc lang="en">15/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag9.jpg" />
+  </programme>
+  <programme start="20180815184500 +0100" stop="20180815190000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Ham - Prem 16/17: Chelsea v West Ham - Prem 16/17(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea play West Ham United at Stamford Bridge in the first week of the 2016-17 Premier League season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815190000 +0100" stop="20180815191500 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues</title>
+    <desc lang="en">Retro Blues v Arsenal - The 90s Chelsea v Arsenal at Stamford Bridge from 1991(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20180815191500 +0100" stop="20180815193000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815193000 +0100" stop="20180815194500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Crespo A chance to relive some of the greatest moments from Argentine international striker Hernan Crespo's time at Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815194500 +0100" stop="20180815200000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Eidur Watch and enjoy all the best moments and stunning strikes from the former Blues forward Eidur Gudjohnsen(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815200000 +0100" stop="20180815203000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2011/2012(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>A look back at Chelsea's best goals in all competitions during the 2011/12 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815203000 +0100" stop="20180815204500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News</title>
+    <desc lang="en">15/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag9.jpg" />
+  </programme>
+  <programme start="20180815204500 +0100" stop="20180815210000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815210000 +0100" stop="20180815211500 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Inter - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea meet Inter Milan in Nice in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180815211500 +0100" stop="20180815213000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815213000 +0100" stop="20180815214500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v West Ham - Prem 16/17: Chelsea v West Ham - Prem 16/17(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea play West Ham United at Stamford Bridge in the first week of the 2016-17 Premier League season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815214500 +0100" stop="20180815220000 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues</title>
+    <desc lang="en">Retro Blues v Arsenal - The 90s Chelsea v Arsenal at Stamford Bridge from 1991(n)</desc>
+    <category lang="en">reserved</category>
+  </programme>
+  <programme start="20180815220000 +0100" stop="20180815221500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News</title>
+    <desc lang="en">15/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag9.jpg" />
+  </programme>
+  <programme start="20180815221500 +0100" stop="20180815223000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180815223000 +0100" stop="20180816000000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Classic Chelsea - Arsenal 00/01 Chelsea v Arsenal. The Premiership encounter at Stamford Bridge from 2000/01(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea.jpg" />
+  </programme>
+  <programme start="20180816000000 +0100" stop="20180816020000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (2 hrs)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816020000 +0100" stop="20180816023000 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues</title>
+    <desc lang="en">Retro Blues v Arsenal - The 70s(n)</desc>
+    <category lang="en">reserved</category>
+    <episode-num>A look back at the 1970/71 season as Chelsea welcome London rivals Arsenal to Stamford Bridge   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816023000 +0100" stop="20180816024500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News</title>
+    <desc lang="en">15/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag9.jpg" />
+  </programme>
+  <programme start="20180816024500 +0100" stop="20180816030000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816030000 +0100" stop="20180816031500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 17/18: Huddersfield v Chelsea - Prem 17/18 Chelsea travel to John Smith's Stadium to meet Premier League new boys Huddersfield Town(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816031500 +0100" stop="20180816033000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816033000 +0100" stop="20180816040000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2011/2012(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>A look back at Chelsea's best goals in all competitions during the 2011/12 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816040000 +0100" stop="20180816060000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 13/14: Chelsea v Arsenal - Prem 13/14 Chelsea welcome Arsenal to Stamford Bridge for this Barclays Premier League clash(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816060000 +0100" stop="20180816061500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816061500 +0100" stop="20180816063000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816063000 +0100" stop="20180816070000 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues</title>
+    <desc lang="en">Retro Blues v Arsenal - The 70s(n)</desc>
+    <category lang="en">reserved</category>
+    <episode-num>A look back at the 1970/71 season as Chelsea welcome London rivals Arsenal to Stamford Bridge   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816070000 +0100" stop="20180816071500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Crespo A chance to relive some of the greatest moments from Argentine international striker Hernan Crespo's time at Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816071500 +0100" stop="20180816073000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Eidur Watch and enjoy all the best moments and stunning strikes from the former Blues forward Eidur Gudjohnsen(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816073000 +0100" stop="20180816080000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2011/2012(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>A look back at Chelsea's best goals in all competitions during the 2011/12 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816080000 +0100" stop="20180816093000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea</title>
+    <desc lang="en">Classic Chelsea v Arsenal - 96/97: Classic Chelsea - Arsenal 96/97(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclassarsechelsea96.jpg" />
+    <episode-num>A chance to relive some classic Chelsea action. Here, the Blues take on Arsenal at Highbury in the 1996-97 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816093000 +0100" stop="20180816100000 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues</title>
+    <desc lang="en">Retro Blues v Arsenal - The 70s(n)</desc>
+    <category lang="en">reserved</category>
+    <episode-num>A look back at the 1970/71 season as Chelsea welcome London rivals Arsenal to Stamford Bridge   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816100000 +0100" stop="20180816120000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816120000 +0100" stop="20180816121500 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816121500 +0100" stop="20180816123000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816123000 +0100" stop="20180816130000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years</title>
+    <desc lang="en">Premier League Years 2011/2012(n)</desc>
+    <category lang="en">Football - Club</category>
+    <episode-num>A look back at Chelsea's best goals in all competitions during the 2011/12 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816130000 +0100" stop="20180816130100 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News Headlines</title>
+    <desc lang="en">16/08/2018 The latest news in 60 seconds from Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaflag6.jpg" />
+  </programme>
+  <programme start="20180816130100 +0100" stop="20180816131500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Crespo A chance to relive some of the greatest moments from Argentine international striker Hernan Crespo's time at Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816131500 +0100" stop="20180816133000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of</title>
+    <desc lang="en">Best of Eidur Watch and enjoy all the best moments and stunning strikes from the former Blues forward Eidur Gudjohnsen(n)</desc>
+    <category lang="en">Football - Club</category>
+  </programme>
+  <programme start="20180816133000 +0100" stop="20180816153000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 16/17: Chelsea v Arsenal - Prem 16/17 A huge game from the Premier League as the Blues host Arsenal at the Bridge. Chelsea will be keen to better their previous league performance against Arsenal - a 3-0 defeat at the Emirates(n)</desc>
+  </programme>
+  <programme start="20180816153000 +0100" stop="20180816170000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea (?)</title>
+    <desc lang="en">Classic Chelsea v Arsenal - 96/97: Classic Chelsea - Arsenal 96/97(n)</desc>
+    <episode-num>A chance to relive some classic Chelsea action. Here, the Blues take on Arsenal at Highbury in the 1996-97 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816170000 +0100" stop="20180816170100 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News Headlines (?)</title>
+    <desc lang="en">16/08/2018 The latest news in 60 seconds from Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180816170100 +0100" stop="20180816171500 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180816171500 +0100" stop="20180816173000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816173000 +0100" stop="20180816174500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of (?)</title>
+    <desc lang="en">Best of Crespo A chance to relive some of the greatest moments from Argentine international striker Hernan Crespo's time at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180816174500 +0100" stop="20180816180000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of (?)</title>
+    <desc lang="en">Best of Eidur Watch and enjoy all the best moments and stunning strikes from the former Blues forward Eidur Gudjohnsen(n)</desc>
+  </programme>
+  <programme start="20180816180000 +0100" stop="20180816183000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Premier League Years 2011/2012(n)</desc>
+    <episode-num>A look back at Chelsea's best goals in all competitions during the 2011/12 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816183000 +0100" stop="20180816184500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News (?)</title>
+    <desc lang="en">16/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180816184500 +0100" stop="20180816190000 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180816190000 +0100" stop="20180816191500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816191500 +0100" stop="20180816193000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 16/17: Chelsea v Arsenal - Prem 16/17 A huge game from the Premier League as the Blues host Arsenal at the Bridge. Chelsea will be keen to better their previous league performance against Arsenal - a 3-0 defeat at the Emirates(n)</desc>
+  </programme>
+  <programme start="20180816193000 +0100" stop="20180816194500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of (?)</title>
+    <desc lang="en">Best of Essien Some of the finest moments from the Blues' Ghanaian midfield magician(n)</desc>
+  </programme>
+  <programme start="20180816194500 +0100" stop="20180816200000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of (?)</title>
+    <desc lang="en">Best of Poyet A look at some of the best moments from the Uruguayan midfielder's time with the Blues(n)</desc>
+  </programme>
+  <programme start="20180816200000 +0100" stop="20180816203000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Premier League Years 92/93 &amp; 93/94 A look back at the 1992/93 and 1993/94 seasons(n)</desc>
+  </programme>
+  <programme start="20180816203000 +0100" stop="20180816204500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News (?)</title>
+    <desc lang="en">16/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180816204500 +0100" stop="20180816210000 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180816210000 +0100" stop="20180816211500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816211500 +0100" stop="20180816213000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 16/17: Chelsea v Arsenal - Prem 16/17 A huge game from the Premier League as the Blues host Arsenal at the Bridge. Chelsea will be keen to better their previous league performance against Arsenal - a 3-0 defeat at the Emirates(n)</desc>
+  </programme>
+  <programme start="20180816213000 +0100" stop="20180816220000 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues (?)</title>
+    <desc lang="en">Retro Blues v Arsenal - The 70s(n)</desc>
+    <episode-num>A look back at the 1970/71 season as Chelsea welcome London rivals Arsenal to Stamford Bridge   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180816220000 +0100" stop="20180816221500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News (?)</title>
+    <desc lang="en">16/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180816221500 +0100" stop="20180816223000 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180816223000 +0100" stop="20180817000000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea (?)</title>
+    <desc lang="en">Classic Chelsea v Arsenal - 96/97: Classic Chelsea - Arsenal 96/97(n)</desc>
+    <episode-num>A chance to relive some classic Chelsea action. Here, the Blues take on Arsenal at Highbury in the 1996-97 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180817000000 +0100" stop="20180817020000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+  </programme>
+  <programme start="20180817020000 +0100" stop="20180817021500 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180817021500 +0100" stop="20180817023000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180817023000 +0100" stop="20180817024500 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News (?)</title>
+    <desc lang="en">16/08/2018 A round-up of the latest news from Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180817024500 +0100" stop="20180817030000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 17/18: Huddersfield v Chelsea - Prem 17/18 Chelsea travel to John Smith's Stadium to meet Premier League new boys Huddersfield Town(n)</desc>
+  </programme>
+  <programme start="20180817030000 +0100" stop="20180817033000 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues (?)</title>
+    <desc lang="en">Retro Blues v Arsenal - The 70s(n)</desc>
+    <episode-num>A look back at the 1970/71 season as Chelsea welcome London rivals Arsenal to Stamford Bridge   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180817033000 +0100" stop="20180817040000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Premier League Years 92/93 &amp; 93/94 A look back at the 1992/93 and 1993/94 seasons(n)</desc>
+  </programme>
+  <programme start="20180817040000 +0100" stop="20180817060000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 16/17: Chelsea v Arsenal - Prem 16/17 A huge game from the Premier League as the Blues host Arsenal at the Bridge. Chelsea will be keen to better their previous league performance against Arsenal - a 3-0 defeat at the Emirates(n)</desc>
+  </programme>
+  <programme start="20180817060000 +0100" stop="20180817061500 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180817061500 +0100" stop="20180817063000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins) (?)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+  </programme>
+  <programme start="20180817063000 +0100" stop="20180817064500 +0100" channel="Chelsea TV">
+    <title lang="en">My Top 5 Moments (?)</title>
+    <desc lang="en">My Top 5 Moments - Eddie Newton Former Blues midfielder Eddie Newton looks back at his top five moments at the club(n)</desc>
+  </programme>
+  <programme start="20180817064500 +0100" stop="20180817070000 +0100" channel="Chelsea TV">
+    <title lang="en">My Top 5 Moments (?)</title>
+    <desc lang="en">My Top 5 Moments - Flo Former Blues forward Tore Andre Flo takes a look back over his top five moments with the club(n)</desc>
+  </programme>
+  <programme start="20180817070000 +0100" stop="20180817071500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of (?)</title>
+    <desc lang="en">Best of Essien Some of the finest moments from the Blues' Ghanaian midfield magician(n)</desc>
+  </programme>
+  <programme start="20180817071500 +0100" stop="20180817073000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of (?)</title>
+    <desc lang="en">Best of Poyet A look at some of the best moments from the Uruguayan midfielder's time with the Blues(n)</desc>
+  </programme>
+  <programme start="20180817073000 +0100" stop="20180817080000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Premier League Years 92/93 &amp; 93/94 A look back at the 1992/93 and 1993/94 seasons(n)</desc>
+  </programme>
+  <programme start="20180817080000 +0100" stop="20180817093000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea (?)</title>
+    <desc lang="en">UCL Classic - Arsenal 03/04: UCL Classic - Arsenal 03/04(n)</desc>
+    <episode-num>A chance to relive some classic Chelsea action. Here, the Blues take on Arsenal at Highbury in the UEFA Champions League back in the 03-04 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180817093000 +0100" stop="20180817094500 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180817094500 +0100" stop="20180817100000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins) (?)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+  </programme>
+  <programme start="20180817100000 +0100" stop="20180817120000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180817120000 +0100" stop="20180817121500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of (?)</title>
+    <desc lang="en">Best of Essien Some of the finest moments from the Blues' Ghanaian midfield magician(n)</desc>
+  </programme>
+  <programme start="20180817121500 +0100" stop="20180817123000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of (?)</title>
+    <desc lang="en">Best of Poyet A look at some of the best moments from the Uruguayan midfielder's time with the Blues(n)</desc>
+  </programme>
+  <programme start="20180817123000 +0100" stop="20180817130000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Premier League Years 92/93 &amp; 93/94 A look back at the 1992/93 and 1993/94 seasons(n)</desc>
+  </programme>
+  <programme start="20180817130000 +0100" stop="20180817133000 +0100" channel="Chelsea TV">
+    <title lang="en">Live Manager's Press Conference (?)</title>
+    <desc lang="en">Manager's Press Conference 17/08 Maurizio Sarri holds a press conference to update on the latest news at the Bridge(n)</desc>
+  </programme>
+  <programme start="20180817133000 +0100" stop="20180817134500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180817134500 +0100" stop="20180817140000 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180817140000 +0100" stop="20180817141500 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins) (?)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+  </programme>
+  <programme start="20180817141500 +0100" stop="20180817144500 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues (?)</title>
+    <desc lang="en">Retro Blues v Arsenal - The 70s(n)</desc>
+    <episode-num>A look back at the 1970/71 season as Chelsea welcome London rivals Arsenal to Stamford Bridge   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180817144500 +0100" stop="20180817150000 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues (?)</title>
+    <desc lang="en">Retro Blues v Arsenal - The 90s Chelsea v Arsenal at Stamford Bridge from 1991(n)</desc>
+  </programme>
+  <programme start="20180817150000 +0100" stop="20180817151500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 16/17: Chelsea v Arsenal - Prem 16/17 A huge game from the Premier League as the Blues host Arsenal at the Bridge. Chelsea will be keen to better their previous league performance against Arsenal - a 3-0 defeat at the Emirates(n)</desc>
+  </programme>
+  <programme start="20180817151500 +0100" stop="20180817153000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Arsenal v Chelsea - Prem 17/18: Arsenal v Chelsea - Prem 17/18 The Blues travel to the Emirates Stadium to take on Arsenal in a big clash from the Premier League. The reverse match ended 0-0(n)</desc>
+  </programme>
+  <programme start="20180817153000 +0100" stop="20180817170000 +0100" channel="Chelsea TV">
+    <title lang="en">Classic Chelsea (?)</title>
+    <desc lang="en">UCL Classic - Arsenal 03/04: UCL Classic - Arsenal 03/04(n)</desc>
+    <episode-num>A chance to relive some classic Chelsea action. Here, the Blues take on Arsenal at Highbury in the UEFA Champions League back in the 03-04 season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180817170000 +0100" stop="20180817170100 +0100" channel="Chelsea TV">
+    <title lang="en">Blues News Headlines (?)</title>
+    <desc lang="en">17/08/2018 The latest news in 60 seconds from Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180817170100 +0100" stop="20180817171500 +0100" channel="Chelsea TV">
+    <title lang="en">Manager's Press Conference (?)</title>
+    <desc lang="en">Manager's Press Conference 17/08 Maurizio Sarri holds a press conference to update on the latest news at the Bridge(n)</desc>
+  </programme>
+  <programme start="20180817171500 +0100" stop="20180817173000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180817173000 +0100" stop="20180817174500 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of (?)</title>
+    <desc lang="en">Best of Essien Some of the finest moments from the Blues' Ghanaian midfield magician(n)</desc>
+  </programme>
+  <programme start="20180817174500 +0100" stop="20180817180000 +0100" channel="Chelsea TV">
+    <title lang="en">Best Of (?)</title>
+    <desc lang="en">Best of Poyet A look at some of the best moments from the Uruguayan midfielder's time with the Blues(n)</desc>
+  </programme>
+  <programme start="20180817180000 +0100" stop="20180817183000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Premier League Years 92/93 &amp; 93/94 A look back at the 1992/93 and 1993/94 seasons(n)</desc>
+  </programme>
+  <programme start="20180817183000 +0100" stop="20180817184500 +0100" channel="Chelsea TV">
+    <title lang="en">Big Match Preview (?)</title>
+    <desc lang="en">Big Match Preview 17/08 A look ahead to the next big match for the Blues(n)</desc>
+  </programme>
+  <programme start="20180817184500 +0100" stop="20180817190000 +0100" channel="Chelsea TV">
+    <title lang="en">Manager's Press Conference (?)</title>
+    <desc lang="en">Manager's Press Conference 17/08 Maurizio Sarri holds a press conference to update on the latest news at the Bridge(n)</desc>
+  </programme>
+  <programme start="20180817190000 +0100" stop="20180817191500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180817191500 +0100" stop="20180817193000 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180817193000 +0100" stop="20180817194500 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins) (?)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+  </programme>
+  <programme start="20180817194500 +0100" stop="20180817200000 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues (?)</title>
+    <desc lang="en">Retro Blues v Arsenal - The 90s Chelsea v Arsenal at Stamford Bridge from 1991(n)</desc>
+  </programme>
+  <programme start="20180817200000 +0100" stop="20180817203000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Premier League Years 94/95 &amp; 95/96 A look back at the 1994/95 and the 1995/96 seasons(n)</desc>
+  </programme>
+  <programme start="20180817203000 +0100" stop="20180817204500 +0100" channel="Chelsea TV">
+    <title lang="en">Big Match Preview (?)</title>
+    <desc lang="en">Big Match Preview 17/08 A look ahead to the next big match for the Blues(n)</desc>
+  </programme>
+  <programme start="20180817204500 +0100" stop="20180817210000 +0100" channel="Chelsea TV">
+    <title lang="en">Manager's Press Conference (?)</title>
+    <desc lang="en">Manager's Press Conference 17/08 Maurizio Sarri holds a press conference to update on the latest news at the Bridge(n)</desc>
+  </programme>
+  <programme start="20180817210000 +0100" stop="20180817213000 +0100" channel="Chelsea TV">
+    <title lang="en">Inside Chelsea (?)</title>
+    <desc lang="en">Inside Chelsea Wc 13/08 Take a behind-the-scenes look inside the workings of Chelsea FC(n)</desc>
+  </programme>
+  <programme start="20180817213000 +0100" stop="20180817214500 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180817214500 +0100" stop="20180817220000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180817220000 +0100" stop="20180817221500 +0100" channel="Chelsea TV">
+    <title lang="en">Big Match Preview (?)</title>
+    <desc lang="en">Big Match Preview 17/08 A look ahead to the next big match for the Blues(n)</desc>
+  </programme>
+  <programme start="20180817221500 +0100" stop="20180817223000 +0100" channel="Chelsea TV">
+    <title lang="en">Manager's Press Conference (?)</title>
+    <desc lang="en">Manager's Press Conference 17/08 Maurizio Sarri holds a press conference to update on the latest news at the Bridge(n)</desc>
+  </programme>
+  <programme start="20180817223000 +0100" stop="20180817224500 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins) (?)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+  </programme>
+  <programme start="20180817224500 +0100" stop="20180817230000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 16/17: Chelsea v Arsenal - Prem 16/17 A huge game from the Premier League as the Blues host Arsenal at the Bridge. Chelsea will be keen to better their previous league performance against Arsenal - a 3-0 defeat at the Emirates(n)</desc>
+  </programme>
+  <programme start="20180817230000 +0100" stop="20180817233000 +0100" channel="Chelsea TV">
+    <title lang="en">Inside Chelsea (?)</title>
+    <desc lang="en">Inside Chelsea Wc 13/08 Take a behind-the-scenes look inside the workings of Chelsea FC(n)</desc>
+  </programme>
+  <programme start="20180817233000 +0100" stop="20180817234500 +0100" channel="Chelsea TV">
+    <title lang="en">Big Match Preview (?)</title>
+    <desc lang="en">Big Match Preview 17/08 A look ahead to the next big match for the Blues(n)</desc>
+  </programme>
+  <programme start="20180817234500 +0100" stop="20180818000000 +0100" channel="Chelsea TV">
+    <title lang="en">Manager's Press Conference (?)</title>
+    <desc lang="en">Manager's Press Conference 17/08 Maurizio Sarri holds a press conference to update on the latest news at the Bridge(n)</desc>
+  </programme>
+  <programme start="20180818000000 +0100" stop="20180818020000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180818020000 +0100" stop="20180818023000 +0100" channel="Chelsea TV">
+    <title lang="en">Inside Chelsea (?)</title>
+    <desc lang="en">Inside Chelsea Wc 13/08 Take a behind-the-scenes look inside the workings of Chelsea FC(n)</desc>
+  </programme>
+  <programme start="20180818023000 +0100" stop="20180818024500 +0100" channel="Chelsea TV">
+    <title lang="en">Big Match Preview (?)</title>
+    <desc lang="en">Big Match Preview 17/08 A look ahead to the next big match for the Blues(n)</desc>
+  </programme>
+  <programme start="20180818024500 +0100" stop="20180818030000 +0100" channel="Chelsea TV">
+    <title lang="en">Manager's Press Conference (?)</title>
+    <desc lang="en">Manager's Press Conference 17/08 Maurizio Sarri holds a press conference to update on the latest news at the Bridge(n)</desc>
+  </programme>
+  <programme start="20180818030000 +0100" stop="20180818031500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Burnley v Chelsea - Prem 14/15: Burnley v Chelsea - Prem 14/15 Chelsea travel to Turf Moor to take on Burnley in the Barclays Premier League(n)</desc>
+  </programme>
+  <programme start="20180818031500 +0100" stop="20180818033000 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180818033000 +0100" stop="20180818040000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Premier League Years 94/95 &amp; 95/96 A look back at the 1994/95 and the 1995/96 seasons(n)</desc>
+  </programme>
+  <programme start="20180818040000 +0100" stop="20180818060000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Burnley v Chelsea - Prem 14/15: Burnley v Chelsea - Prem 14/15 Chelsea travel to Turf Moor to take on Burnley in the Barclays Premier League(n)</desc>
+  </programme>
+  <programme start="20180818060000 +0100" stop="20180818061500 +0100" channel="Chelsea TV">
+    <title lang="en">Manager's Press Conference (?)</title>
+    <desc lang="en">Manager's Press Conference 17/08 Maurizio Sarri holds a press conference to update on the latest news at the Bridge(n)</desc>
+  </programme>
+  <programme start="20180818061500 +0100" stop="20180818063000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180818063000 +0100" stop="20180818070000 +0100" channel="Chelsea TV">
+    <title lang="en">Inside Chelsea (?)</title>
+    <desc lang="en">Inside Chelsea Wc 13/08 Take a behind-the-scenes look inside the workings of Chelsea FC(n)</desc>
+  </programme>
+  <programme start="20180818070000 +0100" stop="20180818071500 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180818071500 +0100" stop="20180818073000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins) (?)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+  </programme>
+  <programme start="20180818073000 +0100" stop="20180818074500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Hull - Prem 13/14: Chelsea v Hull - Prem 13/14 Chelsea welcome newly-promoted Hull City to Stamford Bridge for this Barclays Premier League clash(n)</desc>
+  </programme>
+  <programme start="20180818074500 +0100" stop="20180818080000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Burnley v Chelsea - Prem 14/15: Burnley v Chelsea - Prem 14/15 Chelsea travel to Turf Moor to take on Burnley in the Barclays Premier League(n)</desc>
+  </programme>
+  <programme start="20180818080000 +0100" stop="20180818100000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 13/14: Chelsea v Arsenal - Prem 13/14 Chelsea welcome Arsenal to Stamford Bridge for this Barclays Premier League clash(n)</desc>
+  </programme>
+  <programme start="20180818100000 +0100" stop="20180818120000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180818120000 +0100" stop="20180818121500 +0100" channel="Chelsea TV">
+    <title lang="en">Manager's Press Conference (?)</title>
+    <desc lang="en">Manager's Press Conference 17/08 Maurizio Sarri holds a press conference to update on the latest news at the Bridge(n)</desc>
+  </programme>
+  <programme start="20180818121500 +0100" stop="20180818123000 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180818123000 +0100" stop="20180818124500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+  </programme>
+  <programme start="20180818124500 +0100" stop="20180818130000 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins) (?)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+  </programme>
+  <programme start="20180818130000 +0100" stop="20180818133000 +0100" channel="Chelsea TV">
+    <title lang="en">Inside Chelsea (?)</title>
+    <desc lang="en">Inside Chelsea Wc 13/08 Take a behind-the-scenes look inside the workings of Chelsea FC(n)</desc>
+  </programme>
+  <programme start="20180818133000 +0100" stop="20180818134500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 17/18: Huddersfield v Chelsea - Prem 17/18 Chelsea travel to John Smith's Stadium to meet Premier League new boys Huddersfield Town(n)</desc>
+  </programme>
+  <programme start="20180818134500 +0100" stop="20180818140000 +0100" channel="Chelsea TV">
+    <title lang="en">Manager's Press Conference (?)</title>
+    <desc lang="en">Manager's Press Conference 17/08 Maurizio Sarri holds a press conference to update on the latest news at the Bridge(n)</desc>
+  </programme>
+  <programme start="20180818140000 +0100" stop="20180818143000 +0100" channel="Chelsea TV">
+    <title lang="en">Retro Blues (?)</title>
+    <desc lang="en">Retro Blues v Arsenal - The 70s(n)</desc>
+    <episode-num>A look back at the 1970/71 season as Chelsea welcome London rivals Arsenal to Stamford Bridge   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180818143000 +0100" stop="20180818144500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Burnley v Chelsea - Prem 14/15: Burnley v Chelsea - Prem 14/15 Chelsea travel to Turf Moor to take on Burnley in the Barclays Premier League(n)</desc>
+  </programme>
+  <programme start="20180818144500 +0100" stop="20180818150000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Arsenal - Prem 13/14: Chelsea v Arsenal - Prem 13/14 Chelsea welcome Arsenal to Stamford Bridge for this Barclays Premier League clash(n)</desc>
+  </programme>
+  <programme start="20180818150000 +0100" stop="20180818153000 +0100" channel="Chelsea TV">
+    <title lang="en">Inside Chelsea (?)</title>
+    <desc lang="en">Inside Chelsea Wc 13/08 Take a behind-the-scenes look inside the workings of Chelsea FC(n)</desc>
+  </programme>
+  <programme start="20180818153000 +0100" stop="20180818154500 +0100" channel="Chelsea TV">
+    <title lang="en">Chelsea v Arsenal - ICC 18/19 (15 mins) (?)</title>
+    <desc lang="en">Chelsea take on rivals Arsenal at the Aviva Stadium in the International Champions Cup(n)</desc>
+  </programme>
+  <programme start="20180818154500 +0100" stop="20180818160000 +0100" channel="Chelsea TV">
+    <title lang="en">Rewind (?)</title>
+    <desc lang="en">Rewind - Arsenal A look at recent meetings between Chelsea and Arsenal at Stamford Bridge(n)</desc>
+  </programme>
+  <programme start="20180818160000 +0100" stop="20180818161500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+  </programme>
+  <programme start="20180818161500 +0100" stop="20180818163000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180818163000 +0100" stop="20180818164500 +0100" channel="Chelsea TV">
+    <title lang="en">Live Pre Match At The Bridge (?)</title>
+    <desc lang="en">Pre Match At The Bridge 18/19 18/08 Pt1 Pre-match analysis from the Bridge as Chelsea prepare to take on Arsenal(n)</desc>
+  </programme>
+  <programme start="20180818164500 +0100" stop="20180818170000 +0100" channel="Chelsea TV">
+    <title lang="en">Manager's Press Conference (?)</title>
+    <desc lang="en">Manager's Press Conference 17/08 Maurizio Sarri holds a press conference to update on the latest news at the Bridge(n)</desc>
+  </programme>
+  <programme start="20180818170000 +0100" stop="20180818173000 +0100" channel="Chelsea TV">
+    <title lang="en">Live Pre Match At The Bridge (?)</title>
+    <desc lang="en">Pre Match At The Bridge 18/19 18/08 Pt2 Pre-match analysis from the Bridge as Chelsea prepare to take on Arsenal(n)</desc>
+  </programme>
+  <programme start="20180818173000 +0100" stop="20180818181500 +0100" channel="Chelsea TV">
+    <title lang="en">Live Commentary (?)</title>
+    <desc lang="en">Live Commentary Chelsea V Arsenal Pt1 Live commentary as Chelsea meet Arsenal in the Premier League(n)</desc>
+  </programme>
+  <programme start="20180818181500 +0100" stop="20180818183000 +0100" channel="Chelsea TV">
+    <title lang="en">Half Time Update (?)</title>
+    <desc lang="en">Half Time Update 18/08 The half-time update as Chelsea meet Arsenal in the Premier League(n)</desc>
+  </programme>
+  <programme start="20180818183000 +0100" stop="20180818193000 +0100" channel="Chelsea TV">
+    <title lang="en">Live Commentary (?)</title>
+    <desc lang="en">Live Commentary Chelsea V Arsenal Pt2 Live commentary as Chelsea meet Arsenal in the Premier League(n)</desc>
+  </programme>
+  <programme start="20180818193000 +0100" stop="20180818194500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+  </programme>
+  <programme start="20180818194500 +0100" stop="20180818200000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180818200000 +0100" stop="20180818203000 +0100" channel="Chelsea TV">
+    <title lang="en">Live Extra Time At The Bridge (?)</title>
+    <desc lang="en">Extra Time At The Bridge 18/19 18/08 Extra-time from the Bridge following Chelsea's Premier League clash against Arsenal(n)</desc>
+  </programme>
+  <programme start="20180818203000 +0100" stop="20180818204500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Burnley v Chelsea - Prem 14/15: Burnley v Chelsea - Prem 14/15 Chelsea travel to Turf Moor to take on Burnley in the Barclays Premier League(n)</desc>
+  </programme>
+  <programme start="20180818204500 +0100" stop="20180818210000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Newcastle - Prem 14/15: Chelsea v Newcastle - Prem 14/15 Chelsea play host to Newcastle United at Stamford Bridge in the Barclays Premier League(n)</desc>
+  </programme>
+  <programme start="20180818210000 +0100" stop="20180818211500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+  </programme>
+  <programme start="20180818211500 +0100" stop="20180818213000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180818213000 +0100" stop="20180818220000 +0100" channel="Chelsea TV">
+    <title lang="en">Extra Time At The Bridge (?)</title>
+    <desc lang="en">Extra Time At The Bridge 18/19 18/08 Extra-time from the Bridge following Chelsea's Premier League clash against Arsenal(n)</desc>
+  </programme>
+  <programme start="20180818220000 +0100" stop="20180818221500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Burnley v Chelsea - Prem 14/15: Burnley v Chelsea - Prem 14/15 Chelsea travel to Turf Moor to take on Burnley in the Barclays Premier League(n)</desc>
+  </programme>
+  <programme start="20180818221500 +0100" stop="20180818223000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Newcastle - Prem 14/15: Chelsea v Newcastle - Prem 14/15 Chelsea play host to Newcastle United at Stamford Bridge in the Barclays Premier League(n)</desc>
+  </programme>
+  <programme start="20180818223000 +0100" stop="20180818230000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Premier League Years 94/95 &amp; 95/96 A look back at the 1994/95 and the 1995/96 seasons(n)</desc>
+  </programme>
+  <programme start="20180818230000 +0100" stop="20180818233000 +0100" channel="Chelsea TV">
+    <title lang="en">Extra Time At The Bridge (?)</title>
+    <desc lang="en">Extra Time At The Bridge 18/19 18/08 Extra-time from the Bridge following Chelsea's Premier League clash against Arsenal(n)</desc>
+  </programme>
+  <programme start="20180818233000 +0100" stop="20180818234500 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Chelsea v Man City - C Shield 18/19: Chelsea v Man City - C Shield 18/19 Chelsea look to claim some silverware as they face Man City at Wembley in the Community Shield(n)</desc>
+  </programme>
+  <programme start="20180818234500 +0100" stop="20180819000000 +0100" channel="Chelsea TV">
+    <title lang="en">Premier League Years (?)</title>
+    <desc lang="en">Huddersfield v Chelsea - Prem 18/19: Huddersfield v Chelsea - Prem 18/19(n)</desc>
+    <episode-num>Chelsea begin their 2018-2019 Premier League season as they travel to John Smith's Stadium to take on Huddersfield   
+                            &lt;div class="other"&gt;</episode-num>
   </programme>
   <programme start="20180813070000 +0100" stop="20180813080000 +0100" channel="MUTV">
     <title lang="en">MUDSA: We Are United</title>
