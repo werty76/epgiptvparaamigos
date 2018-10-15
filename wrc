@@ -84,13 +84,13 @@ https://rbmn-live.akamaized.net/hls/live/590971/180311WRCmexDay2Pri/master_6660.
 https://rbmn-live.akamaized.net/hls/live/590971/180312WRCmexDay3Pri/master_6660.m3u8
  
  
-#EXTINF:-1 tvg-logo="https://goo.gl/zrfnRp" tvg-id="live" group-title="RALLY WRC",Sweden Day 1
+#EXTINF:-1 tvg-logo="https://goo.gl/Qn148y" tvg-id="live" group-title="RALLY WRC",Sweden Day 1
 https://rbmn-live.akamaized.net/hls/live/590971/181602WRCswedDay1Pri/master_3360.m3u8
  
-#EXTINF:-1 tvg-logo="https://goo.gl/zrfnRp" tvg-id="live" group-title="RALLY WRC",Sweden Day 2
+#EXTINF:-1 tvg-logo="https://goo.gl/Qn148y" tvg-id="live" group-title="RALLY WRC",Sweden Day 2
 https://rbmn-live.akamaized.net/hls/live/590971/181603WRCswedDay2Pri/master_6660.m3u8
  
-#EXTINF:-1 tvg-logo="https://goo.gl/zrfnRp" tvg-id="live" group-title="RALLY WRC",Sweden Day 3
+#EXTINF:-1 tvg-logo="https://goo.gl/Qn148y" tvg-id="live" group-title="RALLY WRC",Sweden Day 3
 https://rbmn-live.akamaized.net/hls/live/590971/181604WRCswedDay3Pri/master_6660.m3u8
  
 #EXTINF:-1 tvg-logo="https://goo.gl/DvavMC" tvg-id="live" group-title="RALLY WRC", Monte Carlo Day 1
