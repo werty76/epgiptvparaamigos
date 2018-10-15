@@ -1,0 +1,193 @@
+
+https://goo.gl/2qU2eD
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="→→→DESPORTO←←←" tvg-logo="https://goo.gl/v4awWU" group-title="DESPORTO",[B][COLOR red] →→→DESPORTO←←← [/COLOR][/B]
+https://goo.gl/DRA3tQ
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://myappstuga.briareus.feralhosting.com/sporttv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/10.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/fRs3Gv" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1 HD LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6101.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/fRs3Gv" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6100.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/J2Bd2g" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6099.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/J2Bd2g" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/11.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/QA9YEC" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2 HD LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6097.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/QA9YEC" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6098.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/iH8Xak" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://myappstuga.briareus.feralhosting.com/sporttv3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/iH8Xak" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6094.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/QczUtQ" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6093.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/gCqjLb" tvg-id="sport tv 4" group-title="DESPORTO",SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6091.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/gCqjLb" tvg-id="sport tv 4" group-title="DESPORTO",SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6092.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/vepDTR" tvg-id="sport tv 4" group-title="DESPORTO",SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6090.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/oBBMJS" tvg-id="sport tv 5" group-title="DESPORTO",SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6087.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/oBBMJS" tvg-id="sport tv 5" group-title="DESPORTO",SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6088.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/RSwEqb" tvg-id="sport tv 5" group-title="DESPORTO",SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6086.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Xvisxe" tvg-id="SPORT TV 4K UHD" group-title="DESPORTO",SPORT TV 4k UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/18962.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/95obMT" tvg-id="BTV" group-title="DESPORTO",BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://myappstuga.briareus.feralhosting.com/benfica/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/95obMT" tvg-id="BTV" group-title="DESPORTO",BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/2.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Vrnp9D" tvg-id="BTV" group-title="DESPORTO",BTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/3308.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Vrnp9D" tvg-id="BTV" group-title="DESPORTO",BTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/5541.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/27.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.34.237.218:8000/live/isac1/1/1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7074.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 1 FHD
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.34.237.218:8000/live/isac1/1/2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7061.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7073.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.34.237.218:8000/live/isac1/1/3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7066.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 4
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7071.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 5
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7070.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 6
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/7069.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/JUMuV6" tvg-id="A BOLA TV" group-title="DESPORTO",A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/5540.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/JUMuV6" tvg-id="A BOLA TV" group-title="DESPORTO",A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6075.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/hjN1iC" tvg-id="PFC" group-title="DESPORTO",PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/3248.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/hjN1iC" tvg-id="PFC" group-title="DESPORTO",PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6017.m3u8
+ 
+#EXTINF:-1 tvg-id="Red Bull Tv" tvg-name="RedBull TV" tvg-logo="https://goo.gl/ANCsj5" group-title="DESPORTO",RedBull TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_fb_6660.m3u8
+ 
+#EXTINF:-1 tvg-id="AutomotoTV" tvg-name="Automoto TV" tvg-logo="https://goo.gl/J8sHFa" group-title="DESPORTO",Automoto TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/p12xZo" tvg-id="RMTV" group-title="DESPORTO",Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Tu9RqU" group-title="DESPORTO",Barça TV
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/A4hbfh" group-title="DESPORTO",Chelsea TV
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Dbhzzm" group-title="DESPORTO",MUTV
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/xM6QdL" tvg-id=" group-title="DESPORTO",Movistar Fútbol
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/kz31dC" tvg-id=" group-title="DESPORTO",Bein LaLiga
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/j4qrPu" tvg-id=" group-title="DESPORTO",beIN SPORTS
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/uHEgP6" tvg-id=" group-title="DESPORTO",Movistar Deportes 1
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/69ttnw" tvg-id=" group-title="DESPORTO",Movistar Deportes 2
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/sAzDqk" tvg-id=" group-title="DESPORTO",Movistar Fórmula 1
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/G2eqsT" tvg-id=" group-title="DESPORTO",Movistar Moto GP
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="→→→CAÇA E PESCA←←←" tvg-logo="https://goo.gl/WhwtJb" group-title="CAÇA E PESCA",→→→CAÇA E PESCA←←←
+https://goo.gl/WhwtJb
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Vhxqp2" group-title="CAÇA E PESCA",Caça e Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/5543.ts
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Vhxqp2" group-title="CAÇA E PESCA",Caça e Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67184.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/MoJLcp" group-title="CAÇA E PESCA",Caçavision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/8FvsxL" group-title="CAÇA E PESCA",PESCA IT
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/8FvsxL" group-title="CAÇA E PESCA",PESCA  IT
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/8FvsxL" group-title="CAÇA E PESCA",CACCIA IT
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/gML9Hw" group-title="CAÇA E PESCA",CHASSE ET PÊCHE FR
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/gML9Hw" group-title="CAÇA E PESCA",CHASSE ET PÊCHE FR
