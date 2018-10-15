@@ -1,0 +1,51 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/34C5ic" group-title="RADIO",ELECTRONIC DANCE RADIO
+http://pollux.shoutca.st:8931/stream?1527883645998.mp3
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/oDjsfS" group-title="RADIO",CIDADE FM
+http://mcrscast.mcr.iol.pt/cidadefm
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/QzumzF" group-title="RADIO",MEGA HITS
+http://19573.live.streamtheworld.com/MEGA_HITS_SC
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/1koNU4" group-title="RADIO",Radio Nove3cinco
+http://centova.radios.pt:9522/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/eZy3qG" group-title="RADIO",NOVA ERA
+http://centova.radios.pt:9478/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/R2ThTD" group-title="RADIO",ORBITAL
+http://195.23.85.126:8401/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/vRqX8U" group-title="RADIO",RADIO COMERCIAL
+http://mcrscast.mcr.iol.pt/comercial.mp3
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/mhm8ny" group-title="RADIO",RADIO ONDA VIVA
+http://centova.radios.pt:9524/stream
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/uq5Ym5" group-title="RADIO",RFM
+http://19553.live.streamtheworld.com/RFM_SC
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/7cuinU" group-title="RADIO",RFM 80
+http://19553.live.streamtheworld.com/GR80SRFM_SC
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/BsUHpG" group-title="RADIO",RFM ON THE ROCK
+https://19993.live.streamtheworld.com/RFMONTHEROCKAAC.aac
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/UoSBMq" group-title="RADIO",RFM DANCEFLOOR
+https://19613.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/gwuYAg" group-title="RADIO",RFM OCEANO PACÍFICO
+https://19613.live.streamtheworld.com/OCEANPACIFICAAC.aac
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/TC8hL4" group-title="RADIO",DIGITAL FM
+http://digitalfm.dynu.com:8000/digitalfm64
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/JunjC2" group-title="RADIO",CIDADE HOJE
+http://centova.radios.pt:8119/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/mUW8nj" group-title="RADIO",RADIO JORNAL
+http://213.136.92.8:8006/;
