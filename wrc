@@ -1,0 +1,103 @@
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/dxyMCj" tvg-id="RALLY WRC",Rally GB DAY 1
+https://rbmn-live.akamaized.net/hls/live/590971/181005WrcUkDay1Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/dxyMCj" tvg-id="RALLY WRC",Rally GB DAY 2
+https://rbmn-live.akamaized.net/hls/live/590971/181006WrcUkDay2Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/dxyMCj" tvg-id="RALLY WRC",Rally GB DAY 3
+https://rbmn-live.akamaized.net/hls/live/590971/181007WrcUkDay3Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/rnJdLx" tvg-id="RALLY WRC",Turquia DAY 1
+https://rbmn-live.akamaized.net/hls/live/590971/180914WrcTurk1Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/rnJdLx" tvg-id="RALLY WRC",Turquia DAY 2
+https://rbmn-live.akamaized.net/hls/live/590971/180915WrcTurk2Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/rnJdLx" tvg-id="RALLY WRC",Turquia DAY 3
+https://rbmn-live.akamaized.net/hls/live/590971/180916WrcTurk3Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/6H6HAk" tvg-id="RALLY WRC",Alemanha Day 1
+https://rbmn-live.akamaized.net/hls/live/621746/180817WRC1Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/6H6HAk" tvg-id="RALLY WRC",Alemanha Day 2
+https://rbmn-live.akamaized.net/hls/live/621746/180818WRC2Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/6H6HAk" tvg-id="RALLY WRC",Alemanha Day 3
+https://rbmn-live.akamaized.net/hls/live/621746/180819WRC3Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/4n1NiY" tvg-id="RALLY WRC",Finlandia Day 1
+https://rbmn-live.akamaized.net/hls/live/590971/180727WrcRecap1Pri/master_3360.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/4n1NiY" tvg-id="RALLY WRC",Finlandia Day 2
+https://rbmn-live.akamaized.net/hls/live/590971/180728WrcRecap2Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/4n1NiY" tvg-id="RALLY WRC",Finlandia Day 3
+https://rbmn-live.akamaized.net/hls/live/590971/180729WrcRecap3Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Dr1gzv" tvg-id="RALLY WRC",Italia Sardenha Day 1
+https://rbmn-live.akamaized.net/hls/live/590971/180608WRCday1Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Dr1gzv" tvg-id="RALLY WRC",Italia Sardenha Day 2
+https://rbmn-live.akamaized.net/hls/live/590971/180609WRCday2Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/Dr1gzv" tvg-id="RALLY WRC",Italia Sardenha Day 3
+https://rbmn-live.akamaized.net/hls/live/590971/180610WRCday3Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/zWbbx4" tvg-id="RALLY WRC",Portugal Day 1
+https://rbmn-live.akamaized.net/hls/live/590971/180518WRCday1Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/zWbbx4" tvg-id="RALLY WRC",Portugal Day 2
+https://rbmn-live.akamaized.net/hls/live/590971/180519WRCday2Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/zWbbx4" tvg-id="RALLY WRC",Portugal Day 3
+https://rbmn-live.akamaized.net/hls/live/590971/180520WRCday3Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/m3ZxQ8" tvg-id="RALLY WRC",Argentina Day 1
+https://rbmn-live.akamaized.net/hls/live/590971/180427ERCargDay1Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/m3ZxQ8" tvg-id="RALLY WRC",Argentina Day 2
+https://rbmn-live.akamaized.net/hls/live/590971/180428WRCargDay2Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/m3ZxQ8" tvg-id="RALLY WRC",Argentina Day 3
+https://rbmn-live.akamaized.net/hls/live/590971/180429WRCargDay3Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/FnigcD" tvg-id="RALLY WRC",Corsega Day 1
+https://rbmn-live.akamaized.net/hls/live/590971/180406ERCfraDay1Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/FnigcD" tvg-id="RALLY WRC",Corsega Day 2
+https://rbmn-live.akamaized.net/hls/live/594533/180407WRCfraRe01/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/FnigcD" tvg-id="RALLY WRC",Corsega Day 3
+https://rbmn-live.akamaized.net/hls/live/590971/180408WRCfraDay3Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DREk_ecW4AECyCT.jpg" tvg-id="RALLY WRC",Mexico Day 1
+https://rbmn-live.akamaized.net/hls/live/590971/180310WRCmexDay1Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DREk_ecW4AECyCT.jpg" tvg-id="RALLY WRC",Mexico Day 2
+https://rbmn-live.akamaized.net/hls/live/590971/180311WRCmexDay2Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DREk_ecW4AECyCT.jpg" tvg-id="RALLY WRC",Mexico Day 3
+https://rbmn-live.akamaized.net/hls/live/590971/180312WRCmexDay3Pri/master_6660.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/zrfnRp" tvg-id="live" group-title="RALLY WRC",Sweden Day 1
+https://rbmn-live.akamaized.net/hls/live/590971/181602WRCswedDay1Pri/master_3360.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/zrfnRp" tvg-id="live" group-title="RALLY WRC",Sweden Day 2
+https://rbmn-live.akamaized.net/hls/live/590971/181603WRCswedDay2Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/zrfnRp" tvg-id="live" group-title="RALLY WRC",Sweden Day 3
+https://rbmn-live.akamaized.net/hls/live/590971/181604WRCswedDay3Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/DvavMC" tvg-id="live" group-title="RALLY WRC", Monte Carlo Day 1
+https://rbmh-msl41-test.akamaized.net/hls/live/590971/180126WrcRecapDay01Pri/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/DvavMC" tvg-id="live" group-title="RALLY WRC", Monte Carlo Day 2
+https://rbmh-msl41-test.akamaized.net/hls/live/590971/180126WrcRecapDay02Pri/master_3360.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/DvavMC" tvg-id="live" group-title="RALLY WRC", Monte Carlo Day 3
+https://rbmh-msl41-test.akamaized.net/hls/live/590971/180126WrcRecapDay03Pri/master_3360.m3u8
