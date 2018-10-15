@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/6JErTm" tvg-id="TVC 1" group-title="FILMES E SERIES",TVC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://myappstuga.briareus.feralhosting.com/tvcine1/playlist.ts
+http://myappstuga.briareus.feralhosting.com/tvcine1/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://goo.gl/6JErTm" tvg-id="TVC 1" group-title="FILMES E SERIES",TVC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/15796.ts
