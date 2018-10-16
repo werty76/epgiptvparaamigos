@@ -5,7 +5,9 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="→→→LIVE←←←" tvg-logo="https://goo.gl/qRA9YF" group-title="LIVE",[B][COLOR red] →→→LIVE←←← [/COLOR][/B]
 https://goo.gl/2qU2eD
-
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",LIVE
+https://www.youtube.com/watch?v=NiJAJGVRlEY&feature=youtu.be
  
 #EXTINF:-1 tvg-id="" tvg-name="→→→DESPORTO←←←" tvg-logo="https://goo.gl/v4awWU" group-title="DESPORTO",[B][COLOR red] →→→DESPORTO←←← [/COLOR][/B]
 https://goo.gl/DRA3tQ
