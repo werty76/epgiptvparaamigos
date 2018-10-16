@@ -4,32 +4,56 @@
 
 #EXTINF:-1 tvg-logo="https://goo.gl/6JErTm" tvg-id="TVC 1" group-title="FILMES E SERIES",TVC 1
 http://myappstuga.briareus.feralhosting.com/tvcine1/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/6JErTm" tvg-id="TVC 1" group-title="FILMES E SERIES",TVC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/3981.ts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/6JErTm" tvg-id="TVC 1" group-title="FILMES E SERIES",TVC 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/15796.ts
  
 #EXTINF:-1 tvg-logo="https://goo.gl/e3xagu" tvg-id="TVC 1" group-title="FILMES E SERIES",TVC 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/15.ts
- 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/e3xagu" tvg-id="TVC 1" group-title="FILMES E SERIES",TVC 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2323.ts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/3CaoaQ" tvg-id="TVC 2" group-title="FILMES E SERIES",TVC 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/15797.ts
- 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/3CaoaQ" tvg-id="TVC 2" group-title="FILMES E SERIES",TVC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/703.ts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/oBZkWF" tvg-id="TVC 2" group-title="FILMES E SERIES",TVC 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/16.ts
- 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/oBZkWF" tvg-id="TVC 2" group-title="FILMES E SERIES",TVC 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2322.ts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/ChkWtH" tvg-id="TVC 3" group-title="FILMES E SERIES",TVC 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/15798.ts
- 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ChkWtH" tvg-id="TVC 3" group-title="FILMES E SERIES",TVC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/702.ts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/ywEMw4" tvg-id="TVC 3" group-title="FILMES E SERIES",TVC 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/17.ts
- 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ywEMw4" tvg-id="TVC 3" group-title="FILMES E SERIES",TVC 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2321.ts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Yuwrua" tvg-id="TVCine4" group-title="FILMES E SERIES",TVC 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/15799.ts
- 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Yuwrua" tvg-id="TVCine4" group-title="FILMES E SERIES",TVC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/770.ts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/xRjQHG" tvg-id="TVC 4" group-title="FILMES E SERIES",TVC 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/18.ts
- 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/xRjQHG" tvg-id="TVC 4" group-title="FILMES E SERIES",TVC 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2320.ts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/yWVGoX" tvg-id="TVSeries" group-title="FILMES E SERIES",TVSERIES
- 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/3087.ts 
  
 #EXTINF:-1 tvg-logo="https://goo.gl/WYVq2U" tvg-id="TVSeries" group-title="FILMES E SERIES",TVSERIES HD
