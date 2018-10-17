@@ -12,49 +12,49 @@ https://goo.gl/2qU2eD
 https://goo.gl/DRA3tQ
  
 #EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
-http://myappstuga.briareus.feralhosting.com/sporttv1/playlist.m3u8
+http://myappstuga.briareus.feralhosting.com/sporttv1/playlist.m3u8 ? IPTV PARA AMIGOS
 
 #EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/704.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/704.ts ? IPTV PARA AMIGOS
  
 #EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/10.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/10.ts ? IPTV PARA AMIGOS
  
 #EXTINF:-1 tvg-logo="https://goo.gl/fRs3Gv" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1 HD LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6101.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6101.m3u8 ? IPTV PARA AMIGOS
  
 #EXTINF:-1 tvg-logo="https://goo.gl/fRs3Gv" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6100.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6100.m3u8 ? IPTV PARA AMIGOS
 
 #EXTINF:-1 tvg-logo="https://goo.gl/fRs3Gv" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2302.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2302.ts ? IPTV PARA AMIGOS
 
 #EXTINF:-1 tvg-logo="https://goo.gl/J2Bd2g" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6099.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6099.ts ? IPTV PARA AMIGOS
  
 #EXTINF:-1 tvg-logo="https://goo.gl/J2Bd2g" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/10069.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/10069.ts ? IPTV PARA AMIGOS
 
 #EXTINF:-1 tvg-logo="https://goo.gl/J2Bd2g" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/11.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/11.ts ? IPTV PARA AMIGOS
  
 #EXTINF:-1 tvg-logo="https://goo.gl/QA9YEC" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2 HD LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6097.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6097.ts ? IPTV PARA AMIGOS
  
 #EXTINF:-1 tvg-logo="https://goo.gl/QA9YEC" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6098.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6098.ts ? IPTV PARA AMIGOS
 
 #EXTINF:-1 tvg-logo="https://goo.gl/QA9YEC" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2301.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2301.ts ? IPTV PARA AMIGOS
 
 #EXTINF:-1 tvg-logo="https://goo.gl/iH8Xak" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3
-http://myappstuga.briareus.feralhosting.com/sporttv3/playlist.m3u8
+http://myappstuga.briareus.feralhosting.com/sporttv3/playlist.m3u8 ? IPTV PARA AMIGOS
 
 #EXTINF:-1 tvg-logo="https://goo.gl/iH8Xak" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/16056.ts 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/16056.ts ? IPTV PARA AMIGOS
  
 #EXTINF:-1 tvg-logo="https://goo.gl/iH8Xak" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6094.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6094.ts ? IPTV PARA AMIGOS
  
 #EXTINF:-1 tvg-logo="https://goo.gl/QczUtQ" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6093.ts
