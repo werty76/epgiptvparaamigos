@@ -15,8 +15,18 @@ https://goo.gl/DRA3tQ
 http://myappstuga.briareus.feralhosting.com/sporttv1/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportz.pw/fspt1.php$$lsname=SPORT TV 1
+
+#EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
+plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/5484.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
 plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/5293.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 
-plugin://plugin.video.f4mTester/?url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/704.ts;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
+plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/12720.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
 plugin://plugin.video.f4mTester/?url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/10.ts;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 
  
 #EXTINF:-1 tvg-logo="https://goo.gl/fRs3Gv" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1 HD LOW
