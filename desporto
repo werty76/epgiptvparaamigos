@@ -12,7 +12,7 @@ https://goo.gl/2qU2eD
 https://goo.gl/DRA3tQ
  
 #EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
-http://myappstuga.briareus.feralhosting.com/sporttv1/playlist.m3u8 iptvparamigos 
+http://myappstuga.briareus.feralhosting.com/sporttv1/playlist.m3u8;streamtype=HLSRETRY&amp;name=iptv para amigos
 
 #EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
 
