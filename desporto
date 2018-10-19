@@ -6,6 +6,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="→→→LIVE←←←" tvg-logo="https://goo.gl/qRA9YF" group-title="LIVE",[B][COLOR red] →→→LIVE←←← [/COLOR][/B]
 https://goo.gl/2qU2eD
  
+ #EXTINF:-1 tvg-logo="https://goo.gl/euKktX" tvg-id="LIVE" group-title="LIVE",VILA REAL VS PORTO
+ http://food2.somalia1.ml/vvv/zh464365Y/index.m3u8
 
  
 #EXTINF:-1 tvg-id="" tvg-name="→→→DESPORTO←←←" tvg-logo="https://goo.gl/v4awWU" group-title="DESPORTO",[B][COLOR red] →→→DESPORTO←←← [/COLOR][/B]
@@ -105,7 +107,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuratio
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2298.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Xvisxe" tvg-id="SPORT TV 4K UHD" group-title="DESPORTO",SPORT TV 4k UHD
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tvgold.top:25461/live/bernardino/bernardino/5487.m3u8
  
 #EXTINF:-1 tvg-logo="https://goo.gl/95obMT" tvg-id="BTV" group-title="DESPORTO",BTV
 http://myappstuga.briareus.feralhosting.com/benfica/playlist.m3u8
