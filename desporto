@@ -17,7 +17,10 @@ https://goo.gl/DRA3tQ
 http://myappstuga.briareus.feralhosting.com/sporttv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
+http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/10.ts
 
+#EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/8469.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
 plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/5484.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 
@@ -27,84 +30,99 @@ plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/ber
 
 #EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
 plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/12720.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/V9pT6q" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1
-plugin://plugin.video.f4mTester/?url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/10.ts;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 
  
 #EXTINF:-1 tvg-logo="https://goo.gl/fRs3Gv" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1 HD LOW
-plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/farouk/12345/880.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 HD LOW [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 HD LOW
+plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7758.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 HD LOW [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 HD LOW
  
 #EXTINF:-1 tvg-logo="https://goo.gl/fRs3Gv" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6100.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 HD[COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 HD 
+plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/5392.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 HD[COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 HD 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/fRs3Gv" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2302.ts;streamtype=HLSRETRY&amp;name=SPORT TV 1 HD [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/5400.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 HD [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 HD
+
+#EXTINF:-1 tvg-logo="https://goo.gl/fRs3Gv" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/5295.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 FHD [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 FHD
+
+#EXTINF:-1 tvg-logo="https://goo.gl/fRs3Gv" tvg-id="sport tv 1" group-title="DESPORTO",SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/5403.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 FHD [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 1 FHD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/J2Bd2g" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2
-plugin://plugin.video.f4mTester/?url=http://212.8.248.213:8080/live/farouk/12345/881.m3u8&amp;streamtype=TSDOWNLOADER  
+plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/8470.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 2 [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 2
 
 #EXTINF:-1 tvg-logo="https://goo.gl/J2Bd2g" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2
 plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportsonline.pw/channels/pt/sporttv2.html=001$$lsname=SPORT TV 2
 
 #EXTINF:-1 tvg-logo="https://goo.gl/J2Bd2g" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2
-plugin://plugin.video.f4mTester/?url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/10069.ts&amp;streamtype=TSDOWNLOADER  
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportzonline.xyz/channels/pt/sporttv2.html=001$$lsname=SPORT TV 2
 
 #EXTINF:-1 tvg-logo="https://goo.gl/J2Bd2g" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2
-plugin://plugin.video.f4mTester/?url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/11.ts&amp;streamtype=TSDOWNLOADER  
+plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/353.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 2 [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 2 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/J2Bd2g" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2
+http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/11.ts
  
 #EXTINF:-1 tvg-logo="https://goo.gl/QA9YEC" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2 HD LOW
-plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6097.ts&amp;streamtype=TSDOWNLOADER  
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8080/live/Jorge/123456/881.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 2 HD LOW [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 2 HD LOW
  
 #EXTINF:-1 tvg-logo="https://goo.gl/QA9YEC" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6098.ts&amp;streamtype=TSDOWNLOADER  
+plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7746.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 2 HD  [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 2 HD 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/QA9YEC" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2301.ts&amp;streamtype=TSDOWNLOADER  
+plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/352.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 2 HD  [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 2 HD  
+
+#EXTINF:-1 tvg-logo="https://goo.gl/QA9YEC" tvg-id="sport tv 2" group-title="DESPORTO",SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/351.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 2 FHD  [COLOR deepskyblue](iptvparamigos)[/COLOR]$$lsname=SPORT TV 2 FHD  
 
 #EXTINF:-1 tvg-logo="https://goo.gl/iH8Xak" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3
 http://myappstuga.briareus.feralhosting.com/sporttv3/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/iH8Xak" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3
-plugin://plugin.video.f4mTester/?url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/16056.ts 
+plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/350.m3u8
  
 #EXTINF:-1 tvg-logo="https://goo.gl/iH8Xak" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.8.248.213:8080/live/farouk/12345/882.m3u8 
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/QczUtQ" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6093.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/8471.m3u8 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/iH8Xak" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ipsatpro.com:8080/live/Jorge/123456/882.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/QczUtQ" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2300.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7757.m3u8 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/QczUtQ" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tvgold.top:25461/live/bernardino/bernardino/5296.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/QczUtQ" tvg-id="sport tv 3" group-title="DESPORTO",SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tvgold.top:25461/live/bernardino/bernardino/5297.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/gCqjLb" tvg-id="sport tv 4" group-title="DESPORTO",SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.8.248.213:8080/live/farouk/12345/883.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tvgold.top:25461/live/bernardino/bernardino/5407.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/gCqjLb" tvg-id="sport tv 4" group-title="DESPORTO",SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/16059.ts
-
-#EXTINF:-1 tvg-logo="https://goo.gl/gCqjLb" tvg-id="sport tv 4" group-title="DESPORTO",SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6092.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ipsatpro.com:8080/live/Jorge/123456/883.m3u8
  
 #EXTINF:-1 tvg-logo="https://goo.gl/vepDTR" tvg-id="sport tv 4" group-title="DESPORTO",SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6090.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7756.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vepDTR" tvg-id="sport tv 4" group-title="DESPORTO",SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2299.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tvgold.top:25461/live/bernardino/bernardino/5408.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/vepDTR" tvg-id="sport tv 4" group-title="DESPORTO",SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://190.2.141.14:25461/live/bernardino/bernardino/5410.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/oBBMJS" tvg-id="sport tv 5" group-title="DESPORTO",SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6087.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tvgold.top:25461/live/bernardino/bernardino/344.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/oBBMJS" tvg-id="sport tv 5" group-title="DESPORTO",SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/16038.ts
-
-#EXTINF:-1 tvg-logo="https://goo.gl/oBBMJS" tvg-id="sport tv 5" group-title="DESPORTO",SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.8.248.213:8080/live/farouk/12345/884.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ipsatpro.com:8080/live/Jorge/123456/884.m3u8
  
 #EXTINF:-1 tvg-logo="https://goo.gl/RSwEqb" tvg-id="sport tv 5" group-title="DESPORTO",SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6086.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7745.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/RSwEqb" tvg-id="sport tv 5" group-title="DESPORTO",SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2298.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tvgold.top:25461/live/bernardino/bernardino/5405.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/RSwEqb" tvg-id="sport tv 5" group-title="DESPORTO",SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tvgold.top:25461/live/bernardino/bernardino/5406.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Xvisxe" tvg-id="SPORT TV 4K UHD" group-title="DESPORTO",SPORT TV 4k UHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tvgold.top:25461/live/bernardino/bernardino/5487.m3u8
@@ -113,22 +131,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://tvgold.top:2
 http://myappstuga.briareus.feralhosting.com/benfica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/95obMT" tvg-id="BTV" group-title="DESPORTO",BTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/33330.ts
-
-#EXTINF:-1 tvg-logo="https://goo.gl/95obMT" tvg-id="BTV" group-title="DESPORTO",BTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/33327.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://ipsatpro.com:8080/live/Jorge/123456/900.m3u8 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/95obMT" tvg-id="BTV" group-title="DESPORTO",BTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/2.ts
  
 #EXTINF:-1 tvg-logo="https://goo.gl/Vrnp9D" tvg-id="BTV" group-title="DESPORTO",BTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/3308.ts
-
-#EXTINF:-1 tvg-logo="https://goo.gl/Vrnp9D" tvg-id="BTV" group-title="DESPORTO",BTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.8.248.213:8080/live/farouk/12345/900.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/Vrnp9D" tvg-id="BTV" group-title="DESPORTO",BTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/5541.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7742.m3u8
  
 #EXTINF:-1 tvg-logo="https://goo.gl/sMFRwX" tvg-id="ELEVEN SPORTS" group-title="DESPORTO",ELEVEN SPORTS 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/27.ts
@@ -168,19 +177,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuratio
  
  
 #EXTINF:-1 tvg-logo="https://goo.gl/JUMuV6" tvg-id="A BOLA TV" group-title="DESPORTO",A BOLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/5540.ts
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/JUMuV6" tvg-id="A BOLA TV" group-title="DESPORTO",A BOLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6075.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/JUMuV6" tvg-id="A BOLA TV" group-title="DESPORTO",A BOLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2327.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/hjN1iC" tvg-id="PFC" group-title="DESPORTO",PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/3248.ts
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/hjN1iC" tvg-id="PFC" group-title="DESPORTO",PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://configuration.tn:8000/live/EJNxO8qyj4/u2kmhVzK6o/6017.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7764.m3u8
  
 #EXTINF:-1 tvg-id="Red Bull Tv" tvg-name="RedBull TV" tvg-logo="https://goo.gl/ANCsj5" group-title="DESPORTO",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_fb_6660.m3u8
@@ -191,23 +191,16 @@ http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/p12xZo" tvg-id="RMTV" group-title="DESPORTO",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="https://goo.gl/Tu9RqU" group-title="DESPORTO",Barça TV
+
  
-#EXTINF:-1 tvg-logo="https://goo.gl/A4hbfh" group-title="DESPORTO",Chelsea TV
- 
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/Dbhzzm" group-title="DESPORTO",MUTV
- 
+
  
  
 #EXTINF:-1 tvg-id="" tvg-name="→→→CAÇA E PESCA←←←" tvg-logo="https://goo.gl/WhwtJb" group-title="CAÇA E PESCA",→→→CAÇA E PESCA←←←
 https://goo.gl/WhwtJb
  
 #EXTINF:-1 tvg-logo="https://goo.gl/Vhxqp2" group-title="CAÇA E PESCA",Caça e Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://clientportal.link:80/live/qqGCp58p7Y/8Uhe3bt28l/5543.ts
- 
-#EXTINF:-1 tvg-logo="https://goo.gl/Vhxqp2" group-title="CAÇA E PESCA",Caça e Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67184.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7833.m3u8
  
 #EXTINF:-1 tvg-logo="https://goo.gl/MoJLcp" group-title="CAÇA E PESCA",Caçavision
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
