@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
-
-<LINK>http://myappstuga.briareus.feralhosting.com/sporttv1/playlist.m3u8</LINK>
-
-<link>plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/5484.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](IPTV PARA AMIGOS)[/COLOR]$$lsname=SPORT TV 1 (F4M source #01)</link>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 1[/B][/COLOR]</title><LINK>http://myappstuga.briareus.feralhosting.com/sporttv1/playlist.m3u8</LINK><link>plugin://plugin.video.f4mTester/?url=http://tvgold.top:25461/live/bernardino/bernardino/5484.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](IPTV PARA AMIGOS)[/COLOR]$$lsname=SPORT TV 1 (F4M source #01)</link>
 
 <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/8469.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](IPTV PARA AMIGOS)[/COLOR]$$lsname=SPORT TV 1 (F4M source #02)</link>
 
