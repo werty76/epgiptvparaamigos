@@ -81,6 +81,9 @@ http://formenx.com:8080/live/kizildag/k90VqzEJJd/16305.m3u8
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
 http://formenx.com:8080/live/kizildag/k90VqzEJJd/16304.m3u8
 
+#EXTINF:0 group-title="PT: Portugal",PT: BENFICA TV HD
+http://formenx.com:8080/live/kizildag/k90VqzEJJd/16301.m3u8
+
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1HD 
 http://formenx.com:8080/live/kizildag/k90VqzEJJd/16314.m3u8
 
@@ -99,7 +102,8 @@ http://formenx.com:8080/live/kizildag/k90VqzEJJd/16310.m3u8
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 6HD 
 http://formenx.com:8080/live/kizildag/k90VqzEJJd/16309.m3u8
 
-#EXTINF:0 group-title="PT: Portugal",A BOLA TV
+#EXTINF:0 group-title="PT: Portugal",PT: A BOLA TV 
+http://formenx.com:8080/live/kizildag/k90VqzEJJd/16302.m3u8
 
 
 #EXTINF:0 group-title="PT: Portugal",PFC
@@ -119,9 +123,13 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 #EXTINF:0 group-title="CAÇA E PESCA",→→→CAÇA E PESCA←←←
 https://192.168.1.1
- 
-#EXTINF:0 group-title="PT: Portugal",Caça e Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=
+
+#EXTINF:0 group-title="PT: Portugal",PT: CACA & PESCA 
+http://91.134.231.65:80/live/kaleem/kaleem123/69650.m3u8 
+
+#EXTINF:0 group-title="PT: Portugal",PT: A E PESCA 
+http://formenx.com:8080/live/kizildag/k90VqzEJJd/16256.m3u8
+
  
 #EXTINF:0 group-title="PT: Portugal",,Caçavision
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
