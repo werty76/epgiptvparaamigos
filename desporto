@@ -43,64 +43,65 @@ http://89.34.237.218:8000/live/isac1/1/2.m3u8
 http://89.34.237.218:8000/live/isac1/1/3.m3u8
  
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1
-http://162.218.64.203:83/live/super/star/256998.m3u8
+plugin://plugin.video.f4mTester/?url=http://162.218.64.203:83/live/super/star/256998.m3u8
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1
+plugin://plugin.video.f4mTester/?url=http://162.218.64.203:83/live/super/star/92570.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2
-http://162.218.64.203:83/live/super/star/92571.m3u8
+plugin://plugin.video.f4mTester/?url=http://162.218.64.203:83/live/super/star/92571.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2
-http://162.218.64.203:83/live/super/star/256999.m3u8
+plugin://plugin.video.f4mTester/?url=http://162.218.64.203:83/live/super/star/256999.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3
-http://162.218.64.203:83/live/super/star/92546.m3u8
+plugin://plugin.video.f4mTester/?url=http://162.218.64.203:83/live/super/star/92546.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3
-http://162.218.64.203:83/live/super/star/257000.m3u8
+plugin://plugin.video.f4mTester/?url=http://162.218.64.203:83/live/super/star/257000.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4
-http://162.218.64.203:83/live/super/star/92547.m3u8
+plugin://plugin.video.f4mTester/?url=http://162.218.64.203:83/live/super/star/92547.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4
-http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/1037.ts
+plugin://plugin.video.f4mTester/?url=http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/1037.ts
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5
-http://162.218.64.203:83/live/super/star/92549.m3u8
+plugin://plugin.video.f4mTester/?url=http://162.218.64.203:83/live/super/star/92549.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1HD 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16308.m3u8
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16308.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2HD 
-=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16307.m3u8
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16307.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3HD 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16306.m3u8
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16306.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16305.m3u8
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16305.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16304.m3u8
-
-#EXTINF:0 group-title="PT: Portugal",PT: BENFICA TV HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16301.m3u8
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16304.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1HD 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16314.m3u8
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16314.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 2HD 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16313.m3u8
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16313.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 3HD 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16312.m3u8
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16312.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 4HD 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16311.m3u8
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16311.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 5HD 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16310.m3u8
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16310.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 6HD 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16309.m3u8
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16309.m3u8
+
 
 #EXTINF:0 group-title="PT: Portugal",PT: A BOLA TV 
 http://formenx.com:8080/live/kizildag/k90VqzEJJd/16302.m3u8
