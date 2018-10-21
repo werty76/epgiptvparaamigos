@@ -103,8 +103,7 @@ plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90Vq
 plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16309.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 #EXTINF:0 group-title="PT: Portugal",PT: A BOLA TV 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16302.m3u8
-plugin://plugin.video.f4mTester/?url= ;streamtype=HLSRETRY&amp;name=iptvparamigos
+plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16302.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 #EXTINF:0 group-title="PT: Portugal",PFC
 plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos
@@ -121,7 +120,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 
  
 
-#EXTINF:0 group-title="CAÇA E PESCA",→→→CAÇA E PESCA←←←
+#EXTINF:0 group-title="CAÇA E PESCA",[B][COLOR green]→→→CAÇA E PESCA←←←[/COLOR][/B]
 https://192.168.1.1
 
 #EXTINF:0 group-title="PT: Portugal",PT: CACA & PESCA 
