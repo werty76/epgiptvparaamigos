@@ -28,7 +28,7 @@ http://myappstuga.briareus.feralhosting.com/sporttv3/playlist.m3u8
 http://myappstuga.briareus.feralhosting.com/benfica/playlist.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",BTV (iptvparamigos)
-http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/2.ts;name=iptvparamigos
+http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/2.ts
 
 #EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 1 (iptvparamigos)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/27.ts
