@@ -202,7 +202,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sporti.tv:65
 #EXTINF:-1 tvg-logo="https://goo.gl/MoJLcp" group-title="CAÇA E PESCA",Caçavision
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/mi5Auo" group-title="CAÇA E PESCA"FISH TV BR
+#EXTINF:-1 tvg-logo="https://goo.gl/mi5Auo" group-title="CAÇA E PESCA",FISH TV BR
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PeWtEuxVBvI
 
 #EXTINF:-1 tvg-logo="https://goo.gl/8FvsxL" group-title="CAÇA E PESCA",PESCA IT
