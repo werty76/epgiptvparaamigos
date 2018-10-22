@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Eleven Sports 2 [/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportzonline.xyz/channels/hd/hd2.html$$lsname=Eleven Sports 2 (SD source #01)</link>
+<thumbnail></thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sport tv 1 [/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportsonline.pw/channels/pt/sporttv1.html$$lsname=Sport tv 1 (SD source #02)</link>
+<thumbnail></thumbnail></item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] Sport tv 3 [/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportsonline.pw/channels/pt/sporttv3.html$$lsname=Sport tv 3 (SD source #03)</link>
+<thumbnail></thumbnail></item>
