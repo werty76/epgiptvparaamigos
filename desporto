@@ -113,29 +113,10 @@ plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90Vq
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
 plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16304.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1HD 
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16314.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 2HD 
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16313.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 3HD 
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16312.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 4HD 
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16311.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 5HD 
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16310.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 6HD 
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16309.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 #EXTINF:0 group-title="PT: Portugal",PT: A BOLA TV 
 plugin://plugin.video.f4mTester/?url=http://85.93.93.132:8000/live/caper/caper/4083.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
-#EXTINF:0 group-title="PT: Portugal",PFC
-plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos
  
 #EXTINF:0 group-title="PT: Portugal",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_fb_6660.m3u8
@@ -152,12 +133,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:0 group-title="CAÇA E PESCA",[B][COLOR green]→→→CAÇA E PESCA←←←[/COLOR][/B]
 https://192.168.1.1
 
-#EXTINF:0 group-title="PT: Portugal",PT: CACA & PESCA 
-plugin://plugin.video.f4mTester/?url=http://91.134.231.65:80/live/kaleem/kaleem123/69650.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
-#EXTINF:0 group-title="PT: Portugal",PT: A E PESCA 
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16256.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
- 
 #EXTINF:0 group-title="PT: Portugal",,Caçavision
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 
