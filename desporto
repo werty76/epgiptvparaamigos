@@ -42,8 +42,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.34.237.21
 #EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 3 (iptvparamigos)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.34.237.218:8000/live/isac1/1/3.m3u8
 
-#EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 1 LOW (iptvparamigos)
+#EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 1  (iptvparamigos)
 plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/4.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+
+#EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 2 (iptvparamigos)
+plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/5.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+
+#EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 3 (iptvparamigos)
+plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/6.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
 plugin://plugin.video.f4mTester/?url=http://134.19.181.172:8000/live/mm34/mm34/508.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
