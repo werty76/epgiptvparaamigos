@@ -98,20 +98,6 @@ plugin://plugin.video.f4mTester/?url=http://king365tv.homeip.net:2103/live/dareh
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5
 plugin://plugin.video.f4mTester/?url=http://162.218.64.203:83/live/super/star/92549.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1HD 
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16308.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2HD 
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16307.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3HD 
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16306.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16305.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?url=http://formenx.com:8080/live/kizildag/k90VqzEJJd/16304.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 
 #EXTINF:0 group-title="PT: Portugal",PT: A BOLA TV 
