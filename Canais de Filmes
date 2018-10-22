@@ -28,3 +28,12 @@ plugin://plugin.video.f4mTester/?url=http://pina7.ddns.net:7777/live/aplicacao/7
 
 #EXTINF:0 group-title="FILMES E SERIES",TVC 4 HD (iptvparamigos)
 plugin://plugin.video.f4mTester/?url=http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2320.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: TV CINE 1 HD
+plugin://plugin.video.f4mTester/?url=http://134.19.181.172:8000/live/mm34/mm34/503.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: TV CINE 2 
+plugin://plugin.video.f4mTester/?url=http://134.19.181.172:8000/live/mm34/mm34/502.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: TV CINE 3 
+plugin://plugin.video.f4mTester/?url=http://134.19.181.172:8000/live/mm34/mm34/501.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: TV CINE 4 HD
+plugin://plugin.video.f4mTester/?url=http://134.19.181.172:8000/live/mm34/mm34/500.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
