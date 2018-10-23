@@ -6,7 +6,19 @@
 #EXTINF:0 group-title="LIVE",[B][COLOR red] →→→LIVE←←← [/COLOR][/B]
 https://192.168.1.1
 
+#EXTINF:0 group-title="live",Ajax Amsterdam - SL Benfica 20:00
+https://015-49.sport365.tech:43911/ls/b379e1ef5b781758d9c27316896a4c489397206a7fc4cbf278d5238dfc9a83d7/1540308242/5bcec6da06688173073306/t53mlid2i20c79i92bfkdlbhn5/5bcf3d5301542/iindex.m3u8
+ 
+#EXTINF:0 group-title="live",Ajax Amsterdam - SL Benfica 20:00
+  
+  
+#EXTINF:0 group-title="live",Ajax Amsterdam - SL Benfica 20:00
+ 
+ 
+#EXTINF:0 group-title="live",Ajax Amsterdam - SL Benfica 20:00
 
+
+#EXTINF:0 group-title="live",Ajax Amsterdam - SL Benfica 20:00
 
 #EXTINF:0 group-title="DESPORTO",[B][COLOR green] →→→DESPORTO←←← [/COLOR][/B]
 https://192.168.1.1
