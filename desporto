@@ -114,11 +114,6 @@ plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/ima
 #EXTINF:0 group-title="PT: Portugal",,Caçavision
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 
-#EXTINF:0 group-title="CAÇA E PESCA",PESCA IT
-
- 
-#EXTINF:0 group-title="CAÇA E PESCA",PESCA IT
-
 
 #EXTINF:0 group-title="PT: Portugal",FISH TV BR
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OmUv1lzXhnw
