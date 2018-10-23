@@ -10,10 +10,10 @@ https://192.168.1.1
 http://cdn.whostreams.net:8080/hls/pst4nwvms.m3u8?s=5dfe8kEgI_sTvgsjsFOoAg&e=1540331358
 
 #EXTINF:0 group-title="live",Ajax Amsterdam - SL Benfica 20:00
-http://listaccess.me:8880/live/juli/12345/14649.m3u8
+plugin://plugin.video.f4mTester/?url=http://listaccess.me:8880/live/juli/12345/14649.m3u8
   
 #EXTINF:0 group-title="live",Ajax Amsterdam - SL Benfica 20:00
-http://85.93.93.132:8000/live/caper/caper/4093.m3u8 
+plugin://plugin.video.f4mTester/?url=http://85.93.93.132:8000/live/caper/caper/4093.m3u8 
  
 #EXTINF:0 group-title="live",Ajax Amsterdam - SL Benfica 20:00
 https://cdn11.pxstream.tv/hls2/spacehd/chunks.m3u8?md5=FV5xM9gBx3RIbaI5eNW9IQ&expires=1540353179
