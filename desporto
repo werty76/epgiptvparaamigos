@@ -68,18 +68,26 @@ plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/6.m3u
 #EXTINF:0 group-title="PT: Portugal",PT: BENFICA TV1 HD
 plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4449.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
-<item><title>PT: SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://134.19.181.172:8000/live/mm51/mm51/508.m3u8</link></item>
-<item><title>PT: SPORT TV 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1847.m3u8</link></item>
-<item><title>PT: SPORT TV 1 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3013.m3u8</link></item>
-<item><title>PT: SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1848.m3u8</link></item>
-<item><title>PT: SPORT TV 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3014.m3u8</link></item>
-<item><title>PT: SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1849.m3u8</link></item>
-<item><title>PT: SPORT TV 3 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3015.m3u8</link></item>
-<item><title>PT: SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1850.m3u8</link></item>
-<item><title>PT: SPORT TV 4 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3017.m3u8</link></item>
-<item><title>PT: SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3669.m3u8</link></item>
-
-
+#EXTINF:0 group-title="PT: Portugal",PT:: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://134.19.181.172:8000/live/mm51/mm51/508.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
+#EXTINF:0 group-title="PT: Portugal",PT:: SPORT TV 1 (1+) HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://neworldi#EXTINF:0 group-title="PT: Portugal",PT:v.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1847.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
+#EXTINF:0 group-title="PT: Portugal",PT:: SPORT TV 1 (2+) HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3013.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
+#EXTINF:0 group-title="PT: Portugal",PT:: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://neworldi#EXTINF:0 group-title="PT: Portugal",PT:v.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1848.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
+#EXTINF:0 group-title="PT: Portugal",PT:: SPORT TV 2 (1+) HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3014.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
+#EXTINF:0 group-title="PT: Portugal",PT:: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://neworldi#EXTINF:0 group-title="PT: Portugal",PT:v.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1849.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
+#EXTINF:0 group-title="PT: Portugal",PT:: SPORT TV 3 (1+) HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3015.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
+#EXTINF:0 group-title="PT: Portugal",PT:: SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://neworldi#EXTINF:0 group-title="PT: Portugal",PT:v.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1850.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
+#EXTINF:0 group-title="PT: Portugal",PT:: SPORT TV 4 (1+) HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3017.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
+#EXTINF:0 group-title="PT: Portugal",PT:: SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3669.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
 
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
