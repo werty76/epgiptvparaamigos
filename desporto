@@ -51,6 +51,10 @@ plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/5.m3u
 #EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 3 (iptvparamigos)
 plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/6.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
+#EXTINF:0 group-title="PT: Portugal",PT: BENFICA TV1 HD
+plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4449.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+
+
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
 plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3013.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 HD
@@ -83,8 +87,8 @@ plugin://plugin.video.f4mTester/?url=http://king365tv.homeip.net:2103/live/dareh
 plugin://plugin.video.f4mTester/?url=http://162.218.64.203:83/live/super/star/92549.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 
-
-#EXTINF:0 group-title="PT: Portugal",PT: A BOLA TV 
+#EXTINF:0 group-title="PT: Portugal",PT: PFC 
+plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6291.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 
  
@@ -102,6 +106,9 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 #EXTINF:0 group-title="CAÇA E PESCA",[B][COLOR green]→→→CAÇA E PESCA←←←[/COLOR][/B]
 https://192.168.1.1
+
+#EXTINF:0 group-title="PT: Portugal",PT: CACA E PESCA 
+plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6286.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 
 #EXTINF:0 group-title="PT: Portugal",,Caçavision
