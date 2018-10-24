@@ -86,17 +86,20 @@ plugin://plugin.video.f4mTester/?url=http://sam1.ghghsq.fun/hls/lsh2hd1/index.m3
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1
 plugin://plugin.video.f4mTester/?url=http://sam2.ghghsq.fun/hls/lsh2hd1/index.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1 
-plugin://plugin.video.f4mTester/?url=ttp://85.93.93.132:8000/live/caper/caper/4093.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/bassem3991/bassem3991/7074.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1 
+plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/bassem3991/bassem3991/7062.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?url=http://85.93.93.132:8000/live/caper/caper/4091.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+plugin://plugin.video.f4mTester/?url=http://listaccess.me:8880/live/juli/12345/14648.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/2.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?url=http://85.93.93.132:8000/live/caper/caper/4089.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/bassem3991/bassem3991/7066.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?url=http://85.93.93.132:8000/live/caper/caper/4088.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/bassem3991/bassem3991/7065.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?url=http://85.93.93.132:8000/live/caper/caper/4087.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 6HD 
-plugin://plugin.video.f4mTester/?url=http://85.93.93.132:8000/live/caper/caper/4086.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/bassem3991/bassem3991/7064.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+
 
 
 
