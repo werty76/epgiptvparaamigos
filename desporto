@@ -29,18 +29,6 @@ http://myappstuga.briareus.feralhosting.com/benfica/playlist.m3u8
 #EXTINF:0 group-title="PT: Portugal",BTV (iptvparamigos)
 http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/2.ts
 
-#EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 1 (iptvparamigos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://pina7.ddns.net:7777/live/aplicacao/7WeFt4ALRC/27.ts
- 
-#EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 1 (iptvparamigos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.34.237.218:8000/live/isac1/1/1.m3u8
- 
-#EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 2 (iptvparamigos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.34.237.218:8000/live/isac1/1/2.m3u8
-
-#EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 3 (iptvparamigos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.34.237.218:8000/live/isac1/1/3.m3u8
-
 #EXTINF:0 group-title="PT: Portugal",ELEVEN SPORTS 1  (iptvparamigos)
 plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/4.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
@@ -51,15 +39,6 @@ plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/5.m3u
 plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/6.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 #EXTINF:0 group-title="PT: Portugal",PT: BTV HD
-plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4449.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: BTV
-plugin://plugin.video.f4mTester/?url=http://85.93.93.132:8000/live/caper/caper/4072.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: BTV
-plugin://plugin.video.f4mTester/?url=http://85.93.93.132:8000/live/caper/caper/4071.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: BTV
 plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4449.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 
@@ -83,42 +62,23 @@ plugin://plugin.video.f4mTester/?url=http://85.93.93.132:8000/live/caper/caper/4
 
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1
 plugin://plugin.video.f4mTester/?url=http://sam1.ghghsq.fun/hls/lsh2hd1/index.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?url=http://sam2.ghghsq.fun/hls/lsh2hd1/index.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1 
-plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/bassem3991/bassem3991/7074.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1 
-plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/bassem3991/bassem3991/7062.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?url=http://listaccess.me:8880/live/juli/12345/14648.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 2
 plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/2.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/bassem3991/bassem3991/7066.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/bassem3991/bassem3991/7065.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/bassem3991/bassem3991/7064.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 
 
 
 
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (2+) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3013.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (1+) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3014.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (1+) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3015.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 (1+) HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3017.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
-
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3013.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3014.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3015.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3017.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3669.m3u8;streamtype=HLSRETRY&amp;name=i#EXTINF:0 group-title="PT: Portugal",PT:vparamigos
-
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3669.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
 plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3013.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
@@ -175,11 +135,6 @@ https://192.168.1.1
 #EXTINF:0 group-title="PT: Portugal",PT: CACA E PESCA 
 plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6286.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
-#EXTINF:0 group-title="PT: Portugal",PT: CACA E PESCA 
-plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6286.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: CACA E PESCA
-plugin://plugin.video.f4mTester/?url=http://85.93.93.132:8000/live/caper/caper/4058.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 #EXTINF:0 group-title="PT: Portugal",Caçavision
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
@@ -189,6 +144,9 @@ plugin://plugin.video.f4mTester/?url=http://iptvhosting.org.uk:83/live/LaurJ19xx
 
 #EXTINF:0 group-title="PT: Portugal",CHASSE & PÉCHE FR
 plugin://plugin.video.f4mTester/?url=http://iptvhosting.org.uk:83/live/LaurJ19xxx87/4345xc3w4r5a32xx/195528.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
+
+#EXTINF:0 group-title="PT: Portugal", FISHING NETWORK 
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",FISH TV BR
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OmUv1lzXhnw
