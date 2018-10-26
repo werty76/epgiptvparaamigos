@@ -6,6 +6,8 @@
 #EXTINF:0 group-title="LIVE",[B][COLOR red] →→→LIVE←←← [/COLOR][/B]
 https://192.168.1.1
 
+#EXTINF:0 group-title="live",GUIMARAES VS BRAGA 21:15
+https://015-49.sport365.tech:43911/ls/55c5c639bb0d1f3ec0a6e63d4185e08b76b88d759840b09a22909615e3e69acb/1540584482/5bd2c930e9b22067271310/etv31s007hnlavv2jnjefv8pr3/5bd374a9b08ea/index.m3u8
 
 #EXTINF:0 group-title="DESPORTO",[B][COLOR green] →→→DESPORTO←←← [/COLOR][/B]
 https://192.168.1.1
