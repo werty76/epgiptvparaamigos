@@ -39,7 +39,16 @@ plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/6.m3u
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 2
 plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/2.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
-
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/14.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/15.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/16.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/17.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/18.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
 
 
 #EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
