@@ -26,40 +26,19 @@
 <item><title>PT: SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9613.ts</link></item>
 <item><title>PT: SPORT TV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1362.ts</link></item>
  
-#EXTINF:0 group-title="PT: Portugal",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_fb_6660.m3u8
+<item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_fb_6660.m3u8</link></item>
+<item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
+<item><title> Real Madrid TV </title><link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/indx_1000_av-p.m3u8</link></item>
+
+
+<item><title> [B][COLOR green]→→→CAÇA E PESCA←←←[/COLOR][/B] </title><link>https://192.168.1.1</link></item>
+
+<item><title> CACA E PESCA OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><title> Caçavision </title><link>https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8</link></item>
+<item><title> PESCA IT OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><title> CHASSE & PÉCHE FR OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><title> FISHING NETWORK </title><link>http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8</link></item>
+<item><title> FISH TV BR </title><link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OmUv1lzXhnw</link></item>
  
-#EXTINF:0 group-title="PT: Portugal",Automoto TV
-http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8
- 
-#EXTINF:0 group-title="PT: Portugal",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
- 
 
- 
-
-#EXTINF:0 group-title="CAÇA E PESCA",[B][COLOR green]→→→CAÇA E PESCA←←←[/COLOR][/B]
-https://192.168.1.1
-
-#EXTINF:0 group-title="PT: Portugal",PT: CACA E PESCA 
-plugin://plugin.video.f4mTester/?url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/27.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: CACA E PESCA 
-plugin://plugin.video.f4mTester/?url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/1505.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-
-#EXTINF:0 group-title="PT: Portugal",Caçavision
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-
-#EXTINF:0 group-title="PT: Portugal", PESCA IT OFF
-plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",CHASSE & PÉCHE FR OFF
-plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal", FISHING NETWORK 
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-
-#EXTINF:0 group-title="PT: Portugal",FISH TV BR
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OmUv1lzXhnw
 
