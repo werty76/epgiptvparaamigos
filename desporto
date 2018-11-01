@@ -25,7 +25,13 @@
 <item><title>PT: SPORT TV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1363.ts</link></item>
 <item><title>PT: SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9613.ts</link></item>
 <item><title>PT: SPORT TV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1362.ts</link></item>
- 
+
+<item><title>PT: BENFICA TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9614.ts</link></item>
+<item><title>PT: BENFICA TV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/900.ts</link></item>
+<item><title>PT: BENFICA TV 1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30208.ts</link></item>
+<item><title>PT: ABOLA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/910.ts</link></item>
+<item><title>PT: A BOLA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9626.ts</link></item>
+
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_fb_6660.m3u8</link></item>
 <item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
 <item><title> Real Madrid TV </title><link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/indx_1000_av-p.m3u8</link></item>
@@ -33,7 +39,7 @@
 
 <item><title> [B][COLOR green]→→→CAÇA E PESCA←←←[/COLOR][/B] </title><link>https://192.168.1.1</link></item>
 
-<item><title> CACA E PESCA OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><title> CACA E PESCA  </title><link>plugin://plugin.video.f4mTester/?url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9630.ts;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
 <item><title> Caçavision </title><link>https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8</link></item>
 <item><title> PESCA IT OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
 <item><title> CHASSE & PÉCHE FR OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
