@@ -1,97 +1,438 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<item><title>PT: 100 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8</link></item>
-<item><title>PT: 24 KITCHEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3457.m3u8</link></item>
-<item><title>PT: A&E </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2562.m3u8</link></item>
-<item><title>PT: AMC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2564.m3u8</link></item>
-<item><title>PT: AXN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2566.m3u8</link></item>
-<item><title>PT: AXN BLACK HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2565.m3u8</link></item>
-<item><title>PT: AXN WHITE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2567.m3u8</link></item>
+<item><title>PT: 24 KITCHEN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42082.ts</link></item>
+<item><title>PT: 24 KITCHEN </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9573.ts</link></item>
+<item><title>PT: A BOLA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9626.ts</link></item>
+<item><title>PT: A E PESCA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9630.ts</link></item>
+<item><title>PT: A&E HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30104.ts</link></item>
+<item><title>PT: A&E </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9633.ts</link></item>
+<item><title>PT: ABOLA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/910.ts</link></item>
+<item><title>PT: AMAZON SAT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8</link></item>
+<item><title>PT: AMC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30102.ts</link></item>
+<item><title>PT: AMC (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30213.ts</link></item>
+<item><title>PT: AMC </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9632.ts</link></item>
+<item><title>PT: ANIMAL PLANET HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30101.ts</link></item>
+<item><title>PT: ANIMAL PLANET </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/2997.m3u8</link></item>
+<item><title>PT: APARECIDA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1446858289.m3u8</link></item>
+<item><title>PT: ARTE 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44826.ts</link></item>
+<item><title>PT: ARTV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9631.ts</link></item>
+<item><title>PT: ARTV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://193.126.16.68:1935/livenlin4/2liveartvpub/chunklist_w30591610.m3u8</link></item>
+<item><title>PT: AVISION </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9629.ts</link></item>
+<item><title>PT: AXN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/915.ts</link></item>
+<item><title>PT: AXN (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9604.ts</link></item>
+<item><title>PT: AXN (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30103.ts</link></item>
+<item><title>PT: AXN (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42080.ts</link></item>
+<item><title>PT: AXN (4+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44824.ts</link></item>
+<item><title>PT: AXN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/2998.m3u8</link></item>
+<item><title>PT: AXN (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44825.ts</link></item>
+<item><title>PT: AXN BLACK HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/932.ts</link></item>
+<item><title>PT: AXN BLACK (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9605.ts</link></item>
+<item><title>PT: AXN BLACK (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42081.ts</link></item>
+<item><title>PT: AXN WHITE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/916.ts</link></item>
+<item><title>PT: AXN WHITE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9603.ts</link></item>
+<item><title>PT: AXN WHITE (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42079.ts</link></item>
+<item><title>PT: BAND HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30098.ts</link></item>
+<item><title>PT: BAND SP </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44820.ts</link></item>
 <item><title>PT: BANDA MAX </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8</link></item>
-<item><title>PT: BIGGS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3463.m3u8</link></item>
-<item><title>PT: BTV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2573.m3u8</link></item>
-<item><title>PT: CACA E PESCA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2574.m3u8</link></item>
+<item><title>PT: BEIN BARAEM </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3012.ts</link></item>
+<item><title>PT: BENFICA TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9614.ts</link></item>
+<item><title>PT: BENFICA TV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/900.ts</link></item>
+<item><title>PT: BENFICA TV 1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30208.ts</link></item>
+<item><title>PT: BIGGS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9643.ts</link></item>
+<item><title>PT: BIS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30100.m3u8</link></item>
+<item><title>PT: BIS (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44817.ts</link></item>
+<item><title>PT: BLACK SEA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://live-blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8</link></item>
+<item><title>PT: BLS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44816.ts</link></item>
+<item><title>PT: BTV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42078.ts</link></item>
 <item><title>PT: CAMERA PANDA AO VIVO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8</link></item>
 <item><title>PT: CAMERA PANDA AO VIVO 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8</link></item>
-<item><title>PT: CANAL PANDA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3480.m3u8</link></item>
-<item><title>PT: CBS REALITY </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2575.m3u8</link></item>
+<item><title>PT: CANAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30094.ts</link></item>
+<item><title>PT: CANAL (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44813.ts</link></item>
+<item><title>PT: CANAL OFF MULTISHOW HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/35934.ts</link></item>
+<item><title>PT: CANAL PANDA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9639.ts</link></item>
+<item><title>PT: CANAL Q </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9582.ts</link></item>
+<item><title>PT: CANAL RURAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44812.ts</link></item>
+<item><title>PT: CANAL SONY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30093.ts</link></item>
+<item><title>PT: CANCAO NOVA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30200.ts</link></item>
+<item><title>PT: CANCAO NOVA (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44811.ts</link></item>
+<item><title>PT: CBS REALITY </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9651.ts</link></item>
 <item><title>PT: CLASSIQUE TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.43.208.2:1935/classique/classique/live.m3u8</link></item>
-<item><title>PT: CLASSIQUE TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv2.srvstm.com/classique/classique/playlist.m3u8</link></item>
+<item><title>PT: CLASSIQUE TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29983.ts</link></item>
+<item><title>PT: CLASSIQUE TV (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv2.srvstm.com/classique/classique/playlist.m3u8</link></item>
+<item><title>PT: CM TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/908.ts</link></item>
+<item><title>PT: CMTV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9574.ts</link></item>
+<item><title>PT: CMTV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42098.ts</link></item>
+<item><title>PT: COMBATE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30089.ts</link></item>
+<item><title>PT: COMBATE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44804.ts</link></item>
+<item><title>PT: COMBATE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44805.ts</link></item>
+<item><title>PT: COMEDY CENTRAL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44802.ts</link></item>
+<item><title>PT: COMEDY CENTRAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30088.ts</link></item>
+<item><title>PT: COMEDY CENTRAL (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44803.ts</link></item>
 <item><title>PT: COTIA FILMES </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8</link></item>
-<item><title>PT: DISCOVERY CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2578.m3u8</link></item>
-<item><title>PT: DISCOVERY SHOWCASE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2579.m3u8</link></item>
-<item><title>PT: E! ENTERTAINMENT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2580.m3u8</link></item>
+<item><title>PT: CURTA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44800.ts</link></item>
+<item><title>PT: CURTA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44801.ts</link></item>
+<item><title>PT: DISCOVERY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/906.ts</link></item>
+<item><title>PT: DISCOVERY CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30087.ts</link></item>
+<item><title>PT: DISCOVERY CHANNEL (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44798.ts</link></item>
+<item><title>PT: DISCOVERY CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9656.ts</link></item>
+<item><title>PT: DISCOVERY CHANNEL (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/3048.m3u8</link></item>
+<item><title>PT: DISCOVERY CHANNEL (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44799.ts</link></item>
+<item><title>PT: DISCOVERY CIVILIZATION HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44796.ts</link></item>
+<item><title>PT: DISCOVERY CIVILIZATION </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30086.ts</link></item>
+<item><title>PT: DISCOVERY CIVILIZATION (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44797.ts</link></item>
+<item><title>PT: DISCOVERY H&H HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30085.ts</link></item>
+<item><title>PT: DISCOVERY H&H (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44794.ts</link></item>
+<item><title>PT: DISCOVERY H&H </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44795.ts</link></item>
+<item><title>PT: DISCOVERY SCIENCE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44790.ts</link></item>
+<item><title>PT: DISCOVERY SCIENCE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30083.ts</link></item>
+<item><title>PT: DISCOVERY SCIENCE (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44791.ts</link></item>
+<item><title>PT: DISCOVERY SHOWCASE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42077.ts</link></item>
+<item><title>PT: DISCOVERY SHOWCASE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9652.ts</link></item>
+<item><title>PT: DISCOVERY TURBO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30081.ts</link></item>
+<item><title>PT: DISCOVERY TURBO (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44786.ts</link></item>
+<item><title>PT: DISCOVERY TURBO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44787.ts</link></item>
+<item><title>PT: E! ENTERTAINMENT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9663.ts</link></item>
 <item><title>PT: E-PARANA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://200.189.113.201/hls/tve.m3u8</link></item>
+<item><title>PT: EI MAXX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44774.ts</link></item>
+<item><title>PT: EI MAXX </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44775.ts</link></item>
+<item><title>PT: EI MAXX 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30076.ts</link></item>
+<item><title>PT: EI MAXX 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44772.ts</link></item>
+<item><title>PT: EI MAXX 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44773.ts</link></item>
+<item><title>PT: FOOD NETWORK HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30064.ts</link></item>
+<item><title>PT: FOOD NETWORK (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44759.ts</link></item>
+<item><title>PT: FOOD NETWORK </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44760.ts</link></item>
 <item><title>PT: FORO TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/index.m3u8</link></item>
-<item><title>PT: FOX </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2588.m3u8</link></item>
-<item><title>PT: FOX COMEDY </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2586.m3u8</link></item>
-<item><title>PT: FOX CRIME </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2587.m3u8</link></item>
-<item><title>PT: FOX LIFE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3449.m3u8</link></item>
+<item><title>PT: FOX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/926.ts</link></item>
+<item><title>PT: FOX (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9589.ts</link></item>
+<item><title>PT: FOX (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30063.ts</link></item>
+<item><title>PT: FOX (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42074.ts</link></item>
+<item><title>PT: FOX (4+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44757.ts</link></item>
+<item><title>PT: FOX </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44758.ts</link></item>
+<item><title>PT: FOX COMEDY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30211.ts</link></item>
+<item><title>PT: FOX COMEDY </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/923.ts</link></item>
+<item><title>PT: FOX COMEDY (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9607.ts</link></item>
+<item><title>PT: FOX CRIME HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30210.ts</link></item>
+<item><title>PT: FOX CRIME (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42075.ts</link></item>
+<item><title>PT: FOX CRIME </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/901.ts</link></item>
+<item><title>PT: FOX CRIME (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9583.ts</link></item>
+<item><title>PT: FOX LIFE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/925.ts</link></item>
+<item><title>PT: FOX LIFE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30209.ts</link></item>
+<item><title>PT: FOX LIFE (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42073.ts</link></item>
+<item><title>PT: FOX LIFE (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44755.ts</link></item>
+<item><title>PT: FOX LIFE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30062.ts</link></item>
+<item><title>PT: FOX LIFE (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44756.ts</link></item>
+<item><title>PT: FOX PREMIUM 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30061.ts</link></item>
+<item><title>PT: FOX PREMIUM 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44754.ts</link></item>
+<item><title>PT: FOX PREMIUM 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30060.ts</link></item>
+<item><title>PT: FOX PREMIUM 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44753.ts</link></item>
+<item><title>PT: FOZ TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://gw01.7idi.com:8087/hls/foztv.m3u8</link></item>
+<item><title>PT: FUEL TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9627.ts</link></item>
+<item><title>PT: FUTURA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44747.ts</link></item>
+<item><title>PT: FUTURA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30057.ts</link></item>
+<item><title>PT: FUTURA (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44748.ts</link></item>
 <item><title>PT: G2P TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8</link></item>
 <item><title>PT: GALA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8</link></item>
-<item><title>PT: GLOBO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2592.m3u8</link></item>
-<item><title>PT: GLOBO PREMIUM </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3482.m3u8</link></item>
+<item><title>PT: GLOBO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9599.ts</link></item>
+<item><title>PT: GLOBO (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/17405.ts</link></item>
+<item><title>PT: GLOBO (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30055.ts</link></item>
+<item><title>PT: GLOBO (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36158.ts</link></item>
+<item><title>PT: GLOBO ANHANGUERA GOIANIA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36159.ts</link></item>
+<item><title>PT: GLOBO EPTV CAMPINAS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30053.ts</link></item>
+<item><title>PT: GLOBO EPTV RIBEIR </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36157.ts</link></item>
+<item><title>PT: GLOBO EPTV S </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36156.ts</link></item>
+<item><title>PT: GLOBO MG HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30052.ts</link></item>
+<item><title>PT: GLOBO NORDESTE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/35933.ts</link></item>
+<item><title>PT: GLOBO NORDESTE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/3006.m3u8</link></item>
+<item><title>PT: GLOBO PREMIUM </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/17697.ts</link></item>
+<item><title>PT: GLOBO PREMIUM (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30049.ts</link></item>
+<item><title>PT: GLOBO PREMIUM (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42096.ts</link></item>
+<item><title>PT: GLOBO RBS PORTO ALEGRE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36154.ts</link></item>
+<item><title>PT: GLOBO RJ HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30048.ts</link></item>
+<item><title>PT: GLOBO RJ </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/3051.m3u8</link></item>
+<item><title>PT: GLOBO SP HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30047.ts</link></item>
+<item><title>PT: GLOBO SP (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44727.ts</link></item>
+<item><title>PT: GLOBO SP </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44728.ts</link></item>
+<item><title>PT: GLOBO TV BELEM </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36153.ts</link></item>
+<item><title>PT: GLOBO TV CABUGI </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36152.ts</link></item>
+<item><title>PT: GLOBO TV TEM BAURU </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36151.ts</link></item>
+<item><title>PT: GLOBO TV VANGUARDA S J DOS CAMPOS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36148.ts</link></item>
+<item><title>PT: GLOBO TV VERDES MARES FORTALEZA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36147.ts</link></item>
+<item><title>PT: GLOBOSAT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30046.ts</link></item>
+<item><title>PT: GLOOB HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30045.ts</link></item>
+<item><title>PT: GNT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30056.ts</link></item>
 <item><title>PT: GOLDEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8</link></item>
-<item><title>PT: HISTORIA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2593.m3u8</link></item>
-<item><title>PT: HOLLYWOOD </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2594.m3u8</link></item>
+<item><title>PT: HBO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30040.ts</link></item>
+<item><title>PT: HBO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/21084.ts</link></item>
+<item><title>PT: HBO (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/3033.m3u8</link></item>
+<item><title>PT: HBO 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30043.ts</link></item>
+<item><title>PT: HBO 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/3007.m3u8</link></item>
+<item><title>PT: HBO PLUS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30039.ts</link></item>
+<item><title>PT: HBO PLUS (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44703.ts</link></item>
+<item><title>PT: HBO PLUS (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44705.ts</link></item>
+<item><title>PT: HBO PLUS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30038.ts</link></item>
+<item><title>PT: HBO PLUS (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44704.ts</link></item>
+<item><title>PT: HBO PLUS (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44706.ts</link></item>
+<item><title>PT: HBO SIGNATURE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30037.ts</link></item>
+<item><title>PT: HBO SIGNATURE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44701.ts</link></item>
+<item><title>PT: HBO SIGNATURE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/2564.ts</link></item>
+<item><title>PT: HBO SIGNATURE (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44702.ts</link></item>
+<item><title>PT: HISTORIA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9664.ts</link></item>
+<item><title>PT: HISTORIA (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42060.ts</link></item>
+<item><title>PT: HISTORY CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30036.ts</link></item>
+<item><title>PT: HISTORY CHANNEL (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44699.ts</link></item>
+<item><title>PT: HISTORY CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44700.ts</link></item>
+<item><title>PT: HOLLYWOOD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30214.ts</link></item>
+<item><title>PT: HOLLYWOOD </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/907.ts</link></item>
+<item><title>PT: HOLLYWOOD (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9581.ts</link></item>
+<item><title>PT: HOLLYWOOD (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42095.ts</link></item>
+<item><title>PT: I-SAT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44698.ts</link></item>
+<item><title>PT: INVESTIGA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44697.ts</link></item>
+<item><title>PT: INVESTIGATION DISCOVERY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30035.ts</link></item>
+<item><title>PT: JIM JIM </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/918.ts</link></item>
+<item><title>PT: JIMJAM </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9642.ts</link></item>
+<item><title>PT: KARAMEESH </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3006.ts</link></item>
+<item><title>PT: LIFETIME HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30034.ts</link></item>
+<item><title>PT: LIFETIME (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44695.ts</link></item>
+<item><title>PT: LIFETIME </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44696.ts</link></item>
+<item><title>PT: LOCALVISAO TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30221.ts</link></item>
+<item><title>PT: MAX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44693.ts</link></item>
+<item><title>PT: MAX </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30032.ts</link></item>
+<item><title>PT: MAX (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44694.ts</link></item>
+<item><title>PT: MAX PRIME HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30031.ts</link></item>
+<item><title>PT: MAX PRIME (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44689.ts</link></item>
+<item><title>PT: MAX PRIME (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44691.ts</link></item>
+<item><title>PT: MAX PRIME </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44690.ts</link></item>
+<item><title>PT: MAX PRIME (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44692.ts</link></item>
+<item><title>PT: MAX UP HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44687.ts</link></item>
+<item><title>PT: MAX UP </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30030.ts</link></item>
+<item><title>PT: MAX UP (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44688.ts</link></item>
+<item><title>PT: MBC 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3014.ts</link></item>
 <item><title>PT: MCI TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8</link></item>
-<item><title>PT: MCM POP </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2595.m3u8</link></item>
+<item><title>PT: MCM POP </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30203.ts</link></item>
+<item><title>PT: MCM TOP </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30202.ts</link></item>
+<item><title>PT: MCS EXTREME </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30201.ts</link></item>
+<item><title>PT: MCS LIFESTYLE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/17705.ts</link></item>
 <item><title>PT: MDF 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8</link></item>
-<item><title>PT: NAT GEO WILD </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2601.m3u8</link></item>
+<item><title>PT: MEGAPIX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30029.ts</link></item>
+<item><title>PT: MEGAPIX (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44685.ts</link></item>
+<item><title>PT: MEGAPIX </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44686.ts</link></item>
+<item><title>PT: MOV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9602.ts</link></item>
+<item><title>PT: MOV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42094.ts</link></item>
+<item><title>PT: MULTISHOW HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30028.ts</link></item>
+<item><title>PT: MULTISHOW (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44681.ts</link></item>
+<item><title>PT: MULTISHOW </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44682.ts</link></item>
+<item><title>PT: MULTITV CIDADES </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8</link></item>
+<item><title>PT: NAT GEO WILD </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9655.ts</link></item>
 <item><title>PT: NAT GEO WILD 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8</link></item>
-<item><title>PT: NATIONAL GEOGRAPHIC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2602.m3u8</link></item>
+<item><title>PT: NATGEO WILD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30026.ts</link></item>
+<item><title>PT: NATGEO WILD (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44675.ts</link></item>
+<item><title>PT: NATGEO WILD </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44676.ts</link></item>
+<item><title>PT: NATIONAL GEOGRAPHIC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30025.ts</link></item>
+<item><title>PT: NATIONAL GEOGRAPHIC (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42093.ts</link></item>
+<item><title>PT: NATIONAL GEOGRAPHIC (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44673.ts</link></item>
+<item><title>PT: NATIONAL GEOGRAPHIC </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9649.ts</link></item>
+<item><title>PT: NATIONAL GEOGRAPHIC (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44674.ts</link></item>
+<item><title>PT: NBR </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44672.ts</link></item>
+<item><title>PT: NOVO TEMPO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8</link></item>
+<item><title>PT: NOVO TEMPO (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44667.ts</link></item>
 <item><title>PT: NRJ HITS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8</link></item>
 <item><title>PT: NUESTRA VISION MICH </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://189.204.137.189:8888/canal6mobiles.m3u8</link></item>
-<item><title>PT: ODISSEIA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2603.m3u8</link></item>
-<item><title>PT: PFC </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2604.m3u8</link></item>
+<item><title>PT: ODISSEIA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9590.ts</link></item>
+<item><title>PT: OFF HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30022.ts</link></item>
+<item><title>PT: OFF (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44665.ts</link></item>
+<item><title>PT: OFF </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44666.ts</link></item>
+<item><title>PT: PANDA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30204.ts</link></item>
+<item><title>PT: PFC </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/911.ts</link></item>
+<item><title>PT: PFC (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9661.ts</link></item>
+<item><title>PT: PFC (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30021.ts</link></item>
+<item><title>PT: PLAY TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44662.ts</link></item>
 <item><title>PT: PORTAL FOXMIX </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8</link></item>
-<item><title>PT: PORTO CANAL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2605.m3u8</link></item>
+<item><title>PT: PORTO CANAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9606.ts</link></item>
+<item><title>PT: PREMIERE 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30019.ts</link></item>
+<item><title>PT: PREMIERE 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44659.ts</link></item>
+<item><title>PT: PREMIERE 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44660.ts</link></item>
+<item><title>PT: PREMIERE 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30018.ts</link></item>
+<item><title>PT: PREMIERE 3 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44657.ts</link></item>
+<item><title>PT: PREMIERE 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44658.ts</link></item>
+<item><title>PT: PREMIERE 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30017.ts</link></item>
+<item><title>PT: PREMIERE 4 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44655.ts</link></item>
+<item><title>PT: PREMIERE 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44656.ts</link></item>
+<item><title>PT: PREMIERE 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30016.ts</link></item>
+<item><title>PT: PREMIERE 5 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44653.ts</link></item>
+<item><title>PT: PREMIERE 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44654.ts</link></item>
+<item><title>PT: PREMIERE 6 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30015.ts</link></item>
+<item><title>PT: PREMIERE 6 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44652.ts</link></item>
+<item><title>PT: PREMIERE 7 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30014.ts</link></item>
+<item><title>PT: PREMIERE 7 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44651.ts</link></item>
+<item><title>PT: PREMIERE 8 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30013.ts</link></item>
+<item><title>PT: PREMIERE 8 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44650.ts</link></item>
+<item><title>PT: PREMIERE 9 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30012.ts</link></item>
+<item><title>PT: PREMIERE CLUBES HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30011.ts</link></item>
+<item><title>PT: PRIME BOX </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5092.ts</link></item>
+<item><title>PT: PUC TV GOIAS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8</link></item>
+<item><title>PT: RBC SALVADOR </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.43.208.98:1935/alexandre3116/alexandre3116/live.m3u8</link></item>
+<item><title>PT: RBS TV PORTO ALEGRE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30010.ts</link></item>
+<item><title>PT: RECORD HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30009.ts</link></item>
+<item><title>PT: RECORD </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/917.ts</link></item>
+<item><title>PT: RECORD SP </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44643.ts</link></item>
+<item><title>PT: RECORDTV MATOGROSSO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8</link></item>
+<item><title>PT: RECORDTV SAO PAULO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8</link></item>
+<item><title>PT: REDE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8</link></item>
+<item><title>PT: REDE ATIVIDADE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8</link></item>
 <item><title>PT: REDE CAXIAS TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv1.srvstm.com/luisclaudio8226/luisclaudio8226/playlist.m3u8</link></item>
 <item><title>PT: REDE FAMILIA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8</link></item>
+<item><title>PT: REDE MINAS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8</link></item>
+<item><title>PT: REDE SECULO 21 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8</link></item>
+<item><title>PT: REDE TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30007.ts</link></item>
+<item><title>PT: REDE TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8</link></item>
 <item><title>PT: REDE TV RONDONIA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8</link></item>
-<item><title>PT: RTP 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3464.m3u8</link></item>
+<item><title>PT: REDE VIDA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44633.ts</link></item>
+<item><title>PT: REDE VIDA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30006.ts</link></item>
+<item><title>PT: REDE VIDA (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44634.ts</link></item>
+<item><title>PT: RTP </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9578.ts</link></item>
+<item><title>PT: RTP 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30225.ts</link></item>
+<item><title>PT: RTP 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/895.ts</link></item>
+<item><title>PT: RTP 1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9575.ts</link></item>
+<item><title>PT: RTP 1 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42092.ts</link></item>
 <item><title>PT: RTP 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://www.iptvsaga.com/play/tv3/0028.m3u8</link></item>
-<item><title>PT: RTP 2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3465.m3u8</link></item>
-<item><title>PT: RTP 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3466.m3u8</link></item>
+<item><title>PT: RTP 2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/894.ts</link></item>
+<item><title>PT: RTP 2 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9576.ts</link></item>
+<item><title>PT: RTP 2 (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42091.ts</link></item>
+<item><title>PT: RTP 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9577.ts</link></item>
+<item><title>PT: RTP 3 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42090.ts</link></item>
+<item><title>PT: RTP ACORES </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/893.ts</link></item>
+<item><title>PT: RTP ACORES (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9580.ts</link></item>
+<item><title>PT: RTP MADEIRA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/891.ts</link></item>
+<item><title>PT: RTP MADEIRA (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9579.ts</link></item>
+<item><title>PT: RTP MADEIRA (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42089.ts</link></item>
 <item><title>PT: RTP MEM </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://www.iptvsaga.com/play/tv3/0023.m3u8</link></item>
-<item><title>PT: RTP MEM (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3472.m3u8</link></item>
+<item><title>PT: RTP MEM (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42088.ts</link></item>
+<item><title>PT: RTP MEMORIA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/890.ts</link></item>
+<item><title>PT: RTP MEMORIA (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9657.ts</link></item>
+<item><title>PT: SBT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30005.ts</link></item>
+<item><title>PT: SBT (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44631.ts</link></item>
+<item><title>PT: SBT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44632.ts</link></item>
 <item><title>PT: SBT GO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8</link></item>
-<item><title>PT: SIC </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3467.m3u8</link></item>
-<item><title>PT: SIC CARAS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3470.m3u8</link></item>
-<item><title>PT: SIC K </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3481.m3u8</link></item>
-<item><title>PT: SIC MULHER </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3451.m3u8</link></item>
-<item><title>PT: SIC RADICAL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3469.m3u8</link></item>
+<item><title>PT: SBT NORDESTE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44630.ts</link></item>
+<item><title>PT: SBT PIAUI </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8</link></item>
+<item><title>PT: SIC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30223.ts</link></item>
+<item><title>PT: SIC </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/924.ts</link></item>
+<item><title>PT: SIC (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9584.ts</link></item>
+<item><title>PT: SIC (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42087.ts</link></item>
+<item><title>PT: SIC CARAS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/912.ts</link></item>
+<item><title>PT: SIC CARAS (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9587.ts</link></item>
+<item><title>PT: SIC CARAS (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42086.ts</link></item>
+<item><title>PT: SIC K </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/919.ts</link></item>
+<item><title>PT: SIC K (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42085.ts</link></item>
+<item><title>PT: SIC MULHER </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/913.ts</link></item>
+<item><title>PT: SIC MULHER (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9586.ts</link></item>
+<item><title>PT: SIC NOTICIAS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/903.ts</link></item>
+<item><title>PT: SIC NOTICIAS (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9585.ts</link></item>
+<item><title>PT: SIC RADICAL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30220.ts</link></item>
+<item><title>PT: SIC RADICAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/914.ts</link></item>
+<item><title>PT: SIC RADICAL (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9588.ts</link></item>
+<item><title>PT: SIC RADICAL (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42084.ts</link></item>
+<item><title>PT: SONY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/36145.ts</link></item>
+<item><title>PT: SONY (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44626.ts</link></item>
+<item><title>PT: SONY </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/3037.m3u8</link></item>
+<item><title>PT: SONY (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44627.ts</link></item>
+<item><title>PT: SPACE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30004.ts</link></item>
+<item><title>PT: SPACE (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44624.ts</link></item>
+<item><title>PT: SPACE </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44625.ts</link></item>
 <item><title>PT: SPACE 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8</link></item>
-<item><title>PT: SYFY </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2620.m3u8</link></item>
+<item><title>PT: STUDIO UNIVERSAL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44616.ts</link></item>
+<item><title>PT: STUDIO UNIVERSAL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29997.ts</link></item>
+<item><title>PT: STUDIO UNIVERSAL (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44617.ts</link></item>
+<item><title>PT: SYFY HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29996.ts</link></item>
+<item><title>PT: SYFY (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44614.ts</link></item>
+<item><title>PT: SYFY </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/902.ts</link></item>
+<item><title>PT: SYFY (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9601.ts</link></item>
+<item><title>PT: SYFY (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44615.ts</link></item>
+<item><title>PT: TBS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29995.ts</link></item>
+<item><title>PT: TBS (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44613.ts</link></item>
+<item><title>PT: TCM </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29994.ts</link></item>
+<item><title>PT: TCM (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44612.ts</link></item>
 <item><title>PT: TDN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8</link></item>
+<item><title>PT: TELECIME ACTION </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/3034.m3u8</link></item>
 <item><title>PT: TELEMEDELLIN 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://api.new.livestream.com/accounts/4608897/events/2230380/videos/85757210.m3u8</link></item>
 <item><title>PT: TELESUR </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8</link></item>
 <item><title>PT: TEN HONDURAS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8</link></item>
 <item><title>PT: THE BLAZE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8</link></item>
-<item><title>PT: TLC </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2621.m3u8</link></item>
+<item><title>PT: TIANJIN TV ENTERTAINMENT CH MANDARIN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8</link></item>
+<item><title>PT: TLC HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29993.ts</link></item>
+<item><title>PT: TLC (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44596.ts</link></item>
+<item><title>PT: TLC </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/878.ts</link></item>
+<item><title>PT: TLC (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9625.ts</link></item>
+<item><title>PT: TNT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29992.ts</link></item>
+<item><title>PT: TNT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/3036.m3u8</link></item>
+<item><title>PT: TNT (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44595.ts</link></item>
 <item><title>PT: TNT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8</link></item>
-<item><title>PT: TOROS TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3477.m3u8</link></item>
+<item><title>PT: TNT S HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29991.ts</link></item>
+<item><title>PT: TOONCAST </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29984.ts</link></item>
+<item><title>PT: TOROS TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/909.ts</link></item>
+<item><title>PT: TOROS TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/17704.ts</link></item>
+<item><title>PT: TRAVEL CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42072.ts</link></item>
+<item><title>PT: TRAVEL CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/877.ts</link></item>
+<item><title>PT: TRAVEL CHANNEL (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9658.ts</link></item>
 <item><title>PT: TV ANTARES </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8</link></item>
 <item><title>PT: TV APARECIDA 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8</link></item>
+<item><title>PT: TV BETEL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.43.208.98:1935/betelnc/betelnc/live.m3u8</link></item>
 <item><title>PT: TV CIDADE FARROUPILHA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8</link></item>
 <item><title>PT: TV CLIMA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.43.208.98:1935/tvcadm/tvcadm/live.m3u8</link></item>
 <item><title>PT: TV CLIMA 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8</link></item>
+<item><title>PT: TV CRISTO VIVE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8</link></item>
 <item><title>PT: TV CULTURA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://177.73.84.49/hls/live/live.m3u8</link></item>
 <item><title>PT: TV CUMARU </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.43.208.2:1935/tvcumaru/tvcumaru/live.m3u8</link></item>
-<item><title>PT: TV GALICIA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3484.m3u8</link></item>
+<item><title>PT: TV DIARIO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8</link></item>
+<item><title>PT: TV FAAP </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8</link></item>
+<item><title>PT: TV GERAL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8</link></item>
+<item><title>PT: TV GIDOES </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8</link></item>
+<item><title>PT: TV GLOBO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/888.ts</link></item>
+<item><title>PT: TV GLOBO PREMIUM </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/931.ts</link></item>
+<item><title>PT: TV INES </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8</link></item>
+<item><title>PT: TV LOUVAR </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://173.236.10.10:1935/renascer/renascer/live.m3u8</link></item>
+<item><title>PT: TV MCJ </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8</link></item>
 <item><title>PT: TV METR </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv2.conectastm.com/enivaldo4603/enivaldo4603/playlist.m3u8</link></item>
+<item><title>PT: TV O POVO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8</link></item>
 <item><title>PT: TV PAJE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.43.208.2:1935/tvpajeu/tvpajeu/live.m3u8</link></item>
+<item><title>PT: TV RECORD </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9598.ts</link></item>
+<item><title>PT: TV RIO </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://186.227.165.118:1935/insatv/livestream/live.m3u8</link></item>
 <item><title>PT: TV SANTU </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.43.208.2:1935/tvcatolic/tvcatolic/live.m3u8</link></item>
 <item><title>PT: TV TEEN NET </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8</link></item>
+<item><title>PT: TV TUBA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8</link></item>
+<item><title>PT: TV VALE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.43.208.2:1935/tvvale/tvvale/live.m3u8</link></item>
 <item><title>PT: TV VERDADE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ocatv.mcgi.me:1935/public/247_es/live.m3u8</link></item>
 <item><title>PT: TV VIVAM </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv2.srvstm.com/vivamwebradio/vivamwebradio/playlist.m3u8</link></item>
+<item><title>PT: TVDS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8</link></item>
 <item><title>PT: TVE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8</link></item>
 <item><title>PT: TVE BOA ESPERAN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv2.srvstm.com/16692/16692/playlist.m3u8</link></item>
-<item><title>PT: TVI HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/5770.m3u8</link></item>
-<item><title>PT: TVI </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/5771.m3u8</link></item>
-<item><title>PT: TVI 24 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/3468.m3u8</link></item>
+<item><title>PT: TVE RIO GRANDE DO SUL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8</link></item>
+<item><title>PT: TVI HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30222.ts</link></item>
+<item><title>PT: TVI </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/889.ts</link></item>
+<item><title>PT: TVI (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9592.ts</link></item>
+<item><title>PT: TVI 24 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/887.ts</link></item>
+<item><title>PT: TVI 24 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9591.ts</link></item>
+<item><title>PT: TVI 24 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/42083.ts</link></item>
+<item><title>PT: TVI FICCAO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/886.ts</link></item>
+<item><title>PT: TVI REALITY </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9635.ts</link></item>
 <item><title>PT: TVN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8</link></item>
+<item><title>PT: UNIVERSAL CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29982.ts</link></item>
+<item><title>PT: VEM E VE TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8</link></item>
 <item><title>PT: VERDES MARES </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8</link></item>
+<item><title>PT: VEVO 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/898.ts</link></item>
+<item><title>PT: VEVO 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/897.ts</link></item>
+<item><title>PT: VEVO 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/896.ts</link></item>
+<item><title>PT: VIVA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29980.ts</link></item>
+<item><title>PT: WARNER CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29979.ts</link></item>
+<item><title>PT: WARNER CHANNEL (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44572.ts</link></item>
+<item><title>PT: WARNER CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44573.ts</link></item>
+<item><title>PT: WEB TV MINAS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8</link></item>
+<item><title>PT: WOOHOO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44570.ts</link></item>
+<item><title>PT: WOOHOO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29978.ts</link></item>
+<item><title>PT: WOOHOO (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44571.ts</link></item>
 <item><title>PT: WORO-TV TELEORO CANAL 13 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8</link></item>
 <item><title>PT: XMAS FIREPLACE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8</link></item>
 <item><title>PT: YEEAH </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv2.srvstm.com:1935/yeeahteen/yeeahteen/playlist.m3u8</link></item>
 <item><title>PT: YEEAH! TEEN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://stmv2.srvstm.com/yeeahteen/yeeahteen/playlist.m3u8</link></item>
+<item><title>PT: ZOOMOO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44569.ts</link></item>
+
