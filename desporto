@@ -39,50 +39,25 @@ plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/6.m3u
 #EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 2
 plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/2.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
 
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/14.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/15.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/16.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/17.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/18.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
 
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip.mountservers.com:7020/live/ian/jones/937.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/1491.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip.mountservers.com:7020/live/ian/jones/938.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/1492.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip.mountservers.com:7020/live/ian/jones/939.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/1493.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip.mountservers.com:7020/live/ian/jones/940.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/1494.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip.mountservers.com:7020/live/ian/jones/941.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/1495.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-#EXTINF:0 group-title="PT: Portugal",PT: BTV HD
-plugin://plugin.video.f4mTester/?url=http://ip.mountservers.com:7020/live/ian/jones/943.ts;streamtype=HLSRETRY&amp;name=iptvparamigos
-#EXTINF:0 group-title="PT: Portugal",PT: BTV
-plugin://plugin.video.f4mTester/?url=http://ip4you.dyndns.tv:8080/live/nfradinho/taralhoca/1496.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
-
-
-
-#EXTINF:0 group-title="PT: Portugal",PT: PFC 
-plugin://plugin.video.f4mTester/?url=http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6291.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos
-
+<item><title>PT: SPORT TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8810.ts</link></item>
+<item><title>PT: SPORT TV (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.248.213:8080/live/tura/123456/899.ts</link></item>
+<item><title>PT: SPORT TV (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/899.ts</link></item>
+<item><title>PT: SPORT TV (4+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1361.ts</link></item>
+<item><title>PT: SPORT TV (5+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9608.ts</link></item>
+<item><title>PT: SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1368.ts</link></item>
+<item><title>PT: SPORT TV 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9609.ts</link></item>
+<item><title>PT: SPORT TV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1369.ts</link></item>
+<item><title>PT: SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1366.ts</link></item>
+<item><title>PT: SPORT TV 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9610.ts</link></item>
+<item><title>PT: SPORT TV 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1367.ts</link></item>
+<item><title>PT: SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1364.ts</link></item>
+<item><title>PT: SPORT TV 3 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9611.ts</link></item>
+<item><title>PT: SPORT TV 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1365.ts</link></item>
+<item><title>PT: SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9612.ts</link></item>
+<item><title>PT: SPORT TV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1363.ts</link></item>
+<item><title>PT: SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9613.ts</link></item>
+<item><title>PT: SPORT TV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1362.ts</link></item>
 
  
 #EXTINF:0 group-title="PT: Portugal",RedBull TV
