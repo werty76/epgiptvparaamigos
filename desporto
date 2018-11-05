@@ -2,37 +2,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item><title>[B][COLOR red] →→→LIVE←←← [/COLOR][/B] </title><link>https://192.168.1.1</link></item>
 
-<item><title>SANTA CLARA VS SPORTING 17:30</title><link>http://ezgezgzht44.negzari.tk:1935/edge/ch145971/chunklist_w1477476672.m3u8</link></item>
+<item><title></title><link></link></item>
 
 <item><title>[B][COLOR green] →→→DESPORTO←←← [/COLOR][/B] </title><link>https://192.168.1.1</link></item>
 
-<item><title>PT: SPORT TV 1 </title><link>http://myappstuga.briareus.feralhosting.com/sporttv1/playlist.m3u8</link></item>
-<item><title>PT: SPORT TV 2 </title><link>http://myappstuga.briareus.feralhosting.com/sporttv2/playlist.m3u8 </link></item>
-<item><title>PT: SPORT TV 3 </title><link>http://myappstuga.briareus.feralhosting.com/sporttv3/playlist.m3u8 </link></item>
+<
 <item><title>PT: BTV </title><link>http://myappstuga.briareus.feralhosting.com/benfica/playlist.m3u8</link></item>
 <item><title>PT: ELEVEN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/4.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
 <item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/5.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
 <item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/2.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 3 </title><link>plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/6.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1368.ts</link></item>
-<item><title>PT: SPORT TV 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9609.ts</link></item>
-<item><title>PT: SPORT TV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1369.ts</link></item>
-<item><title>PT: SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1366.ts</link></item>
-<item><title>PT: SPORT TV 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9610.ts</link></item>
-<item><title>PT: SPORT TV 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1367.ts</link></item>
-<item><title>PT: SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1364.ts</link></item>
-<item><title>PT: SPORT TV 3 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9611.ts</link></item>
-<item><title>PT: SPORT TV 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1365.ts</link></item>
-<item><title>PT: SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9612.ts</link></item>
-<item><title>PT: SPORT TV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1363.ts</link></item>
-<item><title>PT: SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9613.ts</link></item>
-<item><title>PT: SPORT TV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1362.ts</link></item>
-
-<item><title>PT: BENFICA TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9614.ts</link></item>
-<item><title>PT: BENFICA TV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/900.ts</link></item>
-<item><title>PT: BENFICA TV 1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30208.ts</link></item>
-<item><title>PT: ABOLA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/910.ts</link></item>
-<item><title>PT: A BOLA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9626.ts</link></item>
+<item><title>PT: SPORTTV1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49111.ts</link></item>
+<item><title>PT: SPORTTV1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49111.m3u8</link></item>
+<item><title>PT: SPORTTV2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49110.ts</link></item>
+<item><title>PT: SPORTTV2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49110.m3u8</link></item>
+<item><title>PT: SPORTTV3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49109.ts</link></item>
+<item><title>PT: SPORTTV3 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49109.m3u8</link></item>
+<item><title>PT: SPORTTV4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49108.ts</link></item>
+<item><title>PT: SPORTTV4 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49108.m3u8</link></item>
+<item><title>PT: SPORTTV5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49107.ts</link></item>
+<item><title>PT: SPORTTV5 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49107.m3u8</link></item>
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_fb_6660.m3u8</link></item>
 <item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
