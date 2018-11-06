@@ -1,56 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <item><title>PT: TVCINE 1</title><link>http://myappstuga.briareus.feralhosting.com/tvcine1/playlist.m3u8</link></item>
+<item><title>PT: TVCINE HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44685.ts</link></item>
 <item><title>PT: TVCINE 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8795.ts</link></item>
-<item><title>PT: TVCINE 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30219.ts</link></item>
-<item><title>PT: TVCINE 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/936.ts</link></item>
-<item><title>PT: TVCINE 1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.248.213:8080/live/tura/123456/936.ts</link></item>
-<item><title>PT: TVCINE 1 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/936.ts</link></item>
-<item><title>PT: TVCINE 1 (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9593.ts</link></item>
+<item><title>PT: TVCINE 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8795.ts</link></item>
+<item><title>PT: TVCINE 1 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8795.ts</link></item>
+<item><title>PT: TVCINE 1 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44823.ts</link></item>
 <item><title>PT: TVCINE 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8794.ts</link></item>
-<item><title>PT: TVCINE 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30218.ts</link></item>
-<item><title>PT: TVCINE 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/935.ts</link></item>
-<item><title>PT: TVCINE 2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.248.213:8080/live/tura/123456/935.ts</link></item>
-<item><title>PT: TVCINE 2 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/935.ts</link></item>
-<item><title>PT: TVCINE 2 (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9594.ts</link></item>
+<item><title>PT: TVCINE 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8794.ts</link></item>
+<item><title>PT: TVCINE 2 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8794.ts</link></item>
+<item><title>PT: TVCINE 2 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44801.ts</link></item>
 <item><title>PT: TVCINE 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8793.ts</link></item>
-<item><title>PT: TVCINE 3 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30217.ts</link></item>
-<item><title>PT: TVCINE 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/934.ts</link></item>
-<item><title>PT: TVCINE 3 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.248.213:8080/live/tura/123456/934.ts</link></item>
-<item><title>PT: TVCINE 3 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/934.ts</link></item>
-<item><title>PT: TVCINE 3 (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9595.ts</link></item>
+<item><title>PT: TVCINE 3 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8793.ts</link></item>
+<item><title>PT: TVCINE 3 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8793.ts</link></item>
+<item><title>PT: TVCINE 3 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44802.ts</link></item>
 <item><title>PT: TVCINE 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8792.ts</link></item>
-<item><title>PT: TVCINE 4 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30216.ts</link></item>
-<item><title>PT: TVCINE 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/933.ts</link></item>
-<item><title>PT: TVCINE 4 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.248.213:8080/live/tura/123456/933.ts</link></item>
-<item><title>PT: TVCINE 4 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/933.ts</link></item>
-<item><title>PT: TVCINE 4 (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9596.ts</link></item>
-<item><title>PT: CINE MUNDO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/892.ts</link></item>
-<item><title>PT: CINE MUNDO (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.248.213:8080/live/tura/123456/892.ts</link></item>
-<item><title>PT: CINE MUNDO (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/892.ts</link></item>
-<item><title>PT: CINE MUNDO (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9636.ts</link></item>
-<item><title>PT: CINEMAX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/5526.ts</link></item>
-<item><title>PT: CINEMAX (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30090.ts</link></item>
-<item><title>PT: CINEMAX </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/3010.m3u8</link></item>
+<item><title>PT: TVCINE 4 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8792.ts</link></item>
+<item><title>PT: TVCINE 4 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8792.ts</link></item>
+<item><title>PT: TVCINE 4 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44803.ts</link></item>
+<item><title>PT: CANAL CINEMUNDO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44686.ts</link></item>
 <item><title>PT: CINEMUNDO </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8860.ts</link></item>
-<item><title>PT: DISCOVERY THEATER HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30082.ts</link></item>
-<item><title>PT: FOX MOVIES HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/929.ts</link></item>
-<item><title>PT: FOX MOVIES (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.248.213:8080/live/tura/123456/929.ts</link></item>
-<item><title>PT: FOX MOVIES (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/thankyou/123/929.ts</link></item>
-<item><title>PT: FOX MOVIES (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30212.ts</link></item>
+<item><title>PT: CINEMUNDO (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8860.ts</link></item>
+<item><title>PT: CINEMUNDO (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8860.ts</link></item>
+<item><title>PT: CINEMUNDO (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44795.ts</link></item>
+<item><title>PT: DISCOVERY THEATER </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/12888.ts</link></item>
+<item><title>PT: FOX MOVIES HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44792.ts</link></item>
 <item><title>PT: FOX MOVIES </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8845.ts</link></item>
-<item><title>PT: FOX MOVIES (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.15.112:8080/live/steven/steven123/1378.ts</link></item>
-<item><title>PT: FOX MOVIES (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9637.ts</link></item>
-<item><title>PT: PARAMOUNT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/30020.ts</link></item>
-<item><title>PT: TELECINE ACTION HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/5493.ts</link></item>
-<item><title>PT: TELECINE ACTION (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29990.ts</link></item>
-<item><title>PT: TELECINE CULT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/5500.ts</link></item>
-<item><title>PT: TELECINE CULT (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29989.ts</link></item>
-<item><title>PT: TELECINE FUN HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/5492.ts</link></item>
-<item><title>PT: TELECINE FUN (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29988.ts</link></item>
-<item><title>PT: TELECINE PIPOCA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/5507.ts</link></item>
-<item><title>PT: TELECINE PIPOCA (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29987.ts</link></item>
-<item><title>PT: TELECINE PREMIUM HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/5488.ts</link></item>
-<item><title>PT: TELECINE PREMIUM (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29986.ts</link></item>
-<item><title>PT: TELECINE TOUCH HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://e2.iudtv.org:8080/live/tura/123456/5487.ts</link></item>
-<item><title>PT: TELECINE TOUCH (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/29985.ts</link></item>
+<item><title>PT: FOX MOVIES (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8845.ts</link></item>
+<item><title>PT: FOX MOVIES (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8845.ts</link></item>
+<item><title>PT: PARAMOUNT CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/11016.ts</link></item>
+<item><title>PT: TELECINE CULT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/11038.ts</link></item>
+<item><title>PT: TELECINE FUN </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/11039.ts</link></item>
+<item><title>PT: TELECINE PIPOCA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/11040.ts</link></item>
+<item><title>PT: TELECINE PREMIUM </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/11041.ts</link></item>
+<item><title>PT: TELECINE TOUCH </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/11042.ts</link></item>
