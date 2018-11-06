@@ -11,6 +11,52 @@
 <item><title>PT: ELEVEN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/4.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
 <item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/5.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
 <item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/2.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><title>PT: SPORT TV (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8809.ts</link></item>
+<item><title>PT: SPORT TV (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8809.ts</link></item>
+<item><title>PT: SPORT TV (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44716.ts</link></item>
+<item><title>PT: SPORT TV (4+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44779.ts</link></item>
+<item><title>PT: SPORT TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8810.ts</link></item>
+<item><title>PT: SPORT TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8810.ts</link></item>
+<item><title>PT: SPORT TV (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8810.ts</link></item>
+<item><title>PT: SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44849.ts</link></item>
+<item><title>PT: SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44850.ts</link></item>
+<item><title>PT: SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44851.ts</link></item>
+<item><title>PT: SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44852.ts</link></item>
+<item><title>PT: SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44853.ts</link></item>
+<item><title>PT: SPORT TV MAIS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44653.ts</link></item>
+<item><title>PT: SPORTING TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8808.ts</link></item>
+<item><title>PT: SPORTING TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8808.ts</link></item>
+<item><title>PT: SPORTING TV (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8808.ts</link></item>
+<item><title>PT: SPORTTV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8807.ts</link></item>
+<item><title>PT: SPORTTV 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8807.ts</link></item>
+<item><title>PT: SPORTTV 1 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8807.ts</link></item>
+<item><title>PT: SPORTTV 1 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44678.ts</link></item>
+<item><title>PT: SPORTTV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8806.ts</link></item>
+<item><title>PT: SPORTTV 1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8806.ts</link></item>
+<item><title>PT: SPORTTV 1 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8806.ts</link></item>
+<item><title>PT: SPORTTV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8805.ts</link></item>
+<item><title>PT: SPORTTV 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8805.ts</link></item>
+<item><title>PT: SPORTTV 2 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8805.ts</link></item>
+<item><title>PT: SPORTTV 2 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44677.ts</link></item>
+<item><title>PT: SPORTTV 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8804.ts</link></item>
+<item><title>PT: SPORTTV 2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8804.ts</link></item>
+<item><title>PT: SPORTTV 2 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8804.ts</link></item>
+<item><title>PT: SPORTTV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8803.ts</link></item>
+<item><title>PT: SPORTTV 3 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8803.ts</link></item>
+<item><title>PT: SPORTTV 3 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8803.ts</link></item>
+<item><title>PT: SPORTTV 3 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44676.ts</link></item>
+<item><title>PT: SPORTTV 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8802.ts</link></item>
+<item><title>PT: SPORTTV 3 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8802.ts</link></item>
+<item><title>PT: SPORTTV 3 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8802.ts</link></item>
+<item><title>PT: SPORTTV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8801.ts</link></item>
+<item><title>PT: SPORTTV 4 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8801.ts</link></item>
+<item><title>PT: SPORTTV 4 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8801.ts</link></item>
+<item><title>PT: SPORTTV 4 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44675.ts</link></item>
+<item><title>PT: SPORTTV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8800.ts</link></item>
+<item><title>PT: SPORTTV 5 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8800.ts</link></item>
+<item><title>PT: SPORTTV 5 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://194.88.107.101:6204/live/jian/jian/8800.m3u8</link></item>
+<item><title>PT: SPORTTV 5 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8800.ts</link></item>
+<item><title>PT: SPORTTV 5 (4+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44674.ts</link></item>
 <item><title>PT: SPORTTV1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49111.ts</link></item>
 <item><title>PT: SPORTTV1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49111.m3u8</link></item>
 <item><title>PT: SPORTTV2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49110.ts</link></item>
@@ -21,6 +67,7 @@
 <item><title>PT: SPORTTV4 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49108.m3u8</link></item>
 <item><title>PT: SPORTTV5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49107.ts</link></item>
 <item><title>PT: SPORTTV5 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49107.m3u8</link></item>
+<item><title>PT: SPORTV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44673.ts</link></item>
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_fb_6660.m3u8</link></item>
 <item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
