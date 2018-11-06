@@ -357,4 +357,36 @@
 <item><title>PT: REDE TV RONDONIA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8</link></item>
 <item><title>PT: REDE VIDA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44633.ts</link></item>
 <item><title>PT: REDE VIDA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://link.softclientarea.com:9100/live/gaston/gaston/44634.ts</link></item>
-
+<item><title>PT: BABY FIRST </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44752.ts</link></item>
+<item><title>PT: BABY TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8869.ts</link></item>
+<item><title>PT: BABY TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8869.ts</link></item>
+<item><title>PT: BABY TV (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8869.ts</link></item>
+<item><title>PT: BABY TV (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/11617.ts</link></item>
+<item><title>PT: BABY TV (4+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44804.ts</link></item>
+<item><title>PT: BOOMERANG </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/10969.ts</link></item>
+<item><title>PT: CARTOON NETWORK </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8862.ts</link></item>
+<item><title>PT: CARTOON NETWORK (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8862.ts</link></item>
+<item><title>PT: CARTOON NETWORK (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8862.ts</link></item>
+<item><title>PT: CARTOON NETWORK (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44649.ts</link></item>
+<item><title>PT: DISCOVERY KIDS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/10979.ts</link></item>
+<item><title>PT: DISNEY CH </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/10984.ts</link></item>
+<item><title>PT: DISNEY CHANNEL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44765.ts</link></item>
+<item><title>PT: DISNEY CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8856.ts</link></item>
+<item><title>PT: DISNEY CHANNEL (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8856.ts</link></item>
+<item><title>PT: DISNEY CHANNEL (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8856.ts</link></item>
+<item><title>PT: DISNEY JUNIOR </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/10982.ts</link></item>
+<item><title>PT: DISNEY JUNIOR (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44808.ts</link></item>
+<item><title>PT: DISNEY XD </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/10983.ts</link></item>
+<item><title>PT: HBO FAMILY </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/10998.ts</link></item>
+<item><title>PT: NAT GEO KIDS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/12899.ts</link></item>
+<item><title>PT: NICKELODEON </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8831.ts</link></item>
+<item><title>PT: NICKELODEON (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8831.ts</link></item>
+<item><title>PT: NICKELODEON (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8831.ts</link></item>
+<item><title>PT: NICKELODEON (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/11015.ts</link></item>
+<item><title>PT: NICKELODEON (4+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44807.ts</link></item>
+<item><title>PT: REDETV FAMILY PORTUGUESE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8</link></item>
+<item><title>PT: SIC KIDS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8815.ts</link></item>
+<item><title>PT: SIC KIDS (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8815.ts</link></item>
+<item><title>PT: SIC KIDS (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8815.ts</link></item>
+<item><title>PT: SIC KIDS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44714.ts</link></item>
+<item><title>PT: TV ESCOLA FAMILY PORTUGUESE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8</link></item>
