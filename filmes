@@ -1,0 +1,69 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>ACÇÃO</name>
+<thumbnail>https://goo.gl/UaswSu</thumbnail>
+<externallink>https://raw.githubusercontent.com/teamblue65/ListasKodi/master/M06_CINE01_ACCAO.xml</externallink>
+<fanart>https://goo.gl/WLTNig</fanart>
+<info>IPTV PARA AMIGOS</info>
+</channel>
+
+<channel>
+<name>AVENTURA</name>
+<thumbnail>https://goo.gl/i1fRq4</thumbnail>
+<externallink>https://raw.githubusercontent.com/teamblue65/ListasKodi/master/M06_CINE02_AVENTURA.xml</externallink>
+<fanart>https://goo.gl/WLTNig</fanart>
+<info>IPTV PARA AMIGOS</info>
+</channel>
+
+<channel>
+<name>COMEDIA</name>
+<thumbnail>https://goo.gl/dRpwDj</thumbnail>
+<externallink>https://raw.githubusercontent.com/teamblue65/ListasKodi/master/M06_CINE03_COMEDIA.xml</externallink>
+<fanart>https://goo.gl/WLTNig</fanart>
+<info>IPTV PARA AMIGOS</info>
+</channel>
+
+<channel>
+<name>CRIME</name>
+<thumbnail>https://goo.gl/8uHTPK</thumbnail>
+<externallink>https://raw.githubusercontent.com/teamblue65/ListasKodi/master/M06_CINE04_CRIME.xml</externallink>
+<fanart>https://goo.gl/WLTNig</fanart>
+<info>IPTV PARA AMIGOS</info>
+</channel>
+
+<channel>
+<name>DRAMA</name>
+<thumbnail>https://goo.gl/Jg1mqq</thumbnail>
+<externallink>https://raw.githubusercontent.com/teamblue65/ListasKodi/master/M06_CINE05_DRAMA.xml</externallink>
+<fanart>https://goo.gl/WLTNig</fanart>
+<info>IPTV PARA AMIGOS</info>
+</channel>
+
+<channel>
+<name>SCIFI</name>
+<thumbnail>https://goo.gl/4mz3vg</thumbnail>
+<externallink>https://raw.githubusercontent.com/teamblue65/ListasKodi/master/M06_CINE06_SCIFI.xml</externallink>
+<fanart>https://goo.gl/WLTNig</fanart>
+<info>IPTV PARA AMIGOS</info>
+</channel>
+
+<channel>
+<name>SUSPENSE</name>
+<thumbnail>https://goo.gl/CinULr</thumbnail>
+<externallink>https://raw.githubusercontent.com/teamblue65/ListasKodi/master/M06_CINE07_SUSPENSE.xml</externallink>
+<fanart>https://goo.gl/WLTNig</fanart>
+<info>IPTV PARA AMIGOS</info>
+</channel>
+
+<channel>
+<name>TERROR</name>
+<thumbnail>https://goo.gl/1Th4he</thumbnail>
+<externallink>https://raw.githubusercontent.com/teamblue65/ListasKodi/master/M06_CINE08_TERROR.xml</externallink>
+<fanart>https://goo.gl/WLTNig</fanart>
+<info>IPTV PARA AMIGOS</info>
+</channel>
+
+</channels>
