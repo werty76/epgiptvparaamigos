@@ -1,7 +1,5 @@
-<layouttype>thumbnail</layouttype>
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-
 <channel>
 <name>ACÇÃO</name>
 <thumbnail>https://goo.gl/UaswSu</thumbnail>
@@ -67,4 +65,4 @@
 </channel>
 
 
-</channels>
+
