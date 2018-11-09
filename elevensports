@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<item><title>PT: ELEVEN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?url=http://54.39.105.110:25461/iptv56566/26257/5264;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2628;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2697;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?url=http://54.39.105.110:25461/iptv56566/26257/5263;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2633;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2698;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 3 </title><link>plugin://plugin.video.f4mTester/?url=http://54.39.105.110:25461/iptv56566/26257/5262;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 3 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2629;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 3 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2699;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 4 </title><link>plugin://plugin.video.f4mTester/?url=http://54.39.105.110:25461/iptv56566/26257/5261;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 4 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2630;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 4 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2700;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 5 </title><link>plugin://plugin.video.f4mTester/?url=http://54.39.105.110:25461/iptv56566/26257/5260;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 5 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2631;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 5 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2701;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 6 </title><link>plugin://plugin.video.f4mTester/?url=http://54.39.105.110:25461/iptv56566/26257/5259;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 6 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2632;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 6 </title><link>plugin://plugin.video.f4mTester/?url=http://tvdomel.com:8880/meireles9/421307/2702;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><title>PT: ELEVEN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.39.105.110:25461/iptv56566/26257/5264</link></item>
+<item><title>PT: ELEVEN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2628</link></item>
+<item><title>PT: ELEVEN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2697</link></item>
+<item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.39.105.110:25461/iptv56566/26257/5263</link></item>
+<item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2633</link></item>
+<item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2698</link></item>
+<item><title>PT: ELEVEN SPORTS 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.39.105.110:25461/iptv56566/26257/5262</link></item>
+<item><title>PT: ELEVEN SPORTS 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2629</link></item>
+<item><title>PT: ELEVEN SPORTS 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2699</link></item>
+<item><title>PT: ELEVEN SPORTS 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.39.105.110:25461/iptv56566/26257/5261</link></item>
+<item><title>PT: ELEVEN SPORTS 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2630</link></item>
+<item><title>PT: ELEVEN SPORTS 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2700</link></item>
+<item><title>PT: ELEVEN SPORTS 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.39.105.110:25461/iptv56566/26257/5260</link></item>
+<item><title>PT: ELEVEN SPORTS 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2631</link></item>
+<item><title>PT: ELEVEN SPORTS 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2701</link></item>
+<item><title>PT: ELEVEN SPORTS 6 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.39.105.110:25461/iptv56566/26257/5259</link></item>
+<item><title>PT: ELEVEN SPORTS 6 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2632</link></item>
+<item><title>PT: ELEVEN SPORTS 6 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvdomel.com:8880/meireles9/421307/2702</link></item>
+
+
 
