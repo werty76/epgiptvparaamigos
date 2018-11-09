@@ -4,68 +4,126 @@
 
 <item><title>[B][COLOR green] →→→DESPORTO←←← [/COLOR][/B] </title><link>https://192.168.1.1</link></item>
 
-<
-<item><title>PT: BTV </title><link>http://myappstuga.briareus.feralhosting.com/benfica/playlist.m3u8</link></item>
-<item><title>PT: ELEVEN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/4.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/casa/1/5.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?url=http://89.34.237.218:8000/live/isac1/1/2.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title>PT: SPORT TV (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8809.ts</link></item>
-<item><title>PT: SPORT TV (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8809.ts</link></item>
-<item><title>PT: SPORT TV (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44716.ts</link></item>
-<item><title>PT: SPORT TV (4+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44779.ts</link></item>
-<item><title>PT: SPORT TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8810.ts</link></item>
-<item><title>PT: SPORT TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8810.ts</link></item>
-<item><title>PT: SPORT TV (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8810.ts</link></item>
-<item><title>PT: SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44849.ts</link></item>
-<item><title>PT: SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44850.ts</link></item>
-<item><title>PT: SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44851.ts</link></item>
-<item><title>PT: SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44852.ts</link></item>
-<item><title>PT: SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44853.ts</link></item>
-<item><title>PT: SPORT TV MAIS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44653.ts</link></item>
-<item><title>PT: SPORTING TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8808.ts</link></item>
-<item><title>PT: SPORTING TV (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8808.ts</link></item>
-<item><title>PT: SPORTING TV (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8808.ts</link></item>
-<item><title>PT: SPORTTV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8807.ts</link></item>
-<item><title>PT: SPORTTV 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8807.ts</link></item>
-<item><title>PT: SPORTTV 1 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8807.ts</link></item>
-<item><title>PT: SPORTTV 1 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44678.ts</link></item>
-<item><title>PT: SPORTTV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8806.ts</link></item>
-<item><title>PT: SPORTTV 1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8806.ts</link></item>
-<item><title>PT: SPORTTV 1 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8806.ts</link></item>
-<item><title>PT: SPORTTV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8805.ts</link></item>
-<item><title>PT: SPORTTV 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8805.ts</link></item>
-<item><title>PT: SPORTTV 2 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8805.ts</link></item>
-<item><title>PT: SPORTTV 2 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44677.ts</link></item>
-<item><title>PT: SPORTTV 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8804.ts</link></item>
-<item><title>PT: SPORTTV 2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8804.ts</link></item>
-<item><title>PT: SPORTTV 2 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8804.ts</link></item>
-<item><title>PT: SPORTTV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8803.ts</link></item>
-<item><title>PT: SPORTTV 3 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8803.ts</link></item>
-<item><title>PT: SPORTTV 3 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8803.ts</link></item>
-<item><title>PT: SPORTTV 3 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44676.ts</link></item>
-<item><title>PT: SPORTTV 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8802.ts</link></item>
-<item><title>PT: SPORTTV 3 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8802.ts</link></item>
-<item><title>PT: SPORTTV 3 (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8802.ts</link></item>
-<item><title>PT: SPORTTV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8801.ts</link></item>
-<item><title>PT: SPORTTV 4 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8801.ts</link></item>
-<item><title>PT: SPORTTV 4 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8801.ts</link></item>
-<item><title>PT: SPORTTV 4 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44675.ts</link></item>
-<item><title>PT: SPORTTV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/jian/jian/8800.ts</link></item>
-<item><title>PT: SPORTTV 5 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/ali03/ali03/8800.ts</link></item>
-<item><title>PT: SPORTTV 5 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://194.88.107.101:6204/live/jian/jian/8800.m3u8</link></item>
-<item><title>PT: SPORTTV 5 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/live/rahman/rahman/8800.ts</link></item>
-<item><title>PT: SPORTTV 5 (4+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44674.ts</link></item>
-<item><title>PT: SPORTTV1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49111.ts</link></item>
-<item><title>PT: SPORTTV1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49111.m3u8</link></item>
-<item><title>PT: SPORTTV2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49110.ts</link></item>
-<item><title>PT: SPORTTV2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49110.m3u8</link></item>
-<item><title>PT: SPORTTV3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49109.ts</link></item>
-<item><title>PT: SPORTTV3 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49109.m3u8</link></item>
-<item><title>PT: SPORTTV4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49108.ts</link></item>
-<item><title>PT: SPORTTV4 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49108.m3u8</link></item>
-<item><title>PT: SPORTTV5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49107.ts</link></item>
-<item><title>PT: SPORTTV5 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thebest.allgood.ws:25461/live/tonyh/tonyh/49107.m3u8</link></item>
-<item><title>PT: SPORTV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wohuogai.com:58000/live/SD_Yaquelin_Rodriguez/linecall1@hotmail.com/44673.ts</link></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/111.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV 1 (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/111.m3u8$$lsname=SPORT TV 1 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 1 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16308.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 1 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV 1 HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16308.m3u8$$lsname=SPORT TV 1 HD (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportsonline.pw/channels/pt/sporttv1.html$$lsname=SPORT TV 1 HD (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tugagratis.com/stv1.html?dll=001$$lsname=SPORT TV 1 HD (SD source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 1 FHD[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed.php?ch=live1-rbi6c$$lsname=SPORT TV 1 FHD (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/live1-rbi6c$$lsname=SPORT TV 1 FHD (SD source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/112.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV 2 (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/112.m3u8$$lsname=SPORT TV 2 (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportsonline.pw/channels/pt/sporttv2.html$$lsname=SPORT TV 2 (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 2 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16307.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 2 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV 2 HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16307.m3u8$$lsname=SPORT TV 2 HD (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://2cfazefoot.blogspot.com/search/label/Sport%20TV%202%20PT$$lsname=SPORT TV 2 HD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/113.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV 3 (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/113.m3u8$$lsname=SPORT TV 3 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 3 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16306.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 3 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV 3 HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16306.m3u8$$lsname=SPORT TV 3 HD (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportsonline.pw/channels/pt/sporttv3.html$$lsname=SPORT TV 3 HD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 4[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/114.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 4 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV 4 (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/114.m3u8$$lsname=SPORT TV 4 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 4 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16305.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 4 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV 4 HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16305.m3u8$$lsname=SPORT TV 4 HD (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportsonline.pw/channels/pt/sporttv4.html$$lsname=SPORT TV 4 HD (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://nowwatchtvlive.net/channel-tab-frame/sporttv4hd-1.php$$lsname=SPORT TV 4 HD (SD source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 5[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/115.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 5 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV 5 (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/115.m3u8$$lsname=SPORT TV 5 (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportsonline.pw/channels/pt/sporttv5.html$$lsname=SPORT TV 5 (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV 5 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16304.m3u8;streamtype=HLSRETRY&amp;name=SPORT TV 5 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV 5 HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16304.m3u8$$lsname=SPORT TV 5 HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BENFICA TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/116.m3u8;streamtype=HLSRETRY&amp;name=BENFICA TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BENFICA TV (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/116.m3u8$$lsname=BENFICA TV (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sharecast.eu/embed/btv-md504$$lsname=BENFICA TV (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://firstrowas1.cc/embed/MyPAl2yq4Y$$lsname=BENFICA TV (SD source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] BENFICA TV HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16301.m3u8;streamtype=HLSRETRY&amp;name=BENFICA TV HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=BENFICA TV HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16301.m3u8$$lsname=BENFICA TV HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORTING TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16300.m3u8;streamtype=HLSRETRY&amp;name=SPORTING TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORTING TV (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/117.m3u8;streamtype=HLSRETRY&amp;name=SPORTING TV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORTING TV (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/117.m3u8$$lsname=SPORTING TV (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 1 PT[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16299.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 1 PT [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EUROSPORT 1 PT (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/120.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 1 PT [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EUROSPORT 1 PT (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/120.m3u8$$lsname=EUROSPORT 1 PT (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] EUROSPORT 2 PT[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16298.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 2 PT [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EUROSPORT 2 PT (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/121.m3u8;streamtype=HLSRETRY&amp;name=EUROSPORT 2 PT [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=EUROSPORT 2 PT (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/121.m3u8$$lsname=EUROSPORT 2 PT (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ELEVEN SPORTS 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/1952.m3u8;streamtype=HLSRETRY&amp;name=ELEVEN SPORTS 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ELEVEN SPORTS 1 (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/1952.m3u8$$lsname=ELEVEN SPORTS 1 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ELEVEN SPORTS 1 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16314.m3u8;streamtype=HLSRETRY&amp;name=ELEVEN SPORTS 1 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ELEVEN SPORTS 1 HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16314.m3u8$$lsname=ELEVEN SPORTS 1 HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ELEVEN SPORTS 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/1953.m3u8;streamtype=HLSRETRY&amp;name=ELEVEN SPORTS 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ELEVEN SPORTS 2 (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/1953.m3u8$$lsname=ELEVEN SPORTS 2 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ELEVEN SPORTS 2 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16313.m3u8;streamtype=HLSRETRY&amp;name=ELEVEN SPORTS 2 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ELEVEN SPORTS 2 HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16313.m3u8$$lsname=ELEVEN SPORTS 2 HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ELEVEN SPORTS 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/1954.m3u8;streamtype=HLSRETRY&amp;name=ELEVEN SPORTS 3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ELEVEN SPORTS 3 (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/1954.m3u8$$lsname=ELEVEN SPORTS 3 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ELEVEN SPORTS 3 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16312.m3u8;streamtype=HLSRETRY&amp;name=ELEVEN SPORTS 3 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ELEVEN SPORTS 3 HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16312.m3u8$$lsname=ELEVEN SPORTS 3 HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ELEVEN SPORTS 4[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/1955.m3u8;streamtype=HLSRETRY&amp;name=ELEVEN SPORTS 4 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ELEVEN SPORTS 4 (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/1955.m3u8$$lsname=ELEVEN SPORTS 4 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS4.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ELEVEN SPORTS 4 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16311.m3u8;streamtype=HLSRETRY&amp;name=ELEVEN SPORTS 4 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ELEVEN SPORTS 4 HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16311.m3u8$$lsname=ELEVEN SPORTS 4 HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS4.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ELEVEN SPORTS 5[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/1956.m3u8;streamtype=HLSRETRY&amp;name=ELEVEN SPORTS 5 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ELEVEN SPORTS 5 (F4M source #05)</link>
+<link>http://5.39.64.175:8000/live/JP201841/krMbNAPcjT/1956.m3u8$$lsname=ELEVEN SPORTS 5 (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS5.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ELEVEN SPORTS 5 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16310.m3u8;streamtype=HLSRETRY&amp;name=ELEVEN SPORTS 5 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ELEVEN SPORTS 5 HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16310.m3u8$$lsname=ELEVEN SPORTS 5 HD (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS5.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] ELEVEN SPORTS 6 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://formen1.com:8080/live/ada104/1414ss/16309.m3u8;streamtype=HLSRETRY&amp;name=ELEVEN SPORTS 6 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=ELEVEN SPORTS 6 HD (F4M source #01)</link>
+<link>http://formen1.com:8080/live/ada104/1414ss/16309.m3u8$$lsname=ELEVEN SPORTS 6 HD (HTTP source #01)</link>
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_fb_6660.m3u8</link></item>
 <item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
