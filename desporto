@@ -4,25 +4,46 @@
 
 <item><title>[B][COLOR green] →→→DESPORTO←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 1[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://myappstuga.briareus.feralhosting.com/iptv/sporttv1/playlist.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 1[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7319.ts;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 1[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7324.ts;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 2[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://pina7.ddns.net:8000/aplicacao/scp4ever/11.ch;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 2[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://myappstuga.briareus.feralhosting.com/iptv/sporttv2/playlist.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 2[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7323.ts;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 3[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://pina7.ddns.net:8000/aplicacao/scp4ever/12.ch;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 3[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://myappstuga.briareus.feralhosting.com/iptv/sporttv3/playlist.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 3[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7322.ts;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 4[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://pina7.ddns.net:8000/aplicacao/scp4ever/13.ch ;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 4[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7321.ts;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 5[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://pina7.ddns.net:8000/aplicacao/scp4ever/14.ch;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]SPORT TV 5[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7320.ts;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]ELEVEN SPORTS 1[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://pina7.ddns.net:8000/aplicacao/scp4ever/16.ch;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]ELEVEN SPORTS 2[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://pina7.ddns.net:8000/aplicacao/scp4ever/17.ch;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]BTV[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://pina7.ddns.net:8000/aplicacao/scp4ever/15.ch;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]BTV[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://myappstuga.briareus.feralhosting.com/benfica;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
-<item><title> B][COLOR lawngreen]• [B][COLOR white]BTV[/B][/COLOR] </title><link>plugin://plugin.video.f4mTester/?url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7255.ts;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?url=http://myappstuga.briareus.feralhosting.com/iptv/sporttv1/playlist.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7319.ts</link></item>
+<item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7324.ts</link></item>
+<item><title>SPORT TV 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/11.ch</link></item>
+<item><title>SPORT TV 2</title><link>plugin://plugin.video.f4mTester/?url=http://myappstuga.briareus.feralhosting.com/iptv/sporttv2/playlist.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><titleSPORT TV 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7323.ts</link></item>
+<item><title>SPORT TV 3</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/12.ch</link></item>
+<item><title>SPORT TV 3</title><link>plugin://plugin.video.f4mTester/?url=http://myappstuga.briareus.feralhosting.com/iptv/sporttv3/playlist.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><title>SPORT TV 3</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7322.ts</link></item>
+<item><title>SPORT TV 4</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/13.ch </link></item>
+<item><title>SPORT TV 4</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7321.ts</link></item>
+<item><title>SPORT TV 5</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/14.ch</link></item>
+<item><title>SPORT TV 5</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7320.ts</link></item>
+<item><title>ELEVEN SPORTS 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/16.ch</link></item>
+<item><title>ELEVEN SPORTS 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/17.ch</link></item>
+<item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/15.ch</link></item>
+<item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myappstuga.briareus.feralhosting.com/benfica</link></item>
+<item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7255.ts</link></item>
 
+<item><title>PT: SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6225.ts</link></item>
+<item><title>PT: SPORT TV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6226.ts</link></item>
+<item><title>PT: SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6223.ts</link></item>
+<item><title>PT: SPORT TV 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6224.ts</link></item>
+<item><title>PT: SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6221.ts</link></item>
+<item><title>PT: SPORT TV 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6222.ts</link></item>
+<item><title>PT: SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6219.ts</link></item>
+<item><title>PT: SPORT TV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6220.ts</link></item>
+<item><title>PT: SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6217.ts</link></item>
+<item><title>PT: SPORT TV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6218.ts</link></item>
+<item><title>PT: SPORTV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/206.m3u8</link></item>
+<item><title>PT: SPORTV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/205.m3u8</link></item>
+<item><title>PT: SPORTV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/204.m3u8</link></item>
+<item><title>PT: SPORTV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/1110.m3u8</link></item>
+<item><title>PT: SPORTV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/1111.m3u8</link></item>
+<item><title>PT: ELEVEN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6314.ts</link></item>
+<item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6313.ts</link></item>
+<item><title>PT: ELEVEN SPORTS 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6312.ts</link></item>
+<item><title>PT: ELEVEN SPORTS 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6311.ts</link></item>
+<item><title>PT: ELEVEN SPORTS 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6310.ts</link></item>
+<item><title>PT: ELEVEN SPORTS 6 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6309.ts</link></item>
 
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
