@@ -25,27 +25,15 @@
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myappstuga.briareus.feralhosting.com/benfica</link></item>
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7255.ts</link></item>
 
-<item><title>PT: SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6225.ts</link></item>
-<item><title>PT: SPORT TV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6226.ts</link></item>
-<item><title>PT: SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6223.ts</link></item>
-<item><title>PT: SPORT TV 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6224.ts</link></item>
-<item><title>PT: SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6221.ts</link></item>
-<item><title>PT: SPORT TV 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6222.ts</link></item>
-<item><title>PT: SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6219.ts</link></item>
-<item><title>PT: SPORT TV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6220.ts</link></item>
-<item><title>PT: SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6217.ts</link></item>
-<item><title>PT: SPORT TV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6218.ts</link></item>
-<item><title>PT: SPORTV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/206.m3u8</link></item>
-<item><title>PT: SPORTV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/205.m3u8</link></item>
-<item><title>PT: SPORTV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/204.m3u8</link></item>
-<item><title>PT: SPORTV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/1110.m3u8</link></item>
-<item><title>PT: SPORTV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/1111.m3u8</link></item>
-<item><title>PT: ELEVEN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6314.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6313.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6312.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6311.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6310.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 6 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/danilovac/danilovac/6309.ts</link></item>
+<item><title>PT: SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31181.ts</link></item>
+<item><title>PT: SPORT TV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31182.ts</link></item>
+<item><title>PT: SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31179.ts</link></item>
+<item><title>PT: SPORT TV 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31180.ts</link></item>
+<item><title>PT: SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31177.ts</link></item>
+<item><title>PT: SPORT TV 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31178.ts</link></item>
+<item><title>PT: SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31175.ts</link></item>
+<item><title>PT: SPORT TV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31176.ts</link></item>
+
 
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
@@ -55,7 +43,7 @@
 
 <item><title> [B][COLOR green]→→→CAÇA E PESCA←←←[/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title> CACA E PESCA  </title><link>plugin://plugin.video.f4mTester/?url=http://atomtv.net:8000/live/colomba/2PsOCyR0H5/9630.ts;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><title> CACA E PESCA  </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
 <item><title> Caçavision </title><link>https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8</link></item>
 <item><title> PESCA IT OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
 <item><title> CHASSE & PÉCHE FR OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
