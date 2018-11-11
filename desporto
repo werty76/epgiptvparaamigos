@@ -6,7 +6,7 @@
 
 <item><title>[B][COLOR green] →→→DESPORTO←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?url=http://myappstuga.briareus.feralhosting.com/iptv/sporttv1/playlist.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+
 <item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7319.ts</link></item>
 <item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7324.ts</link></item>
 <item><title>SPORT TV 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/11.ch</link></item>
@@ -24,16 +24,6 @@
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/15.ch</link></item>
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myappstuga.briareus.feralhosting.com/benfica</link></item>
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvforu.com:8000/live/iptvfrance/i6If0QbLX8/7255.ts</link></item>
-
-<item><title>PT: SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31181.ts</link></item>
-<item><title>PT: SPORT TV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31182.ts</link></item>
-<item><title>PT: SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31179.ts</link></item>
-<item><title>PT: SPORT TV 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31180.ts</link></item>
-<item><title>PT: SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31177.ts</link></item>
-<item><title>PT: SPORT TV 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31178.ts</link></item>
-<item><title>PT: SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31175.ts</link></item>
-<item><title>PT: SPORT TV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31176.ts</link></item>
-
 
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
