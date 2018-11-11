@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-"<item><title>THE NIGHT COMES FOR US [</title>
-<link><urlsolve>https://streamango.com/embed/sebfkeeoapkpdkbr/</urlsolve></link>
-<thumbnail>https://www.imdb.com/title/tt6116856/mediaviewer/rm1035284992</thumbnail>
-<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
-<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]The Night Comes for Us[/B][/COLOR]
-[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Thriller
-[B][COLOR deepskyblue]Realização:[/B][/COLOR] Timo Tjahjanto
-[B][COLOR deepskyblue]Duração:[/B][/COLOR] 121 m
-[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/14
-[B][COLOR deepskyblue]Origem:[/B][/COLOR] Indonésia, Estados Unidos da América
-[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
-[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 18-10-2018
-[B][COLOR deepskyblue]Actores:[/B][/COLOR] Joe Taslim, Iko Uwais, Julie Estelle
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Após poupar a vida de uma rapariga durante um massacre, um assassino de elite da Tríade torna-se um alvo de um grupo de criminosos.</info></item>"
- 
+
 "<item><title>ALONG CAME THE DEVIL</title>
 <link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FUA2UIE8BG</page></regex></link>
 <thumbnail>https://goo.gl/zgPqMx</thumbnail>
