@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+"<item><title>THE NIGHT COMES FOR US [Leg] </title><urlsolve>https://streamango.com/embed/sebfkeeoapkpdkbr/</urlsolve>
+<thumbnail>https://www.imdb.com/title/tt6116856/mediaviewer/rm1035284992</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]The Night Comes for Us[/B][/COLOR]
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Thriller
+[B][COLOR deepskyblue]Realização:[/B][/COLOR] Timo Tjahjanto
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 121 m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/14
+[B][COLOR deepskyblue]Origem:[/B][/COLOR] Indonésia, Estados Unidos da América
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 18-10-2018
+[B][COLOR deepskyblue]Actores:[/B][/COLOR] Joe Taslim, Iko Uwais, Julie Estelle
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Após poupar a vida de uma rapariga durante um massacre, um assassino de elite da Tríade torna-se um alvo de um grupo de criminosos.</info></item>"
+ 
+"<item><title>ALONG CAME THE DEVIL</title>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FUA2UIE8BG</page></regex></link>
+<thumbnail>https://goo.gl/zgPqMx</thumbnail>
+<fanart>https://goo.gl/Z7noyh</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Along Came the Devil[/B][/COLOR]
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Terror, Thriller
+[B][COLOR deepskyblue]Realização:[/B][/COLOR] Jason DeVan
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 88 Min
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/16
+[B][COLOR deepskyblue]Origem:[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 10 de Agosto de 2018
+[B][COLOR deepskyblue]Actores:[/B][/COLOR] Jessica Barth, Madison Lintz, Matt Dallas, Bruce Davison, Kyla Deaver
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Depois de uma infância conturbada, Ashley (Sydney Sweeney) procura por uma conexão e involuntariamente convida em uma força demoníaca para se aproximar, que deixa seus entes queridos lutando por sua alma.</info>
+</item>"
+ 
+ 
+<item>
+<title>CIRCUS KANE</title>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FUP2RWUPRL</page></regex></link>
+<thumbnail>https://goo.gl/SwiqL5</thumbnail>
+<fanart>https://goo.gl/HVCv7S</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Circus Kane[/B][/COLOR]
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Terror
+[B][COLOR deepskyblue]Realização:[/B][/COLOR] Christopher Ray
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 88 Min
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/18
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2017
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 08 de Setembro de 2017
+[B][COLOR deepskyblue]Actores:[/B][/COLOR] Jonathan Lipnicki, Tim Abell, Richard Moll, Mark Christopher Lawrence, Victoria Konefal
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Um mestre de circo, convida um grupo de celebridades das redes sociais para sua casa dos horrores. A noite é um desafio em que os competidores poderão ganhar cerca de 250 mil dólares, mas logo eles percebem que não estão só competindo pelo dinheiro, mas também por suas vidas.</info>
+</item>"
+ 
+ 
+"<item>
+<title>O Demônio do Sono</title>
+<link>http://dcms2.portalhqs.net/html/content/conteudolb/filmes2018/ODEMONIODOSONODUB-ALTO.mp4</link>
+<thumbnail>https://goo.gl/akH48W</thumbnail>
+<fanart>https://goo.gl/KdvcbL</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Mara[/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR] Crime, Suspense, Terror
+[B][COLOR blue]Realização:[/B][/COLOR] Clive Tonge
+[B][COLOR blue]Duração:[/B][/COLOR] 98 Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR] M/16
+[B][COLOR blue]Ano:[/B][/COLOR] 2018
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 22 de Agosto de 2018
+[B][COLOR blue]Actores:[/B][/COLOR] Craig Conway, Javier Botet, Olga Kurylenko
+[B][COLOR blue]Sinopse:[/B][/COLOR] Ao investigar um assassinato, uma psicóloga criminal descobre a lenda de um demônio que mata as pessoas durante o sono.</info>
+</item>"
+ 
+ 
+"<item>
+<title>Culpa</title>
+<link>http://dcms2.portalhqs.net/html/content/conteudolb/filmes2018/CULPALEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/a4M8PM</thumbnail>
+<fanart>https://goo.gl/p16m8a</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Den skyldige[/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR] Crime, Drama, Suspense
+[B][COLOR blue]Realização:[/B][/COLOR]  Gustav Möller
+[B][COLOR blue]Duração:[/B][/COLOR] 85 Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR]
+[B][COLOR blue]Ano:[/B][/COLOR] 2018
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 6 de Dezenbro de 2018
+[B][COLOR blue]Actores:[/B][/COLOR]   Jakob Cedergren, Jessica Dinnage, Omar Shargawi
+[B][COLOR blue]Sinopse:[/B][/COLOR] Ao atender uma chamada de emergência, o ex-policial Asger Holm precisa correr contra o tempo para salvar uma mulher sequestrada.</info>
+</item>"
+ 
+"<item>
+<title>A Freira</title>
+<link>http://dcms2.portalhqs.net/html/content/conteudolb/filmes2018/THENUNLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/DpGwxq</thumbnail>
+<fanart>https://goo.gl/RdBhrX</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]The Nun[/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR] Terror
+[B][COLOR blue]Realização:[/B][/COLOR] Corin Hardy
+[B][COLOR blue]Duração:[/B][/COLOR] 96 Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR] M/16
+[B][COLOR blue]Ano:[/B][/COLOR] 2018
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 6 setembro de 2018
+[B][COLOR blue]Actores:[/B][/COLOR]   Demian Bichir, Jonas Bloquet, Taissa Farmiga
+[B][COLOR blue]Sinopse:[/B][/COLOR]Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre atormentado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento num campo de batalha.</info>
+</item>"
+ 
+ 
+"<item>
+<title>Mamma Mia! Lá Vamos Nós de Novo</title>
+<link>http://cdsm2.portalhqs.net/html/conteudo/delivery/filmes2018/MAMMAMIALEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/7F7BZg</thumbnail>
+<fanart>https://goo.gl/rKhFHe</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Mamma Mia! Here We Go Again[/B][/COLOR]
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Comédia, Musical, Romance
+[B][COLOR deepskyblue]Realização:[/B][/COLOR]   Ol Parker
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 114 m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/12
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 19 de julho de 2018
+[B][COLOR deepskyblue]Actores:[/B][/COLOR]   Amanda Seyfried, Lily James, Meryl Streep
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Um ano após a morte de Donna (Meryl Streep), sua filha Sophie (Amanda Seyfried) está prestes a reinaugurar o hotel da mãe, agora totalmente reformado. Para tanto convida seus três “pais”, Harry (Colin Firth), Sam (Pierce Brosnan) e Bill (Stellan Skarsgard) e as eternas amigas da mãe, Rosie (Julie Walters) e Tanya (Christine Baranski), ao mesmo tempo em que precisa lidar com a distância do marido Sky (Dominic Cooper), que está fazendo um curso de hotelaria em Nova York. O reencontro serve para desenterrar memórias sobre a juventude de Donna (Lily James), no final dos anos 70, quando ela resolve se estabelecer na Grécia.</info>
+</item>"
+ 
+"<item>
+<title>Táxi 5</title>
+<link>http://dcms2.portalhqs.net/html/conteudo/delivery/filmes2018/TAXI05LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/j7Ju9g</thumbnail>
+<fanart>https://goo.gl/m9UQPS</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Taxi 5[/B][/COLOR]
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Comédia
+[B][COLOR deepskyblue]Realização:[/B][/COLOR] Franck Gastambide
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 102 m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/12
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 21 de junho de 2018
+[B][COLOR deepskyblue]Actores:[/B][/COLOR]  Bernard Farcy, Franck Gastambide, Malik Bentalha
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Sylvain Marot, um super policial parisiense transferido para a polícia de Marselha, é designado para derrubar um grupo de assaltantes italianos que dirigem uma poderosa Ferrari, junto com Eddy Maklouf, um terrível motorista, mas o único a recuperar o lendário taxi branco.</info>
+</item>"
+ 
+"<item>
+<title>Corredor Assombrado</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/DOWNADARKHALLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/74i3LY</thumbnail>
+<fanart>https://goo.gl/EZyHhh</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Down a Dark Hall[/B][/COLOR]
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Fantasia, Suspense
+[B][COLOR deepskyblue]Realização:[/B][/COLOR]  Rodrigo Cortés
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 96 m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/13
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 3 de agosto de 2018
+[B][COLOR deepskyblue]Actores:[/B][/COLOR]  AnnaSophia Robb, Isabelle Fuhrman, Uma Thurman
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] A adolescente Kit Gordy fica muito feliz quando é aceita na prestigiosa Blackboard Boarding School, mas logo ela percebe que a instituição não é exatamente o que ela pensava, já que a diretora possui estranhos poderes sobrenaturais.</info>
+</item>"
+ 
+<item>
+<title>Jogada Final</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/FINALSCORELEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/Bn5eYf</thumbnail>
+<fanart>https://goo.gl/DL2Kf2</fanart>
+<info>Um ex-soldado luta sozinho contra terroristas que mantêm sua sobrinha como refém em um jogo de futebol.</info>
+</item>
+ 
+<item>
+<title>Black Water</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/BLACKWATERLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/FTSzQz</thumbnail>
+<fanart>https://goo.gl/7B5QFW</fanart>
+<info>Um agente infiltrado (Jean-Claude Van Damme) acorda para descobrir que está preso em um obscuro submarino da CIA.</info>
+</item>
+ 
+ 
+<item>
+<title>Hotel Artemis</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/HOTELARTEMISLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/HjTqQV</thumbnail>
+<fanart>https://goo.gl/Y6Rc8j</fanart>
+<info>Num futuro próximo, no subsolo de um hospital em Los Angeles, os criminosos mais sinistros da cidade recebem cuidados especiais. A enfermeira (Jodie Foster), que controla o lugar, acaba descobrindo que um de seus pacientes está lá para cometer um assassinato.</info>
+</item>
+ 
+<item>
+<title>Pequena Grande Vida</title>
+<link>http://dcus1.portalhqs.net/html/content/httpdelivery/filmes2018/PEQUENAGRANDEVIDA2018LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/gguQ1W</thumbnail>
+<fanart>https://goo.gl/mv5vxH</fanart>
+<info>Na cidade de Omaha, as pessoas descobrem a possibilidade de reduzir de tamanho para uma versão minúscula, a fim de terem menos gastos vivendo em pequenas comunidades que se espalham pelo mundo. Um homem (Matt Damon) aceita passar por esse processo. Selecionado para o Festival Internacional de Cinema de Toronto em 2017.</info>
+</item>
+ 
+<item>
+<title>A Grande Jogada</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/AGRANDEJOGADALEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/57DhgW</thumbnail>
+<fanart>https://goo.gl/Eq7W8G</fanart>
+<info>Após perder a chance de participar dos Jogos Olímpicos devido a uma fatalidade que resultou em um grave acidente, a esquiadora Molly Bloom (Jessica Chastain) decide tirar um ano de folga dos estudos e ir trabalhar como garçonete em Los Angeles. Lá conhece Dean Keith (Jeremy Strong), um produtor de cinema que decide contratá-la como assistente. Logo Molly passa a coordenar jogos de cartas clandestinos, organizados por Dean, que conta com clientes muito ricos e famosos. Fascinada com o ambiente e a possibilidade de enriquecer facilmente, Molly começa a prestar atenção a todos os detalhes para que ela própria possa organizar jogos do tipo.</info>
+</item>
+ 
+<item>
+<title>Maverick Manhunt Brazil</title>
+<link>http://dcus1.portalhqs.net/html/content/httpdelivery/filmes2018/MAVERICK16-ALTO.mp4</link>
+<thumbnail>https://goo.gl/WVGZ5N</thumbnail>
+<fanart>https://goo.gl/9NTULU</fanart>
+<info>Jack Maverick (Emiliano Ruschel), acaba de iniciar uma nova e difícil missão: investigar uma estranha série de suicídios na cidade de Passo Fundo, no sul do Brasil. A situação fica complicada quando ele descobre que os acontecimentos estão relacionados ao tráfico de drogas, fazendo parte de uma gigantesca conspiração envolvendo um conglomerado internacional.</info>
+</item>
+ 
+<item>
+<title>Oito Mulheres e um Segredo</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/OCEANS8LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/smhxD8</thumbnail>
+<fanart>https://goo.gl/Sd3ycX</fanart>
+<info>Recém-saída da prisão, Debbie Ocean (Sandra Bullock) logo procura sua ex-parceira Lou (Cate Blanchett) para realizar um elaborado assalto: roubar um colar de diamantes no valor de US$ 150 milhões, que a Cartier mantém sempre em um cofre. O plano é convencer a empresa a emprestá-lo para que a estrela Daphne Kluger (Anne Hathaway) use a joia no badalado Met Gala, um dos eventos mais chiques e vistosos de Nova York. Para tanto, Debbie e Lou reúnem uma equipe composta apenas por mulheres: Nine Ball (Rihanna), Amita (Mindy Kaling), Constance (Awkwafina), Rose (Helena Bonham Carter) e Tammy (Sarah Paulson).</info>
+</item>
+ 
+<item>
+<title>Reprisal</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/REPRISAL-ALTO.mp4</link>
+<thumbnail>https://goo.gl/MEJasR</thumbnail>
+<fanart>https://goo.gl/dZ4zhh</fanart>
+<info>Depois de ser atacada por uma gangue e abandonada para morrer, Katherine Harlow (Abigail Spencer) sobrevive e assume uma nova identidade, chamada Dori Dearie. Quando seu sobrinho é sequestrado pelo mesmo grupo de criminosos que tentou matá-la, ela inicia uma jornada de resgate e vingança contra seus agressores.</info>
+</item>
+ 
+ 
+<item>
+<title>A Primeira Noite de Crime</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/THEFIRSTPURGELEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/k3Ni1q</thumbnail>
+<fanart>https://goo.gl/K7mP2g</fanart>
+<info>Quando um novo partido político, o New Founding Fathers of America, ascende, é anunciado um novo experimento social. São 12 horas sem lei, em que o governo incentiva as pessoas a perderem toda e qualquer inibição. A participação não é obrigatória, mas como estímulo, 5.000 dólares é dado para quem fica na cidade, e mais prêmios para quem participa.</info>
+</item>
+ 
+<item>
+<title>Verdade ou Desafio</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/VERDADEOUDESAFIOLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/Psve4j</thumbnail>
+<fanart>https://goo.gl/t1T4pd</fanart>
+<info>Olivia e seu grupo de amigos de férias no México são convencidos a brincar de “Verdade ou Desafio”, em um prédio em ruínas, pelo misterioso Carter. Ao passar a maldição para os recém-conhecidos, Carter alerta o grupo sobre os riscos e regras do jogo, mas não é levado a sério até que essa presença demoníaca começa a assombrar os participantes — encurralados em uma trama de chantagens e perigos que parece conduzi-los a uma única saída: a morte</info>
+</item>
+ 
+<item>
+<title>Heavy Trip</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/HEAVYTRIPLEG-ALTO.mp41</link>
+<thumbnail>https://goo.gl/TDQduj</thumbnail>
+<fanart>https://goo.gl/L6ZK8o</fanart>
+<info>Um jovem está tentando superar seus medos, levando sua banda de Heavy Metal para o maior festival de metal na Noruega. A jornada inclui Heavy Metal, roubo de sepulturas, céu dos Vikings e um conflito armado entre a Finlândia e a Noruega</info>
+</item>
+ 
+<item>
+<title>Black ’47</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/BLACK47LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/CCiYzT</thumbnail>
+<fanart>https://goo.gl/81ekJy</fanart>
+<info>Na Irlanda do século XIX, no período da Grande Fome, um guarda irlandês, que tem lutado pelo exército britânico no exterior, decide abandonar seu posto para se reunir com a família. Mesmo tendo experimentado os horrores da guerra, ele fica chocado com a destruição que a fome causou no seu país, gerando certa brutalização das pessoas e até da própria família.</info>
+</item>
+ 
+<item>
+<title>The Gamechangers</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/THEGAMECHANGERSLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/p6Bvsm</thumbnail>
+<fanart>https://goo.gl/DNE37N</fanart>
+<info>Sam Houser (Daniel Radcliffe) é um designer de jogos de videogame que, juntamente com sua talentosa equipe, cria um jogo polêmico e revolucionário: Grand Theft Auto. Através de um mundo virtual repleto de criminosos e armas letais, os jogadores precisam cometer crimes como matar policiais, roubar carros e atropelar pessoas. Não demora muito para que o jogo se torne um sucesso comercial e também receba muitas críticas devido ao grau de violência e à mensagem transmitida.</info>
+</item>
+ 
+<item>
+<title>Homem-Formiga</title>
+<link>http://dcus1.portalhqs.net/html/content/httpdelivery/filmes2017/ANTMANLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/gN1XiQ</thumbnail>
+<fanart>https://goo.gl/vGhvhY</fanart>
+<info>Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.</info>
+</item>
+ 
+<item>
+<title>Bad Investigate (PT-PT)</title>
+<link>https://str16.vidoza.net/x4lfzsgvo5zpvjumxdluqxkj5dghttf4vadlcqjmdazcx23wdiufkfzunrna/v.mp4</link>
+<thumbnail>https://goo.gl/NZBsNH</thumbnail>
+<fanart>https://goo.gl/1JNf2g</fanart>
+<info>Quando ROMEU, um subcomissário da polícia corrupto-até-à-medula (JD Duarte) obriga dois canastrões que tem no bolso, ALEX e CID (Luís Ismael e Francisco Menezes), a ludibriar o agente SAM FOLKES do FBI (Eric da Silva), o caldo está internacionalmente entornado. A sua missão de perseguir XAVIER, um perigosíssimo traficante em rota de vingança (Enrique Arce), tem tudo para correr mal.</info>
+</item>
+ 
+<item>
+<title>Homem-Formiga e a Vespa</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/HOMIFURMIGA2LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/WBBXvH</thumbnail>
+<fanart>https://goo.gl/TcaCZ4</fanart>
+<info>Após ter ajudado o Capitão América na batalha contra o Homem de Ferro na Alemanha, Scott Lang (Paul Rudd) é condenado a dois anos de prisão domiciliar, por ter quebrado o Tratado de Sokovia. Diante desta situação, ele foi obrigado a se aposentar temporariamente do posto de super-herói. Restando apenas três dias para o término deste prazo, ele tem um estranho sonho com Janet Van Dyne (Michelle Pfeiffer), que desapareceu 30 anos atrás ao entrar no mundo quântico em um ato de heroísmo. Ao procurar o dr. Hank Pym (Michael Douglas) e sua filha Hope (Evangeline Lilly) em busca de explicações, Scott é rapidamente cooptado pela dupla para que possa ajudá-los em sua nova missão: construir um túnel quântico, com o objetivo de resgatar Janet de seu limbo.</info>
+</item>
+ 
+<item>
+<title>Crise na Terra X – O Filme</title>
+<link>http://dcus1.portalhqs.net/html/content/httpdelivery/filmes2017/CRISENATERRAX-ALTO.mp4</link>
+<thumbnail>https://image.ibb.co/cjKjbz/crise_na_terra_x.png</thumbnail>
+<fanart>https://image.ibb.co/cjKjbz/crise_na_terra_x.png</fanart>
+<info>O casamento de Barry (Grant Gustin) e Iris (Candice Patton) reúne todo o grupo, mas as coisas acabam fora de controle quando vilões da Terra-X atacam a cerimônia. Todos os super-heróis do universo alternativo se unem para salvar seus aliados, como o Cidadão Frio (Wentworth Miller), The Ray (Russell Tovey), Felicity Smoak (Emily Bett Rickards), Iris West e Alex Danvers (Chyler Leigh). Todos tentam derrotar os mais formidáveis vilões. Enquanto isso, os maiores heróis da Terra – Arqueiro Verde (Stephen Amell), Flash, Supergirl (Melissa Benoist) e Canário Branco (Caity Lotz) – lideram suas equipes para salvar o mundo.</info>
+</item>
+ 
+<item>
+<title>Fragmentado</title>
+<link>http://dcus3.portalhqs.net/html/content/sobdemanda/netcine-bucket/filmes2016/SPLITLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/fmW8Ap</thumbnail>
+<fanart>https://goo.gl/YJEuFi</fanart>
+<info>Kevin (James McAvoy) possui 23 personalidades distintas e consegue alterná-las quimicamente em seu organismo apenas com a força do pensamento. Um dia, ele sequestra três adolescentes que encontra em um estacionamento. Vivendo em cativeiro, elas passam a conhecer as diferentes facetas de Kevin e precisam encontrar algum meio de escapar.</info>
+</item>
+ 
+<item>
+<title>Prece ao Nascer do Dia</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/APLAYERBEFOREDAWNLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/kqTs6A</thumbnail>
+<fanart>https://goo.gl/FgfRgH</fanart>
+<info>Encarcerado em uma das prisões mais bárbaras e mortais do planeta, a Klong Prem, na Tailândia, Billy Moore (Joe Cole) está buscando meios para se manter vivo e passar por todos aqueles pesadelos. Sendo assim, para sobreviver, decide adentrar no mundo do Muay Thai,  sem nem imaginar que iniciar esta arte marcial viria a transformar sua vida para sempre.</info>
+</item>
+ 
+<item>
+<title>Hereditário</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/HEREDITARYLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/EWqPSu</thumbnail>
+<fanart>https://goo.gl/88H1AZ</fanart>
+<info>Após a morte de Ellen, a matriarca da família Graham, a família de sua filha começa a descobrir segredos cada vez mais aterrorizantes sobre seus ancestrais. Quanto mais eles descobrem sobre o passado, mais eles tentam se livrar do terrível e infeliz destino que herdaram.</info>
+</item>
+ 
+<item>
+<title>The Meg</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/THEMEGLEG-BAIXO.mp4</link>
+<thumbnail>https://goo.gl/SURG91</thumbnail>
+<fanart>https://goo.gl/Azyd8v</fanart>
+<info>Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, oceanógrafo chinês (Winston Chao) contrata Jonas Taylor (Jason Statham), um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.</info>
+</item>
+ 
+ 
+<item>
+<title>Missão: Impossível – Efeito Fallout</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/MISSAOIMPOSSIVELFALLOUT-ALTO.mp4</link>
+<thumbnail>https://goo.gl/3nfJxg</thumbnail>
+<fanart>https://goo.gl/zXWNYh</fanart>
+<info>As melhores intenções muitas vezes voltam para assombrá-lo. Em MISSÃO:IMPOSSÍVEL - EFEITO FALLOUT, Ethan Hunt (Tom Cruise) e sua equipe do IMF (Alec Baldwin, Simon Pegg, Ving Rhames), na companhia de aliados conhecidos (Rebecca Ferguson, Michelle Monaghan), estão em uma corrida contra o tempo depois que uma missão dá errado. Henry Cavill, Angela Basset e Vanessa Kirby são as novidades do elenco, com Christopher McQuarrie de volta à direção.</info>
+</item>
+ 
+<item>
+<title>Rota de Fuga 2</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/ESCAPEPLAN2HADESLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/F4Etjj</thumbnail>
+<fanart>https://goo.gl/etVWF9</fanart>
+<info>O especialista Ray Breslin (Sylvester Stallone) é responsável por testar a integridade das penitenciárias de segurança máxima dos Estados Unidos. Ele precisa conhecer a planta, entender a rotina dentro da prisão e contar com uma ajuda interna ou externa para a fuga. Mas agora, Ray tem de entrar na penitenciária conhecida como Zoológico, para ajudar um membro se sua equipe a escapar de lá.</info>
+</item>
+ 
+<item>
+<title>A Maldição da Casa Winchester</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/WINCHESTERLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/vxxY1P</thumbnail>
+<fanart>https://goo.gl/44hzQW</fanart>
+<info>Sarah Winchester (Helen Mirren) é herdeira de uma empresa de armas de fogo que está convicta de que é assombrada pelas almas mortas através do rifle da família Winchester. Após as repentinas mortes do marido e filho, ela decide construir uma mansão para afastar os espíritos. Quando o psiquiatra Eric Price (Jason Clarke) parte para avaliar o estado psicológico de Sarah, ele percebe que talvez a obsessão dela nãos seja tão insana assim.</info>
+</item>
+ 
+<item>
+<title>Jumanji: Bem-Vindo à Selva</title>
+<link>http://dcus3.portalhqs.net/html/content/httpdelivery/filmes2018/JUMANJI2018LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/N7XPx5</thumbnail>
+<fanart>https://goo.gl/D3rRsy</fanart>
+<info>Quatro adolescentes encontram um videogame cuja ação se passa numa floresta tropical. Empolgados com o jogo, eles escolhem seus avatares para o desafio, mas um evento inesperado faz com que sejam transportados para dentro do universo fictício, transformando-se nos personagens da aventura.</info>
+</item>
+ 
+<item>
+<title>O Capitão</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/DERHAUPTMANNLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/XUruk1</thumbnail>
+<fanart>https://goo.gl/7BngH8</fanart>
+<info>Nos últimos instantes da Segunga Guerra Mundial, um indivíduo de 19 anos esfarrapado e faminto rouba a farda de uma capitão. Representando um oficial, ele consegue reunir um grupo de desertores que começa a matar e saquear através do caminho em uma alemanha nazista.</info>
+</item>
+ 
+<item>
+<title>Dogman</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/DOGMANLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/ZTTNj3</thumbnail>
+<fanart>https://goo.gl/Uaew84</fanart>
+<info>Marcello (Marcello Fonte), um humilde funcionário  da petshop “Dogman”, localizada na periferia de Roma, se envolveu em um dos piores crimes já registrados na história da Itália. Dominado por um sentimento de vingança incontrolável, ele decidiu torturar, durante horas, um ex boxeador que atormentava todos os moradores do bairro em que vivia.</info>
+</item>
+ 
+ 
+<item>
+<title>Perda Total</title>
+<link>http://dcus3.portalhqs.net/html/content/httpdelivery/filmes2018/PERDATORALDUB-BAIXO.mp4</link>
+<thumbnail>https://goo.gl/oEstb9</thumbnail>
+<fanart>https://goo.gl/BweRxo</fanart>
+<info>Os desajeitados Alexx (Adam Devine), Darren (Anders Holm) e Joel (Blake Anderson) são três colegas que trabalham em um hotel em Los Angeles e são considerados verdadeiros perdedores. Mas quando o hotel é tomado por bandidos durante uma festa repleta de celebridades, eles precisam se tornar heróis... ou alguma coisa parecida com isso.</info>
+</item>
+ 
+<item>
+<title>Homem-Aranha: De Volta ao Lar</title>
+<link>http://dcus3.portalhqs.net/html/content/httpdelivery/filmes2017/ARANHAHOMEMLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/KPLkxy</thumbnail>
+<fanart>https://goo.gl/vtNNkB</fanart>
+<info>Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele.</info>
+</item>
+ 
+<item>
+<title>Gigante</title>
+<link>http://dcus3.netcine.tv/html/content/httpdelivery/filmes2018/GIGANTE2018LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/WHzGP9</thumbnail>
+<fanart>https://goo.gl/S4fxkc</fanart>
+<info>Depois de participar de uma guerra civil, Martín volta para casa e descobre que seu irmão mais novo, Joaquín, está muito mais alto do que o habitual. Convencido de que todos querem pagar para ver o maior homem da Terra, os irmãos embarcam em uma longa jornada pela Europa, na qual a ambição, o dinheiro e a fama mudarão para sempre o destino da família.</info>
+</item>
+ 
+<item>
+<title>Velocidade Furiosa 8</title>
+<link>http://dcus3.portalhqs.net/html/content/httpdelivery/filmes2017/VELOZES2017LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/cinbtY</thumbnail>
+<fanart>https://goo.gl/Dh1apc</fanart>
+<info>Depois que Brian e Mia se aposentaram, e o resto da equipe foi exonerado, Dom e Letty estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado volta com tudo quando uma mulher misteriosa faz com que Dom retorne ao mundo do crime e da velocidade.</info>
+</item>
+ 
+<item>
+<title>Liga da Justiça</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/LIGADAJUSTICALEGHD2018-ALTO.mp4</link>
+<thumbnail>https://goo.gl/8PPq1Q</thumbnail>
+<fanart>https://goo.gl/uC6C7g</fanart>
+<info>Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman (Henry Cavill), Bruce Wayne (Ben Affleck) convoca sua nova aliada Diana Prince (Gal Gadot) para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes – Batman, Mulher-Maraviha, Aquaman (Jason Momoa), Cyborg (Ray Fisher) e Flash (Ezra Miller) -, poderá ser tarde demais para salvar o planeta de um catastrófico ataque.</info>
+</item>
+ 
+<item>
+<title>Verónica</title>
+<link>http://dcus3.portalhqs.net/html/content/httpdelivery/filmes2018/VERONICA2018LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/e3X5F2</thumbnail>
+<fanart>https://goo.gl/Ncdcy7</fanart>
+<info>Madrid, década de 1990. Depois de fazer um Quija com amigos, uma adolescente é assediada por perigosas presenças sobrenaturais que ameaçam prejudicar toda a família. Inspirado por aterradores arquivos policiais nunca resolvidos.</info>
+</item>
+ 
+<item>
+<title>Círculo de Fogo 2</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/PACIFIC2LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/4fWEa1</thumbnail>
+<fanart>https://goo.gl/HTJYc4</fanart>
+<info>Filho de Stacker Pentecost (Idris Elba), responsável pelo comando do programa Jaeger, Jake (John Boyega) era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados. Perseguido após não encontrar uma peça valiosa, ele encontra o esconderijo da jovem Amara (Cailee Spaeny), que clandestinamente está construindo um Jaeger de porte pequeno. Ambos tentam fugir usando o robô, mas acabam sendo capturados. Para escapar da prisão, eles são enviados ao treinamento de pilotos Jaeger. Lá Jake reencontra sua irmã de criação Mako (Rinko Kikuchi), uma heroína da época do combate contra os kaiju, que tenta lhe ajudar a se areadaptar ao ambiente militar.</info>
+</item>
+ 
+<item>
+<title>I Kill Giants</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/IKILLGIANTSLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/oZ9k1E</thumbnail>
+<fanart>https://goo.gl/Hgs3q6</fanart>
+<info>A jovem e problemática Barbara (Madison Wolfe) tenta escapar da difícil realidades que é sua vida, e vai  para um mundo mágico onde acaba lutando com monstros gigantes. Mas, sera que ela é a única na cidade que consegue ver o mundo da fantasia que existe? Ou será que são apenas delírios?</info>
+</item>
+ 
+<item>
+<title>Mulher-Maravilha</title>
+<link>http://dcus3.portalhqs.net/html/content/httpdelivery/filmes2018/WW2017LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/ZxoMbP</thumbnail>
+<fanart>https://goo.gl/cqRuYh</fanart>
+<info>Treinada desde cedo para ser uma guerreira imbatível, Diana Prince (Gal Gadot) nunca saiu da paradisíaca ilha em que é reconhecida como princesa das Amazonas. Quando o piloto Steve Trevor (Chris Pine) se acidenta e cai numa praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com todas as lutas, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra.</info>
+</item>
+ 
+<item>
+<title>Conspiração Terrorista</title>
+<link>http://dcus3.portalhqs.net/html/content/httpdelivery/filmes2018/CONSPIRACAOTERRORISTALEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/AeE3gQ</thumbnail>
+<fanart>https://goo.gl/KdTH5d</fanart>
+<info>Alice Racine é um ex-agente da CIA especializada em interrogatórios. Depois de passar um tempo afastada de suas antigas funções, ela é chamada para uma operação especial: extrair informações de um homem capturado pela agência a fim de evitar um ataque biológico planejado por um grupo terroristas. No entanto, durante o processo, ela descobre ser vítima de uma armadilha e precisa agir por conta própria para que consiga salvar sua vida e a cidade de Londres.</info>
+</item>
+ 
+<item>
+<title>Parmanu: The Story of Pokhran</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/PARMANULEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/bDNQQa</thumbnail>
+<fanart>https://goo.gl/YtTXS7</fanart>
+<info>Um olhar para a segunda série de testes nucleares confidenciais da India em Pokhran liderados pelo Dr. APJ Abdul Kalam, durante o tempo de posse de Atal PM Bihari Vajpayee.</info>
+</item>
+ 
+<item>
+<title>Arranha-Céu: Coragem Sem Limite</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/SKYSCRAPER2018LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/UiY2ze</thumbnail>
+<fanart>https://goo.gl/y7qLSF</fanart>
+<info>Responsável pela segurança de arranha-céus, o veterano de guerra americano e ex-líder da operação de resgate do FBI, Will Ford (Dwayne Johnson), é acusado de ter colocado o edifício mais alto e mais seguro da China em chamas. Cabe ao agente achar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome.</info>
+</item>
+ 
+<item>
+<title>Desejo de Matar</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/DESEJODEATHLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/y7ix6g</thumbnail>
+<fanart>https://goo.gl/hnExuW</fanart>
+<info>Após ter sua casa invadida e esposa assassinada por bandidos Paul (Bruce Willis) passa a acompanhar a polícia nas investigações para capturar os criminosos. Em poucos dias ele percebe que a polícia jamais encontrará os assassinos. Sem opções, ele terá que se aventurar por caminhos obscuros em uma jornada pessoal em busca de justiça.</info>
+</item>
+ 
+<item>
+<title>Braven</title>
+<link>http://dcus3.portalhqs.net/html/content/httpdelivery/filmes2018/BRAVEN18LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/ntmGoF</thumbnail>
+<fanart>https://goo.gl/uuh4po</fanart>
+<info>Um lenhador defende a sua família de um grupo de traficantes perigosos.</info>
+</item>
+ 
+<item>
+<title>Summer of 84</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/SUMMERLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/mBPZ9Y</thumbnail>
+<fanart>https://goo.gl/ZEZmSK</fanart>
+<info>Ipswich, Oregon. Os adolescentes Davey, Woody, Eaton e Farraday aproveitam os dias do verão de 1984. Mas Davey está invocado com a ideia de que seu vizinho, um policial, possa ser um serial killer. É quando os amigos decidem investigar se isso realmente é verdade.</info>
+</item>
+ 
+<item>
+<title>Um Lugar Silencioso</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/AQUIETPLAC4LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/oxHEZz</thumbnail>
+<fanart>https://goo.gl/Ke7EUi</fanart>
+<info>Em uma fazenda dos Estados Unidos, uma família do meio-oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.</info>
+</item>
+ 
+<item>
+<title>Sobrenatural: A Última Chave</title>
+<link>http://dcus3.portalhqs.net/html/content/httpdelivery/filmes2018/INSIDIOUS4LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/Xxitnw</thumbnail>
+<fanart>https://goo.gl/MrdE3X</fanart>
+<info>Elise Rainier é chamada para resolver o caso de uma assombração no Novo México, mas descobre que a atividade sobrenatural está acontecendo justamente na casa em que ela passou a infância. Enquanto tenta resolver o caso do morador de sua antiga casa, ela será obrigada a confrontar vários fantasmas e demônios de seu passado.</info>
+</item>
+ 
+<item>
+<title>Rampage – Destruição Total</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/RAMPAGELEG2018-ALTO.mp4</link>
+<thumbnail>https://goo.gl/vzK82K</thumbnail>
+<fanart>https://goo.gl/TRnudF</fanart>
+<info>Davis Okoye é um primatologista (Dwayne Johnson), um homem recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora Okoye tenta conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global.</info>
+</item>
+ 
+<item>
+<title>O Passageiro</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/THECOMMUTERLEGV2-ALTO.mp4</link>
+<thumbnail>https://goo.gl/Vfz5HR</thumbnail>
+<fanart>https://goo.gl/uMW6BR</fanart>
+<info>Durante o seu trajeto usual de volta para casa, um vendedor de seguros (Liam Neeson) é forçado por uma estranha misteriosa (Vera Farmiga) a descobrir a identidade de um dos passageiros do trem em que se encontra antes da última parada. Com a rotina quebrada, o homem se encontra no meio de uma conspiração criminosa.</info>
+</item>
+ 
+<item>
+<title>Corrida Mortal 4</title>
+<link>http://dcus3.portalhqs.net/html/content/httpdelivery/filmes2018/DEATHRACE4-ALTO.mp4</link>
+<thumbnail>https://goo.gl/6NWtW6</thumbnail>
+<fanart>https://goo.gl/mmdEHU</fanart>
+<info>Após um ataque fracassado contra o lendário detento, Frankenstein, um especialista das forças especiais se infiltra numa prisão federal de segurança máxima com um objetivo de se juntar à corrida mortal e matar Frankenstein</info>
+</item>
+ 
+<item>
+<title>A Múmia</title>
+<link>http://dcus3.portalhqs.net/html/content/httpdelivery/filmes2017/AMUMIA2017LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/MngJJB</thumbnail>
+<fanart>https://goo.gl/gxPyAX</fanart>
+<info>Na Mesopotâmia, séculos atrás, Ahmanet (Sofia Boutella) tem seus planos interrompidos justamente quando está prestes a invocar Set, o deus da morte, de forma que juntos possam governar o mundo.  Mumificada, ela é aprisionada dentro de uma tumba. Nos dias atuais, o local é descoberto por acidente por Nick Morton (Tom Cruise) e Chris Vail (Jake Johnson), saqueadores de artefatos antigos que estavam na região em busca de raridades. Ao lado da pesquisadora Jenny Halsey (Annabelle Wallis), eles investigam a tumba recém-descoberta e, acidentalmente, despertam Ahmanet. Ela logo elege Nick como seu escolhido e, a partir de então, busca a adaga de Set para que possa invocá-lo no corpo do saqueador.</info>
+</item>
+ 
+<item>
+<title>Os Escravos de Satanás</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/SATANSSLAVESLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/HHcRrG</thumbnail>
+<fanart>https://goo.gl/okYDsq</fanart>
+<info>Rini (Tara Basro), uma jovem de 20 anos, mora em uma casa com toda a sua família, incluindo sua avó e mãe que estão doentes. Após um pesadelo, ela descobre que sua mãe morreu. Logo depois do funeral, a família começa a experienciar atividade paranormais, envolvendo uma figura que parece com </info>
+</item>
+ 
+<item>
+<title>Han Solo: Uma História Star Wars</title>
+<link>http://dcus3.portalhqs.net/html/conteudo/delivery/filmes2018/SOLO2018LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/KVLk6j</thumbnail>
+<fanart>https://goo.gl/4zECBH</fanart>
+<info>Em dificuldade financeira, o piloto Han Solo (Alden Ehrenreich) e sua namorada Qi’ra (Emilia Clarke) buscam algum trabalho. Eles conseguem pôr as mãos em uma substância valiosa, mas perigosa, que acaba levando à perseguição do Império e à separação entre os dois. Preocupado, Han usa toda a sua esperteza para se infiltrar num plano arriscado, mas que pode render a oportunidade de voltar à terra natal e reencontrar a sua amada. Caso ele falhe, vai ter que prestar contas ao perigoso Dryden Vos (Paul Bettany). No caminho, o piloto encontra parceiros importantes, como Chewbacca (Joonas Suotamo) e Lando Calrissian (Donald Glover), o proprietário original da Millennium Falcon.</info>
+</item>
+ 
+<item>
+<title>Deadpool 2</title>
+<link>http://dcms2.portalhqs.net/html/content/delivery/filmes2018/DEADP00L2LEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/M6X6tn</thumbnail>
+<fanart>https://goo.gl/B6oUAy</fanart>
+<info>Sequência das aventuras do Mercenário Tagarela, interpretado por Ryan Reynolds. Na história original, o herói adquire superpoderes após uma experiência científica, e decide se vingar da pessoa responsável por sequestrar sua namorada.</info>
+</item>
+ 
+<item>
+<title>Deadpool</title>
+<link>http://dcus2.portalhqs.net/html/content/sobdemanda/netcine-bucket/filmes2016/deadpool/LEG/2016-ALTO.mp4</link>
+<thumbnail>https://goo.gl/XGvme3</thumbnail>
+<fanart>https://goo.gl/uVM2f7</fanart>
+<info>Slade Wilson (Ryan Reynolds) é diagnosticado com câncer em sua próstata, fígado e cérebro, e um tratamento comum pode não salvá-lo. Um homem engravatado aparece pra ele com uma proposta de curar seu câncer definitivamente, e ainda irá torna-lo em algo que a maioria dos homens só sonha em ser. O acordo pode não sair como 100%, e é nesse momento que nasce o Deadpool. Um aventura romântica de quebrar a quarta parede.</info>
+</item>
+ 
+<item>
+<title>Vingadores: Guerra Infinita</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/AVENGERSIWLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/7w8jkr</thumbnail>
+<fanart>https://cdn.cinepop.com.br/2017/10/vingadores3_39-750x380.jpg</fanart>
+<info>Thanos (Josh Brolin) enfim chega à Terra, disposto a reunir as Joias do Infinito. Para enfrentá-lo, os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes.</info>
+</item>
+ 
+<item>
+<title>Jurassic World: Reino Ameaçado</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/JURASSICWFK-ALTO.mp4</link>
+<thumbnail>https://goo.gl/QJmC2t</thumbnail>
+<fanart>https://goo.gl/uwPHZe</fanart>
+<info>Owen e Claire retornam à ilha Nublar para salvar os dinossauros restantes de um vulcão que está prestes a entrar em erupção. Eles encontram novas e aterrorizantes raças de dinossauros gigantes ao descobrir uma conspiração que ameaça todo o planeta.</info>
+</item>
+ 
+ 
+<item>
+<title>Tomb Raider – A Origem</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/TOMBRAIDERLEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/UzdxJF</thumbnail>
+<fanart>https://goo.gl/zaBemp</fanart>
+<info>Aos 21 anos, Lara Croft (Alicia Vikander) leva a vida fazendo entregas de bicicleta pelas ruas de Londres, se recusando a assumir a companhia global do seu pai desaparecido (Dominic West) há sete anos, ideia que ela se recusa a aceitar. Tentando desvendar o sumiço do pai, ela decide largar tudo para ir até o último lugar onde ele esteve e inicia uma perigosa aventura numa ilha japonesa.</info>
+</item>
+ 
+<item>
+<title>Pantera Negra</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/BLACKPANTERALEG-ALTO.mp4</link>
+<thumbnail>https://goo.gl/6FRB3z</thumbnail>
+<fanart>https://goo.gl/nTYdK4</fanart>
+<info>Após a morte do rei T’Chaka (John Kani), o príncipe T’Challa (Chadwick Boseman) retorna a Wakanda para a cerimônia de coroação. Nela são reunidas as cinco tribos que compõem o reino, sendo que uma delas, os Jabari, não apoia o atual governo. T’Challa logo recebe o apoio de Okoye (Danai Gurira), a chefe da guarda de Wakanda, da irmã Shuri (Letitia Wright), que coordena a área tecnológica do reino, e também de Nakia (Lupita Nyong’o), a grande paixão do atual Pantera Negra, que não quer se tornar rainha. Juntos, eles estão à procura de Ulysses Klaue (Andy Serkis), que roubou de Wakanda um punhado de vibranium, alguns anos atrás.</info>
+</item>
+ 
+ 
+ 
+<item>
+<title>O Hobbit: Uma Jornada Inesperada</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/HOBBIT1DUB-ALTO.mp4</link>
+<thumbnail>https://goo.gl/pMeEf7</thumbnail>
+<fanart>https://goo.gl/x6LxAQ</fanart>
+<info>Bilbo Bolseiro (Martin Freeman) vive uma vida pacata no condado, como a maioria dos hobbits. Um dia, aparece em sua porta o mago Gandalf, o cinzento (Ian McKellen), que lhe promete uma aventura como nunca antes vista. Na companhia de vários anões, Bilbo e Gandalf iniciam sua jornada inesperada pela Terra Média. Eles têm por objetivo libertar o reino de Erebor, conquistado há tempos pelo dragão Smaug e que antes pertencia aos anões. No meio do caminho encontram elfos, trolls e, é claro, a criatura Gollum (Andy Serkis) e seu precioso anel.</info>
+</item>
+ 
+<item>
+<title>O Hobbit: A Desolação de Smaug</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/HOBBIT2DUB-ALTO.mp4</link>
+<thumbnail>https://goo.gl/SsS7Xm</thumbnail>
+<fanart>https://goo.gl/gAqR1X</fanart>
+<info>Após iniciar sua jornada ao lado de um grupo de anões e de Gandalf (Ian McKellen), Bilbo Bolseiro (Martin Freeman) segue em direção à Montanha Solitária, onde deverá ajudar seus companheiros de missão a retomar a Pedra de Arken, que fará com que Thorin  (Richard Armitage) obtenha o respeito de todos os anões e o apoio na luta para retomar seu reino. O problema é que o artefato está perdida em meio a um tesouro protegido pelo temido dragão Smaug (voz de Benedict Cumberbatch). Ao mesmo tempo, Gandalf investiga uma nova força sombria que surge na Terra Média.</info>
+</item>
+ 
+<item>
+<title>O Hobbit: A Batalha dos Cinco Exércitos</title>
+<link>http://dcus3.portalhqs.net/html/content/delivery/filmes2018/HOBBIT3DUB-ALTO.mp4</link>
+<thumbnail>https://goo.gl/aHe649</thumbnail>
+<fanart>https://goo.gl/CPpP1p</fanart>
+<info>Após ser expulso da montanha de Erebor, o dragão Smaug ataca com fúria a cidade dos homens que fica próxima ao local. Após muita destruição, Bard (Luke Evans) consegue derrotá-lo. Não demora muito para que a queda de Smaug se espalhe, atraindo os mais variados interessados nas riquezas que existem dentro de Erebor. Entretanto, Thorin (Richard Armitage) está disposto a tudo para impedir a entrada de elfos, anões e orcs, ainda mais por ser tomado por uma obsessão crescente pela riqueza à sua volta. Paralelamente a estes eventos, Bilbo Bolseiro (Martin Freeman) e Gandalf (Ian McKellen) tentam impedir a guerra.</info>
+</item>
