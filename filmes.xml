@@ -2,7 +2,7 @@
  
 
 "<item><title>ALONG CAME THE DEVIL</title>
-<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>https://streamango.com/embed/dsankqaoeoreffnp</page></regex></link>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>https://streamango.com/embed/dsankqaoeoreffnp/</page></regex></link>
 <thumbnail>https://goo.gl/zgPqMx</thumbnail>
 <fanart>https://goo.gl/Z7noyh</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Along Came the Devil[/B][/COLOR]
