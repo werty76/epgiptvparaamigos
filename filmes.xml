@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+"<item>
+<title>O Predador</title>
+<urlsolve>http://streamango.com/embed/dsankqaoeoreffnp/</urlsolve>
+<thumbnail>https://goo.gl/eWiExz</thumbnail>
+<fanart>https://goo.gl/DUA4FH</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]The Predator[/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR] Action, Adventure, Science Fiction, Thriller
+[B][COLOR blue]Realização:[/B][/COLOR] Shane Black
+[B][COLOR blue]Duração:[/B][/COLOR] 107 Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR] M/14
+[B][COLOR blue]Ano:[/B][/COLOR] 2018
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 13 de Setembro de 2018
+[B][COLOR blue]Actores:[/B][/COLOR]  Augusto Aguilera, Boyd Holbrook, Jake Busey, Keegan-Michael Key, Olivia Munn, Thomas Jane, Trevante Rhodes
+[B][COLOR blue]Sinopse:[/B][/COLOR] Dos confins do espaço às ruas das pequenas cidades dos subúrbios, a caça chega em pleno na explosiva reinvenção de Shane Black da série “Predator”. Agora, os caçadores mais letais do universo estão mais fortes, mais inteligentes e mais mortais do que nunca, aperfeiçoados geneticamente com o DNA de outras espécies. Quando um rapaz acidentalmente desencadeia o seu regresso à Terra, apenas uma tripulação disfuncional de ex-soldados e uma inconformada professora de ciências pode impedir o fim da raça humana.</info>
+</item>"
+
 "<item><title>ALONG CAME THE DEVIL</title>
 <link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FUA2UIE8BG</page></regex></link>
 <thumbnail>https://goo.gl/zgPqMx</thumbnail>
