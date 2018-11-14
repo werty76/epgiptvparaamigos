@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
-
 "<item><title>ALONG CAME THE DEVIL</title>
-<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>https://streamango.com/embed/dsankqaoeoreffnp/</page></regex></link>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FUA2UIE8BG</page></regex></link>
 <thumbnail>https://goo.gl/zgPqMx</thumbnail>
 <fanart>https://goo.gl/Z7noyh</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Along Came the Devil[/B][/COLOR]
@@ -16,7 +14,6 @@
 [B][COLOR deepskyblue]Actores:[/B][/COLOR] Jessica Barth, Madison Lintz, Matt Dallas, Bruce Davison, Kyla Deaver
 [B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Depois de uma infância conturbada, Ashley (Sydney Sweeney) procura por uma conexão e involuntariamente convida em uma força demoníaca para se aproximar, que deixa seus entes queridos lutando por sua alma.</info>
 </item>"
- 
  
 <item>
 <title>CIRCUS KANE</title>
@@ -34,7 +31,6 @@
 [B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Um mestre de circo, convida um grupo de celebridades das redes sociais para sua casa dos horrores. A noite é um desafio em que os competidores poderão ganhar cerca de 250 mil dólares, mas logo eles percebem que não estão só competindo pelo dinheiro, mas também por suas vidas.</info>
 </item>"
  
- 
 "<item>
 <title>O Demônio do Sono</title>
 <link>http://dcms2.portalhqs.net/html/content/conteudolb/filmes2018/ODEMONIODOSONODUB-ALTO.mp4</link>
@@ -50,7 +46,6 @@
 [B][COLOR blue]Actores:[/B][/COLOR] Craig Conway, Javier Botet, Olga Kurylenko
 [B][COLOR blue]Sinopse:[/B][/COLOR] Ao investigar um assassinato, uma psicóloga criminal descobre a lenda de um demônio que mata as pessoas durante o sono.</info>
 </item>"
- 
  
 "<item>
 <title>Culpa</title>
@@ -83,7 +78,6 @@
 [B][COLOR blue]Actores:[/B][/COLOR]   Demian Bichir, Jonas Bloquet, Taissa Farmiga
 [B][COLOR blue]Sinopse:[/B][/COLOR]Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre atormentado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento num campo de batalha.</info>
 </item>"
- 
  
 "<item>
 <title>Mamma Mia! Lá Vamos Nós de Novo</title>
