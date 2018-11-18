@@ -7,6 +7,9 @@ https://rbmn-live.akamaized.net/hls/live/590971/181116WRC1Pri/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/SmRYFj" tvg-id="RALLY WRC", Rally Australia DAY 2
 https://rbmn-live.akamaized.net/hls/live/590971/181117WRC2Pri/master_6660.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/SmRYFj" tvg-id="RALLY WRC", Rally Australia DAY 3
+https://rbmn-live.akamaized.net/hls/live/590971/181118WRC3Pri/master_6660.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/dmXbgf" tvg-id="RALLY WRC", Rally spain DAY 1
 https://rbmn-live.akamaized.net/hls/live/590971/181026WrcDay1Pri/master_6660.m3u8
 
