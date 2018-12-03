@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-  <title>[B][COLOR lawngreen]• [B][COLOR white]GUIMARAES VS BRAGA [/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.hesgoal.com/news/36028/Guimaraes_vs_Sporting_Braga.html$$lsname=Eleven Sports 1 (SD source #01)</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://cdn.whostreams.net:8080/hls/s6m0vsdisiufp7.m3u8?s=0--T-Kij9ng5dZRFTkB6BA&e=1540606844$$lsname=Sport tv 1 (SD source #02)</link>  
-<thumbnail></thumbnail>
-</item>
+
 
 <item>
   <title>[B][COLOR lawngreen]• [B][COLOR white] Sport tv 1 [/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://splashvip.info/SP1link1.html$$lsname=Sport tv 1 (SD source #03)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sportzonline.xyz/channels/pt/sporttv1.php$$lsname=Sport tv 1 (SD source #03)</link>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://splashvip.info/SP1link1.html$$lsname=Sport tv 1 (SD source #04)</link>
 <thumbnail></thumbnail>
 </item>
