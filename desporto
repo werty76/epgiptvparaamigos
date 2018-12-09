@@ -16,6 +16,24 @@
 <item><title>ELEVEN SPORTS 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/17.ch</link></item>
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/15.ch</link></item>
 
+<item><title>PT: SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/2608.ts</link></item>
+<item><title>PT: SPORT TV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/2607.ts</link></item>
+<item><title>PT: SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/2606.ts</link></item>
+<item><title>PT: SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/2604.ts</link></item>
+<item><title>PT: SPORT TV 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/2603.ts</link></item>
+<item><title>PT: SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/2602.ts</link></item>
+<item><title>PT: SPORT TV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/2601.ts</link></item>
+<item><title>PT: SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/2600.ts</link></item>
+<item><title>PT: SPORT TV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/2599.ts</link></item>
+<item><title>PT: SPORTING TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/2591.ts</link></item>
+<item><title>PT: SPORTV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/20050.ts</link></item>
+<item><title>PT: SPORTV 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/206.m3u8</link></item>
+<item><title>PT: SPORTV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/20049.ts</link></item>
+<item><title>PT: SPORTV 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/205.m3u8</link></item>
+<item><title>PT: SPORTV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/emil/emil1234/20048.ts</link></item>
+<item><title>PT: SPORTV 3 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/204.m3u8</link></item>
+<item><title>PT: SPORTV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/1110.m3u8</link></item>
+<item><title>PT: SPORTV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/1111.m3u8</link></item>
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
 <item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
