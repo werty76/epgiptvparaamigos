@@ -9,7 +9,7 @@
 
 <item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/10.ch</link></item>
 <item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/7.ch</link></item>
-<item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/live//amigo/amigo/28.m3u8</link></item>
+<item><title>SPORT TV 1</title><link>http://hotiptv.ddns.net:8000/live//amigo/amigo/28.m3u8</link></item>
 <item><title>SPORT TV 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/11.ch</link></item>
 <item><title>SPORT TV 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/8.ch</link></item>
 <item><title>SPORT TV 3</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/12.ch</link></item>
@@ -20,8 +20,13 @@
 <item><title>SPORT TV 5</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/11.ch</link></item>
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/15.ch</link></item>
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/2.ch</link></item>
-<item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hotiptv.ddns.net:8000/live/amigo/amigo/29.m3u8</link></item>
+<item><title>BTV</title><link>http://hotiptv.ddns.net:8000/live/amigo/amigo/29.m3u8</link></item>
 
+<item><title>PT: SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4047.ts</link></item>
+<item><title>PT: SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3985.ts</link></item>
+<item><title>PT: SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3995.ts</link></item>
+<item><title>PT: SPORT TV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3986.ts</link></item>
+<item><title>PT: SPORT TV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3987.ts</link></item>
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
 <item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
@@ -30,7 +35,7 @@
 
 <item><title> [B][COLOR green]→→→CAÇA E PESCA←←←[/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title>PT: CASA E PESCA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2585.ts</link></item>
+<item><title>CAÇA E PESCA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2585.ts</link></item>
 <item><title> Caçavision </title><link>https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8</link></item>
 <item><title> PESCA IT OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
 <item><title> CHASSE & PÉCHE FR OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
