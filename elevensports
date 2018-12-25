@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <item><title>ELEVEN SPORTS 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/16.ch</link></item>
+<item><title>ELEVEN SPORTS 1</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/1.m3u8</link></item>
+<item><title>ELEVEN SPORTS 1</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/38.m3u8</link></item>
+<item><title>ELEVEN SPORTS 1 HD</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/7.m3u8</link></item>
+
 <item><title>ELEVEN SPORTS 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/17.ch</link></item>
+<item><title>ELEVEN SPORTS 2</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/2.m3u8</link></item>
+<item><title>ELEVEN SPORTS 2</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/39.m3u8</link></item>
 
-<item><title>PT: ELEVEN SPORTS 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/Malika/Malika2018/26590.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26590.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/Malika/Malika2018/26589.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26589.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/Malika/Malika2018/26588.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 3 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26588.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/Malika/Malika2018/26587.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 4 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26587.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/Malika/Malika2018/26586.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 5 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26586.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 6 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.163:80/live/Malika/Malika2018/26585.ts</link></item>
-<item><title>PT: ELEVEN SPORTS 6 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26585.ts</link></item>
+<item><title>ELEVEN SPORTS 3</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/3.m3u8</link></item>
+<item><title>ELEVEN SPORTS 3</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/6.m3u8</link></item>
+<item><title>ELEVEN SPORTS 3</title><link>http://hotiptv.ddns.net:8000/live/rosario/rosario/3.m3u8</link></item>
 
-<item><title>PT: VIP ELEVEN SPORTS 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34299.ts</link></item>
-<item><title>PT: VIP ELEVEN SPORTS 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34298.ts</link></item>
-<item><title>PT: VIP ELEVEN SPORTS 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34297.ts</link></item>
-<item><title>PT: VIP ELEVEN SPORTS 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34296.ts</link></item>
-<item><title>PT: VIP ELEVEN SPORTS 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34295.ts</link></item>
-<item><title>PT: VIP ELEVEN SPORTS 6 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34294.ts</link></item>
+<item><title>ELEVEN SPORTS 4</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/32.m3u8</link></item>
+<item><title>ELEVEN SPORTS 4</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/33.m3u8</link></item>
+<item><title>ELEVEN SPORTS 4</title><link>http://hotiptv.ddns.net:8000/live/rosario/rosario/32.m3u8</link></item>
+
+<item><title>ELEVEN SPORTS 5</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/34.m3u8</link></item>
+<item><title>ELEVEN SPORTS 5</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/35.m3u8</link></item>
+<item><title>ELEVEN SPORTS 5</title><link>http://hotiptv.ddns.net:8000/live/rosario/rosario/34.m3u8</link></item>
+
+<item><title>ELEVEN SPORTS 6</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/36.m3u8</link></item>
+<item><title>ELEVEN SPORTS 6</title><link>http://hotiptv.ddns.net:8000/live/Basilio/Basilio/37.m3u8</link></item>
+<item><title>ELEVEN SPORTS 6</title><link>http://hotiptv.ddns.net:8000/live/rosario/rosario/36.m3u8</link></item>
