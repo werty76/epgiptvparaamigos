@@ -2,10 +2,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <item><title> RTP 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/2.ch</link></item> 
+<item><title> RTP 1 </title><link>http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/rtp_playlist.m3u8</link></item>
 <item><title> RTP 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/3.ch</link></item> 
+<item><title> RTP 2 </title><link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4037.m3u8</link></item>
 <item><title> SIC </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/4.ch</link></item> 
+<item><title> SIC </title><link>http://live.impresa.pt/live/sic/sic540p.m3u8</link></item>
 <item><title> TVI </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/5.ch</link></item> 
+<item><title> TVI </title><link>http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8</link></item>
 <item><title> SIC NOTICIAS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/8.ch</link></item> 
+<item><title> SIC NOTICIAS </title><link>http://live.impresa.pt/live/sicnot/sicnot540p20181228T173116_1371714.ts</link></item>
 <item><title> TVI 24 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/6.ch</link></item> 
+<item><title> TVI 24 </title><link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
+<item><title> RTP 3 </title><link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4038.m3u8 </link></item>
 <item><title> TVI REALITY </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/7.ch</link></item>
 <item><title> CM TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/9.ch</link></item>
+<item><title> CM TV </title><link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4011.m3u8</link></item>
+
+
