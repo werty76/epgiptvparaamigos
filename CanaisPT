@@ -1,21 +1,180 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 
-<item><title> RTP 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/2.ch</link></item> 
-<item><title> RTP 1 </title><link>http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/rtp_playlist.m3u8</link></item>
-<item><title> RTP 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/3.ch</link></item> 
-<item><title> RTP 2 </title><link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4037.m3u8</link></item>
-<item><title> SIC </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/4.ch</link></item> 
-<item><title> SIC </title><link>http://live.impresa.pt/live/sic/sic540p.m3u8</link></item>
-<item><title> TVI </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/5.ch</link></item> 
-<item><title> TVI </title><link>http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8</link></item>
-<item><title> SIC NOTICIAS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/8.ch</link></item> 
-<item><title> SIC NOTICIAS </title><link>http://live.impresa.pt/live/sicnot/sicnot540p20181228T173116_1371714.ts</link></item>
-<item><title> TVI 24 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/6.ch</link></item> 
-<item><title> TVI 24 </title><link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8</link></item>
-<item><title> RTP 3 </title><link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4038.m3u8 </link></item>
-<item><title> TVI REALITY </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/7.ch</link></item>
-<item><title> CM TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pina7.ddns.net:8000/aplicacao/scp4ever/9.ch</link></item>
-<item><title> CM TV </title><link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4011.m3u8</link></item>
-
-
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4097;streamtype=HLSRETRY&amp;name=RTP 1 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTP 1 (F4M source #01)</link>
+<link>http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8$$lsname=RTP 1 (HTTP source #01)</link>
+<link>http://62.28.213.14:9981/stream/channelid/1439506767$$lsname=RTP 1 (HTTP source #03)</link>
+<link>http://hotiptv.ddns.net:8000/amigo/amigo/8$$lsname=RTP 1 (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp1$$lsname=RTP 1 (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=rtp1$$lsname=RTP 1 (SD source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 1 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1347;streamtype=HLSRETRY&amp;name=RTP 1 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTP 1 HD (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 1 FHD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4158;streamtype=HLSRETRY&amp;name=RTP 1 FHD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTP 1 FHD (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4098;streamtype=HLSRETRY&amp;name=RTP 2 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTP 2 (F4M source #01)</link>
+<link>http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8$$lsname=RTP 2 (HTTP source #01)</link>
+<link>http://62.28.213.14:9981/stream/channelid/1580833545$$lsname=RTP 2 (HTTP source #03)</link>
+<link>http://hotiptv.ddns.net:8000/amigo/amigo/16$$lsname=RTP 2 (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.rtp.pt/play/direto/rtp2$$lsname=RTP 2 (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=rtp2$$lsname=RTP 2 (SD source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 2 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/2487;streamtype=HLSRETRY&amp;name=RTP 2 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTP 2 HD (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4099;streamtype=HLSRETRY&amp;name=SIC [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SIC (F4M source #01)</link>
+<link>http://live.impresa.pt/live/sic/sic.m3u8$$lsname=SIC (HTTP source #01)</link>
+<link>http://live.impresa.pt/live/sic/sic540p.m3u8$$lsname=SIC (HTTP source #02)</link>
+<link>http://live.impresa.pt/live/sic/sic360p.m3u8$$lsname=SIC (HTTP source #03)</link>
+<link>http://213.188.44.135:8052/play/a029$$lsname=SIC (HTTP source #04)</link>
+<link>http://62.28.213.14:9981/stream/channelid/1682111017$$lsname=SIC (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=sic$$lsname=SIC (SD source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://sic.sapo.pt/direto$$lsname=SIC (SD source #02)</link>
+<link>plugin://program.plexus/?url=acestream://e1ebd22fa0f2d2565668f5305e8ec5f2fdf953f3&amp;mode=1&amp;name=Acestream+SIC$$lsname=SIC (PLEXUS source #01)</link>
+<link>plugin://program.plexus/?url=acestream://a74186166d8e49cd0ca9f8935193ab2e074699a9&amp;mode=1&amp;name=Acestream+SIC$$lsname=SIC (PLEXUS source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4163;streamtype=HLSRETRY&amp;name=SIC HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SIC HD (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC FHD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4159;streamtype=HLSRETRY&amp;name=SIC FHD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SIC FHD (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4157;streamtype=HLSRETRY&amp;name=TVI [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TVI (F4M source #01)</link>
+<link>http://213.188.44.135:8052/play/a02a$$lsname=TVI (HTTP source #01)</link>
+<link>http://62.28.213.14:9981/stream/channelid/1402355728$$lsname=TVI (HTTP source #04)</link>
+<link><link>https://video-auth8.iol.pt/live_tvi/live_tvi/live_tvi/live_tvi-2/chunks.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=TVI (HTTP source #05)</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://tviplayer.iol.pt/direto/TVI</page><referer>http://tviplayer.iol.pt/</referer></regex>$$lsname=TVI (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/tvi?ch=tvi$$lsname=TVI (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1584;streamtype=HLSRETRY&amp;name=TVI HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TVI HD (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC NOTICIAS[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4101;streamtype=HLSRETRY&amp;name=SIC NOTICIAS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SIC NOTICIAS (F4M source #01)</link>
+<link>http://live.impresa.pt/live/sicnot/sicnot.m3u8$$lsname=SIC NOTICIAS (HTTP source #01)</link>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8$$lsname=SIC NOTICIAS (HTTP source #02)</link>
+<link>http://213.188.44.135:8000/play/a05z$$lsname=SIC NOTICIAS (HTTP source #03)</link>
+<link>http://213.188.44.135:8036/play/a01s$$lsname=SIC NOTICIAS (HTTP source #04)</link>
+<link>plugin://program.plexus/?url=acestream://59220530b75c8a29db8d2831659b05990bc8f43b&amp;mode=1&amp;name=Acestream+SIC NOTICIAS$$lsname=SIC NOTICIAS (PLEXUS source #01)</link>
+<link>plugin://program.plexus/?url=acestream://274a7d5f7b03ed889a355562e67c937e09b2ad9e&amp;mode=1&amp;name=Acestream+SIC NOTICIAS$$lsname=SIC NOTICIAS (PLEXUS source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC NOTICIAS HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1349;streamtype=HLSRETRY&amp;name=SIC NOTICIAS HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SIC NOTICIAS HD (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC NOTICIAS FHD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4165;streamtype=HLSRETRY&amp;name=SIC NOTICIAS FHD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SIC NOTICIAS FHD (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/149;streamtype=HLSRETRY&amp;name=RTP 3 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTP 3 (F4M source #01)</link>
+<link>http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8$$lsname=RTP 3 (HTTP source #01)</link>
+<link>http://62.28.213.14:9981/stream/channelid/1434611461$$lsname=RTP 3 (HTTP source #03)</link>
+<link>http://hotiptv.ddns.net:8000/amigo/amigo/20$$lsname=RTP 3 (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=rtp3$$lsname=RTP 3 (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 3 HD[/B][/COLOR]</title>
+<link>http://hotiptv.ddns.net:8000/amigo/amigo/20$$lsname=RTP 3 HD (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=rtp3$$lsname=RTP 3 HD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP 3 FHD[/B][/COLOR]</title>
+<link>http://hotiptv.ddns.net:8000/amigo/amigo/20$$lsname=RTP 3 FHD (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=rtp3$$lsname=RTP 3 FHD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI24[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4178;streamtype=HLSRETRY&amp;name=TVI24 [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TVI24 (F4M source #01)</link>
+<link>http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8$$lsname=TVI24 (HTTP source #01)</link>
+<link>http://213.188.44.135:8000/play/a05d$$lsname=TVI24 (HTTP source #02)</link>
+<link><link>https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=TVI24 (HTTP source #05)</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://tviplayer.iol.pt/direto/TVI24</page><referer>http://tviplayer.iol.pt/</referer></regex>$$lsname=TVI24 (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/tvi?ch=tvi24$$lsname=TVI24 (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI24 HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4184;streamtype=HLSRETRY&amp;name=TVI24 HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=TVI24 HD (F4M source #01)</link>
+<link><link>https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=TVI24 (HTTP source #05)</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://tviplayer.iol.pt/direto/TVI24</page><referer>http://tviplayer.iol.pt/</referer></regex>$$lsname=TVI24 HD (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/tvi?ch=tvi24$$lsname=TVI24 HD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] TVI24 FHD[/B][/COLOR]</title>
+<link><link>https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25$$lsname=TVI24 (HTTP source #05)</link><regex><name>m3u8</name><expres>wmsAuthSign=([^"]*)</expres><page>http://tviplayer.iol.pt/direto/TVI24</page><referer>http://tviplayer.iol.pt/</referer></regex>$$lsname=TVI24 FHD (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/tvi?ch=tvi24$$lsname=TVI24 FHD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CMTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4091;streamtype=HLSRETRY&amp;name=CMTV [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CMTV (F4M source #01)</link>
+<link>http://213.188.44.135:9972/play/a01r$$lsname=CMTV (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.tvsdezsports.com/cmtv-online-gratis/$$lsname=CMTV (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] CMTV HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1346;streamtype=HLSRETRY&amp;name=CMTV HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=CMTV HD (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV+[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/61;streamtype=HLSRETRY&amp;name=SPORT TV+ [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV+ (F4M source #01)</link>
+<link>http://213.188.44.135:8052/play/a00g$$lsname=SPORT TV+ (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SPORT TV+ HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/690;streamtype=HLSRETRY&amp;name=SPORT TV+ HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SPORT TV+ HD (F4M source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] GLOBO[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/90;streamtype=HLSRETRY&amp;name=GLOBO [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=GLOBO (F4M source #01)</link>
+<link>http://213.188.44.135:8000/play/a05c$$lsname=GLOBO (HTTP source #01)</link>
+<link><link>$doregex[TeamBlue]$$lsname=GLOBO  (HTTP source #05)</link><regex><name>TeamBlue</name><expres>"(.*m3u8.*?)"</expres><page>http://www.freelivestream.tv/mediaPlayer.php?file=sptv</page><referer>http://www.freelivestream.tv/</referer></regex>$$lsname=GLOBO (HTTP source #05)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC MULHER[/B][/COLOR]</title>
+<link>http://213.188.44.135:8052/play/a00e$$lsname=SIC MULHER (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://videos.sapo.pt/sicmulher$$lsname=SIC MULHER (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC MULHER HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/67;streamtype=HLSRETRY&amp;name=SIC MULHER HD [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SIC MULHER HD (F4M source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://videos.sapo.pt/sicmulher$$lsname=SIC MULHER HD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC MULHER FHD[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://videos.sapo.pt/sicmulher$$lsname=SIC MULHER FHD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PORTO CANAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4;streamtype=HLSRETRY&amp;name=PORTO CANAL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=PORTO CANAL (F4M source #01)</link>
+<link>http://213.188.44.135:9972/play/a01t$$lsname=PORTO CANAL (HTTP source #01)</link>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL (RTMP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=porto$$lsname=PORTO CANAL (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PORTO CANAL HD[/B][/COLOR]</title>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL HD (RTMP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=porto$$lsname=PORTO CANAL HD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] PORTO CANAL FHD[/B][/COLOR]</title>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10$$lsname=PORTO CANAL FHD (RTMP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=porto$$lsname=PORTO CANAL FHD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC CARAS[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/4096;streamtype=HLSRETRY&amp;name=SIC CARAS [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SIC CARAS (F4M source #01)</link>
+<link>http://213.188.44.135:9972/play/a00e$$lsname=SIC CARAS (HTTP source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC RADICAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/3;streamtype=HLSRETRY&amp;name=SIC RADICAL [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=SIC RADICAL (F4M source #01)</link>
+<link>http://live.impresa.pt/live/sicrad/sicrad.m3u8$$lsname=SIC RADICAL (HTTP source #01)</link>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8$$lsname=SIC RADICAL (HTTP source #02)</link>
+<link>http://213.188.44.135:9972/play/a026$$lsname=SIC RADICAL (HTTP source #03)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://splashvip.info/SICRADICAL.html$$lsname=SIC RADICAL (SD source #01)</link>
+<link>plugin://program.plexus/?url=acestream://3906c4a9ce25ec10fc7780f1980fdb6c497d77d5&amp;mode=1&amp;name=Acestream+SIC RADICAL$$lsname=SIC RADICAL (PLEXUS source #01)</link>
+<link>plugin://program.plexus/?url=acestream://6bae80c24f7b7f68cf33fd2a1b3411b951ccc41e&amp;mode=1&amp;name=Acestream+SIC RADICAL$$lsname=SIC RADICAL (PLEXUS source #02)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC RADICAL HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://splashvip.info/SICRADICAL.html$$lsname=SIC RADICAL HD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] SIC RADICAL FHD[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://splashvip.info/SICRADICAL.html$$lsname=SIC RADICAL FHD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP MEMORIA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv192.dyndns.tv:3333/Metege2/Skype15082018/1506;streamtype=HLSRETRY&amp;name=RTP MEMORIA [COLOR deepskyblue](by TeamBlue)[/COLOR]$$lsname=RTP MEMORIA (F4M source #01)</link>
+<link>http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8$$lsname=RTP MEMORIA (HTTP source #01)</link>
+<link>http://213.188.44.135:8000/play/a05u$$lsname=RTP MEMORIA (HTTP source #02)</link>
+<link>http://213.188.44.135:9972/play/a00s$$lsname=RTP MEMORIA (HTTP source #03)</link>
+<link>http://62.28.213.14:9981/stream/channelid/775982095$$lsname=RTP MEMORIA (HTTP source #05)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=rtp_memoria$$lsname=RTP MEMORIA (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP MEMORIA HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=rtp_memoria$$lsname=RTP MEMORIA HD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png</thumbnail></item>
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] RTP MEMORIA FHD[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://photocall.tv/l1?ch=rtp_memoria$$lsname=RTP MEMORIA FHD (SD source #01)</link>
+<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png</thumbnail></item>
