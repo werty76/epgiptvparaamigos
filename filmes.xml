@@ -2,7 +2,7 @@
 
 "<item>
 <title>Venom</title>
-<link>http://apollo.portalhqs.net/html/content/conteudolb2/filmes2018/VENOM2018RELEGHD-ALTO.mp4</link>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FY004G7A2T</page></regex></link>
 <thumbnail>https://goo.gl/WF1N8M</thumbnail>
 <fanart>https://goo.gl/7UtVMK</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Venom[/B][/COLOR]
