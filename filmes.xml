@@ -18,7 +18,7 @@
 
 "<item>
 <title>Alfa</title>
-<link>http://q1.azureedge.net/RedeCanais/RCFServer3/ondemand/ALFALEG.mp4</link>
+<link>https://tinyurl.com/y9ujym28</link>
 <thumbnail>https://goo.gl/KwSQk8</thumbnail>
 <fanart>https://goo.gl/efo9v3</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Alpha[/B][/COLOR]
@@ -34,7 +34,7 @@
 
 "<item>
 <title>O Predador</title>
-<link>http://q1.azureedge.net/RedeCanais/RCFServer3/ondemand/OPRDRLEG.mp4</link>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FY18ANTAT9</page></regex></link>
 <thumbnail>https://goo.gl/eWiExz</thumbnail>
 <fanart>https://goo.gl/DUA4FH</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]The Predator[/B][/COLOR]
@@ -50,7 +50,7 @@
 
 "<item>
 <title>Arranha-Céus</title>
-<link>http://q2.azureedge.net/RedeCanais/RCFServer4/ondemand/ARNHCEUCRGMSMLMTLEG.mp4</link>
+<link>http://ssd6.portalhqs.net/html/content/delivery/filmes2018/RAMPAGELEG2018-ALTO.mp4</link>
 <thumbnail>https://goo.gl/Du1E8K</thumbnail>
 <fanart>https://goo.gl/ecXcUH</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Skyscraper[/B][/COLOR]
@@ -62,6 +62,23 @@
 [B][COLOR blue]Data Lançamento:[/B][/COLOR] 12 de julho de 2018
 [B][COLOR blue]Actores:[/B][/COLOR] Dwayne Johnson, Neve Campbell, Chin Han | See full cast & crew
 [B][COLOR blue]Sinopse:[/B][/COLOR] Responsável pela segurança de arranha-céus, o veterano de guerra americano e ex-líder da operação de resgate do FBI, Will Ford (Dwayne Johnson), é acusado de ter colocado o edifício mais alto e mais seguro da China em chamas. Cabe ao agente então achar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome antes que seja tarde demais.</info>
+</item>"
+
+"<item><title>UMA VIAGEM NO TEMPO</title>
+<link>http://tinyurl.com/y9oulx8f</link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/407451.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]A Wrinkle in Time[/B][/COLOR]
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Aventura, Fantasia
+[B][COLOR deepskyblue]Realização:[/B][/COLOR] Ava DuVernay
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 110 Min
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/12
+[B][COLOR deepskyblue]Origem:[/B][/COLOR] USA
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
+[B][COLOR deepskyblue]Actores:[/B][/COLOR] Chris Pine, Reese Witherspoon, Gugu Mbatha-Raw, Mindy Kaling, Oprah Winfrey, Storm Reid, Zach Galifianakis, Michael Peña, Levi Miller, Rowan Blanchard, André Holland, Will McCormack, Bellamy Young, Deric McCabe
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Meg Murry é uma estudante normal do ensino básico que luta com questões de auto-estima e está desesperada para se conseguir integrar. Filha de dois físicos de renome mundial, é muito inteligente e dotada, tal como o irmão mais novo, Charles Wallace (Deric McCabe), mas ainda não conseguiu perceber isso por si mesma.
+Para piorar a situação, dá-se o desaparecimento misterioso de Sr. Murry (Chris Pine), que atormenta Meg e deixa a sua mãe (Gugu Mbatha-Raw) inconsolável.
+Charles Wallace apresenta Meg e o seu colega de turma Calvin (Levi Miller) a três guias celestiais: a Sra. Which (Oprah Winfrey), a Sra. Whatsit (Reese Witherspoon) e a Sra. Who (Mindy Kaling). As guias vieram à Terra para ajudarem Meg a encontrar o seu pai. A busca leva-as a viajar por uma linha de espaço e tempo onde são rapidamente transportadas para mundos além da sua imaginação onde enfrentam um poderoso mal. Para voltar a casa Meg tem de enfrentar os seus receios de forma a conseguir a força necessária e derrotar a escuridão que envolve o Universo.</info>
 </item>"
 
 "<item><title>ALONG CAME THE DEVIL</title>
@@ -98,7 +115,7 @@
  
 "<item>
 <title>A Freira</title>
-<link>http://apollo.portalhqs.net/html/content/conteudolb/filmes2018/AFREIRALEGHD-ALTO.mp4</link>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FXGMT2JJN8</page></regex></link>
 <thumbnail>https://goo.gl/DpGwxq</thumbnail>
 <fanart>https://goo.gl/RdBhrX</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]The Nun[/B][/COLOR]
@@ -114,7 +131,7 @@
  
 "<item>
 <title>Mamma Mia! Lá Vamos Nós de Novo</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/MAMMAMIALEG-ALTO.mp4</link>
+<link>http://ssd1.portalhqs.net/html/conteudo/delivery/filmes2018/MAMMAMIALEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/7F7BZg</thumbnail>
 <fanart>https://goo.gl/rKhFHe</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Mamma Mia! Here We Go Again[/B][/COLOR]
@@ -130,7 +147,7 @@
  
 "<item>
 <title>Táxi 5</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/TAXI05LEG-ALTO.mp4</link>
+<link>http://ssd1.portalhqs.net/html/conteudo/delivery/filmes2018/TAXI05LEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/j7Ju9g</thumbnail>
 <fanart>https://goo.gl/m9UQPS</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Taxi 5[/B][/COLOR]
@@ -144,25 +161,10 @@
 [B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Sylvain Marot, um super policial parisiense transferido para a polícia de Marselha, é designado para derrubar um grupo de assaltantes italianos que dirigem uma poderosa Ferrari, junto com Eddy Maklouf, um terrível motorista, mas o único a recuperar o lendário taxi branco.</info>
 </item>"
  
-"<item>
-<title>Corredor Assombrado</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/DOWNADARKHALLEG-ALTO.mp4</link>
-<thumbnail>https://goo.gl/74i3LY</thumbnail>
-<fanart>https://goo.gl/EZyHhh</fanart>
-<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Down a Dark Hall[/B][/COLOR]
-[B][COLOR deepskyblue]Género:[/B][/COLOR] Fantasia, Suspense
-[B][COLOR deepskyblue]Realização:[/B][/COLOR]  Rodrigo Cortés
-[B][COLOR deepskyblue]Duração:[/B][/COLOR] 96 m
-[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/13
-[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
-[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 3 de agosto de 2018
-[B][COLOR deepskyblue]Actores:[/B][/COLOR]  AnnaSophia Robb, Isabelle Fuhrman, Uma Thurman
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] A adolescente Kit Gordy fica muito feliz quando é aceita na prestigiosa Blackboard Boarding School, mas logo ela percebe que a instituição não é exatamente o que ela pensava, já que a diretora possui estranhos poderes sobrenaturais.</info>
-</item>"
  
 <item>
 <title>Jogada Final</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/FINALSCORELEG-ALTO.mp4</link>
+<link>http://ssd1.portalhqs.net/html/conteudo/delivery/filmes2018/FINALSCORELEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/Bn5eYf</thumbnail>
 <fanart>https://goo.gl/DL2Kf2</fanart>
 <info>Um ex-soldado luta sozinho contra terroristas que mantêm sua sobrinha como refém em um jogo de futebol.</info>
@@ -170,7 +172,7 @@
  
 <item>
 <title>Black Water</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/BLACKWATERLEG-ALTO.mp4</link>
+<link>http://ssd1.portalhqs.net/html/conteudo/delivery/filmes2018/BLACKWATERLEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/FTSzQz</thumbnail>
 <fanart>https://goo.gl/7B5QFW</fanart>
 <info>Um agente infiltrado (Jean-Claude Van Damme) acorda para descobrir que está preso em um obscuro submarino da CIA.</info>
@@ -178,7 +180,7 @@
  
 <item>
 <title>A Grande Jogada</title>
-<link>http://artemis.portalhqs.net/html/content/delivery/filmes2018/AGRANDEJOGADALEG-ALTO.mp4</link>
+<link>http://ssd3.portalhqs.net/html/content/delivery/filmes2018/AGRANDEJOGADALEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/57DhgW</thumbnail>
 <fanart>https://goo.gl/Eq7W8G</fanart>
 <info>Após perder a chance de participar dos Jogos Olímpicos devido a uma fatalidade que resultou em um grave acidente, a esquiadora Molly Bloom (Jessica Chastain) decide tirar um ano de folga dos estudos e ir trabalhar como garçonete em Los Angeles. Lá conhece Dean Keith (Jeremy Strong), um produtor de cinema que decide contratá-la como assistente. Logo Molly passa a coordenar jogos de cartas clandestinos, organizados por Dean, que conta com clientes muito ricos e famosos. Fascinada com o ambiente e a possibilidade de enriquecer facilmente, Molly começa a prestar atenção a todos os detalhes para que ela própria possa organizar jogos do tipo.</info>
@@ -186,55 +188,23 @@
 
 <item>
 <title>Oito Mulheres e um Segredo</title>
-<link>http://artemis.portalhqs.net/html/content/delivery/filmes2018/OCEANS8LEG-ALTO.mp4</link>
+<link>http://ssd3.portalhqs.net/html/content/delivery/filmes2018/OCEANS8LEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/smhxD8</thumbnail>
 <fanart>https://goo.gl/Sd3ycX</fanart>
 <info>Recém-saída da prisão, Debbie Ocean (Sandra Bullock) logo procura sua ex-parceira Lou (Cate Blanchett) para realizar um elaborado assalto: roubar um colar de diamantes no valor de US$ 150 milhões, que a Cartier mantém sempre em um cofre. O plano é convencer a empresa a emprestá-lo para que a estrela Daphne Kluger (Anne Hathaway) use a joia no badalado Met Gala, um dos eventos mais chiques e vistosos de Nova York. Para tanto, Debbie e Lou reúnem uma equipe composta apenas por mulheres: Nine Ball (Rihanna), Amita (Mindy Kaling), Constance (Awkwafina), Rose (Helena Bonham Carter) e Tammy (Sarah Paulson).</info>
 </item>
  
 <item>
-<title>A Primeira Noite de Crime</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/THEFIRSTPURGELEG-ALTO.mp4</link>
-<thumbnail>https://goo.gl/k3Ni1q</thumbnail>
-<fanart>https://goo.gl/K7mP2g</fanart>
-<info>Quando um novo partido político, o New Founding Fathers of America, ascende, é anunciado um novo experimento social. São 12 horas sem lei, em que o governo incentiva as pessoas a perderem toda e qualquer inibição. A participação não é obrigatória, mas como estímulo, 5.000 dólares é dado para quem fica na cidade, e mais prêmios para quem participa.</info>
-</item>
- 
-<item>
 <title>Verdade ou Desafio</title>
-<link>http://apollo.portalhqs.net/html/content/delivery/filmes2018/VERDADEOUDESAFIOLEG-ALTO.mp4</link>
+<link>http://ssd6.portalhqs.net/html/content/delivery/filmes2018/VERDADEOUDESAFIOLEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/Psve4j</thumbnail>
 <fanart>https://goo.gl/t1T4pd</fanart>
 <info>Olivia e seu grupo de amigos de férias no México são convencidos a brincar de “Verdade ou Desafio”, em um prédio em ruínas, pelo misterioso Carter. Ao passar a maldição para os recém-conhecidos, Carter alerta o grupo sobre os riscos e regras do jogo, mas não é levado a sério até que essa presença demoníaca começa a assombrar os participantes — encurralados em uma trama de chantagens e perigos que parece conduzi-los a uma única saída: a morte</info>
 </item>
  
 <item>
-<title>Heavy Trip</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/HEAVYTRIPLEG-ALTO.mp41</link>
-<thumbnail>https://goo.gl/TDQduj</thumbnail>
-<fanart>https://goo.gl/L6ZK8o</fanart>
-<info>Um jovem está tentando superar seus medos, levando sua banda de Heavy Metal para o maior festival de metal na Noruega. A jornada inclui Heavy Metal, roubo de sepulturas, céu dos Vikings e um conflito armado entre a Finlândia e a Noruega</info>
-</item>
- 
-<item>
-<title>Black ’47</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/BLACK47LEG-ALTO.mp4</link>
-<thumbnail>https://goo.gl/CCiYzT</thumbnail>
-<fanart>https://goo.gl/81ekJy</fanart>
-<info>Na Irlanda do século XIX, no período da Grande Fome, um guarda irlandês, que tem lutado pelo exército britânico no exterior, decide abandonar seu posto para se reunir com a família. Mesmo tendo experimentado os horrores da guerra, ele fica chocado com a destruição que a fome causou no seu país, gerando certa brutalização das pessoas e até da própria família.</info>
-</item>
- 
-<item>
-<title>The Gamechangers</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/THEGAMECHANGERSLEG-ALTO.mp4</link>
-<thumbnail>https://goo.gl/p6Bvsm</thumbnail>
-<fanart>https://goo.gl/DNE37N</fanart>
-<info>Sam Houser (Daniel Radcliffe) é um designer de jogos de videogame que, juntamente com sua talentosa equipe, cria um jogo polêmico e revolucionário: Grand Theft Auto. Através de um mundo virtual repleto de criminosos e armas letais, os jogadores precisam cometer crimes como matar policiais, roubar carros e atropelar pessoas. Não demora muito para que o jogo se torne um sucesso comercial e também receba muitas críticas devido ao grau de violência e à mensagem transmitida.</info>
-</item>
- 
-<item>
 <title>Homem-Formiga</title>
-<link>http://apollo.portalhqs.net/html/content/httpdelivery/filmes2017/ANTMANLEG-ALTO.mp4</link>
+<link>http://ssd2.portalhqs.net/html/content/httpdelivery/filmes2017/ANTMANLEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/gN1XiQ</thumbnail>
 <fanart>https://goo.gl/vGhvhY</fanart>
 <info>Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.</info>
@@ -242,23 +212,15 @@
  
 <item>
 <title>Homem-Formiga e a Vespa</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/HOMIFURMIGA2LEG-ALTO.mp4</link>
+<link>http://ssd1.portalhqs.net/html/conteudo/delivery/filmes2018/HOMIFURMIGA2LEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/WBBXvH</thumbnail>
 <fanart>https://goo.gl/TcaCZ4</fanart>
 <info>Após ter ajudado o Capitão América na batalha contra o Homem de Ferro na Alemanha, Scott Lang (Paul Rudd) é condenado a dois anos de prisão domiciliar, por ter quebrado o Tratado de Sokovia. Diante desta situação, ele foi obrigado a se aposentar temporariamente do posto de super-herói. Restando apenas três dias para o término deste prazo, ele tem um estranho sonho com Janet Van Dyne (Michelle Pfeiffer), que desapareceu 30 anos atrás ao entrar no mundo quântico em um ato de heroísmo. Ao procurar o dr. Hank Pym (Michael Douglas) e sua filha Hope (Evangeline Lilly) em busca de explicações, Scott é rapidamente cooptado pela dupla para que possa ajudá-los em sua nova missão: construir um túnel quântico, com o objetivo de resgatar Janet de seu limbo.</info>
 </item>
  
 <item>
-<title>Crise na Terra X – O Filme</title>
-<link>http://apollo.portalhqs.net/html/content/httpdelivery/filmes2017/CRISENATERRAX-ALTO.mp4</link>
-<thumbnail>https://image.ibb.co/cjKjbz/crise_na_terra_x.png</thumbnail>
-<fanart>https://image.ibb.co/cjKjbz/crise_na_terra_x.png</fanart>
-<info>O casamento de Barry (Grant Gustin) e Iris (Candice Patton) reúne todo o grupo, mas as coisas acabam fora de controle quando vilões da Terra-X atacam a cerimônia. Todos os super-heróis do universo alternativo se unem para salvar seus aliados, como o Cidadão Frio (Wentworth Miller), The Ray (Russell Tovey), Felicity Smoak (Emily Bett Rickards), Iris West e Alex Danvers (Chyler Leigh). Todos tentam derrotar os mais formidáveis vilões. Enquanto isso, os maiores heróis da Terra – Arqueiro Verde (Stephen Amell), Flash, Supergirl (Melissa Benoist) e Canário Branco (Caity Lotz) – lideram suas equipes para salvar o mundo.</info>
-</item>
- 
-<item>
 <title>Fragmentado</title>
-<link>http://apollo.portalhqs.net/html/content/sobdemanda/netcine-bucket/filmes2016/SPLITLEG-ALTO.mp4</link>
+<link>http://ssd1.portalhqs.net/html/content/sobdemanda/netcine-bucket/filmes2016/SPLITLEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/fmW8Ap</thumbnail>
 <fanart>https://goo.gl/YJEuFi</fanart>
 <info>Kevin (James McAvoy) possui 23 personalidades distintas e consegue alterná-las quimicamente em seu organismo apenas com a força do pensamento. Um dia, ele sequestra três adolescentes que encontra em um estacionamento. Vivendo em cativeiro, elas passam a conhecer as diferentes facetas de Kevin e precisam encontrar algum meio de escapar.</info>
@@ -266,15 +228,14 @@
  
 <item>
 <title>Prece ao Nascer do Dia</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/APLAYERBEFOREDAWNLEG-ALTO.mp4</link>
-<thumbnail>https://goo.gl/kqTs6A</thumbnail>
+<link>http://ssd1.portalhqs.net/html/conteudo/delivery/filmes2018/APLAYERBEFOREDAWNLEG-ALTO.mp4</link>
 <fanart>https://goo.gl/FgfRgH</fanart>
 <info>Encarcerado em uma das prisões mais bárbaras e mortais do planeta, a Klong Prem, na Tailândia, Billy Moore (Joe Cole) está buscando meios para se manter vivo e passar por todos aqueles pesadelos. Sendo assim, para sobreviver, decide adentrar no mundo do Muay Thai,  sem nem imaginar que iniciar esta arte marcial viria a transformar sua vida para sempre.</info>
 </item>
  
 <item>
 <title>Hereditário</title>
-<link>http://apollo.portalhqs.net/html/content/delivery/filmes2018/HEREDITARYLEG-ALTO.mp4</link>
+<link>http://ssd6.portalhqs.net/html/content/delivery/filmes2018/HEREDITARYLEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/EWqPSu</thumbnail>
 <fanart>https://goo.gl/88H1AZ</fanart>
 <info>Após a morte de Ellen, a matriarca da família Graham, a família de sua filha começa a descobrir segredos cada vez mais aterrorizantes sobre seus ancestrais. Quanto mais eles descobrem sobre o passado, mais eles tentam se livrar do terrível e infeliz destino que herdaram.</info>
@@ -282,7 +243,7 @@
  
 <item>
 <title>The Meg</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/THEMEGLEG-BAIXO.mp4</link>
+<link>http://ssd1.portalhqs.net/html/conteudo/delivery/filmes2018/THEMEGLEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/SURG91</thumbnail>
 <fanart>https://goo.gl/Azyd8v</fanart>
 <info>Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, oceanógrafo chinês (Winston Chao) contrata Jonas Taylor (Jason Statham), um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.</info>
@@ -291,7 +252,7 @@
  
 <item>
 <title>Missão: Impossível – Efeito Fallout</title>
-<link>http://apollo.portalhqs.net/html/conteudo/delivery/filmes2018/MISSAOIMPOSSIVELFALLOUT-ALTO.mp4</link>
+<link>http://ssd1.portalhqs.net/html/conteudo/delivery/filmes2018/MISSAOIMPOSSIVELFALLOUT-ALTO.mp4</link>
 <thumbnail>https://goo.gl/3nfJxg</thumbnail>
 <fanart>https://goo.gl/zXWNYh</fanart>
 <info>As melhores intenções muitas vezes voltam para assombrá-lo. Em MISSÃO:IMPOSSÍVEL - EFEITO FALLOUT, Ethan Hunt (Tom Cruise) e sua equipe do IMF (Alec Baldwin, Simon Pegg, Ving Rhames), na companhia de aliados conhecidos (Rebecca Ferguson, Michelle Monaghan), estão em uma corrida contra o tempo depois que uma missão dá errado. Henry Cavill, Angela Basset e Vanessa Kirby são as novidades do elenco, com Christopher McQuarrie de volta à direção.</info>
@@ -299,7 +260,7 @@
  
 <item>
 <title>Rota de Fuga 2</title>
-<link>http://artemis.portalhqs.net/html/content/delivery/filmes2018/ESCAPEPLAN2HADESLEG-ALTO.mp4</link>
+<link>http://ssd3.portalhqs.net/html/content/delivery/filmes2018/ESCAPEPLAN2HADESLEG-ALTO.mp4</link>
 <thumbnail>https://goo.gl/F4Etjj</thumbnail>
 <fanart>https://goo.gl/etVWF9</fanart>
 <info>O especialista Ray Breslin (Sylvester Stallone) é responsável por testar a integridade das penitenciárias de segurança máxima dos Estados Unidos. Ele precisa conhecer a planta, entender a rotina dentro da prisão e contar com uma ajuda interna ou externa para a fuga. Mas agora, Ray tem de entrar na penitenciária conhecida como Zoológico, para ajudar um membro se sua equipe a escapar de lá.</info>
