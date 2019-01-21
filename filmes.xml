@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR deepskyblue]FILMES NETCINE.US (Escolhe o que queres ver)[/COLOR]</title>  
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param2]  [COLOR gold]*[makelist.param4]/10*[/COLOR]</title>
+    <link>$doregex[hd]</link>
+    <thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+ count=re.findall('paginado\'.*(\d)',page_data)[0];pn=1;data=[]
+ while pn <= int(count):
+	page='http://netcine.us/page/'+str(pn)+'/?mt'
+	source=requests.get(page).content.decode('ascii','ignore')
+	list=re.findall('<div id="box_movies">(?s)(.*?)<div id="paginador">',source)[0]
+	data +=re.findall('<img src="([^"]+)" alt="([^"]+).*\n.*\n*.*(http[^"]+).*\n.*\n.*grade"></span> (\d[^<]*)',list);pn +=1
+ return data
+]]></expres>
+<page>http://netcine.us/?mt</page>
+<agent>Mozilla/5.0</agent>
+</regex>
+ <regex>
+<name>hd</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#Pustule
+ url1 = re.findall('iframe src="([^"]+)',page_data)[0]
+ r = requests.get(url1).content.decode('ascii','ignore') 
+ url2= re.findall('src="([^"]+)',r)[0]
+ r = requests.get(url2).content.decode('ascii','ignore')
+ url3= re.findall('\n<a href ="(http[^"]+)',r)[0]
+ r = requests.get(url3).content.decode('ascii','ignore')
+ return re.findall('file: "([^"]+)',r)[-1]
+]]></expres>
+<page>[makelist.param3]</page>
+<agent>Mozilla/5.0</agent>
+</regex>
+</item>
+
 "<item>
 <title>Venom</title>
 <link>http://apollo.portalhqs.net/html/content/conteudolb2/filmes2018/VENOM2018RELEGHD-ALTO.mp4</link>
