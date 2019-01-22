@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item><title>[B][COLOR red] →→→LIVE←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title>[B][COLOR red]BENFICA[/COLOR][/B] VS [COLOR BLUE]PORTO[/COLOR][/B]</title><link>http://31.220.2.57:8081/live/spstream3/chunks.m3u8?nimblesessionid=2487427&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDE5IDQ6MTg6MTEgUE0maGFzaF92YWx1ZT0vU01SNTQ2b0IxTU5QbmRMNHhMTFRnPT0mdmFsaWRtaW51dGVzPTEyMA==</link></item>
+<item><title>[B][COLOR red]BENFICA[/COLOR][/B] VS [COLOR blue]PORTO[/COLOR][/B]</title><link>http://31.220.2.57:8081/live/spstream3/chunks.m3u8?nimblesessionid=2487427&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDE5IDQ6MTg6MTEgUE0maGFzaF92YWx1ZT0vU01SNTQ2b0IxTU5QbmRMNHhMTFRnPT0mdmFsaWRtaW51dGVzPTEyMA==</link></item>
 
 
 <item><title>[B][COLOR green] →→→DESPORTO←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
