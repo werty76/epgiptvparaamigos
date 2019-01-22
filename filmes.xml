@@ -64,6 +64,23 @@
 [B][COLOR blue]Sinopse:[/B][/COLOR] Dos confins do espaço às ruas das pequenas cidades dos subúrbios, a caça chega em pleno na explosiva reinvenção de Shane Black da série “Predator”. Agora, os caçadores mais letais do universo estão mais fortes, mais inteligentes e mais mortais do que nunca, aperfeiçoados geneticamente com o DNA de outras espécies. Quando um rapaz acidentalmente desencadeia o seu regresso à Terra, apenas uma tripulação disfuncional de ex-soldados e uma inconformada professora de ciências pode impedir o fim da raça humana.</info>
 </item>"
 
+
+"<item>
+<title>A Justiceira</title>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FY1Z5DETFY</page></regex></link>
+<thumbnail>https://goo.gl/srTEmM</thumbnail>
+<fanart>https://goo.gl/B6HjBD</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Peppermint[/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR] Ação, Crime, Drama
+[B][COLOR blue]Realização:[/B][/COLOR] Pierre Morel
+[B][COLOR blue]Duração:[/B][/COLOR] 1H 41Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR] M/16
+[B][COLOR blue]Ano:[/B][/COLOR] 2018
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 27 de Setembro de 2018
+[B][COLOR blue]Actores:[/B][/COLOR] Jennifer Garner, John Gallagher Jr., John Ortiz
+[B][COLOR blue]Sinopse:[/B][/COLOR] Quando o marido e a filha são mortos a tiros diante de um parque de diversões, Riley (Jennifer Garner) acorda de um coma e passa os anos seguintes aprendendo a se tornar uma máquina de matar. No quinto aniversário da morte de sua família, ela tem como alvo todos os responsáveis: a gangue que cometeu o crime, os advogados que os libertaram e os policiais corruptos que permitiram que tudo acontecesse.</info>
+</item>"
+
 "<item>
 <title>Arranha-Céus</title>
 <link>http://ssd6.portalhqs.net/html/content/delivery/filmes2018/RAMPAGELEG2018-ALTO.mp4</link>
