@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/SmRYFj" tvg-id="RALLY WRC 2019",Rally Monte Carlo 2019 Day 1
+https://rbmn-live.akamaized.net/hls/live/590971/190125WRCrecap1Pri/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/SmRYFj" tvg-id="RALLY WRC", Rally Australia DAY 1
 https://rbmn-live.akamaized.net/hls/live/590971/181116WRC1Pri/master_6660.m3u8
 
