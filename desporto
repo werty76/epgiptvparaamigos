@@ -32,7 +32,55 @@
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10735</link></item>
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10734</link></item>
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10733</link></item>
-<item><title>BOLA TV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ali010/ali010/8874</link></item>
+
+
+
+<item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34279.ts</link></item>
+<item><title>BTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34277.ts</link></item>
+<item><title>BTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40258.ts</link></item>
+<item><title>BTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40312.ts</link></item>
+<item><title>BTV FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34278.ts</link></item>
+<item><title></title>SPORT TV 4K UHD<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40321.ts</link></item>
+<item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40324.ts</link></item>
+<item><title>SPORT TV 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40323.ts</link></item>
+<item><title>SPORT TV 3</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40322.ts</link></item>
+<item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40319.ts</link></item>
+<item><title>SPORT TV 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40318.ts</link></item>
+<item><title>SPORT TV 3</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40317.ts</link></item>
+<item><title>SPORT TV 4</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40316.ts</link></item>
+<item><title>SPORT TV 5</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40315.ts</link></item>
+<item><title>SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40213.ts</link></item>
+<item><title>SPORT TV 1 HD [540P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40212.ts</link></item>
+<item><title>SPORT TV 1 HD [720P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40211.ts</link></item>
+<item><title>SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40210.ts</link></item>
+<item><title>SPORT TV 2 HD [540P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40209.ts</link></item>
+<item><title>SPORT TV 2 HD [720P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40208.ts</link></item>
+<item><title>SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40207.ts</link></item>
+<item><title>SPORT TV 3 HD [540P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40206.ts</link></item>
+<item><title>SPORT TV 3 HD [720P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40205.ts</link></item>
+<item><title>SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40204.ts</link></item>
+<item><title>SPORT TV 4 HD [540P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40203.ts</link></item>
+<item><title>SPORT TV 4 HD [720P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40202.ts</link></item>
+<item><title>SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40201.ts</link></item>
+<item><title>SPORT TV 5 HD [540P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40200.ts</link></item>
+<item><title>SPORT TV 5 HD [720P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40199.ts</link></item>
+
+<item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34188.ts</link></item>
+<item><title>SPORT TV 1 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34187.ts</link></item>
+<item><title>SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34186.ts</link></item>
+<item><title>SPORT TV 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>http://magnum-ott.net:80/live/firat/firat/34185.ts</item>
+<item><title>SPORT TV 2 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34184.ts</link></item>
+<item><title>SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34183.ts</link></item>
+<item><title>SPORT TV 3</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34182.ts</link></item>
+<item><title>SportTV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34190.ts</link></item>
+<item><title>SPORT TV 3 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34181.ts</link></item>
+<item><title>SPORT TV 4</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34180.ts</link></item>
+<item><title>SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34179.ts</link></item>
+<item><title>SPORT TV 5</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34178.ts</link></item>
+<item><title>SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34177.ts</link></item>
+
+<item><title>A Bola TV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34292.ts</link></item>
+<item><title>PFC</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40275.ts</link></item>
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
 <item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
