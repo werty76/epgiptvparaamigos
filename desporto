@@ -72,6 +72,74 @@
 <item><title>SPORT TV 5</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34178.ts</link></item>
 <item><title>SPORT TV 5 HD [720P]</title><link>plugin: //plugin.video.f4mTester/? name = IPTV PARA AMIGOS & streamtype = HLSRETRY & url =http://magnum-ott.net:80/live/firat/firat/40199.ts</link></item>
 
+<item><title>PT: MEO (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40314.ts</link></item>
+<item><title>PT: MEO (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40320.ts</link></item>
+<item><title>PT: MEO (3+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40327.ts</link></item>
+<item><title>PT: MEO (4+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40328.ts</link></item>
+<item><title>PT: MEO (5+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40329.ts</link></item>
+<item><title>PT: NOS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40199.ts</link></item>
+<item><title>PT: NOS (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40200.ts</link></item>
+<item><title>PT: NOS (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40201.ts</link></item>
+<item><title>PT: NOS (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40202.ts</link></item>
+<item><title>PT: NOS (4+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40203.ts</link></item>
+<item><title>PT: NOS (5+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40204.ts</link></item>
+<item><title>PT: NOS (6+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40205.ts</link></item>
+<item><title>PT: NOS (7+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40206.ts</link></item>
+<item><title>PT: NOS (8+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40207.ts</link></item>
+<item><title>PT: NOS (9+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40208.ts</link></item>
+<item><title>PT: NOS (10+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40209.ts</link></item>
+<item><title>PT: NOS (11+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40210.ts</link></item>
+<item><title>PT: NOS (12+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40211.ts</link></item>
+<item><title>PT: NOS (13+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40212.ts</link></item>
+<item><title>PT: NOS (14+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40213.ts</link></item>
+<item><title>PT: NOS (15+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40214.ts</link></item>
+<item><title>PT: NOS (16+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40230.ts</link></item>
+<item><title>PT: NOS (17+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40251.ts</link></item>
+<item><title>PT: NOS (18+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40325.ts</link></item>
+<item><title>PT: NOS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40198.ts</link></item>
+<item><title>PT: NOWO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40166.ts</link></item>
+<item><title>PT: NOWO (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40167.ts</link></item>
+<item><title>PT: NOWO (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40170.ts</link></item>
+<item><title>PT: NOWO (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40173.ts</link></item>
+<item><title>PT: NOWO (4+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40176.ts</link></item>
+<item><title>PT: NOWO (5+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40177.ts</link></item>
+<item><title>PT: NOWO (6+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40178.ts</link></item>
+<item><title>PT: NOWO (7+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40179.ts</link></item>
+<item><title>PT: NOWO (8+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40180.ts</link></item>
+<item><title>PT: NOWO (9+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40181.ts</link></item>
+<item><title>PT: NOWO (10+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40182.ts</link></item>
+<item><title>PT: NOWO (11+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40183.ts</link></item>
+<item><title>PT: NOWO (12+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40184.ts</link></item>
+<item><title>PT: NOWO (13+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40185.ts</link></item>
+<item><title>PT: SPORT TV MAIS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/3013.m3u8</link></item>
+<item><title>PT: VIP EUROSPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34260.ts</link></item>
+<item><title>PT: VIP EUROSPORT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34259.ts</link></item>
+<item><title>PT: VIP FIGHT NETWORK HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34257.ts</link></item>
+<item><title>PT: VIP KOMBAT SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34239.ts</link></item>
+<item><title>PT: VIP MOTORVISION </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34232.ts</link></item>
+<item><title>PT: VIP SPORT TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34194.ts</link></item>
+<item><title>PT: VIP SPORT TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34196.ts</link></item>
+<item><title>PT: VIP SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34195.ts</link></item>
+<item><title>PT: VIP SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34193.ts</link></item>
+<item><title>PT: VIP SPORTING TV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34191.ts</link></item>
+<item><title>PT: VIP SPORTING TV </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34192.ts</link></item>
+<item><title>PT: VIP SPORTTV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34190.ts</link></item>
+<item><title>PT: VIP SPORTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34189.ts</link></item>
+<item><title>PT: VIP SPORTV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34186.ts</link></item>
+<item><title>PT: VIP SPORTV 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34187.ts</link></item>
+<item><title>PT: VIP SPORTV 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34188.ts</link></item>
+<item><title>PT: VIP SPORTV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34183.ts</link></item>
+<item><title>PT: VIP SPORTV 2 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34184.ts</link></item>
+<item><title>PT: VIP SPORTV 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34185.ts</link></item>
+<item><title>PT: VIP SPORTV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34181.ts</link></item>
+<item><title>PT: VIP SPORTV 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34182.ts</link></item>
+<item><title>PT: VIP SPORTV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34179.ts</link></item>
+<item><title>PT: VIP SPORTV 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34180.ts</link></item>
+<item><title>PT: VIP SPORTV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34177.ts</link></item>
+<item><title>PT: VIP SPORTV 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34178.ts</link></item>
+
+
+
 <item><title>A Bola TV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34292.ts</link></item>
 <item><title>PFC</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40275.ts</link></item>
 
