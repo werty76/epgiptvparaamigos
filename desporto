@@ -56,7 +56,7 @@
 <item><title>SPORT TV 4 HD [720P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40202.ts</link></item>
 <item><title>SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40201.ts</link></item>
 <item><title>SPORT TV 5 HD [540P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40200.ts</link></item>
-<item><title>SPORT TV 5 HD [720P]</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40199.ts</link></item>
+<item><title>SPORT TV 5 HD [720P]</title><link>plugin://plugin.video.f4mTester/?url=http://magnum-ott.net:80/live/firat/firat/40199.ts&amp;streamtype=TSDOWNLOADER</link></item>
 
 <item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34188.ts</link></item>
 <item><title>SPORT TV 1 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34187.ts</link></item>
