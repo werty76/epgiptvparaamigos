@@ -70,7 +70,7 @@
 <item><title>SPORT TV 4</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34180.ts</link></item>
 <item><title>SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34179.ts</link></item>
 <item><title>SPORT TV 5</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34178.ts</link></item>
-<item><title>SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34177.ts</link></item>
+<item><title>SPORT TV 5 HD [720P]</title><link>plugin: //plugin.video.f4mTester/? name = IPTV PARA AMIGOS & streamtype = HLSRETRY & url =http://magnum-ott.net:80/live/firat/firat/40199.ts</link></item>
 
 <item><title>A Bola TV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/34292.ts</link></item>
 <item><title>PFC</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://magnum-ott.net:80/live/firat/firat/40275.ts</link></item>
