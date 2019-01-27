@@ -1,7 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="DEMO" tvg-logo="http://51.255.196.214/iptv_info/Info1.png",INFORMACAO
-http://51.255.196.214/iptv_info/Info.mp4
+
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP1.png",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP2.png",RTP 2
