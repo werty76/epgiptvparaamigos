@@ -400,3 +400,322 @@
 <item><title>_: VIPL BEIN SPORT SD6 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.235.76:8000/live/herolive/herolive1/419.m3u8</link></item>
 <item><title>_: VIPL BEIN SPORT SD7 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.235.76:8000/live/herolive/herolive1/420.m3u8</link></item>
 <item><title>_: VIPL BEIN SPORT SD9 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.235.76:8000/live/herolive/herolive1/457.m3u8</link></item>
+
+
+<item><title>FR: BEIN SPORTS 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8952.ts</link></item>
+<item><title>FR: BEIN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/7459.ts</link></item>
+<item><title>FR: BEIN SPORTS 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8951.ts</link></item>
+<item><title>FR: BEIN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/7460.ts</link></item>
+<item><title>FR: BEIN SPORTS 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8950.ts</link></item>
+<item><title>FR: BEIN SPORTS 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/7461.ts</link></item>
+<item><title>FR: BEIN SPORTS MAX 10 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8943.ts</link></item>
+<item><title>FR: BEIN SPORTS MAX 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8949.ts</link></item>
+<item><title>FR: BEIN SPORTS MAX 6 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8947.ts</link></item>
+<item><title>FR: BEIN SPORTS MAX 7 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8946.ts</link></item>
+<item><title>FR: BEIN SPORTS MAX 8 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8945.ts</link></item>
+<item><title>FR: BEIN SPORTS MAX 9 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8944.ts</link></item>
+<item><title>FR: CANAL SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/9024.ts</link></item>
+<item><title>FR: ELEVEN SPORTS 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/17742.ts</link></item>
+<item><title>FR: ELEVEN SPORTS 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/17740.ts</link></item>
+<item><title>FR: ELEVEN SPORTS 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/17738.ts</link></item>
+<item><title>FR: EUROSPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8941.ts</link></item>
+<item><title>FR: EUROSPORT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8940.ts</link></item>
+<item><title>FR: EXTREME SPORTS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8931.ts</link></item>
+<item><title>FR: GOLF HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8932.ts</link></item>
+<item><title>FR: GOLF CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/9098.ts</link></item>
+<item><title>FR: INFOSPORT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/8942.ts</link></item>
+<item><title>FR: RMC SPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/7971.ts</link></item>
+<item><title>FR: RMC SPORT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/5562.ts</link></item>
+<item><title>FR: RMC SPORT 1 ACCESS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/17723.ts</link></item>
+<item><title>FR: RMC SPORT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/5563.ts</link></item>
+<item><title>FR: RMC SPORT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/9824.ts</link></item>
+<item><title>FR: RMC SPORT 2 ACCESS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/17722.ts</link></item>
+<item><title>FR: RMC SPORT 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/5564.ts</link></item>
+<item><title>FR: RMC SPORT 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/17720.ts</link></item>
+<item><title>FR: RMC SPORT 3 ACCESS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/17721.ts</link></item>
+<item><title>FR: RMC SPORT 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/9724.ts</link></item>
+<item><title>FR: RMC SPORT 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/9825.ts</link></item>
+<item><title>DE: AUTO MOTOR SPORT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2309.m3u8</link></item>
+<item><title>DE: DEL SPORT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2325.m3u8</link></item>
+<item><title>DE: DEL SPORT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2326.m3u8</link></item>
+<item><title>DE: DEL SPORT 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2329.m3u8</link></item>
+<item><title>DE: DEL SPORT 7 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2331.m3u8</link></item>
+<item><title>DE: EUROSPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2344.m3u8</link></item>
+<item><title>DE: EUROSPORT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2345.m3u8</link></item>
+<item><title>DE: EUROSPORT 2 XTRA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2346.m3u8</link></item>
+<item><title>DE: FOX SPORTS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2353.m3u8</link></item>
+<item><title>DE: O2 SPORT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://stc.o2tv.cz/at/94f30679e076dada446c960107c6e505/1542561065087/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/551-tv-pc.ts</link></item>
+<item><title>DE: O2 SPORT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://stc.o2tv.cz/at/ab39ed9e515f5b70adcbba5faaf0039b/1542561086261/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/552-tv-pc.ts</link></item>
+<item><title>DE: O2 SPORT 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://stc.o2tv.cz/at/c0753badac84508513d9bb40fcb91fad/1542561108622/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/553-tv-pc.ts</link></item>
+<item><title>DE: O2 SPORT 6 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://stc.o2tv.cz/at/aaef3af917249895d65aabcbfc56d9b2/1542561220200/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/556-tv-pc.ts</link></item>
+<item><title>DE: O2 TENIS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://stc.o2tv.cz/at/7aff71bddf83424748b16c4a660f7955/1542561032124/subscr/OTT-NONMOJEO2-158910/8a51ff0a-145a-4872-be70-ba7e6d25395f/558-tv-pc.ts</link></item>
+<item><title>DE: ORF SPORT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2386.m3u8</link></item>
+<item><title>DE: PL GOLF CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2017.m3u8</link></item>
+<item><title>DE: PL POLSAT SPORT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2053.m3u8</link></item>
+<item><title>DE: PL POLSAT SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2049.m3u8</link></item>
+<item><title>DE: PL POLSAT SPORT EXTRA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2051.m3u8</link></item>
+<item><title>DE: PL POLSAT SPORT EXTRA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2050.m3u8</link></item>
+<item><title>DE: PL TENIS PREMIUM 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2064.m3u8</link></item>
+<item><title>DE: PL TENIS PREMIUM 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37.59.34.182:8000/live/POLAND/POLAND/2065.m3u8</link></item>
+<item><title>DE: SKY EUROSPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2456.m3u8</link></item>
+<item><title>DE: SKY SPORT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2510.m3u8</link></item>
+<item><title>DE: SKY SPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2498.m3u8</link></item>
+<item><title>DE: SKY SPORT 10 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2508.m3u8</link></item>
+<item><title>DE: SKY SPORT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2500.m3u8</link></item>
+<item><title>DE: SKY SPORT 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2501.m3u8</link></item>
+<item><title>DE: SKY SPORT 8 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2506.m3u8</link></item>
+<item><title>DE: SKY SPORT BUNDESLIGA 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2511.m3u8</link></item>
+<item><title>DE: SKY SPORT BUNDESLIGA 10 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2520.m3u8</link></item>
+<item><title>DE: SKY SPORT BUNDESLIGA 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2514.m3u8</link></item>
+<item><title>DE: SKY SPORT BUNDESLIGA 7 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2517.m3u8</link></item>
+<item><title>DE: SKY SPORT BUNDESLIGA 9 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2519.m3u8</link></item>
+<item><title>DE: SPORT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2532.m3u8</link></item>
+<item><title>DE: SPORT1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2536.m3u8</link></item>
+<item><title>IN: DONBAS TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8</link></item>
+<item><title>IT: AUTOMOTO TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://178.22.187.253:1935/streaming-tv/mp4:myStream1/playlist.m3u8</link></item>
+<item><title>IT: BIKE CHANNELL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1970.m3u8</link></item>
+<item><title>IT: IRC SPORT TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8</link></item>
+<item><title>IT: RAI SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/3568.m3u8</link></item>
+<item><title>IT: RAI SPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/3572.m3u8</link></item>
+<item><title>IT: RTV SAN MARINO SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8</link></item>
+<item><title>IT: SKY FORMULA 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1956.m3u8</link></item>
+<item><title>IT: SKY MOTO GP HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1959.m3u8</link></item>
+<item><title>IT: SKY MOTO GP C208 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1954.m3u8</link></item>
+<item><title>IT: SKY MOTO GP C208 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1955.m3u8</link></item>
+<item><title>IT: SKY SPORT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1922.m3u8</link></item>
+<item><title>IT: SKY SPORT 24 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.110.22:88/live/0VwRmuQSV7/ugTt3P5B87/46.m3u8</link></item>
+<item><title>IT: SKY SPORT 24 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1924.m3u8</link></item>
+<item><title>IT: SKY SPORT 24 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1926.m3u8</link></item>
+<item><title>IT: SKY SPORT 24 (3+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1928.m3u8</link></item>
+<item><title>IT: SKY SPORT 24 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1923.m3u8</link></item>
+<item><title>IT: SKY SPORT 24 C200 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1925.m3u8</link></item>
+<item><title>IT: SKY SPORT 24 C200 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1927.m3u8</link></item>
+<item><title>IT: SKY SPORT ARENA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1929.m3u8</link></item>
+<item><title>IT: SKY SPORT ARENA C204 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1930.m3u8</link></item>
+<item><title>IT: SKY SPORT ARENA C204 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1931.m3u8</link></item>
+<item><title>IT: SKY SPORT C252 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1934.m3u8</link></item>
+<item><title>IT: SKY SPORT C253 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1945.m3u8</link></item>
+<item><title>IT: SKY SPORT C254 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1946.m3u8</link></item>
+<item><title>IT: SKY SPORT C255 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1947.m3u8</link></item>
+<item><title>IT: SKY SPORT C256 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1948.m3u8</link></item>
+<item><title>IT: SKY SPORT C257 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1949.m3u8</link></item>
+<item><title>IT: SKY SPORT C258 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1950.m3u8</link></item>
+<item><title>IT: SKY SPORT C259 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1951.m3u8</link></item>
+<item><title>IT: SKY SPORT F1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.110.22:88/live/0VwRmuQSV7/ugTt3P5B87/47.m3u8</link></item>
+<item><title>IT: SKY SPORT F1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1932.m3u8</link></item>
+<item><title>IT: SKY SPORT FOOTBALL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1937.m3u8</link></item>
+<item><title>IT: SKY SPORT FOOTBALL C203 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1938.m3u8</link></item>
+<item><title>IT: SKY SPORT FOOTBALL C203 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1939.m3u8</link></item>
+<item><title>IT: SKY SPORT GOLF HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1935.m3u8</link></item>
+<item><title>IT: SKY SPORT GOLF (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1942.m3u8</link></item>
+<item><title>IT: SKY SPORT GOLF C205 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1941.m3u8</link></item>
+<item><title>IT: SKY SPORT GOLF C205 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1943.m3u8</link></item>
+<item><title>IT: SKY SPORT NBA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1936.m3u8</link></item>
+<item><title>IT: SKY SPORT NBA (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1993.m3u8</link></item>
+<item><title>IT: SKY SPORT NBA C206 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1919.m3u8</link></item>
+<item><title>IT: SKY SPORT NBA C206 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1920.m3u8</link></item>
+<item><title>IT: SKY SPORT UNO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1912.m3u8</link></item>
+<item><title>IT: SKY SPORT UNO C201 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1913.m3u8</link></item>
+<item><title>IT: SKY SPORT1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.110.22:88/live/0VwRmuQSV7/ugTt3P5B87/48.m3u8</link></item>
+<item><title>IT: SKY SPORT2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.110.22:88/live/0VwRmuQSV7/ugTt3P5B87/49.m3u8</link></item>
+<item><title>IT: SKY SPORT3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.110.22:88/live/0VwRmuQSV7/ugTt3P5B87/50.m3u8</link></item>
+<item><title>IT: SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/5314.m3u8</link></item>
+<item><title>IT: SUPER TENNIS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1994.m3u8</link></item>
+<item><title>IT: TELEARENA ENTERTAINMENT ITALIAN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8</link></item>
+<item><title>IT: TELEROMAGNA SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://livetr.teleromagna.it/sport/live/playlist.m3u8</link></item>
+<item><title>MX: ARENA 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3837.m3u8</link></item>
+<item><title>MX: ARENA 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3838.m3u8</link></item>
+<item><title>MX: ARENA 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3839.m3u8</link></item>
+<item><title>MX: ARENA 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3840.m3u8</link></item>
+<item><title>MX: ARENA 6 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3841.m3u8</link></item>
+<item><title>MX: EUROSPORT HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/101.m3u8</link></item>
+<item><title>MX: EUROSPORT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/102.m3u8</link></item>
+<item><title>MX: FISHING TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/312.m3u8</link></item>
+<item><title>MX: LAZIO STYLE CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/111.m3u8</link></item>
+<item><title>MX: SKY SPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/84.m3u8</link></item>
+<item><title>MX: SKY SPORT 1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/85.m3u8</link></item>
+<item><title>MX: SKY SPORT 24 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/81.m3u8</link></item>
+<item><title>MX: SKY SPORT ARENA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/282.m3u8</link></item>
+<item><title>MX: SKY SPORT F1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/95.m3u8</link></item>
+<item><title>MX: SKY SPORT FOOTBALL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7172.m3u8</link></item>
+<item><title>MX: SKY SPORT GOLF HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/90.m3u8</link></item>
+<item><title>MX: SKY SPORT GOLF (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7173.m3u8</link></item>
+<item><title>MX: SKY SPORT MOTOGP HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/98.m3u8</link></item>
+<item><title>MX: SKY SPORT NBA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7171.m3u8</link></item>
+<item><title>MX: SKY SPORTS ARENA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/87.m3u8</link></item>
+<item><title>MX: SKY SPORTS FOOTBALL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/89.m3u8</link></item>
+<item><title>MX: SPORTITALIA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/116.m3u8</link></item>
+<item><title>MX: SPORTKLUB 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3843.m3u8</link></item>
+<item><title>MX: SPORTKLUB 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3845.m3u8</link></item>
+<item><title>MX: SPORTKLUB START </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3842.m3u8</link></item>
+<item><title>MX: SUPERTENNIS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/103.m3u8</link></item>
+<item><title>MX: TELEFORMULA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lo/161.ts</link></item>
+<item><title>MX: TELEFORMULA (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/tv/v/1377.ts</link></item>
+<item><title>PT: SPORT TV MAIS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/3013.m3u8</link></item>
+<item><title>RU: FILMBOX EXTRA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.87.85.10/PLTV/88888888/224/3221226932/index.ts</link></item>
+<item><title>SP: FIGHT TIME OPT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.ts</link></item>
+<item><title>SP: FIGHT TIME OPT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8</link></item>
+<item><title>SE: TV2 SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.ts</link></item>
+<item><title>TR: SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185-8-178-138.livesports24.online/bsporttur1.m3u8</link></item>
+<item><title>UA: DONBAS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8</link></item>
+<item><title>UK: BEIN SPORTS 13 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/9819.ts</link></item>
+<item><title>UK: BOX HITS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8</link></item>
+<item><title>UK: BOX HITS (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.ts</link></item>
+<item><title>UK: FLOW SPORTS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8</link></item>
+<item><title>US: AUTOMOTO TV OPT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.ts</link></item>
+<item><title>US: ESPN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://80.80.160.168/live/6/live.m3u8</link></item>
+<item><title>US: ESPN 2 OPT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8</link></item>
+<item><title>US: FOX SPORTS RACING </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8</link></item>
+<item><title>US: MLB NETWORK PUBLIC SPORTS ENGLISH </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8</link></item>
+<item><title>US: ONE CHANNEL SPORTS ARABIC </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8</link></item>
+<item><title>US: RED BULL TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8</link></item>
+<item><title>US: SKY SPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/2499.m3u8</link></item>
+<item><title>WW: FISHING NETWORK </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8</link></item>
+<item><title>WW: MDF1 ALEMANIA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=62.113.210.250/medienasa-live/mdf1_high/agustiny.ts</link></item>
+<item><title>WW: VOO SPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-play.org:8000/live/saidclt201/XmQat4ju/17732.ts</link></item>
+<item><title>_: A SPOR HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://trkvz-m.ercdn.net/asporhd/asporhd.m3u8</link></item>
+<item><title>_: A SPOR (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8</link></item>
+<item><title>_: ABU DHABI SPORTS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://adtv.ercdn.net/adsport1/adsport1.m3u8</link></item>
+<item><title>_: ABU DHABI SPORTS (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8</link></item>
+<item><title>_: ABU DHABI SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://adtv.ercdn.net/adsport2/adsport2.m3u8</link></item>
+<item><title>_: ABU DHABI SPORTS 2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8</link></item>
+<item><title>_: ABUNDANT GRACE TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.132.179.43:8000/live/OG82YHlMmyo4e2T/HAlIrAIpqdfhEuH/889.m3u8</link></item>
+<item><title>_: AD SPORT EXTRA </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8</link></item>
+<item><title>_: ALL SPORTS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/152.m3u8</link></item>
+<item><title>_: ARENA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=persik.by/stream/176/296165/261.ts</link></item>
+<item><title>_: AYM SPORTS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lo/576.ts</link></item>
+<item><title>_: AYM SPORTS CALIDAD LISTA PRIVADA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lof/576.ts</link></item>
+<item><title>_: BEIN SPORTS 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/1.m3u8</link></item>
+<item><title>_: BEIN SPORTS 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/11.m3u8</link></item>
+<item><title>_: BEIN SPORTS 10 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/20.m3u8</link></item>
+<item><title>_: BEIN SPORTS 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/2.m3u8</link></item>
+<item><title>_: BEIN SPORTS 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/12.m3u8</link></item>
+<item><title>_: BEIN SPORTS 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/3.m3u8</link></item>
+<item><title>_: BEIN SPORTS 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/13.m3u8</link></item>
+<item><title>_: BEIN SPORTS 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/4.m3u8</link></item>
+<item><title>_: BEIN SPORTS 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/14.m3u8</link></item>
+<item><title>_: BEIN SPORTS 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/5.m3u8</link></item>
+<item><title>_: BEIN SPORTS 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/15.m3u8</link></item>
+<item><title>_: BEIN SPORTS 6 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/6.m3u8</link></item>
+<item><title>_: BEIN SPORTS 6 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/16.m3u8</link></item>
+<item><title>_: BEIN SPORTS 7 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/7.m3u8</link></item>
+<item><title>_: BEIN SPORTS 7 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/17.m3u8</link></item>
+<item><title>_: BEIN SPORTS 8 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/8.m3u8</link></item>
+<item><title>_: BEIN SPORTS 8 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/18.m3u8</link></item>
+<item><title>_: BEIN SPORTS 9 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/9.m3u8</link></item>
+<item><title>_: BEIN SPORTS 9 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/19.m3u8</link></item>
+<item><title>_: BEIN SPORTS LOW 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/21.m3u8</link></item>
+<item><title>_: BEIN SPORTS LOW 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/22.m3u8</link></item>
+<item><title>_: BEIN SPORTS LOW 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/23.m3u8</link></item>
+<item><title>_: BEIN SPORTS LOW 4 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/24.m3u8</link></item>
+<item><title>_: BEIN SPORTS LOW 5 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/25.m3u8</link></item>
+<item><title>_: BEIN SPORTS LOW 6 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/26.m3u8</link></item>
+<item><title>_: BEIN SPORTS LOW 7 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/27.m3u8</link></item>
+<item><title>_: BEOUTQ SPORT2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1057.m3u8</link></item>
+<item><title>_: BEOUTQ SPORT3 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1058.m3u8</link></item>
+<item><title>_: BEOUTQ SPORT4 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1059.m3u8</link></item>
+<item><title>_: BEOUTQ SPORT5 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1060.m3u8</link></item>
+<item><title>_: BEOUTQ SPORT6 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1061.m3u8</link></item>
+<item><title>_: BEOUTQ SPORT7 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1062.m3u8</link></item>
+<item><title>_: BIKE CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/219.m3u8</link></item>
+<item><title>_: BT SPORT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://vip7stream.pw/lba/123/g3/bt2.m3u8</link></item>
+<item><title>_: CANAL MOTO G </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/tv/v/2273.ts</link></item>
+<item><title>_: DRF1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5713-mbr.smil/chunklist_b2000000.m3u8</link></item>
+<item><title>_: DUBAI SPORTS </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/127.m3u8</link></item>
+<item><title>_: DUBAI SPORTS 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dmi.mangomolo.com:1935/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8</link></item>
+<item><title>_: ESPN </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lo/516.ts</link></item>
+<item><title>_: ESPN (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lo/558.ts</link></item>
+<item><title>_: ESPN (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/tv/v/2302.ts</link></item>
+<item><title>_: ESPN 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lo/561.ts</link></item>
+<item><title>_: ESPN 2 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/tv/v/2303.ts</link></item>
+<item><title>_: ESPN 2 CALIDAD LISTA PRIVADA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lof/561.ts</link></item>
+<item><title>_: ESPN 3 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lo/520.ts</link></item>
+<item><title>_: ESPN 3 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/tv/v/1784.ts</link></item>
+<item><title>_: ESPN 3 CALIDAD LISTA PRIVADA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lof/520.ts</link></item>
+<item><title>_: ESPN CALIDAD LISTA PRIVADA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lof/516.ts</link></item>
+<item><title>_: ESPN CALIDAD LISTA PRIVADA (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lof/558.ts</link></item>
+<item><title>_: EUROSPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/4803.m3u8</link></item>
+<item><title>_: EUROSPORT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/218.m3u8</link></item>
+<item><title>_: FOX SPORTS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lo/522.ts</link></item>
+<item><title>_: FOX SPORTS 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lo/527.ts</link></item>
+<item><title>_: FOX SPORTS 2 CALIDAD LISTA PRIVADA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lof/527.ts</link></item>
+<item><title>_: FOX SPORTS CALIDAD LISTA PRIVADA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lof/522.ts</link></item>
+<item><title>_: HI SPORT SPORTS TH THAI HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nakorn4.dyndns.tv:1935/live/sdlive.stream/playlist.m3u8</link></item>
+<item><title>_: KTV SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/134.m3u8</link></item>
+<item><title>_: LAZIO STYLE CHANNEL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/238.m3u8</link></item>
+<item><title>_: LOOK SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://193.239.252.15/live/hls/stream1_q2/index.m3u8</link></item>
+<item><title>_: MLB </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.ts</link></item>
+<item><title>_: MLB DEPORTES HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/id/2sChlEq.ts</link></item>
+<item><title>_: MYHD DOUC BOX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1269.m3u8</link></item>
+<item><title>_: MYHD FILMBOX HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1268.m3u8</link></item>
+<item><title>_: MYHD FILMBOX ARTHOUSE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1267.m3u8</link></item>
+<item><title>_: NBA TV </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/5897.m3u8</link></item>
+<item><title>_: NFL NETWORK HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/tv/v/2420.ts</link></item>
+<item><title>_: OMEN TV SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/202.m3u8</link></item>
+<item><title>_: ON SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/131.m3u8</link></item>
+<item><title>_: OSN </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1105.m3u8</link></item>
+<item><title>_: OSN AD SPORT 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1318.m3u8</link></item>
+<item><title>_: RAI SPORT 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/311.m3u8</link></item>
+<item><title>_: RTSH SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.216.63:8000/live/kanale24TV_ne_PlayStore_23DhjeTor/GeriolRama_IPTVKosova23Dhj./98.m3u8</link></item>
+<item><title>_: SETANTA SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ott-cdn.ucom.am/s82/index.m3u8</link></item>
+<item><title>_: SKY MOTO GP HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.110.22:88/live/spokjhkjjb/itcghgcvjhv/94.m3u8</link></item>
+<item><title>_: SKY SPORT 24 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/212.m3u8</link></item>
+<item><title>_: SKY SPORT 24 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/4052.m3u8</link></item>
+<item><title>_: SKY SPORT 24 DTT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/5652.m3u8</link></item>
+<item><title>_: SKY SPORT 251 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/227.m3u8</link></item>
+<item><title>_: SKY SPORT 251 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/966.m3u8</link></item>
+<item><title>_: SKY SPORT 252 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/228.m3u8</link></item>
+<item><title>_: SKY SPORT 252 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/6434.m3u8</link></item>
+<item><title>_: SKY SPORT 252 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/1044.m3u8</link></item>
+<item><title>_: SKY SPORT 253 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/229.m3u8</link></item>
+<item><title>_: SKY SPORT 253 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/1045.m3u8</link></item>
+<item><title>_: SKY SPORT 254 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/230.m3u8</link></item>
+<item><title>_: SKY SPORT 254 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/1046.m3u8</link></item>
+<item><title>_: SKY SPORT 255 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/231.m3u8</link></item>
+<item><title>_: SKY SPORT 255 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/1047.m3u8</link></item>
+<item><title>_: SKY SPORT 256 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/232.m3u8</link></item>
+<item><title>_: SKY SPORT 256 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/1048.m3u8</link></item>
+<item><title>_: SKY SPORT 257 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/233.m3u8</link></item>
+<item><title>_: SKY SPORT 257 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/1049.m3u8</link></item>
+<item><title>_: SKY SPORT 258 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/234.m3u8</link></item>
+<item><title>_: SKY SPORT ARENA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/214.m3u8</link></item>
+<item><title>_: SKY SPORT F1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/222.m3u8</link></item>
+<item><title>_: SKY SPORT F1 (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/2899.m3u8</link></item>
+<item><title>_: SKY SPORT F1 (2+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.110.22:88/live/spokjhkjjb/itcghgcvjhv/98.m3u8</link></item>
+<item><title>_: SKY SPORT FOOTBALL HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/215.m3u8</link></item>
+<item><title>_: SKY SPORT GOLF HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/225.m3u8</link></item>
+<item><title>_: SKY SPORT MOTOGP HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/223.m3u8</link></item>
+<item><title>_: SKY SPORT MOTOGP (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/5936.m3u8</link></item>
+<item><title>_: SKY SPORT NBA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/216.m3u8</link></item>
+<item><title>_: SKY SPORT NBA (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/5935.m3u8</link></item>
+<item><title>_: SKY SPORT UNO HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/213.m3u8</link></item>
+<item><title>_: SKY SPORT UNO (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/5938.m3u8</link></item>
+<item><title>_: SKY SPORT UNO DTT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/5872.m3u8</link></item>
+<item><title>_: SKY SPORT1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.110.22:88/live/spokjhkjjb/itcghgcvjhv/99.m3u8</link></item>
+<item><title>_: SKY SPORT2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.110.22:88/live/spokjhkjjb/itcghgcvjhv/100.m3u8</link></item>
+<item><title>_: SKY SPORT3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://62.210.110.22:88/live/spokjhkjjb/itcghgcvjhv/101.m3u8</link></item>
+<item><title>_: SKY SPORTS CRICKET </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3%7Dbc/44.m3u8</link></item>
+<item><title>_: SKY SPORTS F1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3%7Dbc/46.m3u8</link></item>
+<item><title>_: SKY SPORTS FOOTBALL </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3%7Dbc/43.m3u8</link></item>
+<item><title>_: SKY SPORTS GOLF </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3%7Dbc/45.m3u8</link></item>
+<item><title>_: SKY SPORTS MAIN EVENT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://vip7stream.pw/lba/123/g5/skymainuk.m3u8</link></item>
+<item><title>_: SKY SPORTS MAIN EVENT (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3%7Dbc/41.m3u8</link></item>
+<item><title>_: SKY SPORTS PREMIER LEAGUE </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://213.202.233.149:8000/live/bosh@38766567/bzBY5n:k@wWv3%7Dbc/42.m3u8</link></item>
+<item><title>_: SPORT </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/211.m3u8</link></item>
+<item><title>_: SUPER TENNIS HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://dcciptv.cechire.net:15004/live/12/12a/221.m3u8</link></item>
+<item><title>_: TELEFORMULA </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=wms30.tecnoxia.com/radiof/abr_radioftele/playlist.ts</link></item>
+<item><title>_: TELEFORMULA CALIDAD LISTA PRIVADA HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/on/lof/161.ts</link></item>
+<item><title>_: TRING SPORT 1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.216.63:8000/live/kanale24TV_ne_PlayStore_23DhjeTor/GeriolRama_IPTVKosova23Dhj./10.m3u8</link></item>
+<item><title>_: TRING SPORT 2 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.216.63:8000/live/kanale24TV_ne_PlayStore_23DhjeTor/GeriolRama_IPTVKosova23Dhj./11.m3u8</link></item>
+<item><title>_: TRING SPORT 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://163.172.216.63:8000/live/kanale24TV_ne_PlayStore_23DhjeTor/GeriolRama_IPTVKosova23Dhj./13.m3u8</link></item>
+<item><title>_: TRT SPOR HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8</link></item>
+<item><title>_: TRT SPOR (1+) HD</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8</link></item>
+<item><title>_: TRT SPOR </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://trt-live.ercdn.net/trtspor/trtspor_2.m3u8</link></item>
+<item><title>_: TRT SPOR (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8</link></item>
+<item><title>_: TRT SPOR (2+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/144.m3u8</link></item>
+<item><title>_: TYC SPORTS </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpremiumhd.club/lista-gratuita/210002/tv/v/2065.ts</link></item>
+<item><title>_: VIPL BEIN SPORT SD1 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.235.76:8000/live/herolive/herolive1/414.m3u8</link></item>
+<item><title>_: VIPL BEIN SPORT SD1 (1+) </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.235.76:8000/live/herolive/herolive1/449.m3u8</link></item>
+<item><title>_: VIPL BEIN SPORT SD4 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.235.76:8000/live/herolive/herolive1/452.m3u8</link></item>
+<item><title>_: VIPL BEIN SPORT SD9 </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://207.180.235.76:8000/live/herolive/herolive1/457.m3u8</link></item>
+<item><title>_: YENI MALATYA SPOR </title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8</link></item>
