@@ -30,6 +30,8 @@
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10734</link></item>
 <item><title>BTV</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://perfect.ddnsfree.com:8000/Diogorego/QflM6cug8g/10733</link></item>
 
+<item><title>BTV FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/90</link></item>
+<item><title>BTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/91</link></item>
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
 <item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
