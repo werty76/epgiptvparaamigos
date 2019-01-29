@@ -32,6 +32,22 @@
 
 <item><title>BTV FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/90</link></item>
 <item><title>BTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/91</link></item>
+<item><title>SPORT TV 1 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/103</link></item>
+<item><title>SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/104</link></item>
+<item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/579</link></item>
+<item><title>SPORT TV 2 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/100</link></item>
+<item><title>SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/102</link></item>
+<item><title>SPORT TV 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/580</link></item>
+<item><title>SPORT TV 3 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/97</link></item>
+<item><title>SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/98</link></item>
+<item><title>SPORT TV 3</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/581</link></item>
+<item><title>SPORT TV 4 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/3251</link></item>
+<item><title>SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/95</link></item>
+<item><title>SPORT TV 4</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/582</link></item>
+<item><title>SPORT TV 5 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/3250</link></item>
+<item><title>SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/93</link></item>
+<item><title>SPORT TV 5</title><link>plugin://plugin.video.f4mTester/?url=http://originaliptv.com:8000/Julio/Julio/583&amp;streamtype=TSDOWNLOADER</link></item>
+
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
 <item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
