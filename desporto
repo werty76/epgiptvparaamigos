@@ -28,7 +28,7 @@
 
 <item><title>BTV HD
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/453</link></item>
-#<item><title>SPORT TV 4K UHD
+<item><title>SPORT TV 4K UHD
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/364</link></item>
 <item><title>SPORT TV 1
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/461</link></item>
@@ -67,9 +67,11 @@
 <item><title>Sport TV 5 HD [720p]
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/275</link></item>
 
-#<item><title>A Bola TV
+<item><title>A Bola TV
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/466</link></item>
-
+<item><title>PFC
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/393</link></item>
+ 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
 <item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
 <item><title> Real Madrid TV </title><link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/indx_1000_av-p.m3u8</link></item>
