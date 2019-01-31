@@ -7,8 +7,6 @@
 <item><title>[B][COLOR green] →→→DESPORTO←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
 
-<item><title>BTV FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/90</link></item>
-<item><title>BTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/91</link></item><item>
 
 <item><title>SPORT TV 1 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/103</link></item>
 <item><title>SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/104</link></item>
@@ -25,8 +23,52 @@
 <item><title>SPORT TV 5 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/3250</link></item>
 <item><title>SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/93</link></item>
 <item><title>SPORT TV 5</title><link>plugin://plugin.video.f4mTester/?url=http://originaliptv.com:8000/Julio/Julio/583&amp;streamtype=TSDOWNLOADER</link></item>
+<item><title>BTV FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/90</link></item>
+<item><title>BTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/91</link></item><item>
 
+<item><title>BTV HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/453</link></item>
+#<item><title>SPORT TV 4K UHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/364</link></item>
+<item><title>SPORT TV 1
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/461</link></item>
+<item><title>SPORT TV 2
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/460</link></item>
+<item><title>SPORT TV 3
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/459</link></item>
+<item><title>SPORT TV 4
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/458</link></item>
+<item><title>SPORT TV 5
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/457</link></item>
+<item><title>Sport TV 1 HD [540p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/282</link></item>
+<item><title>Sport TV 1 HD [720p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/283</link></item>
+<item><title>SPORT TV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/456</link></item>
+<item><title>Sport TV 2 HD [540p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/280</link></item>
+<item><title>Sport TV 2 HD [720p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/281</link></item>
+<item><title>SPORT TV 2 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/455</link></item>
+<item><title>Sport TV 3 HD [540p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/278</link></item>
+<item><title>Sport TV 3 HD [720p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/279</link></item>
+<item><title>SPORT TV 3 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/454</link></item>
+<item><title>Sport TV 4 HD [540p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/276</link></item>
+<item><title>Sport TV 4 HD [720p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/277</link></item>
+<item><title>Sport TV 5 HD [540p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/274</link></item>
+<item><title>Sport TV 5 HD [720p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/275</link></item>
 
+#<item><title>A Bola TV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.13th.info:8080/n205/QSPRySd4sG6bH4Sq/466</link></item>
 
 <item><title> RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
 <item><title> Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
