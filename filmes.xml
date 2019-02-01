@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 "<item><title>ENGENHOS MORTÍFEROS [Leg] </title>
-<urlsolve>https://vidoza.net/embed-fihgvh36o06e.html</urlsolve>
-<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/428078_pt.jpg</thumbnail>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FZRQG5QKQE</page></regex></link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/428078_pt.jpg</thumbnail>                               
 <fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Mortal Engines[/B][/COLOR]
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Ficção Científica
