@@ -2,7 +2,7 @@
 
 "<item>
 <title>Assim Nasce Uma Estrela</title>
-<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FZS7NW7M9T</page></regex></link>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>https://www.rapidvideo.com/v/FZS7NW7M9T&q=720p</page></regex></link>
 <thumbnail>https://goo.gl/p2sL65</thumbnail>
 <fanart>https://goo.gl/pHeT2v</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]A Star Is Born [/B][/COLOR]
