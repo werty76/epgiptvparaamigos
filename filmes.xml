@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-"<item><title>ENGENHOS MORTÍFEROS [Leg] </title>
+"<item><title>BUMBLEBEE</title>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FZFOKHQXXE</page></regex></link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/424783_pt.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Bumblebee[/B][/COLOR]
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ficção Científica, Aventura, Ação
+[B][COLOR deepskyblue]Realização:[/B][/COLOR] Travis Knight
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 114 m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/12
+[B][COLOR deepskyblue]Origem:[/B][/COLOR] USA
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 20-12-2018
+[B][COLOR deepskyblue]Actores:[/B][/COLOR] Hailee Steinfeld, Dylan O'Brien, Pamela Adlon, John Cena, Jorge Lendeborg Jr., Stephen Schneider, Angela Bassett, Justin Theroux, Jason Drucker, John Ortiz, Kenneth Choi, Peter Cullen, Ricardo Hoyos, Jess Harnell, Abby Quinn, Jason Ian Drucker, Rachel Crow, Rachel Crow, Gracie Dzienny, Stephen Schneider, Megyn Price, Glynn Turman, Vanessa Ross
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Em 1987, Bumblebee está em fuga e encontra refúgio num ferro velho, numa pequena cidade do litoral da Califórnia. Charlie (Hailee Steinfeld), com quase 18 anos e a tentar descobrir o seu lugar no mundo, descobre Bumblebee, com marcas de guerra e destruído. Enquanto Charlie o repara, rapidamente descobre não se tratar de um mero Volkswagen Carocha amarelo.</info>
+</item>"
+
+"<item><title>ENGENHOS MORTÍFEROS</title>
 <link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FZRQG5QKQE</page></regex></link>
 <thumbnail>https://filmspot.com.pt/images/filmes/posters/big/428078_pt.jpg</thumbnail>                               
 <fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
