@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+"<item>
+<title>Assim Nasce Uma Estrela</title>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FZS7NW7M9T</page></regex></link>
+<thumbnail>https://goo.gl/p2sL65</thumbnail>
+<fanart>https://goo.gl/pHeT2v</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]A Star Is Born [/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR] Drama, Música, Romance
+[B][COLOR blue]Realização:[/B][/COLOR] Bradley Cooper 
+[B][COLOR blue]Duração:[/B][/COLOR] 136 Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR] M/14
+[B][COLOR blue]Ano:[/B][/COLOR] 2018
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 11 de Outobro de 2018
+[B][COLOR blue]Actores:[/B][/COLOR]  Lady Gaga Bradley Cooper Sam Elliott
+[B][COLOR blue]Sinopse:[/B][/COLOR] Um músico ajuda um jovem cantor a encontrar fama, mesmo quando a idade e o alcoolismo enviam sua própria carreira para uma espiral descendente.</info>
+</item>"
+
 "<item><title>BUMBLEBEE</title>
 <link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FZFOKHQXXE</page></regex></link>
 <thumbnail>https://filmspot.com.pt/images/filmes/posters/big/424783_pt.jpg</thumbnail>
