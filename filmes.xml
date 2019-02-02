@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 "<item>
+<title>Polar</title>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FZSIF2EQ80</page></regex></link>
+<thumbnail>https://goo.gl/AhQJmA</thumbnail>
+<fanart>https://goo.gl/EHE3a4</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Polar[/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR] Acção, Crime
+[B][COLOR blue]Realização:[/B][/COLOR] Jonas Åkerlund 
+[B][COLOR blue]Duração:[/B][/COLOR] 118 Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR] M/18
+[B][COLOR blue]Ano:[/B][/COLOR] 2019
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 25 de Jneiro de 2019
+[B][COLOR blue]Actores:[/B][/COLOR] Mads Mikkelsen Vanessa Hudgens Katheryn Winnick
+[B][COLOR blue]Sinopse:[/B][/COLOR] O principal assassino do mundo, Duncan Vizla, está se aposentando quando seu ex-empregador o considera um passivo para a empresa. Contra sua vontade, ele se encontra de volta ao jogo ...</info>
+</item>"
+
+"<item>
 <title>Assim Nasce Uma Estrela</title>
 <link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FZSGGEXB88</page></regex></link>
 <thumbnail>https://goo.gl/p2sL65</thumbnail>
