@@ -2,9 +2,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item><title>[B][COLOR red] →→→LIVE←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title>GUIMARAES VS PORTO 20:00</title><link>http://185.102.218.35:1935/edge/ch156480/chunklist_w706914256.m3u8</link></item>
 
-<item><title>[B][COLOR green] →→→1←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
+<item><title>[B][COLOR green] →→→DESPORTO 1←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
 
 <item><title>SPORT TV 1 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/103</link></item>
@@ -25,7 +24,7 @@
 <item><title>BTV FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/90</link></item>
 <item><title>BTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/91</link></item><item>
 
-<item><title>[B][COLOR red] →→→2←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
+<item><title>[B][COLOR green] →→→DESPORTO 2←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
  
 <item><title>Sport TV   Full HD ( EXTRA )
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10465</link></item>
@@ -104,7 +103,7 @@
 <item><title>BTV 1 HD (internet low)
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9008</link></item>
  
- <item><title>[B][COLOR red] →→→3←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
+ <item><title>[B][COLOR green] →→→DESPORTO 3←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
 
 <item><title>A BOLA TV
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://powerful.dynu.net:8000/Fouad/Fouad/6116</link></item>
@@ -171,7 +170,7 @@
 <item><title>PFC
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://powerful.dynu.net:8000/Fouad/Fouad/6087</link></item>
 
-<item><title>[B][COLOR red] →→→4←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
+<item><title>[B][COLOR green] →→→DESPORTO 4←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
 
 <item><title>SPORT TV 1
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/julice/julice/15375</link></item>
@@ -208,7 +207,7 @@
 <item><title>BENFICA TV FHD.
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/julice/julice/15350</link></item>
 
-<item><title>[B][COLOR red] →→→5←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
+<item><title>[B][COLOR green] →→→DESPORTO 5←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
 
 <item><title>A BOLA TV
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/55</link></item>
