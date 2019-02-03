@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<item><title>[B][COLOR green] →→→CANAIS 1←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
+
 <item><title>TVCine 1
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/julice/julice/15317</link></item>
 <item><title>TVCINE 1 FHD
@@ -22,6 +24,8 @@
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/julice/julice/15306</link></item>
 <item><title>TVCINE 4 HD
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/julice/julice/15310</link></item>
+
+<item><title>[B][COLOR green] →→→CANAIS 2←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
 <item><title>TVCINE 1
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://powerful.dynu.net:8000/Fouad/Fouad/6161</link></item>
@@ -48,6 +52,7 @@
 <item><title>TV CINE 4 FHD
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://powerful.dynu.net:8000/Fouad/Fouad/6156</link></item>
 
+<item><title>[B][COLOR green] →→→CANAIS 3←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
 <item><title>TVCINE 1
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/46</link></item>
