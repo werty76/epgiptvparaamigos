@@ -2,7 +2,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item><title>[B][COLOR red] →→→LIVE←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title></title></title><link></link></item>
+#EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",SPORTING VS BENFICA 17:30
+http://tv.wlive.tv/tv/uRP12HY5FA20180701/chunklist_w403599522_tkaGxzZW5kdGltZT0xNTQ5MjE3NjQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9eXdoclEtQ1BZZ1p0TmxIdlpiT2RVUm5naUFQWURSUWoycG5NbXZPNWpfaz0=.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",SPORTING VS BENFICA 17:30
+http://tv.wlive.tv/tv/uRP12HY5FA20180701/chunklist_w1237607186_tkaGxzZW5kdGltZT0xNTQ5MjE2OTgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9eF8yTFEzSi1rMFBwZDVRS2NReG9wVlF0dTg0VGZhRlR1cktCMkR3SWtyQT0=.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",SPORTING VS BENFICA 17:30
+http://tv.wlive.tv/tv/jJlK9QV2lW20180321/chunklist_w1357077189_tkaGxzZW5kdGltZT0xNTQ5MjE2NjgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9RkJwZE83SGlEWUhEcnVvdEM4c0xQVC1Xc2N2cDFEZURmZ19TWTlDbERrMD0=.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",SPORTING VS BENFICA 17:30
+http://185.102.218.35:1935/edge/ch156463/chunklist_w1492163997.m3u8
 
 <item><title>[B][COLOR green] →→→1←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
