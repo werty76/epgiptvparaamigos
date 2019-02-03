@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+"<item><title>REVENGER [Leg] </title>
+<link>http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/REVENGERLEGHD.mp4</link>
+<thumbnail>https://goo.gl/3hKKrT</thumbnail>
+<fanart>https://goo.gl/AYAUty</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Revenger[/B][/COLOR]
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação
+[B][COLOR deepskyblue]Realização:[/B][/COLOR] Seung-Won Lee
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 101 m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/16
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2019
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 15-01-2019
+[B][COLOR deepskyblue]Actores:[/B][/COLOR] Bruce Khan, Hee-soon Park, Jin-seo Yoon
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Um ex-investigador da polícia decide ir a uma ilha de prisão para vingar os assassinatos brutais de sua família.</info></item>"
+
+"<item><title>HOMENS DO DIABO [Leg] </title>
+<link>http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/ALLTHEDEVILSMANLEGHD.mp4</link>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/481203_pt.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]All the Devil's Men[/B][/COLOR]
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação
+[B][COLOR deepskyblue]Realização:[/B][/COLOR] Matthew Hope
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 99 m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/14
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 24-01-2019
+[B][COLOR deepskyblue]Actores:[/B][/COLOR] Sylvia Hoeks, William Fichtner, Gbenga Akinnagbe, Milo Gibson, Elliot Cowan, Joseph Millson, Mingus Johnston, Saif Al-Warith, Yavor Baharov, Ben Loyd-Holmes
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Um ex-soldado das forças especiais dos EUA torna-se caçador de recompensas a soldo da CIA. Forçado a ir a Londres numa caça a um agente da CIA rebelde acaba por enfrentar um antigo companheiro e o seu exército privado.</info></item>"
+
 "<item>
 <title>Polar</title>
 <link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FZSIF2EQ80</page></regex></link>
@@ -41,7 +69,6 @@
 [B][COLOR deepskyblue]Realização:[/B][/COLOR] Travis Knight
 [B][COLOR deepskyblue]Duração:[/B][/COLOR] 114 m
 [B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/12
-[B][COLOR deepskyblue]Origem:[/B][/COLOR] USA
 [B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
 [B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 20-12-2018
 [B][COLOR deepskyblue]Actores:[/B][/COLOR] Hailee Steinfeld, Dylan O'Brien, Pamela Adlon, John Cena, Jorge Lendeborg Jr., Stephen Schneider, Angela Bassett, Justin Theroux, Jason Drucker, John Ortiz, Kenneth Choi, Peter Cullen, Ricardo Hoyos, Jess Harnell, Abby Quinn, Jason Ian Drucker, Rachel Crow, Rachel Crow, Gracie Dzienny, Stephen Schneider, Megyn Price, Glynn Turman, Vanessa Ross
@@ -57,7 +84,6 @@
 [B][COLOR deepskyblue]Realização:[/B][/COLOR] Christian Rivers
 [B][COLOR deepskyblue]Duração:[/B][/COLOR] 128 m
 [B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/12
-[B][COLOR deepskyblue]Origem:[/B][/COLOR] Nova Zelândia, USA
 [B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
 [B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 06-12-2018
 [B][COLOR deepskyblue]Actores:[/B][/COLOR] Hera Hilmar, Robert Sheehan, Hugo Weaving, Ronan Raftery, Stephen Lang, Leila George, Jihae, Colin Salmon, Sophie Cox, Caren Pistorius, Aaron Jackson, Mark Hadlow, Menik Gooneratne, Joel Tobeck, Stephen Ure, Kee Chan, Patrick Malahide, Regé-Jean Page, Frankie Adams, Mark Mitchinson
