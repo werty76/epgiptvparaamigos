@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+"<item>
+<title>Aquaman</title>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=FZXBUZB267</page></regex></link>
+<thumbnail>https://goo.gl/EdKVBa</thumbnail>
+<fanart>https://goo.gl/jk8DF3</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Aquaman[/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR] Ação, Aventura, Fantasia
+[B][COLOR blue]Realização:[/B][/COLOR]  James Wan
+[B][COLOR blue]Duração:[/B][/COLOR] 143 Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR] M/12
+[B][COLOR blue]Ano:[/B][/COLOR] 2018
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 13-12-2018
+[B][COLOR blue]Actores:[/B][/COLOR] Amber Heard, Jason Momoa, Willem Dafoe
+[B][COLOR blue]Sinopse:[/B][/COLOR] Aquaman aprende que não pode fazer tudo sozinho quando começa uma jornada com Mera em busca de um algo muito importante para o futuro de Atlantis.</info>
+</item>"
+
 "<item><title>PIERCING</title>
 <link>http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/PIERCINGLEGHD.mp4</link>
 <thumbnail>https://filmspot.com.pt/images/filmes/posters/big/440444.jpg</thumbnail>
