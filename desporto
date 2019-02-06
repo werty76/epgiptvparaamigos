@@ -5,24 +5,54 @@
 
 <item><title>[B][COLOR green] →→→DESPORTO 1←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-
-<item><title>SPORT TV 1 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/103</link></item>
-<item><title>SPORT TV 1 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/104</link></item>
-<item><title>SPORT TV 1</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/579</link></item>
-<item><title>SPORT TV 2 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/100</link></item>
-<item><title>SPORT TV 2 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/102</link></item>
-<item><title>SPORT TV 2</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/580</link></item>
-<item><title>SPORT TV 3 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/97</link></item>
-<item><title>SPORT TV 3 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/98</link></item>
-<item><title>SPORT TV 3</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/581</link></item>
-<item><title>SPORT TV 4 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/3251</link></item>
-<item><title>SPORT TV 4 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/95</link></item>
-<item><title>SPORT TV 4</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/582</link></item>
-<item><title>SPORT TV 5 FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/3250</link></item>
-<item><title>SPORT TV 5 HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/93</link></item>
-<item><title>SPORT TV 5</title><link>plugin://plugin.video.f4mTester/?url=http://originaliptv.com:8000/Julio/Julio/583&amp;streamtype=TSDOWNLOADER</link></item>
-<item><title>BTV FHD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/90</link></item>
-<item><title>BTV HD</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://originaliptv.com:8000/Julio/Julio/91</link></item><item>
+<item><title>Sport TV 4K UHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/6400</link></item>
+<item><title>Sport TV 1 Transc.
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/11876</link></item>
+<item><title>Sport tv 1
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/136</link></item>
+<item><title>Sport TV 1 (Net fraca)
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/164</link></item>
+<item><title>Sport TV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/138</link></item>
+<item><title>Sport TV 1 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/4411</link></item>
+<item><title>Sport TV 2
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/117</link></item>
+<item><title>Sport TV 2 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/71</link></item>
+<item><title>Sport TV 2 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/11635</link></item>
+<item><title>SPORTV 3
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/11597</link></item>
+<item><title>Sport TV 3 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/11636</link></item>
+<item><title>Sport TV 3 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/11637</link></item>
+<item><title>Sport TV 4
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/119</link></item>
+<item><title>Sport TV 4 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/4406</link></item>
+<item><title>Sportv 4 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/12</link></item>
+<item><title>Sport TV 5
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/120</link></item>
+<item><title>Sport TV 5 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/11</link></item>
+<item><title>Sport TV 5 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/4405</link></item>
+<item><title>BTV 1
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/92</link></item>
+<item><title>BTV 1 HD (Net fraca)
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/87</link></item>
+<item><title>BTV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/141</link></item>
+<item><title>BTV 1 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/6716</link></item>
+<item><title>A Bola TV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu</199/link></item>
+<item><title>PFC
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/65</link></item>
 
 <item><title>[B][COLOR green] →→→DESPORTO 2←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
  
@@ -266,7 +296,10 @@
 
 <item><title> [B][COLOR green]→→→CAÇA E PESCA←←←[/COLOR][/B] </title><link>https://fui.me</link></item>
 
-
+<item><title>Caça e Pesca
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/94</link></item>
+<item><title>Caçavision
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bragatop.com:8080/mGCDHUSXZC/WSWMaWa8Yu/55</link></item>
 <item><title> Caçavision </title><link>https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8</link></item>
 <item><title> PESCA IT OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
 <item><title> CHASSE & PÉCHE FR OFF </title><link>plugin://plugin.video.f4mTester/?url=;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
