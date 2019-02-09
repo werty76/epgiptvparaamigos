@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+"<item>
+<title>CLOSE</title>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=G00P40T496</page></regex></link>
+<thumbnail>https://goo.gl/DftV41</thumbnail>
+<fanart>https://goo.gl/mQj2y3</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]CLOSE[/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR] Ação, Suspense
+[B][COLOR blue]Realização:[/B][/COLOR] Vicky Jewson
+[B][COLOR blue]Duração:[/B][/COLOR] 94 Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR] M/14
+[B][COLOR blue]Ano:[/B][/COLOR] 2019
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 18-01-2019
+[B][COLOR blue]Actores:[/B][/COLOR]   Noomi Rapace, Olivia Jewson, Abdellatif Chaouq
+[B][COLOR blue]Sinopse:[/B][/COLOR] Sam (Noomi Rapace) é uma especialista contra-terrorismo que assume a função de proteger e cuidar de uma adolescente rica que é herdeira de uma fortuna. Em meio a uma violenta tentativa de sequestro, as duas precisam fugir e lutar por suas vidas.</info>
+</item>"
+
 "<item><title>SABRINA</title>
 <link>http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/BONECAMALDITAHDLEG.mp4</link>
 <thumbnail>https://goo.gl/oAxWQS</thumbnail>
