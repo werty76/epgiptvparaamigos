@@ -2,196 +2,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item><title>[B][COLOR red] →→→LIVE←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title>FEIRENSE VS SPORTING </title><link>http://185.76.10.232:1935/edge/ch157312/chunklist_w1847704836.m3u8</link></item>
+<item><title></title><link></link></item>
 
 <item><title>[B][COLOR green] →→→DESPORTO 1←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title>BTV 
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/4575</link></item>
-<item><title>BTV 
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/4574</link></item>
+<item><title>SPORTTV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8807</link></item>
+<item><title>SPORTTV 1 SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8806</link></item>
+<item><title>SPORTTV 2 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8805</link></item>
+<item><title>SPORTTV 2 SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8804</link></item>
+<item><title>SPORTTV 3 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8803</link></item>
+<item><title>SPORTTV 3 SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8802</link></item>
+<item><title>SPORTTV 4 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8801</link></item>
+<item><title>SPORTTV 5 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8800</link></item>
 <item><title>BTV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/5203</link></item>
-<item><title>SPORT TV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/1246</link></item>
-<item><title>SPORT TV 1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/5164</link></item>
-<item><title>SPORT Tv 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/1243</link></item>
-<item><title>SPORT TV 2
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/5163</link></item>
-<item><title>SPORT Tv 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/1238</link></item>
-<item><title>SPORT TV 3
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/5162</link></item>
-<item><title>SPORT TV4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/1244</link></item>
-<item><title>SPORT TV 4
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/5161</link></item>
-<item><title>SPORT Tv 5 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/1245</link></item>
-<item><title>SPORT TV 5
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/5160</link></item>
-<item><title>A Bola TV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.39.104.115:8000/bilo445/bilo445112conections/5210</link></item>
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8867</link></item>
+<item><title>ABOLA TV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8874</link></item>
+<item><title>PFC
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8829</link></item>
 
 
 <item><title>[B][COLOR green] →→→DESPORTO 2←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
  
-<item><title>Sport TV 1 Full HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10465</link></item>
-<item><title>Sport TV 1  (internet low)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9022</link></item>
-<item><title>SportTV 1 Low ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10458</link></item>
-<item><title>Sport TV 1 (internet média)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9023</link></item>
-<item><title>SPORT TV 1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9024</link></item>
-<item><title>SPORT TV 1 ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10459</link></item>
-<item><title>SPORTTV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9025</link></item>
-<item><title>Sport TV 1 HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10460</link></item>
-<item><title>Sport TV 1 Full HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10461</link></item>
-<item><title>Sport TV 1  (MEO)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/8130</link></item>
-<item><title>SportTV 2 Low ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10454</link></item>
-<item><title>Sport TV 2
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9020</link></item>
-<item><title>SPORT TV 2 ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10455</link></item>
-<item><title>SPORT TV 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9021</link></item>
-<item><title>Sport TV 2 HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10456</link></item>
-<item><title>Sport TV 2 Full HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10457</link></item>
-<item><title>SportTV 3 Low ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10450</link></item>
-<item><title>Sport TV 3
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9018</link></item>
-<item><title>SPORT TV 3 ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10451</link></item>
-<item><title>SPORT TV 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9019</link></item>
-<item><title>Sport TV 3 HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10452</link></item>
-<item><title>Sport TV 3 Full HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10453</link></item>
-<item><title>SportTV 4 Low ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10446</link></item>
-<item><title>Sport TV 4
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9016</link></item>
-<item><title>SPORT TV 4 ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10447</link></item>
+<item><title>A BOLA TV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14275</link></item>
+<item><title>A BOLA TV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12345</link></item>
+<item><title>PFC
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14274</link></item>
+<item><title>PFC
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12331</link></item>
+<item><title>Sport TV 1 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12343</link></item>
+<item><title>SPORT TV 2 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12342</link></item>
+<item><title>SPORT TV 3 FHD.
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12341</link></item>
 <item><title>Sport TV 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9017</link></item>
-<item><title>Sport TV 4 HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10448</link></item>
-<item><title>SportTV 4 Full HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10449</link></item>
-<item><title>SportTV 5 Low ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10443</link></item>
-<item><title>Sport TV 5
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9014</link></item>
-<item><title>SPORT TV 5 ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10444</link></item>
-<item><title>SPORT TV 5 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9015</link></item>
-<item><title>Sport TV 5 HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10445</link></item>
-<item><title>A Bola TV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9027</link></item>
-<item><title>BTV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9011</link></item>
-<item><title>BTV 1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9010</link></item>
-<item><title>BTV 1 HD (internet média)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9009</link></item>
-<item><title>BTV 1 HD (internet low)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9008</link></item>
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12340</link></item>
+<item><title>Sport TV 5 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12339</link></item>
+<item><title>SPORTV 1
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14295</link></item>
+<item><title>SPORTV 1 FULL HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14293</link></item>
+<item><title>SPORTV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14294</link></item>
+<item><title>SPORTV 2
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14292</link></item>
+<item><title>SPORTV 2 FULL HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14290</link></item>
+<item><title>SPORTV 2 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14291</link></item>
+<item><title>SPORTV 3
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14289</link></item>
+<item><title>SPORTV 3 FULL HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14287</link></item>
+<item><title>SPORTV 3 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14288</link></item>
+<item><title>SPORTV 4
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14286</link></item>
+<item><title>SPORTV 4 FULL  HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14284</link></item>
+<item><title>SPORTV 4 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14285</link></item>
+<item><title>SPORTV 5
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14283</link></item>
+<item><title>SPORTV 5 FULL HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14281</link></item>
+<item><title>SPORTV 5 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14282</link></item>
  
- <item><title>[B][COLOR green] →→→DESPORTO 3←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
+<item><title>[B][COLOR green] →→→DESPORTO 3←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
 
-<item><title>Sport TV 1  (internet low)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9022</link></item>
-<item><title>SportTV 1 Low ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10458</link></item>
-<item><title>Sport TV 1 (internet média)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9023</link></item>
-<item><title>SPORT TV 1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9024</link></item>
-<item><title>SPORT TV 1 ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10459</link></item>
-<item><title>SPORTTV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9025</link></item>
-<item><title>Sport TV 1 HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10460</link></item>
-<item><title>Sport TV 1 Full HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10461</link></item>
-<item><title>Sport TV 1  (MEO)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/8130</link></item>
-<item><title>SportTV 2 Low ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10454</link></item>
-<item><title>Sport TV 2
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9020</link></item>
-<item><title>SPORT TV 2 ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10455</link></item>
+<item><title>SPORT TV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9517</link></item>
 <item><title>SPORT TV 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9021</link></item>
-<item><title>Sport TV 2 HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10456</link></item>
-<item><title>Sport TV 2 Full HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10457</link></item>
-<item><title>SportTV 3 Low ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10450</link></item>
-<item><title>Sport TV 3
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9018</link></item>
-<item><title>SPORT TV 3 ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10451</link></item>
-<item><title>SPORT TV 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9019</link></item>
-<item><title>Sport TV 3 HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10452</link></item>
-<item><title>Sport TV 3 Full HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10453</link></item>
-<item><title>SportTV 4 Low ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10446</link></item>
-<item><title>Sport TV 4
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9016</link></item>
-<item><title>SPORT TV 4 ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10447</link></item>
-<item><title>Sport TV 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9017</link></item>
-<item><title>Sport TV 4 HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10448</link></item>
-<item><title>SportTV 4 Full HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10449</link></item>
-<item><title>SportTV 5 Low ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10443</link></item>
-<item><title>Sport TV 5
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9014</link></item>
-<item><title>SPORT TV 5 ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10444</link></item>
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9516</link></item>
+<item><title>SPORT TV 3  HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9515</link></item>
+<item><title>SPORT TV 4 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9514</link></item>
 <item><title>SPORT TV 5 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9015</link></item>
-<item><title>Sport TV 5 HD ( EXTRA )
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/10445</link></item>
-<item><title>A Bola TV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9027</link></item>
-<item><title>BTV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9011</link></item>
-<item><title>BTV 1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9010</link></item>
-<item><title>BTV 1 HD (internet média)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9009</link></item>
-<item><title>BTV 1 HD (internet low)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://royaldirecto.com:48000/Ivodeoliveirapinto/cP0P6OofMh/9008</link></item>
-
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9513</link></item>
+<item><title>A BOLA TV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9512</link></item>
+<item><title>BTV HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9511</link></item>
+<item><title>PFC HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9507</link></item>
 
 <item><title>[B][COLOR green] →→→DESPORTO 4←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
 
