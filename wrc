@@ -1,7 +1,7 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://goo.gl/grLpqd" tvg-id="RALLY WRC 2019",Rally Sweden 2019 Day 1
 
+#EXTINF:-1 tvg-logo="https://goo.gl/rVhK4Y" tvg-id="RALLY WRC 2019",Rally Sweden 2019 Day 1
 https://rbmn-live.akamaized.net/hls/live/655942/190215WRC1Pri/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/grLpqd" tvg-id="RALLY WRC 2019",Rally Monte Carlo 2019 Day 1
