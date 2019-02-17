@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 "<item>
+<title>ERA UMA VEZ UM DEADPOOL</title>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=G09VCRXFR5</page></regex></link>
+<thumbnail>https://goo.gl/LA6nBn</thumbnail>
+<fanart>https://goo.gl/54Z46c</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Once Upon a Deadpool[/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR]  Ação, Comédia
+[B][COLOR blue]Realização:[/B][/COLOR] David Leitch
+[B][COLOR blue]Duração:[/B][/COLOR] 116 Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR] M/14
+[B][COLOR blue]Ano:[/B][/COLOR] 2018
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 12-12-2018
+[B][COLOR blue]Actores:[/B][/COLOR]  Fred Savage, Josh Brolin, Ryan Reynolds
+[B][COLOR blue]Sinopse:[/B][/COLOR] Determinado a provar que "Deadpool 2" é um filme para toda a família, Wade Wilson (Ryan Reynolds) limpa todos os palavrões e sangue da narrativa e sequestra o ator e diretor Fred Savage para reencenar A Princesa Prometida. Sem poder se desvencilhar das amarras, Savage é obrigado a ouvir o "conto de fadas" do Mercenário Tagarela, incluindo sua luta com Cable (Josh Brolin) e a formação da X-Force.</info>
+</item>"
+
+
+"<item>
 <title>CLOSE</title>
 <link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=G00P40T496</page></regex></link>
 <thumbnail>https://goo.gl/DftV41</thumbnail>
