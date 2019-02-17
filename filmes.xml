@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 "<item>
+<title>HALLOWEEN</title>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=G09WOK5W9K</page></regex></link>
+<thumbnail>https://goo.gl/ryQuwg</thumbnail>
+<fanart>https://goo.gl/dwvc13</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]HALLOWEEN[/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR] Terror, Suspense
+[B][COLOR blue]Realização:[/B][/COLOR] David Gordon Green 
+[B][COLOR blue]Duração:[/B][/COLOR] 109 Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR] M/16
+[B][COLOR blue]Ano:[/B][/COLOR] 2018
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 11 de Outobro de 2018
+[B][COLOR blue]Actores:[/B][/COLOR]  Jamie Lee Curtis, Judy Greer, Andi Matichak
+[B][COLOR blue]Sinopse:[/B][/COLOR] Quatro décadas depois de ter escapado do ataque de Michael Myers em uma noite de Halloween, Laurie Strode (Jamie Lee Curtis) terá que confrontar o assassino mascarado pela última vez. Ela foi perseguida pela memória de ter sua vida por um triz, mas dessa vez, quando Myers retorna para a cidade de Haddonfield, ela está preparada.</info>
+</item>"
+
+
+"<item>
 <title>ERA UMA VEZ UM DEADPOOL</title>
 <link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=G09VCRXFR5</page></regex></link>
 <thumbnail>https://goo.gl/LA6nBn</thumbnail>
