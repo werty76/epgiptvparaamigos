@@ -8,149 +8,277 @@
 
 <item><title>[B][COLOR green] →→→DESPORTO 1←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title>SPORTTV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8807</link></item>
-<item><title>SPORTTV 1 SD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8806</link></item>
-<item><title>SPORTTV 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8805</link></item>
-<item><title>SPORTTV 2 SD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8804</link></item>
-<item><title>SPORTTV 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8803</link></item>
-<item><title>SPORTTV 3 SD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8802</link></item>
-<item><title>SPORTTV 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8801</link></item>
-<item><title>SPORTTV 5 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8800</link></item>
-<item><title>BTV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8867</link></item>
-<item><title>ABOLA TV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8874</link></item>
-<item><title>PFC
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://linux-app.tv:6204/soso/soso/8829</link></item>
-
+<item><title>BTV SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8627</link></item>
+<item><title>BTV HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8611</link></item>
+<item><title>BTV 1 HD LOW
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/21358</link></item>
+<item><title>BTV FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8626</link></item>
+<item><title>BTV FHD 4MB [H265]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/26426</link></item>
+<item><title>SPORTING TV HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8593</link></item>
+<item><title>Sport TV Mosaico
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/23415</link></item>
+<item><title>SPORT TV +
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8599</link></item>
+<item><title>SPORT TV 4K
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/21357</link></item>
+<item><title>SPORT TV 1 2K
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8598</link></item>
+<item><title>SPORT TV 1 SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/21356</link></item>
+<item><title>Sport -TV 1SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/26454</link></item>
+<item><title>SPORT TV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/21352</link></item>
+<item><title>Sport -TV 1HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/26452</link></item>
+<item><title>Sport TV 1 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/9065</link></item>
+<item><title>Sport -TV 1FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/26453</link></item>
+<item><title>Sport TV 1 FHD 4MB [H265]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/26383</link></item>
+<item><title>SPORT TV 2 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8701</link></item>
+<item><title>SPORT TV 2 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8675</link></item>
+<item><title>Sport TV 2 FHD 4MB [H265]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/26427</link></item>
+<item><title>SPORT TV 3 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8676</link></item>
+<item><title>SPORT TV 3 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/16342</link></item>
+<item><title>SPORT TV 4 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8595</link></item>
+<item><title>SPORT TV 4 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8677</link></item>
+<item><title>SPORT TV 5 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8679</link></item>
+<item><title>SPORT TV 5 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8594</link></item>
+<item><title>Sport TV NBA FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25879</link></item>
+<item><title>A BOLA TV LOW
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/12935</link></item>
+<item><title>SPORT TV 1 Low
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/12932</link></item>
+<item><title>SPORT TV 2 LOW
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/16989</link></item>
+<item><title>SPORT TV 3 LOW
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/16990</link></item>
+<item><title>SPORT TV 4 LOW
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/16992</link></item>
+<item><title>SPORT TV 5 LOW
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/16991</link></item>
+<item><title>BTV LOW
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/12933</link></item>
+<item><title>BTV HD [1080p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25995</link></item>
+<item><title>Sport TV 1 HD [1080p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25994</link></item>
+<item><title>Sport TV 1 HD [720p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25992</link></item>
+<item><title>Sport TV 1 HD [540p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25993</link></item>
+<item><title>Sport TV 2 HD [720p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25990</link></item>
+<item><title>Sport TV 2 HD [540p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25991</link></item>
+<item><title>Sport TV 3 HD [720p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25988</link></item>
+<item><title>Sport TV 3 HD [540p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25989</link></item>
+<item><title>Sport TV 4 HD [720p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25986</link></item>
+<item><title>Sport TV 4 HD [540p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25987</link></item>
+<item><title>Sport TV 5 HD [720p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25984</link></item>
+<item><title>Sport TV 5 HD [540p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/25985</link></item>
+<item><title>Sport TV NBA [1080p]
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/26315</link></item>
+<item><title>PFC SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dnsformy.tv:8080/Arlindo/Arlindo/8662</link></item>
 
 <item><title>[B][COLOR green] →→→DESPORTO 2←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
- 
-<item><title>A BOLA TV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14275</link></item>
-<item><title>A BOLA TV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12345</link></item>
+
+<item><title>A Bola TV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/163</link></item>
+<item><title>A Bola TV LB
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/7658</link></item>
+<item><title>Sport•TV 4K UHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/162</link></item>
+<item><title>Sport•TV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/161</link></item>
+<item><title>Sport•TV FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/158</link></item>
+<item><title>Sport•TV 1 LB
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/156</link></item>
+<item><title>Sport•TV 1
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/157</link></item>
+<item><title>Sport•TV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/155</link></item>
+<item><title>Sport•TV 1 HD 6M
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/468</link></item>
+<item><title>Sport•TV 1 HD extra
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/467</link></item>
+<item><title>Sport•TV 1 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/154</link></item>
+<item><title>Sport•TV 1 FHD extra
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/469</link></item>
+<item><title>Sport•TV 2 LB
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/152</link></item>
+<item><title>Sport•TV 2
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/153</link></item>
+<item><title>Sport•TV 2 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/151</link></item>
+<item><title>Sport•TV 2 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/150</link></item>
+<item><title>Sport•TV 3 LB
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/148</link></item>
+<item><title>Sport•TV 3
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/149</link></item>
+<item><title>Sport•TV 3 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/147</link></item>
+<item><title>Sport•TV 3 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/146</link></item>
+<item><title>Sport•TV 4 LB
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/144</link></item>
+<item><title>Sport•TV 4
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/145</link></item>
+<item><title>Sport•TV 4 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/143</link></item>
+<item><title>Sport•TV 4 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/142</link></item>
+<item><title>Sport•TV 5 LB
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/140</link></item>
+<item><title>Sport•TV 5
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/141</link></item>
+<item><title>Sport•TV 5 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/139</link></item>
+<item><title>Sport•TV 5 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/138</link></item>
+<item><title>Sport TV NBA
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/13293</link></item>
+<item><title>BTV LB
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/136</link></item>
+<item><title>BTV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/137</link></item>
+<item><title>BTV extra
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/471</link></item>
+<item><title>BTV HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/135</link></item>
+<item><title>BTV HD extra
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/470</link></item>
+<item><title>BTV FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/134</link></item>
 <item><title>PFC
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14274</link></item>
-<item><title>PFC
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12331</link></item>
-<item><title>Sport TV 1 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12343</link></item>
-<item><title>SPORT TV 2 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12342</link></item>
-<item><title>SPORT TV 3 FHD.
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12341</link></item>
-<item><title>Sport TV 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12340</link></item>
-<item><title>Sport TV 5 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/12339</link></item>
-<item><title>SPORTV 1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14295</link></item>
-<item><title>SPORTV 1 FULL HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14293</link></item>
-<item><title>SPORTV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14294</link></item>
-<item><title>SPORTV 2
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14292</link></item>
-<item><title>SPORTV 2 FULL HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14290</link></item>
-<item><title>SPORTV 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14291</link></item>
-<item><title>SPORTV 3
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14289</link></item>
-<item><title>SPORTV 3 FULL HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14287</link></item>
-<item><title>SPORTV 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14288</link></item>
-<item><title>SPORTV 4
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14286</link></item>
-<item><title>SPORTV 4 FULL  HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14284</link></item>
-<item><title>SPORTV 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14285</link></item>
-<item><title>SPORTV 5
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14283</link></item>
-<item><title>SPORTV 5 FULL HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14281</link></item>
-<item><title>SPORTV 5 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kingdiabloiptv.ddns.net:1963/hichem.jmal/qraKF5n83z/14282</link></item>
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lcmn.serveftp.net:8000/carr/carr/114</link></item>
  
 <item><title>[B][COLOR green] →→→DESPORTO 3←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
 
-<item><title>SPORT TV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9517</link></item>
-<item><title>SPORT TV 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9516</link></item>
-<item><title>SPORT TV 3  HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9515</link></item>
-<item><title>SPORT TV 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9514</link></item>
-<item><title>SPORT TV 5 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9513</link></item>
-<item><title>A BOLA TV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9512</link></item>
-<item><title>BTV HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9511</link></item>
-<item><title>PFC HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://netflexx.org:8000/vNxZg5tueS/Xjxf9cDmGX/9507</link></item>
+<item><title>PT: SPORTTV 1
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/12</link></item>
+<item><title>PT: SPORT TV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/13</link></item>
+<item><title>PT: SPORT TV 1 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/4262</link></item>
+<item><title>PT: SPORT TV 1 4K UHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/3127</link></item>
+<item><title>PT: SportTV 2
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/14</link></item>
+<item><title>PT: SPORT TV 2 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/15</link></item>
+<item><title>PT: SportTV 2 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/4489</link></item>
+<item><title>PT: SportTV 3
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/16</link></item>
+<item><title>PT: SPORT TV 3 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/125</link></item>
+<item><title>PT: SportTV 3 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/4490</link></item>
+<item><title>PT: SportTV 4
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/17</link></item>
+<item><title>PT: SPORT TV 4 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/18</link></item>
+<item><title>PT: SportTV 4 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/4491</link></item>
+<item><title>PT: SPORT TV 5
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/19</link></item>
+<item><title>PT: SPORT TV 5 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/126</link></item>
+<item><title>PT: SportTV 5 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/4492</link></item>
+<item><title>PT: SPORT TV + HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/20</link></item>
+<item><title>PT: BTV1
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/21</link></item>
+<item><title>PT: BTV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/22</link></item>
+<item><title>PT: BTV1 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/4488</link></item>
+<item><title>PT: PFC
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/68</link></item>
+<item><title>PT: A BOLA
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newtv.dyndns.org:25461/Marco/Marco/24</link></item>
 
 <item><title>[B][COLOR green] →→→DESPORTO 4←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
 
-<item><title>A BOLA TV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/55</link></item>
-<item><title>BTV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/60</link></item>
-<item><title> BENFICA TV1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/3006</link></item>
-<item><title>SPORT TV 1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/71</link></item>
-<item><title>SPORT TV 2
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/70</link></item>
-<item><title>SPORT TV 3
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/69</link></item>
-<item><title>SPORT TV 4
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/68</link></item>
-<item><title>SPORT TV 5
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/67</link></item>
-<item><title>Sport TV   Full HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/2117</link></item>
-#EXTINF:-1,PT: SPOR TV 1 (LOCAL 360p)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/4441</link></item>
-#EXTINF:-1,SPORT TV 1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/2400</link></item>
-#EXTINF:-1,PT  SPORTTV 1HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/66</link></item>
-#EXTINF:-1,Sport TV 1 SD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/2401</link></item>
-<item><title>SPORT TV 1 HD 720p
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/2119</link></item>
-<item><title>Sport TV 1 Full HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/2118</link></item>
-<item><title>SPORT TV 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/65</link></item>
-<item><title>Sport TV 2 Full HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/2120</link></item>
-<item><title>SPORT TV 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/64</link></item>
-<item><title>Sport TV 3 Full HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/2121</link></item>
-<item><title>SPORT TV4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/63</link></item>
-<item><title>SportTV 4 Full HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/2122</link></item>
-<item><title>SPORT TV 5 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/62</link></item>
-<item><title>SportTV 5 Full HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/2123</link></item>
-
+<item><title>PT-BTV HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/5700</link></item>
+<item><title>PT-BTV_1
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6085</link></item>
+<item><title>PT-BTV_1_HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6083</link></item>
+<item><title>PT-BTV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/5967</link></item>
+<item><title>PT-Sport TV 1
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/7431</link></item>
+<item><title>PT-Sport TV 2 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/7430</link></item>
+<item><title>PT-Sport TV 3 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/7429</link></item>
+<item><title>PT-Sport TV 4
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/7428</link></item>
+<item><title>PT-Sport TV 5
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/7427</link></item>
+<item><title>PT-Sport_TV_1
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6104</link></item>
+<item><title>PT-Sport_TV_1_FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6100</link></item>
+<item><title>PT-Sport_TV_1_HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6103</link></item>
+<item><title>PT-Sport_TV_2
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6099</link></item>
+<item><title>PT-Sport_TV_2_FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6096</link></item>
+<item><title>PT-Sport_TV_2_HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6098</link></item>
+<item><title>PT-Sport_TV_3_FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6093</link></item>
+<item><title>PT-Sport_TV_3
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6095</link></item>
+<item><title>PT-Sport_TV_3_HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6094</link></item>
+<item><title>PT-Sport_TV_4_FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6090</link></item>
+<item><title>PT-Sport_TV_4
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6092</link></item>
+<item><title>PT-Sport_TV_4_HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6091</link></item>
+<item><title>PT-Sport_TV_5
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6089</link></item>
+<item><title>PT-Sport_TV_5_FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6086</link></item>
+<item><title>PT-Sport_TV_5_HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6088</link></item>
+<item><title>PT-A_Bola_TV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultimeiptv.net:8000/riadh1341/riadh1341/6075</link></item>
 
 <item><title>[B][COLOR green] →→→DESPORTO 5←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
 
