@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/pMe1vN" tvg-id="Rali Serras de Fafe 2019",Rali Serras de Fafe 2019
+SUPER ESPECIAL
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bgkbOnL7kiM
