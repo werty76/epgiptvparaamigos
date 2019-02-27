@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 "<item>
+<title>Creed II</title>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=G0LRAR4WPH</page></regex></link>
+<thumbnail>https://goo.gl/gkhhHY</thumbnail>
+<fanart>https://goo.gl/nxtby3</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Creed II [/B][/COLOR]
+[B][COLOR blue]Género:[/B][/COLOR] Ação, Drama
+[B][COLOR blue]Realização:[/B][/COLOR] Steven Caple Jr.
+[B][COLOR blue]Duração:[/B][/COLOR] 130 Min
+[B][COLOR blue]Class.Etária:[/B][/COLOR] M/12
+[B][COLOR blue]Ano:[/B][/COLOR] 2018
+[B][COLOR blue]Data Lançamento:[/B][/COLOR] 27-12-2018
+[B][COLOR blue]Actores:[/B][/COLOR] Michael B. Jordan, Sylvester Stallone, Tessa Thompson
+[B][COLOR blue]Sinopse:[/B][/COLOR] Adonis Creed (Michael B. Jordan) saiu mais forte do que nunca de sua luta contra ‘Pretty’ Ricky Conlan (Tony Bellew), e segue sua trajetória rumo ao campeonato mundial de boxe, contra toda a desconfiança que acompanha a sombra de seu pai e com o apoio de Rocky (Sylvester Stallone). Sua próxima luta não será tão simples, ele precisa enfrentar um adversário que possui uma forte ligação com o passado de sua família, o que torna tudo ainda mais complexo.</info>
+</item>"
+
+
+"<item>
 <title>HALLOWEEN</title>
 <link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>http://www.rapidvideo.com/?v=G09WOK5W9K</page></regex></link>
 <thumbnail>https://goo.gl/ryQuwg</thumbnail>
