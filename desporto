@@ -5,12 +5,7 @@
 <item><title></title><lin></link></item>
 
 
-<item><title>[B][COLOR orange] →→→DESPORTO 1←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
-
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] SPORT TV 1
-</title><link>http://163.172.50.15:3000/aplicacao/YcydE7/5</link></item>
-
-<item><title>[B][COLOR orange] →→→DESPORTO 2←←← [/COLOR][/B] </title><link></title><link>https://fui.me</link></item>
+<item><title>[B][COLOR orange] →→→DESPORTO 1←←← [/COLOR][/B] </title><link></title><link>https://fui.me</link></item>
 
 <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] SPORT TV 1
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.bttv.be:8000/ss/ss123/161955</link></item>
@@ -61,7 +56,7 @@
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.bttv.be:8000/ss/ss123/132898</link></item>
 
 
-<item><title>[B][COLOR orange] →→→DESPORTO 3←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
+<item><title>[B][COLOR orange] →→→DESPORTO 2←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
 
 <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] SPORT TV 1
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://futv.pro:25461/augustos_/12345/116</link></item>
@@ -148,7 +143,7 @@
 <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] PFC
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://futv.pro:25461/augustos_/12345/36</link></item>
 
-<item><title>[B][COLOR orange] →→→DESPORTO 4←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
+<item><title>[B][COLOR orange] →→→DESPORTO 3←←← [/COLOR][/B] </title><link></title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://fui.me</link></item>
 
 <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] SPORT TV 1
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/71</link></item>
@@ -210,9 +205,12 @@
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.hotboxtv.net:8000/samsam/samsam/5</link></item>
 
 
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] RedBull TV </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] Automoto TV </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] Real Madrid TV </title><link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/indx_1000_av-p.m3u8</link></item>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] RedBull TV 
+ </title><link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link></item>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] Automoto TV 
+ </title><link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w58867959.m3u8</link></item>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] Real Madrid TV 
+ </title><link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/indx_1000_av-p.m3u8</link></item>
 
 
 <item><title> [B][COLOR green]→→→CAÇA E PESCA←←←[/COLOR][/B] </title><link>https://fui.me</link></item>
