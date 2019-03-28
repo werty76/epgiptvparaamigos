@@ -1,16 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/25y9tM" group-title="WWE",Fastlane 2019 PARTE 1
+http://server7.primevideos.net/x264/zjJ4JZdOLStpGNs/zjJ4JZdOLStpGNs.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/25y9tM" group-title="WWE",Fastlane 2019 PARTE 2
+http://server2.primevideos.net/x264/xLLfGsJhSLNCwkK/xLLfGsJhSLNCwkK.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/25y9tM" group-title="WWE",Fastlane 2019 PARTE 3
+http://server9.primevideos.net/x264/qvwqkMhn4kDiDIq/qvwqkMhn4kDiDIq.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/25y9tM" group-title="WWE",Fastlane 2019 PARTE 4
+http://server8.primevideos.net/x264/sUKKlJm3oqVVgOM/sUKKlJm3oqVVgOM.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/1tp3Gb" group-title="WWE",Elimination Chamber 2019 PARTE 1
-http://server1.primevideos.net/x264/ixlcdS3OAoLOHB5/ixlcdS3OAoLOHB5.m3u8
+http://server3.primevideos.net/x264/ixlcdS3OAoLOHB5/ixlcdS3OAoLOHB5.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/1tp3Gb" group-title="WWE",Elimination Chamber 2019 PARTE 2
-http://server4.primevideos.net/x264/Zjbx5NLpVdpIIoN/Zjbx5NLpVdpIIoN.m3u8
+http://server1.primevideos.net/x264/Zjbx5NLpVdpIIoN/Zjbx5NLpVdpIIoN.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/1tp3Gb" group-title="WWE",Elimination Chamber 2019 PARTE 3
-http://server8.primevideos.net/x264/Obx9yql1Vxgbd5y/Obx9yql1Vxgbd5y.m3u8
+http://server6.primevideos.net/x264/Obx9yql1Vxgbd5y/Obx9yql1Vxgbd5y.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/1tp3Gb" group-title="WWE",Elimination Chamber 2019 PARTE 4
-http://server1.primevideos.net/x264/9flb6GfNnAVwDWN/9flb6GfNnAVwDWN.m3u8
+http://server10.primevideos.net/x264/9flb6GfNnAVwDWN/9flb6GfNnAVwDWN.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/f1YrMa" group-title="WWE",ROYAL RUMLE 2019 PARTE 1
 https://embed.nitrovid.net/drive//hls/8a43ee2ef28725a784ea9464eb611bee/8a43ee2ef28725a784ea9464eb611bee.m3u8
