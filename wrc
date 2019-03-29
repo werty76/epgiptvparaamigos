@@ -1,6 +1,8 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/iazXVD" tvg-id="RALLY WRC 2019",Rally Corsega 2019 day 1
+https://rbmn-live.akamaized.net/hls/live/590971/190329WRC1pri/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/9rDP5u" tvg-id="RALLY WRC 2019",Rally Mexico 2019 day 1
 https://rbmn-live.akamaized.net/hls/live/590971/190308WRC1Pri/master_6660.m3u8
