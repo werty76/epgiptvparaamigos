@@ -2,11 +2,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item><title>[B][COLOR red] →→→LIVE←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title> </title><link> </link></item>
-
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] BTV FHD
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 1 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/198090.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 2 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/84209.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 3 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/198094.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 4 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/65570.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 5 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/65569.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/65574.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 2 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/65573.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV3 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/65571.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 1 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/198092.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 2 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/198093.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 3 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/198095.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 4 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/198088.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 5 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/198096.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV NBA
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/198083.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  BTV 1 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/197779.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  BTV FHD
 </title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/65585.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  BTV HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/156379.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Caça e Pesca
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/106941.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Caça e Pesca
+</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/65602.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+ 
 <item><title>[B][COLOR orange] →→→DESPORTO 1←←← [/COLOR][/B] </title><link></title><link>https://fui.me</link></item>
 
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] SPORT TV UHD 4K
