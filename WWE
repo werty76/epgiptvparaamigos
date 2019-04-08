@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2WUEpL7" group-title="WWE",WrestleMania 35 2019 PARTE 1
+http://server9.primevideos.net/x264/3mstKnNQInLUDQb/3mstKnNQInLUDQb.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2WUEpL7" group-title="WWE",WrestleMania 35 2019 PARTE 2
+http://server4.primevideos.net/x264/p6KqqJFSzloZE2s/p6KqqJFSzloZE2s.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2WUEpL7" group-title="WWE",WrestleMania 35 2019 PARTE 3
+http://server8.primevideos.net/x264/x2wBybyFIOvE82Q/x2wBybyFIOvE82Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2WUEpL7" group-title="WWE",WrestleMania 35 2019 PARTE 4
+http://server1.primevideos.net/x264/s4wyEWm2isLnBkY/s4wyEWm2isLnBkY.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2WUEpL7" group-title="WWE",WrestleMania 35 2019 PARTE 5
+http://server11.primevideos.net/x264/P9EtAs8SSsNzcat/P9EtAs8SSsNzcat.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2WUEpL7" group-title="WWE",WrestleMania 35 2019 PARTE 6
+http://server11.primevideos.net/x264/VvrzhGGTSBO7BFo/VvrzhGGTSBO7BFo.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/25y9tM" group-title="WWE",Fastlane 2019 PARTE 1
 http://server7.primevideos.net/x264/zjJ4JZdOLStpGNs/zjJ4JZdOLStpGNs.m3u8
 
