@@ -1,61 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 1 FHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/140845.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 2 FHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/65064.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 3 FHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/198135.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 1 FHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/133685.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 2 FHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/133687.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 3 FHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/124721.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven sport 4
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/66079.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven sport 4
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/127741.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven sport 5
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/139862.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven sport 5
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/130337.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 6 HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/140850.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 6 HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/127743.m3u8;streamtype=HLSRETRY&amp;name=IPTV PARA AMIGOS</link>
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 1°
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/26690
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 1° ᴴᴰ
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/30956
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 1° HD {sat}
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/31834
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 2°
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/26691
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 2° ᴴᴰ
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/26683
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 3°
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/26692
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 3° ᴴᴰ
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/26684
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 4°
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/30959
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 4° ᴴᴰ
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/26685
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 5°
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/30958
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 5° ᴴᴰ
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/26686
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 6°
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/39397
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 6° ᴴᴰ
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/26687
+</link></item>
 
 
 <item><title>[B][COLOR orange] →→→DESPORTO 1←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORTS 1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8351
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORT 1  HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8352
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORTS 1 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8353
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORT 2
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8448
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORTS 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8348
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORTS 2 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8349
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORT 3
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8449
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORTS 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8346
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORTS 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8344
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORTS 5 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8343
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORTS 6 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8342
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORTS 1 LOW
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8350
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORTS 2 LOW
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8347
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B] ELEVEN SPORTS 3 LOW
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/brasil/brasil/8345
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 1° Low
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/30583
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 2° Low
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/30584
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 3° Low
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/34170
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 4° Low
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/34171
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 5° Low
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/34172
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Eleven Sports 6° Low
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/34173
+</link></item> 
 
 <item><title>[B][COLOR orange] →→→DESPORTO 2←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
@@ -90,25 +78,36 @@
 
 <item><title>[B][COLOR orange] →→→DESPORTO 3←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 1 
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestfantastic.ddns.net:8000/luissantos/BBB8UMQgCy/46259
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 1 HD 
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestfantastic.ddns.net:8000/luissantos/BBB8UMQgCy/46257
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 1 FHD 
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestfantastic.ddns.net:8000/luissantos/BBB8UMQgCy/46258
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestfantastic.ddns.net:8000/luissantos/BBB8UMQgCy/44933
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 1 HD PT
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestfantastic.ddns.net:8000/luissantos/BBB8UMQgCy/44257
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 2 HD PT
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestfantastic.ddns.net:8000/luissantos/BBB8UMQgCy/44256
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 3 HD PT
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestfantastic.ddns.net:8000/luissantos/BBB8UMQgCy/44255
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 4 HD PT
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestfantastic.ddns.net:8000/luissantos/BBB8UMQgCy/44254
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 5 HD PT
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestfantastic.ddns.net:8000/luissantos/BBB8UMQgCy/44253
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ELEVEN SPORTS 6 HD PT
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestfantastic.ddns.net:8000/luissantos/BBB8UMQgCy/44252
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   Eleven Sports 1 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/5604
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 2 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/5603
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 3 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/5602
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 4 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/5601
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 5 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/5600
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 6 HD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/5599
+ <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Sporting TV
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/793
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 1 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/6895
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 1 SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/6897
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 2 FHD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/6892
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 3 SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/7741
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 4 SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/7740
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 5 SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/7739
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 6 SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/7738
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PT: Eleven Sports 2 SD
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dynaiptv.tv:8010/Andre/Andre/6894
+</link></item>
 
   
