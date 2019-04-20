@@ -94,6 +94,13 @@
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV 5 HD LOW
 </title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/11754
 </link></item>
+ <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  BTV Low
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/6306
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  BTV 1 HD LOW
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/11752
+</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  BTV 1 LOW
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptgoldtv.io:8080/alfredo/alfredo/11751
+</link></item> 
  
 <item><title>[B][COLOR orange] →→→DESPORTO 2←←← [/COLOR][/B] </title><link></title><link>https://fui.me</link></item>
  
