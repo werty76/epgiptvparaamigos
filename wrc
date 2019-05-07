@@ -1,6 +1,15 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2YiMOJj" tvg-id="RALLY WRC 2019",Rally Argentina 2019 day 1
+https://rbmn-live.akamaized.net/hls/live/590971/190427WRC1Pri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2YiMOJj" tvg-id="RALLY WRC 2019",Rally Argentina 2019 day 2
+https://rbmn-live.akamaized.net/hls/live/590971/190428WRC2Pri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2YiMOJj" tvg-id="RALLY WRC 2019",Rally Argentina 2019 day 3
+https://rbmn-live.akamaized.net/hls/live/590971/190429WRC3Pri/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/iazXVD" tvg-id="RALLY WRC 2019",Rally Corsega 2019 day 1
 https://rbmn-live.akamaized.net/hls/live/590971/190329WRC1pri/master_6660.m3u8
 
