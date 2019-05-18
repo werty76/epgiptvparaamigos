@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2Hz7PZs" tvg-id="Rali de Mortágua 2019",Rali de Mortágua 2019
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zgOJcFdZkIo&
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2YD5SCR" tvg-id="Azores Rallye 2019",Azores Rallye 2019
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sW5DnnprYLc
 
