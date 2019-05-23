@@ -15,162 +15,144 @@
 
 <item><title>[B][COLOR orange] →→→CANAIS 2←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV SERIES HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/20.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV SERIES
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/21.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV Cine 1 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/31.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 2 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/29.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 3 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/27.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 4 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/25.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
 <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/Edimar/Edimar/8382
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/Edimar/Edimar/8381
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 2
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/Edimar/Edimar/8380
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/Edimar/Edimar/8379
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 3
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/Edimar/Edimar/8378
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/Edimar/Edimar/8377
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 4
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/Edimar/Edimar/8376
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://elitept.dynu.net:8080/Edimar/Edimar/8375
-</link></item> 
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/32.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 2
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/30.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 3
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/28.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 4
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/26.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 1 Low
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/8730.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 2 Low
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/8729.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 3 Low
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/8728.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 4 Low
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://ma-tv.magica.club:8080/live/setubal/setubal/8727.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
 
 <item><title>[B][COLOR orange] →→→CANAIS 3←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVCINE 1 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/327
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVCINE 1HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/7523
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVCINE 2 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/7524
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVCINE2
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/328
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVCINE 3 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/7526
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVCINE3
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/334
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVCINE 4HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/7525
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVCINE4
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/335
-</link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 1
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/Breno/Breno/8382.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 1 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/Breno/Breno/8381.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 2
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/Breno/Breno/8380.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 2 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/Breno/Breno/8379.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 3
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/Breno/Breno/8378.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 3 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/Breno/Breno/8377.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 4
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/Breno/Breno/8376.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 4 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/Breno/Breno/8375.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV Series
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/Breno/Breno/8374.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV SERIES HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/Breno/Breno/8373.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
 
 <item><title>[B][COLOR orange] →→→CANAIS 4←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVC 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/101092
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVC 2
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/101093
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVC 3 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/157023
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVC 4 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/97252
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVC Series HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116240
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 1 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/107665
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 2 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/118297
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 3 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/100831
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 4 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/118300
-</link></item>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 1
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/228.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 1 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/227.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 1 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/226.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 2
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/225.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 2 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/224.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 2 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/223.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 3
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/222.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 3 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/221.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 3 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/220.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 4
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/219.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 4 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/218.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine 4 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/217.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVSeries
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/198.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVSeries HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/197.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVSeries FHD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://powerful.selfip.info:8000/live/carloss/carloss/196.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
  
 <item><title>[B][COLOR orange] →→→CANAIS 5←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
   
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV SERIES HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ma-tv.magica.club:8080/Peron/Peron/20
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV SERIES
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ma-tv.magica.club:8080/Peron/Peron/21
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV Cine 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ma-tv.magica.club:8080/Peron/Peron/31
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ma-tv.magica.club:8080/Peron/Peron/29
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ma-tv.magica.club:8080/Peron/Peron/27
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ma-tv.magica.club:8080/Peron/Peron/25
-</link></item>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 1 
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/327.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 1HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/7523.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 2 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/7524.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 2
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/328.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 3 FHD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/7526.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 3
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/334.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 4HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/7525.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 4
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/335.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVSERIE FHD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/7527.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVSERIES
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/439.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
 
 <item><title>[B][COLOR orange] →→→CANAIS 6←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/8795
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/8794
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/8793
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/said7s7yglzknsi/ssygshsgzgz7o/8792
-</link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 1
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/pai/pai/8382.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 1 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/pai/pai/8381.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 2
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/pai/pai/8380.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 2 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/pai/pai/8379.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 3
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/pai/pai/8378.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 3 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/pai/pai/8377.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 4
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/pai/pai/8376.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 4 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/pai/pai/8375.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV Series
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/pai/pai/8374.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV SERIES HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://elitept.dynu.net:8080/live/pai/pai/8373.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
 
 <item><title>[B][COLOR orange] →→→CANAIS 7←←← [/COLOR][/B] </title><link>https://fui.me</link></item>
 
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine_1_Local
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22054
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine_2_Local
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22053
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine_3_Local
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22052
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCine_4
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22051
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 1 HD 1080
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22149
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 2 HD 1080
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22148
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 3 HD 1080
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22147
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 4 HD 1080
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22146
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 1 FULLHD (L)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/27779
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 2 FULLHD (L)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/27776
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 3 FULLHD (L)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/27773
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 4 FULLHD (L)
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/27770
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 1  FullHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/49670
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 2  FullHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/49671
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 3 FullHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/49672
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 4 FullHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/49673
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 1  HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22157
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 2  HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22156
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22155
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TV CINE 4
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22154
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVC HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22150
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCseries FullHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/49667
-</link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCseries
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22145
-</link></item> </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TV SERIES FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/41231
-</link></item> </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TV SERIES HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/41230
-</link></item> </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVC 1 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/41216
-</link></item> </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVC 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/41215
-</link></item> </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVC 2 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/41214
-</link></item> </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVC 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/41213
-</link></item> </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVC 3 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/41212
-</link></item> </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVC 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/41211
-</link></item> </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVC 4 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/41210
-</link></item> </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]   TVC 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/41209
-</link></item> 
-
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 1 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://predator-ott.com:8000/live/WvFXExGMq4/oNanKPmO4u/2627.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 2 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://predator-ott.com:8000/live/WvFXExGMq4/oNanKPmO4u/2628.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 3 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://predator-ott.com:8000/live/WvFXExGMq4/oNanKPmO4u/2629.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  TVCINE 4 HD
+</title><link>plugin://plugin.video.f4mTester/?url=htt  p://predator-ott.com:8000/live/WvFXExGMq4/oNanKPmO4u/2630.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR]  </link></item> 
