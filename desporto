@@ -6,32 +6,33 @@
  
 <item><title>[B][COLOR orange] →→→DESPORTO 1←←← [/COLOR][/B] </title><link></title><link>https://fui.me</link></item>
 
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTTV 1 HD </title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/8807.m3u8;streamtype=HLSRETRY&amp;name=iptvparamigos</link></item>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTTV 1 HD 
+</title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/8807.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTTV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/8807
+</title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/8807.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTTV 1 SD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/8806
+</title><link>plugin://plugin.video.f4mTester/?url==http://m-iptv.net:6204/live/aaaa1/aaaa1/8806.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTTV 2 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/8805
+</title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/8805.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTTV 2 SD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/8804
+</title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/8804.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTTV 3 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/8803
+</title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/8803.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTTV 3 SD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/8802
+</title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/8802.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTTV 4 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/8801
+</title><link>plugin://plugin.video.f4mTester/?url==http://m-iptv.net:6204/live/aaaa1/aaaa1/8801.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTTV 5 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/8800
+</title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/8800.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  BTV 1 HD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/8867
+</title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/8867.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  ABOLA TV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/8874
+</title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/8874.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PFC
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/8829
+</title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/8829.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  Caca & Pesca
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/aaaa1/aaaa1/886
-</link></item> 
+</title><link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/aaaa1/aaaa1/886.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
+[B][COLOR deepskyblue]Título Original:[/B][/COLOR
  
 <item><title>[B][COLOR orange] →→→DESPORTO 2←←← [/COLOR][/B] </title><link></title><link>https://fui.me</link></item>
  
@@ -39,35 +40,35 @@
 <item><title>[B][COLOR orange] →→→DESPORTO 3←←← [/COLOR][/B] </title><link></title><link>https://fui.me</link></item>
  
 <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV1 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/320
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/320.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/645
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/645.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV2 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/15100
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/15100.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV2
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/15106
+</title><link>plugin://plugin.video.f4mTester/?url==http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/15106.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV3 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/1418
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/1418.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV3
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/337
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/337.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV4 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/1419
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/1419.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV4
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/338
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/338.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV5 FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/7339
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/7339.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV5
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/339
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/339.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  BTV FHD
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/342
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/342.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  BTV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/343
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/343.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  A BOLA TV
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/341
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/341.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  PFC
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/345
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/345.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  CAÇA E PESCA
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/346
+</title><link>plugin://plugin.video.f4mTester/?url=http://iptv-luxe.com:8789/filipemiranda/b5sh0Muzb7/346.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR </link></item>
 </link></item> 
 
 <item><title>[B][COLOR orange] →→→DESPORTO 4←←← [/COLOR][/B] </title><link></title><link>https://fui.me</link></item>
