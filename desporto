@@ -6,7 +6,6 @@
  
 <item><title>[B][COLOR orange] →→→DESPORTO 1←←← [/COLOR][/B] </title><link></title><link>https://fui.me</link></item>
 
-
 <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTV 1.
 </title><link>plugin://plugin.video.f4mTester/?url=http://nettv.mine.nu:8030/live/calvario/calvario/1972.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR] 
 <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORTV 1
@@ -45,6 +44,10 @@
 </title><link>plugin://plugin.video.f4mTester/?url=http://nettv.mine.nu:8030/live/calvario/calvario/4236.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR] 
 <item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  BOLA TV
 </title><link>plugin://plugin.video.f4mTester/?url=http://nettv.mine.nu:8030/live/calvario/calvario/1006.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR] 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  CAÇAVISION
+</title><link>plugin://plugin.video.f4mTester/?url=http://nettv.mine.nu:8030/live/calvario/calvario/1003.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR] 
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  CAÇA E PESCA
+</title><link>plugin://plugin.video.f4mTester/?url=http://nettv.mine.nu:8030/live/calvario/calvario/1004.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR] 
 
  
 <item><title>[B][COLOR orange] →→→DESPORTO 2←←← [/COLOR][/B] </title><link></title><link>https://fui.me</link></item>
