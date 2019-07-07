@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZcEhIi" tvg-id="Rali de Castelo Branco 2019",Rali de Castelo Branco 2019
+#EXTINF:-1 tvg-logo="https://bit.ly/2G2wPIC" tvg-id="Rali de Castelo Branco 2019",Rali de Castelo Branco 2019
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1mZoOSoF1Ok
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2ZcEhIi" tvg-id="Rali de Portugal 2019",Rali de Portugal 2019
