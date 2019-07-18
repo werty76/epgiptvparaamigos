@@ -1,49 +1,48 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP1.png",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP2.png",RTP 2
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTP1.png",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTP2.png",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SIC.png",SIC [APENAS PORTUGAL]
-http://live.impresa.pt/live/sic/sic540p.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE5IDEyOjA6NSBQTSZoYXNoX3ZhbHVlPWxkSVBwbENnSFV5V2g3NWdNN3I0S1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mYjVjNWEwMy1mZWU4LTRmOGUtODViZS0yYTc1MzllOTE1OTE=
-
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICN.png",SIC NOTICIAS [APENAS PORTUGAL]
-http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP3.png",RTP3
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/SIC.png",SIC [APENAS PORTUGAL]
+https://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/TVI.png",TVI
+http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/SICN.png",SIC NOTICIAS [APENAS PORTUGAL]
+https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTP3.png",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/TVI24.png",TVI24
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE5IDEyOjA6NiBQTSZoYXNoX3ZhbHVlPVlnTTJWMllwNTYxaVhFR0FQM1VPQVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNjgzYzFkOC02NDEyLTQxZjktYjQ4Ni1hM2U5MmEyM2ExN2E=
-
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/ARTV.png",CANAL PARLAMENTO
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/TVI24.png",TVI24
+http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/EURONEWS.png",EURONEWS
+https://euronews-pt-p13-cdn.hexaglobe.net/7823250820463f496e3aef1ec097f9e2/5d30dde9/euronews/euronews-euronews-website-web-responsive-2/ewnsabrptpri_por.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/ARTV.png",CANAL PARLAMENTO
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI_INTERNACIONAL" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tviinternacional.png",TVI INTERNACIONAL
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE5IDEyOjA6NiBQTSZoYXNoX3ZhbHVlPUU2R3JKQ0c0MXE4V1ZyNThHeU1XS1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mOTM2YzRmZS0zNWY5LTRkMDUtODZkNi02ODg5OTdkNGE1ODM=
-
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPINT.png",RTP INTERNACIONAL
+http://51.255.196.214/KodiPortugalRedirectService/TVIINTERNACIONAL/streamtoken=KXTBqfrTPllNzFQnfyxyBfTmcFudId.php
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTPINTER.png",RTP INTERNACIONAL
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png",TDM
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/chunklist_w127834725.m3u8
-#EXTINF:-1 tvg-id="siccaras.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/SICR.png",SIC RADICAL [APENAS PORTUGAL]
-http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/SICR.png",SIC RADICAL [APENAS PORTUGAL]
+https://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tvificcao.png",TVI FICCAO [APENAS ESTRANGEIRO]
-https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE5IDEyOjA6NiBQTSZoYXNoX3ZhbHVlPUprbVo4b2JCakp3UmpzL29uTUcwMEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kMTg2NTM5MS0wNzdjLTQwMTMtYjllMy1jZTljZTE3MDFiMzE=
-
+http://51.255.196.214/KodiPortugalRedirectService/TVIFICCAO/streamtoken=YkgiAEujVcuFbPvJmRnnBmCMQfzMNp.php
 #EXTINF:-1 tvg-id="TVIREAL" tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tvireality.png",TVI REALITY
-https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE5IDEyOjA6NiBQTSZoYXNoX3ZhbHVlPVd6TUhQb1JHL1RaSmdHbVRXb0ErWnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NjY2OWIwOS1iNTljLTRhYjYtYTI1Ni1hMzk3NTVhNzcxYzg=
-
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/PORTOCANAL.png",PORTO CANAL
+http://video-auth8.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/PORTOCANAL.png",PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://portocanal.sapo.pt/live
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPA.png",RTP ACORES
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTPACO.png",RTP ACORES
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPAFRICA.png",RTP AFRICA
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTPAFR.png",RTP AFRICA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="RTPMadeira.pt"tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPMAD.png",RTP MADEIRA
+#EXTINF:-1 tvg-id="RTPMadeira.pt"tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTPMAD.png",RTP MADEIRA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPMEM.png",RTP MEMORIA
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTPMEM.png",RTP MEMORIA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
+#EXTINF:-1 tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",CANCAO NOVA
+https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/stream1.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/SANFAT.png",SANTUARIO DE FATIMA
+http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
 
 #EXTINF:-1 tvg-id="globo"tvg-logo="https://bit.ly/32i2Aqt", GLOBO 
 http://nettv.mine.nu:8030/live/calvario/calvario/984.m3u8
