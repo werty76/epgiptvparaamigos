@@ -45,3 +45,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|Us
 #EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTPMEM.png",RTP MEMORIA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
 
+#EXTINF:-1,GLOBO
+<link>plugin://plugin.video.f4mTester/?url=http://nettv.mine.nu:8030/live/calvario/calvario/984.m3u8;streamtype=HLSRETRY&amp;name=[B][COLOR deepskyblue] iptvparamigos[/B][/COLOR] 
+
+
