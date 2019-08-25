@@ -61,91 +61,91 @@ http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="SIC Radical" tvg-logo="http://caixapreta.pt/logos/SIC-Radical.png",SIC Radical
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="SIC K" tvg-logo="http://caixapreta.pt/logos/SIC-K.png",SIC K
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26608.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26608.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Boomerang" tvg-logo="http://caixapreta.pt/logos/Boomerang.png",Boomerang
-#http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/85918.m3u8
+http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/85918.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Cartoon Network" tvg-logo="http://caixapreta.pt/logos/Cartoon-Network.png",Cartoon Network
-#http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/47.m3u8
+http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/47.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Nicke" tvg-logo="http://caixapreta.pt/logos/Nickelodeon.png",Nickelodeon
-#http://85.244.70.140:7000/play/a00o
+http://85.244.70.140:7000/play/a00o
 #EXTINF:-1 group-title="TV" tvg-id="Disney Channel" tvg-logo="http://caixapreta.pt/logos/Disney-Channel.png",Disney Channel
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26611.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26611.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Disney Junior" tvg-logo="http://caixapreta.pt/logos/Disney-Junior.png",Disney Junior
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26612.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26612.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Panda" tvg-logo="http://caixapreta.pt/logos/Panda.png",Panda
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26614.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26614.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Biggs" tvg-logo="http://caixapreta.pt/logos/Biggs.png",Biggs
-#http://85.244.70.140:7000/play/a013
+http://85.244.70.140:7000/play/a013
 #EXTINF:-1 group-title="TV" tvg-id="JimJam" tvg-logo="http://caixapreta.pt/logos/JimJam.png",JimJam
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26615.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26615.m3u8
 #EXTINF:-1 tvg-ID="BabyFirstTV.pt" tvg-logo="http://caixapreta.pt/logos/BabyFirst.png",Baby First
-#http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/68.m3u8
+http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/68.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Baby TV" tvg-logo="http://caixapreta.pt/logos/BabyTV.png",BabyTV
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26616.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26616.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Nick Junior" tvg-logo="http://caixapreta.pt/logos/Nick-Junior.png",Nick Junior
-#http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/63.m3u8
+http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/63.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Cachipum-TV.png",Cachipum.TV
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Locomotion.png",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AMC" tvg-logo="http://caixapreta.pt/logos/AMC.png",AMC
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26593.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26593.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Hollywood" tvg-logo="http://caixapreta.pt/logos/Hollywood.png",Hollywood
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26595.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26595.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="CINEMUNDO" tvg-logo="http://caixapreta.pt/logos/Cinemundo.png",Cinemundo
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26581.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26581.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="FOX Movies" tvg-logo="http://caixapreta.pt/logos/Fox-Movies.png",Fox Movies
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26583.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26583.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="FOX" tvg-logo="http://caixapreta.pt/logos/Fox.png",Fox
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26588.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26588.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="FOX Crime" tvg-logo="http://caixapreta.pt/logos/Fox-Crime.png",Fox Crime
-#http//185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/62404.m3u8
+http//185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/62404.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="FOX Comedy" tvg-logo="http://caixapreta.pt/logos/Fox-Comedy.png",Fox Comedy
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26587.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26587.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="FOX Life" tvg-logo="http://caixapreta.pt/logos/Fox-Life.png",Fox Life
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26584.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26584.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AXN" tvg-logo="http://caixapreta.pt/logos/AXN.png",AXN
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26591.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26591.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AXN White" tvg-logo="http://caixapreta.pt/logos/AXN-White.png",AXN White
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26589.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26589.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AXN Black" tvg-logo="http://caixapreta.pt/logos/AXN-Black.png",AXN Black
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26590.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26590.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="SyFy" tvg-logo="http://caixapreta.pt/logos/SyFy.png",SyFy
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26597.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26597.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Discovery Channel" tvg-logo="http://caixapreta.pt/logos/Discovery-Channel.png",Discovery Channel
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27520.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27520.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Discovery Showcase" tvg-logo="http://caixapreta.pt/logos/Discovery-Showcase.png",Discovery Showcase
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27519.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27519.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="National Geographic" tvg-logo="http://caixapreta.pt/logos/National-Geographic.png",National Geographic
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27513.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27513.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Nat Geo Wild" tvg-logo="http://caixapreta.pt/logos/National-Geographic-Wild.png",National Geographic Wild
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27512.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27512.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="História" tvg-logo="http://caixapreta.pt/logos/Canal-de-História.png",Canal de História
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27516.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27516.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Odisseia" tvg-logo="http://caixapreta.pt/logos/Odisseia.png",Odisseia
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27510.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27510.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Travel Channel" tvg-logo="http://caixapreta.pt/logos/Travel-Channel.png",Travel Channel
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27508.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27508.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Dog-TV.png",Dog TV
-#http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/39.m3u8
+http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/39.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Mezzo",Mezzo
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27533.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27533.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="VH1" tvg-logo="http://caixapreta.pt/logos/VH1.png",VH1
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27537.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27537.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="VH1 CLASSIC" tvg-logo="http://caixapreta.pt/logos/VH1-Classic.png",VH1 Classic
-#http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/32.m3u8
+http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/32.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="MTV Classic" tvg-logo="http://caixapreta.pt/logos/MTV-Classic.png",MTV Classic
-#http://94.46.222.90:2107
+http://94.46.222.90:2107
 #EXTINF:-1 group-title="TV" tvg-id="MTV Base" tvg-logo="http://caixapreta.pt/logos/MTV-Base.png",MTV Base
-#http://94.46.222.90:2106
+http://94.46.222.90:2106
 #EXTINF:-1 group-title="TV" tvg-id="MTV Portugal" tvg-logo="http://caixapreta.pt/logos/MTV.png",MTV Portugal
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27538.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27538.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="MTV Dance" tvg-logo="http://caixapreta.pt/logos/MTV-Dance.png",MTV Dance
-#http://91.231.219.145:80/tv_mtv_dance/playlist.m3u8
+http://91.231.219.145:80/tv_mtv_dance/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="MTV Hits" tvg-logo="http://caixapreta.pt/logos/MTV-Hits.png",MTV Hits
-#http://91.231.219.145:80/tv_mtv_hits/playlist.m3u8
+http://91.231.219.145:80/tv_mtv_hits/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="MTV Rocks" tvg-logo="http://caixapreta.pt/logos/MTV-Rocks.png",MTV Rocks
-#http://91.231.219.145:80/tv_mtv_rocks/playlist.m3u8
+http://91.231.219.145:80/tv_mtv_rocks/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Trace Urban" tvg-logo="http://caixapreta.pt/logos/TRACE-Urban.png",TRACE Urban
 http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TRACE TOCA" tvg-logo="http://caixapreta.pt/logos/TRACE-Toca.png",TRACE Toca
@@ -171,15 +171,15 @@ http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/BBlack-Classik.png",BBlack Classik
 http://ec.playmedia.fr/beblack/classik/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Afro Music" tvg-logo="http://caixapreta.pt/logos/Afro-Music.png",Afro Music
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27531.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27531.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="MCM TOP" tvg-logo="http://caixapreta.pt/logos/MCM-Top.png",MCM Top
 http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="MCM POP" tvg-logo="http://caixapreta.pt/logos/MCM-Pop.png",MCM Pop
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27535.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27535.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="NRJ HITS" tvg-logo="http://caixapreta.pt/logos/NRJ-Hits-TV.png",NRJ Hits TV
 https://energytv.vedge.infomaniak.com/livecast/smil:energytv.smil/manifest.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Clubbing TV" tvg-logo="http://caixapreta.pt/logos/Clubbing-TV.png",Clubbing TV
-#http://188.83.103.117:8035/play/a016
+http://188.83.103.117:8035/play/a016
 #EXTINF:-1 group-title="TV" tvg-id="Deejay TV" tvg-logo="http://caixapreta.pt/logos/DeeJay-TV.png",DeeJay TV
 http://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="DELUXE MUSIC TV" tvg-logo="http://caixapreta.pt/logos/Deluxe-Music-TV.png",Deluxe Music TV
@@ -201,25 +201,25 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/CMC.png",Country Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Eurosport" tvg-logo="http://caixapreta.pt/logos/Eurosport.png",Eurosport
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27550.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27550.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Eurosport 2" tvg-logo="http://caixapreta.pt/logos/Eurosport2.png",Eurosport 2
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27548.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27548.m3u8
 #EXTINF:-1 group-title="TV",Motors TV
-#http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/56.m3u8
+http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/56.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Motorvision-TV.png",Motorvision TV
 http://85.244.70.140:7000/play/a00t
 #EXTINF:-1 group-title="TV" tvg-id="Fuel TV" tvg-logo="http://caixapreta.pt/logos/Fuel-TV.png",Fuel TV
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27541.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27541.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="KOMBAT SPORT" tvg-logo="http://caixapreta.pt/logos/Kombat-Sport.png",Kombat Sport
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27543.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27543.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Eurosport News" tvg-logo="http://caixapreta.pt/logos/Eurosport-News.png",Eurosport News
-#http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/71.m3u8
+http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/71.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="A Bola TV" tvg-logo="http://caixapreta.pt/logos/A-Bola-TV.png",A Bola TV
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27552.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27552.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="SPORT TV+" tvg-logo="http://caixapreta.pt/logos/Sport-TV+.png",Sport TV +
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26571.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26571.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Sporting TV" tvg-logo="http://caixapreta.pt/logos/Sporting-TV.png",Sporting TV
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27554.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27554.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Real Madrid TV" tvg-logo="http://caixapreta.pt/logos/RMTV.png",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/All-Sports-Brasil.png",All Sports Brasil
@@ -239,16 +239,15 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 #EXTINF:-1 group-title="TV" tvg-id="Porto Canal" tvg-logo="http://caixapreta.pt/logos/Porto-Canal.png",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1672243089.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="Localvisão TV" tvg-logo="http://caixapreta.pt/logos/Localvisão-TV.png",Localvisão TV
-#http://powerful.selfip.info:8000/live/carloss/carloss/343.m3u8
+http://powerful.selfip.info:8000/live/carloss/carloss/343.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVIREAL" tvg-logo="http://caixapreta.pt/logos/TVI-Reality.png",TVI Reality
 http://video-auth8.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TVI Ficção" tvg-logo="http://caixapreta.pt/logos/TVI-Ficção.png",TVI Ficção
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau
 http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TCV" tvg-logo="http://caixapreta.pt/logos/TCV.png",TCV
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/63763.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/63763.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TPA Internacional" tvg-logo="http://caixapreta.pt/logos/TPA.png",TPA Internacional
-#http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/4.m3u8
+http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/4.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TVM.png",TVM
 http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TVMI.png",TVM Internacional
@@ -272,9 +271,9 @@ https://5a1c76baf08c0.streamlock.net/z474-live/aovivo/chunklist_w959333906.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/CBTV-Internacional.jpg",CBTV Internacional
 http://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TV Record" tvg-logo="http://caixapreta.pt/logos/Record-TV.png",Record TV
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26619.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26619.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="GLOBO" tvg-logo="http://caixapreta.pt/logos/Globo.png",Globo
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/40260.m3u8
+http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/40260.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="SBT [Brazil]" tvg-logo="http://caixapreta.pt/logos/SBT.png",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
 
