@@ -261,6 +261,22 @@ http://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="http://caixapreta.pt/logos/AgroBrasil-TV.png",AgroBrasil TV
 http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Rede Minas" tvg-logo="http://caixapreta.pt/logos/Rede-Minas.png",Rede Minas
+http://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Rede TV [Brazil]" tvg-logo="http://caixapreta.pt/logos/RedeTV.png",RedeTV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Rede-Atividade.png",Rede Atividade
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Rede-New.png",Rede New
+https://5a1c76baf08c0.streamlock.net/z474-live/aovivo/chunklist_w959333906.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/CBTV-Internacional.jpg",CBTV Internacional
+http://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TV Record" tvg-logo="http://caixapreta.pt/logos/Record-TV.png",Record TV
+#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26619.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="GLOBO" tvg-logo="http://caixapreta.pt/logos/Globo.png",Globo
+#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/40260.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="SBT [Brazil]" tvg-logo="http://caixapreta.pt/logos/SBT.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
 
 
 
