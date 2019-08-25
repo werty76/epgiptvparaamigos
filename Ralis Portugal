@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2HpLA90" tvg-id="Rali Vinho da Madeira 2019",Rali Vinho da Madeira 2019
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Amf_w6FpdvY
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2G2wPIC" tvg-id="Rali de Castelo Branco 2019",Rali de Castelo Branco 2019
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1mZoOSoF1Ok
 
