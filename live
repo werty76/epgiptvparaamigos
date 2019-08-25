@@ -1,8 +1,22 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8"?>
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",GUIMARAES VS FAMALICÃO 21:00
-http://167.99.58.181/live/SDSZGDVT/playlist.m3u8
+<center><iframe allowfullscreen="" border="0" frameborder="0" height="490" scrolling="no" src="//www.hesgoal.com/soccer/Guimaraes vs Famalicao.html" width="650" name="I1"></iframe>
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",GIL VICENTE VS BRAGA 20:30
-http://34.96.121.113/live/GSSEHEHHd1/playlist.m3u8
+<div id="M407597ScriptRootC344625">
+        <div id="M407597PreloadC344625">
+        Loading...    </div>
+        <script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M407597ScriptRootC344625")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M407597ScriptRootC344625");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=344625;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.mgid.com/h/e/hesgoal.com.344625.js?t="+D.getYear()+D.getMonth()+D.getUTCDate()+D.getUTCHours();c[ac](s);})();
+    </script>
+    </div>
+
+<img src="https://3.bp.blogspot.com/-HbVrylUvFHk/WudMlppZzoI/AAAAAAAABLc/-SqZJ5HjKNIeK2gxdntwuZMI2EWbToC8wCLcBGAs/s1600/videobro.jpg" border="0" data-original-width="308" data-original-height="29">
+</center>
+
+
+
 
