@@ -228,6 +228,39 @@ http://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/playlist.m3u8
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Red-Bull-TV.png",Red Bull TV 
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="RTP Internacional" tvg-logo="http://caixapreta.pt/logos/RTP-Internacional.png",RTP Internacional
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="RTP África" tvg-logo="http://caixapreta.pt/logos/RTP-África.png",RTP África
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="RTP Açores" tvg-logo="http://caixapreta.pt/logos/RTP-Açores.png",RTP Açores
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="RTP Madeira" tvg-logo="http://caixapreta.pt/logos/RTP-Madeira.png",RTP Madeira
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Porto Canal" tvg-logo="http://caixapreta.pt/logos/Porto-Canal.png",Porto Canal
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1672243089.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Localvisão TV" tvg-logo="http://caixapreta.pt/logos/Localvisão-TV.png",Localvisão TV
+#http://powerful.selfip.info:8000/live/carloss/carloss/343.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TVIREAL" tvg-logo="http://caixapreta.pt/logos/TVI-Reality.png",TVI Reality
+http://video-auth8.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TVI Ficção" tvg-logo="http://caixapreta.pt/logos/TVI-Ficção.png",TVI Ficção
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TCV" tvg-logo="http://caixapreta.pt/logos/TCV.png",TCV
+#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/63763.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TPA Internacional" tvg-logo="http://caixapreta.pt/logos/TPA.png",TPA Internacional
+#http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/4.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TVM.png",TVM
+http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TVMI.png",TVM Internacional
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Record News" tvg-logo="http://caixapreta.pt/logos/Record-News.png",Record News
+http://iptvpro.vision-new.org:8789/live/iptvpro2channel/vAtyocUOiq/1061.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="TV Escola [Brazil]" tvg-logo="http://caixapreta.pt/logos/TV-Escola.png",TV Escola
+http://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Futura [Brazil]" tvg-logo="http://caixapreta.pt/logos/Canal-Futura.png",Canal Futura
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="http://caixapreta.pt/logos/AgroBrasil-TV.png",AgroBrasil TV
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 
 
