@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",GUIMARAES VS FAMALICÃO 21:00
-http://167.99.58.181/live/SDSZGDVT/chunks.m3u8
+http://167.99.58.181/live/SDSZGDVT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",GIL VICENTE VS BRAGA 20:30
-http://34.96.121.113/live/GSSEHEHHd1/chunks.m3u8
+http://34.96.121.113/live/GSSEHEHHd1/playlist.m3u8
 
