@@ -5,8 +5,8 @@
 
 <item><title>[B][COLOR orange] →→→DESPORTO 1←←← [/COLOR][/B] </title><link></title><link>https://fui.me</link></item>
 
-<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV1
-</title><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR white]iptvparamigos[/COLOR];url=http://ma-tv.magica.club:8080/APM/APM/44</link></item>
+<item><title>[B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]  SPORT TV1 +
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ma-tv.magica.club:8080/APM/APM/44</link></item>
 
 <item><title> [B][COLOR yellow]IPTVPARAMIGOS[/COLOR][/B]SPORT TV1 
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns2mlusocom.ddns.net:80/live/rochaguarda2019/rg2019/20
