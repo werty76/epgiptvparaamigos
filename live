@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/RGK45M" tvg-id="LIVE" group-title="LIVE", Atletico Madrid vs Juventus 
 http://a.gdsth.com/live/streamcnhd23102.m3u8?txSecret=8c226df8d13c27a72019ae3ae21f9b1a&txTime=5d827cbb
 
-#EXTINF:-1 tvg-logo="https://goo.gl/RGK45M" tvg-id="LIVE" group-title="LIVE",
-
+#EXTINF:-1 tvg-logo="https://goo.gl/RGK45M" tvg-id="LIVE" group-title="LIVE",PSG vs Real Madrid
+http://a.gdsth.com/live/p39stream195944.m3u8?txSecret=e5113815fe35e1a515aa77204b5b7c38&txTime=5d827c03
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/RGK45M" tvg-id="LIVE" group-title="LIVE",
