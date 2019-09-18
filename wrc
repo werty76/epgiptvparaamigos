@@ -1,6 +1,15 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2mow6dL" tvg-id="RALLY WRC 2019",Rally Turkey 2019 day 1
+https://rbmn-live.akamaized.net/hls/live/590971/190913WrcTurHl1Pri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2mow6dL" tvg-id="RALLY WRC 2019",Rally Turkey 2019 day 2
+https://rbmn-live.akamaized.net/hls/live/590971/190914WrcTurHl2Pri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2mow6dL" tvg-id="RALLY WRC 2019",Rally Turkey 2019 day 3
+https://rbmn-live.akamaized.net/hls/live/590971/190915WrcTurHl3Pri/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2HoXJek" tvg-id="RALLY WRC 2019",Rally Germany 2019 day 1
 https://rbmn-live.akamaized.net/hls/live/655944/190823WrcGerHigh1Pri/master_3360.m3u8
 
