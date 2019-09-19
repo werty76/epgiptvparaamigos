@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2kqnoep" tvg-id="Rali Terras D'Aboboreira 2019",Rali Terras D'Aboboreira 2019
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L9NGfk7XU58
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2HpLA90" tvg-id="Rali Vinho da Madeira 2019",Rali Vinho da Madeira 2019
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Amf_w6FpdvY
 
