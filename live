@@ -1,12 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://goo.gl/xnky9L" tvg-id="LIVE" group-title="LIVE",Porto Young Boys 
-http://a.gdsth.com/live/p39stream199073.m3u8?txSecret=898fccb09361f2f2ff766aace15bd967&txTime=5d83cf2b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/xnky9L" tvg-id="LIVE" group-title="LIVE",Wolverhampton vs Braga
-http://a.gdsth.com/live/streamhd8996.m3u8?txSecret=c8fb4dbeb20994f09879bc881291fc33&txTime=5d83cd8f
-
-
+#EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",MOREIRENSE VS BENFICA 
+http://34.102.159.200/live/3ESSDSKUUOO/playlist.m3u8
 
 
 
