@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",MOREIRENSE VS BENFICA 
-http://34.102.159.200/live/3ESSDSKUUOO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",PORTO VS SANTA CLARA
+http://a.gdsth.com/live/p39stream207206.m3u8?txSecret=159bfcbe4e13647efedac736ee4d3658&txTime=5d87cc2c
 
 
 
