@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2kqnoep" tvg-id="Rali Vidreiro Centro de Portugal 2019",Rali Vidreiro 2019
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QzezZ4WBtz8&t=2s
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2kqnoep" tvg-id="Rali Terras D'Aboboreira 2019",Rali Terras D'Aboboreira 2019
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L9NGfk7XU58
 
