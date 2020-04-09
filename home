@@ -1,1 +1,47 @@
+<layouttype>thumbnail</layouttype>
 
+
+<channels>
+<channel>
+<name>Live TV</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info</info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Series</name>
+<thumbnail>https://i.ibb.co/2vTTJq4/casa-de-papel-4.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/8QchRpXV</externallink>
+<fanart>https://bit.ly/32zzumt</fanart>
+<info></info>
+</channel>
+
+</channels>
+
+ 
+<item>
+<title>LA CASA DE PAPEL S04|EP7</title>
+<link>https://drive.google.com/file/d/1pMy309umAVAyV9Gz2TxHrVzISSEoQSBh/view</link>
+<thumbnail>https://i.ibb.co/2vTTJq4/casa-de-papel-4.jpg</thumbnail>
+<fanart>https://bit.ly/32zzumt</fanart>
+<info>IPTV PARA AMIGOS</info>
+</item>
+ 
+ 
+<item>
+<title>LA CASA DE PAPEL S04|EP8</title>
+<link>https://drive.google.com/file/d/1lsEzzsBlrpcxVchHAjKDhvl9Uq4jW1Uc/view</link>
+<thumbnail>https://i.ibb.co/2vTTJq4/casa-de-papel-4.jpg</thumbnail>
+<fanart>https://bit.ly/32zzumt</fanart>
+<info>IPTV PARA AMIGOS</info>
+</item>
