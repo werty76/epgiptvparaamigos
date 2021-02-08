@@ -3,971 +3,140 @@
 #EXTINF:-1 tvg-ID="" tvg-name="•----• Desporto •----•" tvg-logo="" group-title="PORTUGAL - DESPORTO",•----• Desporto •----•
 http://trial.myinstanttv.com:8080/TV-13833966/202634109860/5938
 
-#EXTINF:-1,PT:  Sport TV 1 backup
-http://stariptv.xyz:8880/730897/941474/114195
-#EXTINF:-1,PT:  SPORT TV 1 HD
-http://stariptv.xyz:8880/730897/941474/61153
-#EXTINF:-1,PT:  SPORT TV 1 HD 1080
-http://stariptv.xyz:8880/730897/941474/114196
-#EXTINF:-1,PT:  Sport TV 1 HD backup
-http://stariptv.xyz:8880/730897/941474/114197
-#EXTINF:-1,PT:  SPORT TV 2
-http://stariptv.xyz:8880/730897/941474/61156
-#EXTINF:-1,PT:  Sport TV 2 backup
-http://stariptv.xyz:8880/730897/941474/114198
-#EXTINF:-1,PT:  SPORT TV 2 HD 1080
-http://stariptv.xyz:8880/730897/941474/114199
-#EXTINF:-1,PT:  Sport TV 2 HD backup
-http://stariptv.xyz:8880/730897/941474/114200
-#EXTINF:-1,PT:  Sport TV 3 backup
-http://stariptv.xyz:8880/730897/941474/133876
-#EXTINF:-1,PT:  SPORT TV 3 HD
-http://stariptv.xyz:8880/730897/941474/61157
-#EXTINF:-1,PT:  SPORT TV 3 HD 1080
-http://stariptv.xyz:8880/730897/941474/114201
-#EXTINF:-1,PT:  Sport TV 3 HD backup
-http://stariptv.xyz:8880/730897/941474/114202
-#EXTINF:-1,PT:  SPORT TV 3HD
-http://stariptv.xyz:8880/730897/941474/114203
-#EXTINF:-1,PT:  SPORT TV 4
-http://stariptv.xyz:8880/730897/941474/61159
-#EXTINF:-1,PT:  Sport TV 4 backup
-http://stariptv.xyz:8880/730897/941474/114204
-#EXTINF:-1,PT:  SPORT TV 4 HD 1080
-http://stariptv.xyz:8880/730897/941474/114205
-#EXTINF:-1,PT:  Sport TV 4 HD backup
-http://stariptv.xyz:8880/730897/941474/114206
-#EXTINF:-1,PT:  SPORT TV 4HD
-http://stariptv.xyz:8880/730897/941474/114207
-#EXTINF:-1,PT:  SPORT TV 5
-http://stariptv.xyz:8880/730897/941474/61160
-#EXTINF:-1,PT:  Sport TV 5 backup
-http://stariptv.xyz:8880/730897/941474/114208
-#EXTINF:-1,PT:  SPORT TV 5 HD 1080
-http://stariptv.xyz:8880/730897/941474/114209
-#EXTINF:-1,PT:  Sport TV 5 HD backup
-http://stariptv.xyz:8880/730897/941474/114210
-#EXTINF:-1,PT:  SPORT TV 5HD
-http://stariptv.xyz:8880/730897/941474/114211
-#EXTINF:-1,PT:  SPORT TV4 FHD
-http://stariptv.xyz:8880/730897/941474/59880
-#EXTINF:-1,PT:  SPORT TV5 FHD
-http://stariptv.xyz:8880/730897/941474/59882
-#EXTINF:-1,PT:   Sport Tv 1 ⁴ᵏ ʰ²⁶⁵
-http://stariptv.xyz:8880/730897/941474/105804
-#EXTINF:-1,PT:   Sport TV 2 HD
-http://stariptv.xyz:8880/730897/941474/99287
-#EXTINF:-1,PT:   Sport TV 4 HD
-http://stariptv.xyz:8880/730897/941474/99288
-#EXTINF:-1,PT:   Sport TV 5 HD
-http://stariptv.xyz:8880/730897/941474/99289
-#EXTINF:-1,PT:  BTV 1
-http://stariptv.xyz:8880/730897/941474/114171
-#EXTINF:-1,PT:  BTV 1 backup
-http://stariptv.xyz:8880/730897/941474/114172
-#EXTINF:-1,PT:  BTV HD
-http://stariptv.xyz:8880/730897/941474/59885
-#EXTINF:-1,PT:  BTV 1 HD 1080
-http://stariptv.xyz:8880/730897/941474/114174
-#EXTINF:-1,PT:  BTV HD
-http://stariptv.xyz:8880/730897/941474/61162
-#EXTINF:-1,PT:  Eleven Sport 1
-http://stariptv.xyz:8880/730897/941474/61146
-#EXTINF:-1,PT:  Eleven Sport 2
-http://stariptv.xyz:8880/730897/941474/61147
-#EXTINF:-1,PT:  Eleven Sport 3
-http://stariptv.xyz:8880/730897/941474/61148
-#EXTINF:-1,PT:  Eleven Sport 4 HD
-http://stariptv.xyz:8880/730897/941474/61149
-#EXTINF:-1,PT:  Eleven Sport 5 HD
-http://stariptv.xyz:8880/730897/941474/61150
-#EXTINF:-1,PT:  Eleven Sport 6
-http://stariptv.xyz:8880/730897/941474/61151
-#EXTINF:-1,PT:  ELEVEN SPORTS 1 FHD
-http://stariptv.xyz:8880/730897/941474/59886
-#EXTINF:-1,PT:  ELEVEN SPORTS 2 SD
-http://stariptv.xyz:8880/730897/941474/59888
-#EXTINF:-1,PT:  ELEVEN SPORTS 3 FHD
-http://stariptv.xyz:8880/730897/941474/59889
-#EXTINF:-1,PT:  ELEVEN SPORTS 5 FHD
-http://stariptv.xyz:8880/730897/941474/59890
-#EXTINF:-1,PT:  ELEVEN SPORTS 6 HD
-http://stariptv.xyz:8880/730897/941474/114324
-#EXTINF:-1,PT:  CA PESCA HD
-http://stariptv.xyz:8880/730897/941474/59928
+#EXTINF:-1 tvg-ID="" tvg-name="REAL MADRID TV" tvg-logo="https://bit.ly/3jx4yfO" group-title="Desporto",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS XTRA" tvg-logo="https://bit.ly/36R7xdL" group-title="Desporto",BEIN SPORTS XTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="RED BULL TV" tvg-logo="https://bit.ly/2MH2zcH" group-title="Desporto",RED BULL TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="•----• Series & Movies •----•" tvg-logo="" group-title="PORTUGAL - SERIE & MOVIE",•----• Series & Movies •----•
-http://trial.myinstanttv.com:8080/TV-13833966/202634109860/5937
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT" tvg-logo="https://bit.ly/3aEqMsd" group-title="Desporto",EUROSPORT
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/chunklist_w324741174_b3128000_sling.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="STADIUM" tvg-logo="https://bit.ly/3jp7qLD" group-title="Desporto",STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 
-#EXTINF:-1,PT:  TV CINE 1 HD
-http://stariptv.xyz:8880/730897/941474/59896
-#EXTINF:-1,PT:  TV CINE 2 HD
-http://stariptv.xyz:8880/730897/941474/59898
-#EXTINF:-1,PT:  TV CINE 3 HD
-http://stariptv.xyz:8880/730897/941474/59900
-#EXTINF:-1,PT:  TV CINE 4
-http://stariptv.xyz:8880/730897/941474/59903
-#EXTINF:-1,PT:  TVCINE 3 HD 1080
-http://stariptv.xyz:8880/730897/941474/114220
-#EXTINF:-1,PT:  TVCINE 4 HD 1080
-http://stariptv.xyz:8880/730897/941474/114221
-#EXTINF:-1,PT:  TVCine ACTION HD
-http://stariptv.xyz:8880/730897/941474/61067
-#EXTINF:-1,PT:  TVCine EDITION HD
-http://stariptv.xyz:8880/730897/941474/61068
-#EXTINF:-1,PT:  TVCine TOP HD
-http://stariptv.xyz:8880/730897/941474/61070
-#EXTINF:-1,PT:   TV Cine 4 HD
-http://stariptv.xyz:8880/730897/941474/99342
-#EXTINF:-1,PT:   TV Cine Action HD
-http://stariptv.xyz:8880/730897/941474/99312
-#EXTINF:-1,PT:   TV Cine Edition HD
-http://stariptv.xyz:8880/730897/941474/99310
-#EXTINF:-1,PT:   TV Cine Emotion HD
-http://stariptv.xyz:8880/730897/941474/99311
-#EXTINF:-1,PT:   TV Cine Top HD
-http://stariptv.xyz:8880/730897/941474/9930
-#EXTINF:-1,PT:   TVCINE 3 EMOTION
-http://stariptv.xyz:8880/730897/941474/61271
+#EXTINF:-1 tvg-ID="" tvg-name="ALL SPORTS" tvg-logo="https://bit.ly/39UpHgK" group-title="Desporto",ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1699785111.m3u8
 
-#EXTINF:-1,  38
-http://stariptv.xyz:8880/730897/941474/95097
-#EXTINF:-1,  A1
-http://stariptv.xyz:8880/730897/941474/95098
-#EXTINF:-1,  A2
-http://stariptv.xyz:8880/730897/941474/95099
-#EXTINF:-1,  A3
-http://stariptv.xyz:8880/730897/941474/95100
-#EXTINF:-1,  A4
-http://stariptv.xyz:8880/730897/941474/95101
-#EXTINF:-1,  A5
-http://stariptv.xyz:8880/730897/941474/95102
-#EXTINF:-1,  A6
-http://stariptv.xyz:8880/730897/941474/95103
-#EXTINF:-1,  ADULT 11 HD
-http://stariptv.xyz:8880/730897/941474/95104
-#EXTINF:-1,  ADULT 12 HD
-http://stariptv.xyz:8880/730897/941474/95105
-#EXTINF:-1,  ALBA XXX 1
-http://stariptv.xyz:8880/730897/941474/95111
-#EXTINF:-1,  ALBA XXX 2
-http://stariptv.xyz:8880/730897/941474/95112
-#EXTINF:-1,  ALBA XXX 5
-http://stariptv.xyz:8880/730897/941474/95113
-#EXTINF:-1,  ALBA XXX 6
-http://stariptv.xyz:8880/730897/941474/95114
-#EXTINF:-1,  Alba XXX HD1
-http://stariptv.xyz:8880/730897/941474/95115
-#EXTINF:-1,  Alba XXX HD2
-http://stariptv.xyz:8880/730897/941474/95116
-#EXTINF:-1,  Album Erotic
-http://stariptv.xyz:8880/730897/941474/95117
-#EXTINF:-1,  AMATEUR
-http://stariptv.xyz:8880/730897/941474/95118
-#EXTINF:-1,  DORCEL HD
-http://stariptv.xyz:8880/730897/941474/95119
-#EXTINF:-1,  Dorcel TV FHD
-http://stariptv.xyz:8880/730897/941474/95120
-#EXTINF:-1,  Dorcel XXX
-http://stariptv.xyz:8880/730897/941474/95121
-#EXTINF:-1,  EVIL ANGEL HD
-http://stariptv.xyz:8880/730897/941474/95123
-#EXTINF:-1,  FAKE TAXI FHD
-http://stariptv.xyz:8880/730897/941474/49665
-#EXTINF:-1,  French Lover
-http://stariptv.xyz:8880/730897/941474/95125
-#EXTINF:-1,  Gay Channel
-http://stariptv.xyz:8880/730897/941474/95126
-#EXTINF:-1,  HOT MiX 10
-http://stariptv.xyz:8880/730897/941474/95136
-#EXTINF:-1,  HOT MiX 3
-http://stariptv.xyz:8880/730897/941474/95132
-#EXTINF:-1,  HOT MiX 7
-http://stariptv.xyz:8880/730897/941474/95133
-#EXTINF:-1,  HOT MiX 8
-http://stariptv.xyz:8880/730897/941474/95134
-#EXTINF:-1,  HOT MiX 9
-http://stariptv.xyz:8880/730897/941474/95135
-#EXTINF:-1,  Hustler TV
-http://stariptv.xyz:8880/730897/941474/95184
-#EXTINF:-1,  iFlix Milf HD
-http://stariptv.xyz:8880/730897/941474/95144
-#EXTINF:-1,  JASMIN
-http://stariptv.xyz:8880/730897/941474/95145
-#EXTINF:-1,  JASMIN TV
-http://stariptv.xyz:8880/730897/941474/95146
-#EXTINF:-1,  LA3
-http://stariptv.xyz:8880/730897/941474/114403
-#EXTINF:-1,  LA4
-http://stariptv.xyz:8880/730897/941474/95139
-#EXTINF:-1,  LA5
-http://stariptv.xyz:8880/730897/941474/95140
-#EXTINF:-1,  LA6
-http://stariptv.xyz:8880/730897/941474/95141
-#EXTINF:-1,  LA8
-http://stariptv.xyz:8880/730897/941474/95142
-#EXTINF:-1,  LA9
-http://stariptv.xyz:8880/730897/941474/95143
-#EXTINF:-1,  Meiden Van Holland Hard
-http://stariptv.xyz:8880/730897/941474/95148
-#EXTINF:-1,  Miami TV
-http://stariptv.xyz:8880/730897/941474/95149
-#EXTINF:-1,  Milf TV
-http://stariptv.xyz:8880/730897/941474/95150
-#EXTINF:-1,  MR SEXE 2
-http://stariptv.xyz:8880/730897/941474/95151
-#EXTINF:-1,  Penthouse Black TV
-http://stariptv.xyz:8880/730897/941474/95187
-#EXTINF:-1,  PINK EROTIC 1
-http://stariptv.xyz:8880/730897/941474/95152
-#EXTINF:-1,  PINK EROTIC 2
-http://stariptv.xyz:8880/730897/941474/95153
-#EXTINF:-1,  PINK EROTIC 3
-http://stariptv.xyz:8880/730897/941474/95154
-#EXTINF:-1,  PINK EROTIC 4
-http://stariptv.xyz:8880/730897/941474/95155
-#EXTINF:-1,  PINK EROTIC 6
-http://stariptv.xyz:8880/730897/941474/95156
-#EXTINF:-1,  PINK EROTIC 7
-http://stariptv.xyz:8880/730897/941474/95157
-#EXTINF:-1,  Pink Erotic 8
-http://stariptv.xyz:8880/730897/941474/95188
-#EXTINF:-1,  PINK O TV
-http://stariptv.xyz:8880/730897/941474/95158
-#EXTINF:-1,  PLAYBOY HD
-http://stariptv.xyz:8880/730897/941474/95159
-#EXTINF:-1,  XXL HD
-http://stariptv.xyz:8880/730897/941474/49702
-#EXTINF:-1,  XY PLUS
-http://stariptv.xyz:8880/730897/941474/114529
-#EXTINF:-1, ::::: FOR ADULT :::::
-http://stariptv.xyz:8880/730897/941474/60088
-#EXTINF:-1, Adult 10
-http://stariptv.xyz:8880/730897/941474/114384
-#EXTINF:-1, ADULT 10 HD
-http://stariptv.xyz:8880/730897/941474/114385
-#EXTINF:-1, Adult 2
-http://stariptv.xyz:8880/730897/941474/114376
-#EXTINF:-1, Adult 3
-http://stariptv.xyz:8880/730897/941474/114377
-#EXTINF:-1, Adult 4
-http://stariptv.xyz:8880/730897/941474/114378
-#EXTINF:-1, Adult 5
-http://stariptv.xyz:8880/730897/941474/114379
-#EXTINF:-1, Adult 6
-http://stariptv.xyz:8880/730897/941474/114380
-#EXTINF:-1, Adult 7
-http://stariptv.xyz:8880/730897/941474/114381
-#EXTINF:-1, Adult 8
-http://stariptv.xyz:8880/730897/941474/114382
-#EXTINF:-1, Adult 9
-http://stariptv.xyz:8880/730897/941474/114383
-#EXTINF:-1, ADULT MIX 
-http://stariptv.xyz:8880/730897/941474/60089
-#EXTINF:-1, ADULT MIX 3 
-http://stariptv.xyz:8880/730897/941474/60091
-#EXTINF:-1, ADULT MIX 4 
-http://stariptv.xyz:8880/730897/941474/60092
-#EXTINF:-1, ADULT MIX 5 
-http://stariptv.xyz:8880/730897/941474/60105
-#EXTINF:-1, Alba XXX 3
-http://stariptv.xyz:8880/730897/941474/49679
-#EXTINF:-1, Alba XXX 4
-http://stariptv.xyz:8880/730897/941474/49680
-#EXTINF:-1, Alba xxx6
-http://stariptv.xyz:8880/730897/941474/114589
-#EXTINF:-1, B1
-http://stariptv.xyz:8880/730897/941474/114386
-#EXTINF:-1, B2
-http://stariptv.xyz:8880/730897/941474/114387
-#EXTINF:-1, B3
-http://stariptv.xyz:8880/730897/941474/114388
-#EXTINF:-1, B4
-http://stariptv.xyz:8880/730897/941474/114389
-#EXTINF:-1, BALKAN EROTIC 
-http://stariptv.xyz:8880/730897/941474/60101
-#EXTINF:-1, Big Ass
-http://stariptv.xyz:8880/730897/941474/49618
-#EXTINF:-1, BIG DICK
-http://stariptv.xyz:8880/730897/941474/49619
-#EXTINF:-1, Big Tits
-http://stariptv.xyz:8880/730897/941474/49620
-#EXTINF:-1, BIGASS UHD
-http://stariptv.xyz:8880/730897/941474/95075
-#EXTINF:-1, BIGDICK UHD
-http://stariptv.xyz:8880/730897/941474/95074
-#EXTINF:-1, Bizzare
-http://stariptv.xyz:8880/730897/941474/114390
-#EXTINF:-1, BLACKED FHD
-http://stariptv.xyz:8880/730897/941474/114391
-#EXTINF:-1, Blacked HD
-http://stariptv.xyz:8880/730897/941474/114547
-#EXTINF:-1, BLUE HUSTLER
-http://stariptv.xyz:8880/730897/941474/114392
-#EXTINF:-1, BRAZZERS 
-http://stariptv.xyz:8880/730897/941474/60104
-#EXTINF:-1, Brazzers Europe
-http://stariptv.xyz:8880/730897/941474/49652
-#EXTINF:-1, Brazzers TV HD
-http://stariptv.xyz:8880/730897/941474/49651
-#EXTINF:-1, CENTO X CENTO
-http://stariptv.xyz:8880/730897/941474/114393
-#EXTINF:-1, Compilation
-http://stariptv.xyz:8880/730897/941474/114394
-#EXTINF:-1, CUCKOLD UHD
-http://stariptv.xyz:8880/730897/941474/95078
-#EXTINF:-1, CZECH STREETS FHD
-http://stariptv.xyz:8880/730897/941474/114395
-#EXTINF:-1, DORCEL 
-http://stariptv.xyz:8880/730897/941474/60103
-#EXTINF:-1, DUSK 
-http://stariptv.xyz:8880/730897/941474/60106
-#EXTINF:-1, ERO X
-http://stariptv.xyz:8880/730897/941474/114396
-#EXTINF:-1, erotic 5
-http://stariptv.xyz:8880/730897/941474/114397
-#EXTINF:-1, EROTIC_1 LA2
-http://stariptv.xyz:8880/730897/941474/114398
-#EXTINF:-1, EROTIC_2 LA3
-http://stariptv.xyz:8880/730897/941474/114399
-#EXTINF:-1, EROTIC_2 LA6
-http://stariptv.xyz:8880/730897/941474/114400
-#EXTINF:-1, EROTIC_4 LA1
-http://stariptv.xyz:8880/730897/941474/114401
-#EXTINF:-1, EROTIC_4 LA2
-http://stariptv.xyz:8880/730897/941474/114402
-#EXTINF:-1, EROTIC_6 LA3
-http://stariptv.xyz:8880/730897/941474/114404
-#EXTINF:-1, EROTIC_6 LA4
-http://stariptv.xyz:8880/730897/941474/114405
-#EXTINF:-1, Erox 18+
-http://stariptv.xyz:8880/730897/941474/114590
-#EXTINF:-1, EROX HD
-http://stariptv.xyz:8880/730897/941474/114406
-#EXTINF:-1, EROXXX
-http://stariptv.xyz:8880/730897/941474/114407
-#EXTINF:-1, Extasy HD
-http://stariptv.xyz:8880/730897/941474/114408
-#EXTINF:-1, FAKE TAXI 
-http://stariptv.xyz:8880/730897/941474/60107
-#EXTINF:-1, FAKE TAXI
-http://stariptv.xyz:8880/730897/941474/49624
-#EXTINF:-1, FANTASY 3
-http://stariptv.xyz:8880/730897/941474/114409
-#EXTINF:-1, FAP TV 2
-http://stariptv.xyz:8880/730897/941474/49707
-#EXTINF:-1, FETISH
-http://stariptv.xyz:8880/730897/941474/49636
-#EXTINF:-1, FETISH UHD
-http://stariptv.xyz:8880/730897/941474/95079
-#EXTINF:-1, FILM AX 4 HD
-http://stariptv.xyz:8880/730897/941474/114410
-#EXTINF:-1, France a Poil1 FHD
-http://stariptv.xyz:8880/730897/941474/114411
-#EXTINF:-1, France a Poil2 FHD
-http://stariptv.xyz:8880/730897/941474/114412
-#EXTINF:-1, France a Poil4 HD
-http://stariptv.xyz:8880/730897/941474/114413
-#EXTINF:-1, Fuck 2
-http://stariptv.xyz:8880/730897/941474/114415
-#EXTINF:-1, Fuck 6
-http://stariptv.xyz:8880/730897/941474/114416
-#EXTINF:-1, Fuck 7
-http://stariptv.xyz:8880/730897/941474/114417
-#EXTINF:-1, Hardcore
-http://stariptv.xyz:8880/730897/941474/49637
-#EXTINF:-1, HARDCORE UHD
-http://stariptv.xyz:8880/730897/941474/95080
-#EXTINF:-1, HOT CLUB 1 HD
-http://stariptv.xyz:8880/730897/941474/114419
-#EXTINF:-1, HOT CLUB 3 HD
-http://stariptv.xyz:8880/730897/941474/114420
-#EXTINF:-1, HOT CLUB 4 HD
-http://stariptv.xyz:8880/730897/941474/114421
-#EXTINF:-1, HOT MiX 14
-http://stariptv.xyz:8880/730897/941474/114513
-#EXTINF:-1, HOT MiX 21
-http://stariptv.xyz:8880/730897/941474/114514
-#EXTINF:-1, HOT MiX 24
-http://stariptv.xyz:8880/730897/941474/114515
-#EXTINF:-1, HOT MiX 29
-http://stariptv.xyz:8880/730897/941474/114516
-#EXTINF:-1, HOT MiX 33
-http://stariptv.xyz:8880/730897/941474/114517
-#EXTINF:-1, HOT MiX 34
-http://stariptv.xyz:8880/730897/941474/114518
-#EXTINF:-1, HOT MiX 37
-http://stariptv.xyz:8880/730897/941474/114520
-#EXTINF:-1, HOT MiX 38
-http://stariptv.xyz:8880/730897/941474/114521
-#EXTINF:-1, HOT MiX 43
-http://stariptv.xyz:8880/730897/941474/114522
-#EXTINF:-1, HOT MiX 45
-http://stariptv.xyz:8880/730897/941474/114523
-#EXTINF:-1, HOT MiX 49
-http://stariptv.xyz:8880/730897/941474/114524
-#EXTINF:-1, HOT MiX 50
-http://stariptv.xyz:8880/730897/941474/114525
-#EXTINF:-1, HOT MiX 6
-http://stariptv.xyz:8880/730897/941474/114511
-#EXTINF:-1, HOT TV
-http://stariptv.xyz:8880/730897/941474/49714
-#EXTINF:-1, HUSTLER 
-http://stariptv.xyz:8880/730897/941474/60102
-#EXTINF:-1, Hustler TV LIVE
-http://stariptv.xyz:8880/730897/941474/49613
-#EXTINF:-1, iFlix Asian HD
-http://stariptv.xyz:8880/730897/941474/114425
-#EXTINF:-1, iFlix Blonde HD
-http://stariptv.xyz:8880/730897/941474/114426
-#EXTINF:-1, iFlix Group HD
-http://stariptv.xyz:8880/730897/941474/114427
-#EXTINF:-1, iFlix Hardcore HD
-http://stariptv.xyz:8880/730897/941474/114428
-#EXTINF:-1, INTERRACIAL
-http://stariptv.xyz:8880/730897/941474/49638
-#EXTINF:-1, JASMinTV
-http://stariptv.xyz:8880/730897/941474/114526
-#EXTINF:-1, LA1
-http://stariptv.xyz:8880/730897/941474/114502
-#EXTINF:-1, LA10
-http://stariptv.xyz:8880/730897/941474/114459
-#EXTINF:-1, LA12
-http://stariptv.xyz:8880/730897/941474/114460
-#EXTINF:-1, LA14
-http://stariptv.xyz:8880/730897/941474/114462
-#EXTINF:-1, LA2
-http://stariptv.xyz:8880/730897/941474/114423
-#EXTINF:-1, LA6
-http://stariptv.xyz:8880/730897/941474/114474
-#EXTINF:-1, LA7
-http://stariptv.xyz:8880/730897/941474/114424
-#EXTINF:-1, LADYBOY 1 HD
-http://stariptv.xyz:8880/730897/941474/114429
-#EXTINF:-1, Latina
-http://stariptv.xyz:8880/730897/941474/49639
-#EXTINF:-1, LATINA UHD
-http://stariptv.xyz:8880/730897/941474/95081
-#EXTINF:-1, LESBIAN
-http://stariptv.xyz:8880/730897/941474/49640
-#EXTINF:-1, LESBIAN UHD
-http://stariptv.xyz:8880/730897/941474/95082
-#EXTINF:-1, MILF
-http://stariptv.xyz:8880/730897/941474/49641
-#EXTINF:-1, MILF UHD
-http://stariptv.xyz:8880/730897/941474/95083
-#EXTINF:-1, MixSex 1 FHD
-http://stariptv.xyz:8880/730897/941474/114430
-#EXTINF:-1, MixSex 2 FHD
-http://stariptv.xyz:8880/730897/941474/114431
-#EXTINF:-1, MixSex 3 FHD
-http://stariptv.xyz:8880/730897/941474/114432
-#EXTINF:-1, MixSex 4 FHD
-http://stariptv.xyz:8880/730897/941474/114433
-#EXTINF:-1, MixSex 5 FHD
-http://stariptv.xyz:8880/730897/941474/114434
-#EXTINF:-1, MOFOS FHD
-http://stariptv.xyz:8880/730897/941474/114435
-#EXTINF:-1, MR SEXE 1
-http://stariptv.xyz:8880/730897/941474/114436
-#EXTINF:-1, MR SEXE 12
-http://stariptv.xyz:8880/730897/941474/114441
-#EXTINF:-1, MR SEXE 3
-http://stariptv.xyz:8880/730897/941474/114437
-#EXTINF:-1, MR SEXE 4
-http://stariptv.xyz:8880/730897/941474/114438
-#EXTINF:-1, MR SEXE 5
-http://stariptv.xyz:8880/730897/941474/114439
-#EXTINF:-1, MR SEXE 6
-http://stariptv.xyz:8880/730897/941474/114440
-#EXTINF:-1, NUART
-http://stariptv.xyz:8880/730897/941474/114442
-#EXTINF:-1, O.La.La TV
-http://stariptv.xyz:8880/730897/941474/114443
-#EXTINF:-1, Oldtimer
-http://stariptv.xyz:8880/730897/941474/114444
-#EXTINF:-1, PASSIE
-http://stariptv.xyz:8880/730897/941474/114445
-#EXTINF:-1, PASSIEXXX
-http://stariptv.xyz:8880/730897/941474/114446
-#EXTINF:-1, PASSION
-http://stariptv.xyz:8880/730897/941474/114447
-#EXTINF:-1, PASSION TV
-http://stariptv.xyz:8880/730897/941474/114448
-#EXTINF:-1, Passion XXX
-http://stariptv.xyz:8880/730897/941474/114591
-#EXTINF:-1, PENTHOUSE 
-http://stariptv.xyz:8880/730897/941474/60093
-#EXTINF:-1, PENTHOUSE GOLD FHD
-http://stariptv.xyz:8880/730897/941474/114449
-#EXTINF:-1, PENTHOUSE QUICKIES
-http://stariptv.xyz:8880/730897/941474/114450
-#EXTINF:-1, PINK EROTIC 
-http://stariptv.xyz:8880/730897/941474/60095
-#EXTINF:-1, Pink Erotic 1
-http://stariptv.xyz:8880/730897/941474/49654
-#EXTINF:-1, PINK EROTIC 2 
-http://stariptv.xyz:8880/730897/941474/60096
-#EXTINF:-1, Pink Erotic 2
-http://stariptv.xyz:8880/730897/941474/49655
-#EXTINF:-1, PINK EROTIC 3 
-http://stariptv.xyz:8880/730897/941474/60097
-#EXTINF:-1, Pink Erotic 3
-http://stariptv.xyz:8880/730897/941474/49656
-#EXTINF:-1, PINK EROTIC 4 
-http://stariptv.xyz:8880/730897/941474/60098
-#EXTINF:-1, Pink Erotic 4
-http://stariptv.xyz:8880/730897/941474/49657
-#EXTINF:-1, Pink Erotic 5
-http://stariptv.xyz:8880/730897/941474/114586
-#EXTINF:-1, PINK EROTIC 6 
-http://stariptv.xyz:8880/730897/941474/60099
-#EXTINF:-1, Pink Erotic 6
-http://stariptv.xyz:8880/730897/941474/49659
-#EXTINF:-1, PINK EROTIC 7 
-http://stariptv.xyz:8880/730897/941474/60100
-#EXTINF:-1, PINKO_LA1
-http://stariptv.xyz:8880/730897/941474/114452
-#EXTINF:-1, PINKO_LA10
-http://stariptv.xyz:8880/730897/941474/114453
-#EXTINF:-1, PINKO_LA3
-http://stariptv.xyz:8880/730897/941474/114454
-#EXTINF:-1, PINKO_LA5
-http://stariptv.xyz:8880/730897/941474/114455
-#EXTINF:-1, PLAYBOY 
-http://stariptv.xyz:8880/730897/941474/60094
-#EXTINF:-1, Playboy Europe
-http://stariptv.xyz:8880/730897/941474/49643
-#EXTINF:-1, PLAYBOY TV-1
-http://stariptv.xyz:8880/730897/941474/114527
-#EXTINF:-1, PORNSTAR
-http://stariptv.xyz:8880/730897/941474/49644
-#EXTINF:-1, PORNSTAR UHD
-http://stariptv.xyz:8880/730897/941474/95084
-#EXTINF:-1, POV
-http://stariptv.xyz:8880/730897/941474/49645
-#EXTINF:-1, PRIVATE
-http://stariptv.xyz:8880/730897/941474/114456
-#EXTINF:-1, Private HD
-http://stariptv.xyz:8880/730897/941474/114457
-#EXTINF:-1, PRIVATE TV HD
-http://stariptv.xyz:8880/730897/941474/114458
-#EXTINF:-1, PRIVE TV
-http://stariptv.xyz:8880/730897/941474/114463
-#EXTINF:-1, REALITY KINGS
-http://stariptv.xyz:8880/730897/941474/114464
-#EXTINF:-1, Redhat Union 3 FHD
-http://stariptv.xyz:8880/730897/941474/114466
-#EXTINF:-1, REDLIGHT HD 
-http://stariptv.xyz:8880/730897/941474/60110
-#EXTINF:-1, RUSSIAN
-http://stariptv.xyz:8880/730897/941474/49647
-#EXTINF:-1, RUSSIAN UHD
-http://stariptv.xyz:8880/730897/941474/95086
-#EXTINF:-1, RUSSKAYA NOCH
-http://stariptv.xyz:8880/730897/941474/114467
-#EXTINF:-1, SCT
-http://stariptv.xyz:8880/730897/941474/114468
-#EXTINF:-1, SCT CLASSIC
-http://stariptv.xyz:8880/730897/941474/114469
-#EXTINF:-1, SCTV
-http://stariptv.xyz:8880/730897/941474/114470
-#EXTINF:-1, Secret Circle TV
-http://stariptv.xyz:8880/730897/941474/114471
-#EXTINF:-1, SESTO SENSO
-http://stariptv.xyz:8880/730897/941474/114472
-#EXTINF:-1, SEXTREME
-http://stariptv.xyz:8880/730897/941474/114473
-#EXTINF:-1, SEXTREME HD
-http://stariptv.xyz:8880/730897/941474/114565
-#EXTINF:-1, Sexy HOT
-http://stariptv.xyz:8880/730897/941474/114475
-#EXTINF:-1, Sexy Hot 1 FHD
-http://stariptv.xyz:8880/730897/941474/114476
-#EXTINF:-1, Sexy Hot 2 FHD
-http://stariptv.xyz:8880/730897/941474/114477
-#EXTINF:-1, Sexy Hot 28
-http://stariptv.xyz:8880/730897/941474/114487
-#EXTINF:-1, Sexy Hot 3 FHD
-http://stariptv.xyz:8880/730897/941474/114478
-#EXTINF:-1, Sexy Hot 37
-http://stariptv.xyz:8880/730897/941474/114489
-#EXTINF:-1, Sexy Hot 39
-http://stariptv.xyz:8880/730897/941474/114491
-#EXTINF:-1, Sexy Hot 4 FHD
-http://stariptv.xyz:8880/730897/941474/114479
-#EXTINF:-1, Sexy Hot 41
-http://stariptv.xyz:8880/730897/941474/114492
-#EXTINF:-1, Sexy Hot 5 FHD
-http://stariptv.xyz:8880/730897/941474/114480
-#EXTINF:-1, Sexy Hot 6
-http://stariptv.xyz:8880/730897/941474/114481
-#EXTINF:-1, Sexy Hot 8
-http://stariptv.xyz:8880/730897/941474/114482
-#EXTINF:-1, Stars XXX FHD
-http://stariptv.xyz:8880/730897/941474/114493
-#EXTINF:-1, STARS XXX HD
-http://stariptv.xyz:8880/730897/941474/114494
-#EXTINF:-1, STARZ HD
-http://stariptv.xyz:8880/730897/941474/114495
-#EXTINF:-1, Super XXX 1
-http://stariptv.xyz:8880/730897/941474/114496
-#EXTINF:-1, Super XXX 1 HD
-http://stariptv.xyz:8880/730897/941474/114497
-#EXTINF:-1, Super XXX 2
-http://stariptv.xyz:8880/730897/941474/114498
-#EXTINF:-1, Super XXX 3
-http://stariptv.xyz:8880/730897/941474/114499
-#EXTINF:-1, TEEN
-http://stariptv.xyz:8880/730897/941474/49648
-#EXTINF:-1, THREESOME UHD
-http://stariptv.xyz:8880/730897/941474/95087
-#EXTINF:-1, Union 1 FHD
-http://stariptv.xyz:8880/730897/941474/114500
-#EXTINF:-1, Union 2 FHD
-http://stariptv.xyz:8880/730897/941474/114501
-#EXTINF:-1, VENUS TV
-http://stariptv.xyz:8880/730897/941474/49719
-#EXTINF:-1, VIVID RED
-http://stariptv.xyz:8880/730897/941474/114504
-#EXTINF:-1, VIVID TV
-http://stariptv.xyz:8880/730897/941474/114505
-#EXTINF:-1, xClub 01
-http://stariptv.xyz:8880/730897/941474/114592
-#EXTINF:-1, xClub 04
-http://stariptv.xyz:8880/730897/941474/114593
-#EXTINF:-1, XMUVI
-http://stariptv.xyz:8880/730897/941474/114506
-#EXTINF:-1, XY Mix HD
-http://stariptv.xyz:8880/730897/941474/114507
-#EXTINF:-1, XY Plus
-http://stariptv.xyz:8880/730897/941474/114508
-#EXTINF:-1, XY Plus HD
-http://stariptv.xyz:8880/730897/941474/114509
-#EXTINF:-1, Zest TV
-http://stariptv.xyz:8880/730897/941474/114510
-#EXTINF:-1,ADULT MIX 
-http://stariptv.xyz:8880/730897/941474/114594
-#EXTINF:-1,ADULT MIX 3 
-http://stariptv.xyz:8880/730897/941474/114595
-#EXTINF:-1,ADULT MIX 4 
-http://stariptv.xyz:8880/730897/941474/114596
-#EXTINF:-1,ADULT MIX 5 
-http://stariptv.xyz:8880/730897/941474/114603
-#EXTINF:-1,Babes Tv HD
-http://stariptv.xyz:8880/730897/941474/114531
-#EXTINF:-1,BALKAN EROTIC 
-http://stariptv.xyz:8880/730897/941474/114602
-#EXTINF:-1,BANGERZ TV HD
-http://stariptv.xyz:8880/730897/941474/114558
-#EXTINF:-1,Best Vixen Movies
-http://stariptv.xyz:8880/730897/941474/133969
-#EXTINF:-1,BIGDICK UHD
-http://stariptv.xyz:8880/730897/941474/134035
-#EXTINF:-1,BLACKED TV 2 HD
-http://stariptv.xyz:8880/730897/941474/114548
-#EXTINF:-1,BLUE HASTLER 
-http://stariptv.xyz:8880/730897/941474/114373
-#EXTINF:-1,Blue Hustler
-http://stariptv.xyz:8880/730897/941474/114530
-#EXTINF:-1,Cento X Cento
-http://stariptv.xyz:8880/730897/941474/114532
-#EXTINF:-1,EBONY 2
-http://stariptv.xyz:8880/730897/941474/114552
-#EXTINF:-1,EROTIC_1 LA1
-http://stariptv.xyz:8880/730897/941474/133970
-#EXTINF:-1,EROTIC_1 LA5
-http://stariptv.xyz:8880/730897/941474/133971
-#EXTINF:-1,EROTIC_1 LA6
-http://stariptv.xyz:8880/730897/941474/133972
-#EXTINF:-1,EROTIC_5 LA2
-http://stariptv.xyz:8880/730897/941474/133973
-#EXTINF:-1,EROTIC_5 LA3
-http://stariptv.xyz:8880/730897/941474/133974
-#EXTINF:-1,EROTIC_7 LA2
-http://stariptv.xyz:8880/730897/941474/133975
-#EXTINF:-1,EROXXX HD 
-http://stariptv.xyz:8880/730897/941474/114374
-#EXTINF:-1,FANTASY 1
-http://stariptv.xyz:8880/730897/941474/133976
-#EXTINF:-1,FANTASY 2
-http://stariptv.xyz:8880/730897/941474/133977
-#EXTINF:-1,FANTASY 4
-http://stariptv.xyz:8880/730897/941474/133978
-#EXTINF:-1,FETISH UHD
-http://stariptv.xyz:8880/730897/941474/134037
-#EXTINF:-1,Filmax Adult HD 1
-http://stariptv.xyz:8880/730897/941474/114559
-#EXTINF:-1,Filmax Adult HD 2
-http://stariptv.xyz:8880/730897/941474/114561
-#EXTINF:-1,Fuck 3
-http://stariptv.xyz:8880/730897/941474/133980
-#EXTINF:-1,Fuck 4
-http://stariptv.xyz:8880/730897/941474/133981
-#EXTINF:-1,HARDCORE UHD
-http://stariptv.xyz:8880/730897/941474/134038
-#EXTINF:-1,HOT_LA10
-http://stariptv.xyz:8880/730897/941474/133983
-#EXTINF:-1,HOT_LA5
-http://stariptv.xyz:8880/730897/941474/133985
-#EXTINF:-1,HOT_LA6
-http://stariptv.xyz:8880/730897/941474/133986
-#EXTINF:-1,HotB
-http://stariptv.xyz:8880/730897/941474/133987
-#EXTINF:-1,iFlix Lesbian HD
-http://stariptv.xyz:8880/730897/941474/133988
-#EXTINF:-1,LATINA UHD
-http://stariptv.xyz:8880/730897/941474/134039
-#EXTINF:-1,MR SEXE 7
-http://stariptv.xyz:8880/730897/941474/133989
-#EXTINF:-1,Nuart TV
-http://stariptv.xyz:8880/730897/941474/134027
-#EXTINF:-1,Nuart TV Europe
-http://stariptv.xyz:8880/730897/941474/134030
-#EXTINF:-1,Penthouse Gold
-http://stariptv.xyz:8880/730897/941474/114534
-#EXTINF:-1,Penthouse Quickies
-http://stariptv.xyz:8880/730897/941474/114535
-#EXTINF:-1,PINK EROTIC 
-http://stariptv.xyz:8880/730897/941474/114372
-#EXTINF:-1,PINK EROTIC 1 
-http://stariptv.xyz:8880/730897/941474/133991
-#EXTINF:-1,PINK EROTIC 2 
-http://stariptv.xyz:8880/730897/941474/114598
-#EXTINF:-1,PINK EROTIC 3 
-http://stariptv.xyz:8880/730897/941474/114599
-#EXTINF:-1,PINK EROTIC 4 
-http://stariptv.xyz:8880/730897/941474/114600
-#EXTINF:-1,PINK EROTIC 6 
-http://stariptv.xyz:8880/730897/941474/114601
-#EXTINF:-1,Pink Erotic 7 HD
-http://stariptv.xyz:8880/730897/941474/114571
-#EXTINF:-1,Pinko Club
-http://stariptv.xyz:8880/730897/941474/134029
-#EXTINF:-1,PINKO_LA6
-http://stariptv.xyz:8880/730897/941474/133995
-#EXTINF:-1,PINKO_LA8
-http://stariptv.xyz:8880/730897/941474/133996
-#EXTINF:-1,Playboy Europe HD
-http://stariptv.xyz:8880/730897/941474/134033
-#EXTINF:-1,PLAYBOY TV 2
-http://stariptv.xyz:8880/730897/941474/114556
-#EXTINF:-1,PORNSTAR UHD
-http://stariptv.xyz:8880/730897/941474/134040
-#EXTINF:-1,PRIVATE TV HD 
-http://stariptv.xyz:8880/730897/941474/114375
-#EXTINF:-1,PRIVATE_LA10
-http://stariptv.xyz:8880/730897/941474/133997
-#EXTINF:-1,PRIVATE_LA11
-http://stariptv.xyz:8880/730897/941474/133998
-#EXTINF:-1,PRIVATE_LA2
-http://stariptv.xyz:8880/730897/941474/133999
-#EXTINF:-1,Prive Tv HD
-http://stariptv.xyz:8880/730897/941474/114539
-#EXTINF:-1,Red XXX HD
-http://stariptv.xyz:8880/730897/941474/114564
-#EXTINF:-1,Redline C HD
-http://stariptv.xyz:8880/730897/941474/114545
-#EXTINF:-1,ROCCO TV
-http://stariptv.xyz:8880/730897/941474/114543
-#EXTINF:-1,Sct HD
-http://stariptv.xyz:8880/730897/941474/114537
-#EXTINF:-1,SEX ATION UHD
-http://stariptv.xyz:8880/730897/941474/134036
-#EXTINF:-1,Sex to Senso
-http://stariptv.xyz:8880/730897/941474/114536
-#EXTINF:-1,SEXATION HD
-http://stariptv.xyz:8880/730897/941474/134000
-#EXTINF:-1,SEXT & SENSO
-http://stariptv.xyz:8880/730897/941474/134001
-#EXTINF:-1,SEXTREME_LA1
-http://stariptv.xyz:8880/730897/941474/134002
-#EXTINF:-1,SEXTREME_LA2
-http://stariptv.xyz:8880/730897/941474/134003
-#EXTINF:-1,SEXTREME_LA3
-http://stariptv.xyz:8880/730897/941474/134004
-#EXTINF:-1,SEXTREME_LA4
-http://stariptv.xyz:8880/730897/941474/134005
-#EXTINF:-1,SEXTREME_LA5
-http://stariptv.xyz:8880/730897/941474/134006
-#EXTINF:-1,Sexy Hot 16
-http://stariptv.xyz:8880/730897/941474/134008
-#EXTINF:-1,Sexy Hot 22
-http://stariptv.xyz:8880/730897/941474/134009
-#EXTINF:-1,Sexy Hot 27
-http://stariptv.xyz:8880/730897/941474/134010
-#EXTINF:-1,Sexy Hot 34
-http://stariptv.xyz:8880/730897/941474/134012
-#EXTINF:-1,Sexy Hot 40
-http://stariptv.xyz:8880/730897/941474/134013
-#EXTINF:-1,Sexy Hot 9
-http://stariptv.xyz:8880/730897/941474/134007
-#EXTINF:-1,Sexy Hot Latina
-http://stariptv.xyz:8880/730897/941474/134014
-#EXTINF:-1,Sexy Hot Private
-http://stariptv.xyz:8880/730897/941474/134015
-#EXTINF:-1,SIRINST
-http://stariptv.xyz:8880/730897/941474/134016
-#EXTINF:-1,Super XXX 5
-http://stariptv.xyz:8880/730897/941474/134017
-#EXTINF:-1,TABOO
-http://stariptv.xyz:8880/730897/941474/114544
-#EXTINF:-1,THREESOME UHD
-http://stariptv.xyz:8880/730897/941474/134042
-#EXTINF:-1,VENUS_LA3
-http://stariptv.xyz:8880/730897/941474/134018
-#EXTINF:-1,VENUS_LA4
-http://stariptv.xyz:8880/730897/941474/134019
-#EXTINF:-1,VENUS_LA6
-http://stariptv.xyz:8880/730897/941474/134020
-#EXTINF:-1,WAHYN TV
-http://stariptv.xyz:8880/730897/941474/114569
-#EXTINF:-1,X-Dream TV
-http://stariptv.xyz:8880/730897/941474/134031
-#EXTINF:-1,X1 XXX HD
-http://stariptv.xyz:8880/730897/941474/114566
-#EXTINF:-1,XXX | Penthouse Black TV (18 )
-http://stariptv.xyz:8880/730897/941474/134043
-#EXTINF:-1,XXX | Pink Erotic 8 (18 )
-http://stariptv.xyz:8880/730897/941474/134044
-#EXTINF:-1,1 (2013)
-http://stariptv.xyz:8880/movie/730897/941474/49982.mp4
-#EXTINF:-1,ASLI SUKH
-http://stariptv.xyz:8880/movie/730897/941474/134819.mkv
-#EXTINF:-1,Girlfriend_2020_NiksIndian
-http://stariptv.xyz:8880/movie/730897/941474/133859.mkv
-#EXTINF:-1,SexMex 18 05 05 Helena Danae And Sirenita Lesbian Lessons 2
-http://stariptv.xyz:8880/movie/730897/941474/49136.mp4
-#EXTINF:-1,SexMex 18 05 29 Elisa Sanchez Brazilian Striptease
-http://stariptv.xyz:8880/movie/730897/941474/49137.mp4
-#EXTINF:-1,SexMex 18 06 09 Bridgette B Sinner.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49992.mp4
-#EXTINF:-1,SexMex 18 06 16 Harley Rosembush And Sirenita Anal Threesome
-http://stariptv.xyz:8880/movie/730897/941474/49138.mp4
-#EXTINF:-1,SexMex 18 06 16 Harley Rosembush And Sirenita Anal Threesome.mp4
-http://stariptv.xyz:8880/movie/730897/941474/50001.mp4
-#EXTINF:-1,SexMex 18 06 26 Sirenita Lusty Blonde.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49985.mp4
-#EXTINF:-1,SexMex 18 06 29 Mia Marin Sex In Jail.mp4
-http://stariptv.xyz:8880/movie/730897/941474/50003.mp4
-#EXTINF:-1,SexMex 18 07 07 Janeth Rubio Step-Mother And Daughter.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49989.mp4
-#EXTINF:-1,SexMex 18 07 11 Harley Rosembush Squirter.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49995.mp4
-#EXTINF:-1,SexMex 18 07 13 Audrey Bitoni Hot Big Tits.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49986.mp4
-#EXTINF:-1,SexMex 18 07 19 Harley Rosembush Juicy Pussy.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49999.mp4
-#EXTINF:-1,SexMex 18 07 19 Janeth Rubio And Teresa Ferrer Step-Mother And Daughter Part 2.mp4
-http://stariptv.xyz:8880/movie/730897/941474/50005.mp4
-#EXTINF:-1,SexMex 18 07 23 Angelina Flores Fucking A Soldier.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49981.mp4
-#EXTINF:-1,SexMex 18 07 31 Sirenita Fresh Sausage.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49998.mp4
-#EXTINF:-1,SexMex 18 08 07 Harley Rosembush And Janeth Rubio End Of Semester Present.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49997.mp4
-#EXTINF:-1,SexMex 18 08 10 Helena Danae And Sirenita Lesbian Stepsisters.mp4
-http://stariptv.xyz:8880/movie/730897/941474/50002.mp4
-#EXTINF:-1,SexMex 18 08 23 Amaranta Hank And Eva Davai Big Melons.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49984.mp4
-#EXTINF:-1,SexMex 18 08 24 Teresa Ferrer Stepmother Part 2.mp4
-http://stariptv.xyz:8880/movie/730897/941474/50006.mp4
-#EXTINF:-1,SexMex 18 08 28 Janeth Rubio Mexican Fuck Bus.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49967.mp4
-#EXTINF:-1,SexMex 18 08 30 Rebeca Linares Screaming Orgasm.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49971.mp4
-#EXTINF:-1,SexMex 18 09 10 Janeth Rubio Fake Agent.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49994.mp4
-#EXTINF:-1,SexMex 18 09 14 Rebeca Linares Cheaters.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49988.mp4
-#EXTINF:-1,SexMex 18 09 19 Pamela Rios Blackmail.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49979.mp4
-#EXTINF:-1,SexMex 18 09 22 Eva Davai Mexican Fuck Bus.mp4
-http://stariptv.xyz:8880/movie/730897/941474/50004.mp4
-#EXTINF:-1,SexMex 18 10 02 Amaranta Hank Insatiable.mp4
-http://stariptv.xyz:8880/movie/730897/941474/50008.mp4
-#EXTINF:-1,SexMex 18 10 06 Angelina Crow Anal.mp4
-http://stariptv.xyz:8880/movie/730897/941474/50007.mp4
-#EXTINF:-1,SexMex 18 10 11 Mariana Martix Baptism.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49977.mp4
-#EXTINF:-1,SexMex 18 10 23 Jynx Maze Anal Creampie.mp4
-http://stariptv.xyz:8880/movie/730897/941474/50009.mp4
-#EXTINF:-1,SexMex 18 10 29 Eva Davai Migrant Caravan.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49970.mp4
-#EXTINF:-1,Sexually Broken Instant Karma (2018).mp4
-http://stariptv.xyz:8880/movie/730897/941474/49978.mp4
-#EXTINF:-1,Sexy Wet Asses 2 DiSC4.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49975.mp4
-#EXTINF:-1,Sexy Wet Asses 3 DiSC1.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49993.mp4
-#EXTINF:-1,Sexy Wet Asses 3 DiSC2.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49973.mp4
-#EXTINF:-1,Sexy Wet Asses 3 DiSC5.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49966.mp4
-#EXTINF:-1,Shafted.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49980.mp4
-#EXTINF:-1,Shared For The First Time 3.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49968.mp4
-#EXTINF:-1,Shared With A Stranger DiSC1.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49996.mp4
-#EXTINF:-1,Shared With A Stranger DiSC2.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49987.mp4
-#EXTINF:-1,ShareMyBF 19 05 28 Bella Rose And Lindsey Cruz Play With Us.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49974.mp4
-#EXTINF:-1,She Just Wants Anal For Christmas.mp4
-http://stariptv.xyz:8880/movie/730897/941474/50000.mp4
-#EXTINF:-1,She Kissed A Girl And She Liked It.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49976.mp4
-#EXTINF:-1,She Loves Anal 3.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49972.mp4
-#EXTINF:-1,She Loves Big Tits (2018).mp4
-http://stariptv.xyz:8880/movie/730897/941474/49983.mp4
-#EXTINF:-1,She Loves Her 2 DiSC2.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49965.mp4
-#EXTINF:-1,She Will Cheat Cougars Revenge (2018).mp4
-http://stariptv.xyz:8880/movie/730897/941474/49969.mp4
-#EXTINF:-1,Shes My Hairy Pie.mp4
-http://stariptv.xyz:8880/movie/730897/941474/49991.mp4
-#EXTINF:-1,SUTRA
-http://stariptv.xyz:8880/movie/730897/941474/134797.mkv
-#EXTINF:-1,Swan Of Sorrow DiSC2.mp4
-http://stariptv.xyz:8880/movi
+#EXTINF:-1 tvg-ID="" tvg-name="CAÇAVISION TV" tvg-logo="https://bit.ly/3ruBqZ9" group-title="Desporto",CAÇAVISION TV
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 
-#EXTINF:-1 type="stream" tvg-id="Venus" tvg-logo="https://i.ibb.co/25z1RtT/venus.png" group-title="Adulto",Venus
-http://lb.kstream.org/aovivo/SD_VENUS/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="Venus HD" tvg-logo="https://i.ibb.co/25z1RtT/venus.png" group-title="Adulto",Venus HD
-http://lb.kstream.org/aovivo/HD_VENUS/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 1 (CAM)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 1 (CAM)
-http://lb.kstream.org/aovivo/XXX_1/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 10 (TUSHY RAW)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 10 (TUSHY RAW)
-http://lb.kstream.org/aovivo/XXX_10/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 11 (BLACKED RAW)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 11 (BLACKED RAW)
-http://lb.kstream.org/aovivo/XXX_11/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 12 (VIXEN)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 12 (VIXEN)
-http://lb.kstream.org/aovivo/XXX_12/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 13 (CHILI PORN)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 13 (CHILI PORN)
-http://lb.kstream.org/aovivo/XXX_13/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 14 (SIRINA)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 14 (SIRINA)
-http://lb.kstream.org/aovivo/XXX_14/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 15 (JASMIN)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 15 (JASMIN)
-http://lb.kstream.org/aovivo/XXX_15/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 16 (GAY)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 16 (GAY)
-http://lb.kstream.org/aovivo/XXX_16/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 17 (GAY)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 17 (GAY)
-http://lb.kstream.org/aovivo/XXX_17/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 2 (CAM)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 2 (CAM)
-http://lb.kstream.org/aovivo/XXX_2/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 3 (CAM)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 3 (CAM)
-http://lb.kstream.org/aovivo/XXX_ADULT_3/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 4 (DORCEL CLUB)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 4 (DORCEL CLUB)
-http://lb.kstream.org/aovivo/XXX_4/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 5 (LEGAL PORNO)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 5 (LEGAL PORNO)
-http://lb.kstream.org/aovivo/XXX_5/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 6 (FAMILY SINNERS)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 6 (FAMILY SINNERS)
-http://lb.kstream.org/aovivo/XXX_6/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 7 (CAM)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 7 (CAM)
-http://lb.kstream.org/aovivo/XXX_7/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 8 (MOFOS)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 8 (MOFOS)
-http://lb.kstream.org/aovivo/XXX_8/download?token=96790dc6c4a2d88a529d60589010ea5a
-#EXTINF:-1 type="stream" tvg-id="XXX 9 (HER LIMIT)" tvg-logo="https://i.ibb.co/ZgzhP63/7fa8d29f-d0f8-46a1-b7aa-e4eec823fcb6.png" group-title="Adulto",XXX 9 (HER LIMIT)
-http://lb.kstream.org/aovivo/XXX_9/download?token=96790dc6c4a2d88a529d60589010ea5a
+#EXTINF:-1 tvg-ID="" tvg-name="RTP ARENA" tvg-logo="https://bit.ly/3tzUFCB" group-title="Desporto",RTP ARENA
+https://d2nvs31859zcd8.cloudfront.net/39d35c4d22a139553ca2_rtparena_41415767086_1611352083/360p30/index-dvr.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="•----• Series & Movies •----•" tvg-logo="https://bit.ly/3pXiWQH" group-title="SERIE & MOVIE",•----• Series & Movies •----•
+http://192.168.1.1
+
+#EXTINF:-1 tvg-ID="" tvg-name="Balas e Bolinhos 1" tvg-logo="https://bit.ly/3jvwgJD" group-title="SERIE & MOVIE",Balas e Bolinhos 1
+https://www.youtube.com/watch?v=P4aJOAn05gA&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="Balas e Bolinhos 2 o Regresso" tvg-logo="https://bit.ly/2LvR2wb" group-title="SERIE & MOVIE",Balas e Bolinhos 2 o Regresso
+https://www.youtube.com/watch?v=o_yfGwtm0Us&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="Balas e Bolinhos 3 O Último Capítulo" tvg-logo="https://bit.ly/3q4jtjQ" group-title="SERIE & MOVIE",Balas e Bolinhos 3 O Último Capítulo
+https://www.youtube.com/watch?v=j64DwVUtxHY&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="Leão da Estrela" tvg-logo="https://bit.ly/2MCW36V" group-title="SERIE & MOVIE",Leão da Estrela
+https://www.youtube.com/watch?v=oOzRchuAcsQ&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="Capitães de Abril" tvg-logo="https://bit.ly/39Z9hDBB" group-title="SERIE & MOVIE",Capitães de Abril
+https://www.youtube.com/watch?v=M7oeAH1Rj3I&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="•----• INFANTIL •----•" tvg-logo="https://bit.ly/3tyXjZe" group-title="INFANTIL",•----• Infantil •----•
+http://192.168.1.1
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="Tom & Jerry" tvg-logo="https://bit.ly/3cX4Xqi" group-title="INFANTIL",Tom & Jerry
+https://www.youtube.com/watch?v=roVJhMvW5Dk&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="Alice No País Das Maravilhas" tvg-logo="https://bit.ly/3p0pxsn" group-title="INFANTIL",Alice No País Das Maravilhas
+https://www.youtube.com/watch?v=ZG_oS_Luj20&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="Dumbo" tvg-logo="https://bit.ly/2Z0v8nU" group-title="INFANTIL",Dumbo
+https://www.youtube.com/watch?v=5hUKLzGJYB8&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="Rudolfo a Rena do Nariz Vermelho - O Filme" tvg-logo="https://bit.ly/3cX4Xqi" group-title="INFANTIL",Rudolfo a Rena do Nariz Vermelho - O Filme
+https://www.youtube.com/watch?v=TN83a--yAoo&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="A Branca de Neve e os Sete Anões" tvg-logo="https://bit.ly/3jvowHG" group-title="INFANTIL",A Branca de Neve e os Sete Anões
+https://www.youtube.com/watch?v=41gjGl8Z87c&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="Pantera Cor de Rosa" tvg-logo="https://bit.ly/2MHuvx8" group-title="INFANTIL",Pantera Cor de Rosa
+https://www.youtube.com/watch?v=ap90npnxZzs&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="•----• MUSICA •----•" tvg-logo="https://bit.ly/36KQTMH" group-title="MUSICA",•----• MUSICA •----•
+http://192.168.1.1
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="https://bit.ly/39UhMzQ" group-title="MUSICA",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+#EXTINF:-1 tvg-ID="Music Channel 1" tvg-name="MUSIC CHANNEL 1" tvg-logo="https://bit.ly/3jofw72" group-title="MUSICA",MUSIC CHANNEL 1
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w333295163.m3u8
+
+#EXTINF:-1 tvg-ID="A State Of Trance" tvg-name="A State Of Trance" tvg-logo="https://bit.ly/39Sn3YQ" group-title="MUSICA",A State Of Trance
+https://www.youtube.com/watch?v=5lMmnfVylEE&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="David Guetta" tvg-name="David Guetta" tvg-logo="https://bit.ly/2YWhVwx" group-title="MUSICA",David Guetta | United at Home - Paris Edition from the Louvre
+https://www.youtube.com/watch?v=9X6hH-Z1Tyw&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="David Guetta" tvg-name="David Guetta" tvg-logo="https://bit.ly/3tzxpVk" group-title="MUSICA",David Guetta | United at Home - Dubai Edition
+https://www.youtube.com/watch?v=xaurMcGqZHU&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="Armin van Buuren" tvg-name="Armin van Buuren" tvg-logo="https://bit.ly/3aLEGbS" group-title="MUSICA",Armin van Buuren live at @AMF​ presents Top 100 DJs Awards 2020 | from CM.com Circuit Zandvoort
+https://www.youtube.com/watch?v=8XskjcJhFVY&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="Armin van Buuren" tvg-name="Armin van Buuren" tvg-logo="https://bit.ly/3oTclFP" group-title="MUSICA",Armin van Buuren live at Tomorrowland 2020 NYE
+https://www.youtube.com/watch?v=JrKdlG-9yxM&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="•----• RADIO •----•" tvg-logo="https://bit.ly/3cOm1iu" group-title="RADIO",•----• RADIO •----•
+http://192.168.1.1
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3q8DZjD" group-title="RADIO",Amsterdam Trance Radio
+http://sc-atr.1.fm:7700/
+
+#EXTINF:-1 tvg-logo="https://goo.gl/oDjsfS" group-title="RADIO",CIDADE FM
+http://mcrscast.mcr.iol.pt/cidadefm
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/QzumzF" group-title="RADIO",MEGA HITS
+https://20863.live.streamtheworld.com/MEGA_HITS_SC
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3rqEUfk" group-title="RADIO",Radio Nove3cinco
+http://centova.radios.pt:9522/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/eZy3qG" group-title="RADIO",NOVA ERA
+http://centova.radios.pt:9478/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/R2ThTD" group-title="RADIO",ORBITAL
+http://195.23.85.126:8401/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/vRqX8U" group-title="RADIO",RADIO COMERCIAL
+http://mcrscast.mcr.iol.pt/comercial.mp3
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/mhm8ny" group-title="RADIO",RADIO ONDA VIVA
+http://centova.radios.pt:9524/stream
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3tIBHtE" group-title="RADIO",RFM
+https://22533.live.streamtheworld.com/RFMAAC.aac
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/7cuinU" group-title="RADIO",RFM 80
+https://20133.live.streamtheworld.com/GR80SRFM_SC
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/BsUHpG" group-title="RADIO",RFM ON THE ROCK
+https://22603.live.streamtheworld.com/RFMONTHEROCKAAC.aac
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2YQYtBb" group-title="RADIO",RFM DANCEFLOOR
+https://19613.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/gwuYAg" group-title="RADIO",RFM OCEANO PACÍFICO
+https://20723.live.streamtheworld.com/OCEANPACIFICAAC.aac
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3rl3aj0" group-title="RADIO",FAMA RADIO
+http://digitalfm.dynu.com:8000/digitalfm64
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3oQOczr" group-title="RADIO",CIDADE HOJE
+http://centova.radios.pt:8119/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3cQf28y" group-title="RADIO",RADIO JORNAL
+http://213.136.92.8:8006/;
