@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-ID="" tvg-name="•----• Desporto •----•" tvg-logo="" group-title="PORTUGAL - DESPORTO",•----• Desporto •----•
 http://trial.myinstanttv.com:8080/TV-13833966/202634109860/5938
 
+#EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",Gil Vicente vs Sporting
+https://video-weaver.cph01.hls.ttvnw.net/v1/playlist/CsMF6i58NOe-YG3m38pVoLzm9uqU37bCcArBQk02AsIsAqeYVrlxaak5JzB1StqosnHcvfUb1BGBI7ivoT8_nqqFLdwESFwe4WCLRiSjt10wh7Xy13Sb11ID0gQuMfFKpqhcoMkSIhVjVbG2kMZtS_LIytHn3EYeXUpquDZcG4NcfWUh6entOUFFmzexP1h8ix6wFkfLakxIXmr9yZiCKwfMw9rs4vfOx1cTNusvXT3ivI9Po9KrzBwl5JUtl_U3-eRP_riQvf70x6-UIPZp8qmCRHKN9DychBuTVC4MfuAg6K-BpuC43X4youx7AzUXd9tzKan0AjdBGyHrqsEahis0KYBBC0cRrbvXIWqmmNMApfuld7fWtdKKGaEUVZu4sDr1t2JqDlcDlr2WZ60QozL50cwOqOnfv5NlieQBAqNxQ2-2P696BuSWw9eNUA9PCC_GOygfPasZGgqlF59ppeBBWoXgS-mC325j1TAwVT3frZX6GQFQaixf3kx7O9GFM0JG7-zhhaMdpTXGG-wP2yWQqWvDzLsgPYwos00UrChfdk02XXULOKf57q782Q24l9QPmrHHAoXQ1hzruOxNykW2KLtIeY3JyH5paGN_-Opn61qopgDWYfqILj6E9MUf0Lk1keEoEz4ToOGvuphdajRGCp0Dwc3rsL5JovVa2S6upTkBXlZwfVIUE7yF4TVzACfUW51Y1gnIWdXvviIHU-5Vkh9No09R3AEppUzAy8TbZqDcOV81XvyAWVU1w_XjLYN-NOOjg1uuFPlZKFs_x6Oiq6rfaPj5COYUQlavglCD7kyjhY8Q1zVbVJEEd68fkExwcZMRkq2eb6_1kR_fn8qwAMpYKHdd13GL6-St_3XfaatTSIcTSD9DrO7k6vlx8egzbfqFPAWQdop6BGU-RqxVSUrQoMale9A7dbH5KA-uaiHvKbUSEEg3tsZhtlsseqGuATMA8FUaDFIhWZjwHkCq5d9pRA.m3u8
+
 #EXTINF:-1,PT:  SPORT TV 1 HD
 http://stariptv.xyz:8880/819239/571225/61153
 #EXTINF:-1,PT:  SPORT TV 1 HD 1080
