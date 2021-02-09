@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="•----• Desporto •----•" tvg-logo="" group-title="PORTUGAL - DESPORTO",•----• Desporto •----•
+#EXTINF:-1 tvg-ID="" tvg-name="•----• Desporto •----•" tvg-logo="" group-title="Desporto",•----• Desporto •----•
 http://trial.myinstanttv.com:8080/TV-13833966/202634109860/5938
 
 #EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV 1 HD
@@ -101,28 +101,28 @@ https://www.youtube.com/watch?v=M7oeAH1Rj3I&feature=youtu.be
 #EXTINF:-1 tvg-ID="" tvg-name="•----• INFANTIL •----•" tvg-logo="https://bit.ly/3tyXjZe" group-title="INFANTIL",•----• Infantil •----•
 http://192.168.1.1
 
-#EXTINF:-1 tvg-ID="MTV" tvg-name="Tom & Jerry" tvg-logo="https://bit.ly/3cX4Xqi" group-title="INFANTIL",Tom & Jerry
+#EXTINF:-1 tvg-ID="" tvg-name="Tom & Jerry" tvg-logo="https://bit.ly/3cX4Xqi" group-title="INFANTIL",Tom & Jerry
 https://www.youtube.com/watch?v=roVJhMvW5Dk&feature=youtu.be
 
-#EXTINF:-1 tvg-ID="MTV" tvg-name="Alice No País Das Maravilhas" tvg-logo="https://bit.ly/3p0pxsn" group-title="INFANTIL",Alice No País Das Maravilhas
+#EXTINF:-1 tvg-ID="" tvg-name="Alice No País Das Maravilhas" tvg-logo="https://bit.ly/3p0pxsn" group-title="INFANTIL",Alice No País Das Maravilhas
 https://www.youtube.com/watch?v=ZG_oS_Luj20&feature=youtu.be
 
-#EXTINF:-1 tvg-ID="MTV" tvg-name="Dumbo" tvg-logo="https://bit.ly/2Z0v8nU" group-title="INFANTIL",Dumbo
+#EXTINF:-1 tvg-ID="" tvg-name="Dumbo" tvg-logo="https://bit.ly/2Z0v8nU" group-title="INFANTIL",Dumbo
 https://www.youtube.com/watch?v=5hUKLzGJYB8&feature=youtu.be
 
-#EXTINF:-1 tvg-ID="MTV" tvg-name="Rudolfo a Rena do Nariz Vermelho - O Filme" tvg-logo="https://bit.ly/3jxfqtP" group-title="INFANTIL",Rudolfo a Rena do Nariz Vermelho - O Filme
+#EXTINF:-1 tvg-ID="" tvg-name="Rudolfo a Rena do Nariz Vermelho - O Filme" tvg-logo="https://bit.ly/3jxfqtP" group-title="INFANTIL",Rudolfo a Rena do Nariz Vermelho - O Filme
 https://www.youtube.com/watch?v=TN83a--yAoo&feature=youtu.be
 
-#EXTINF:-1 tvg-ID="MTV" tvg-name="A Branca de Neve e os Sete Anões" tvg-logo="https://bit.ly/3jvowHG" group-title="INFANTIL",A Branca de Neve e os Sete Anões
+#EXTINF:-1 tvg-ID="" tvg-name="A Branca de Neve e os Sete Anões" tvg-logo="https://bit.ly/3jvowHG" group-title="INFANTIL",A Branca de Neve e os Sete Anões
 https://www.youtube.com/watch?v=41gjGl8Z87c&feature=youtu.be
 
-#EXTINF:-1 tvg-ID="MTV" tvg-name="Pantera Cor de Rosa" tvg-logo="https://bit.ly/2MHuvx8" group-title="INFANTIL",Pantera Cor de Rosa
+#EXTINF:-1 tvg-ID="" tvg-name="Pantera Cor de Rosa" tvg-logo="https://bit.ly/2MHuvx8" group-title="INFANTIL",Pantera Cor de Rosa
 https://www.youtube.com/watch?v=ap90npnxZzs&feature=youtu.be
 
 #EXTINF:-1 tvg-ID="" tvg-name="•----• MUSICA •----•" tvg-logo="https://bit.ly/36KQTMH" group-title="MUSICA",•----• MUSICA •----•
 http://192.168.1.1
 
-#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="https://bit.ly/39UhMzQ" group-title="MUSICA",MTV
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="https://bit.ly/39UhMzQ" group-title="MUSICA",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
 #EXTINF:-1 tvg-ID="Music Channel 1" tvg-name="MUSIC CHANNEL 1" tvg-logo="https://bit.ly/3jofw72" group-title="MUSICA",MUSIC CHANNEL 1
