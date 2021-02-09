@@ -1,0 +1,189 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="•----• Desporto •----•" tvg-logo="" group-title="PORTUGAL - DESPORTO",•----• Desporto •----•
+http://trial.myinstanttv.com:8080/TV-13833966/202634109860/5938
+
+#EXTINF:-1,PT:  SPORT TV 1 HD
+http://stariptv.xyz:8880/819239/571225/61153
+#EXTINF:-1,PT:  SPORT TV 1 HD 1080
+http://stariptv.xyz:8880/819239/571225/114196
+#EXTINF:-1,PT:  SPORT TV 2
+http://stariptv.xyz:8880/819239/571225/61156
+#EXTINF:-1,PT:  SPORT TV 2 HD 1080
+http://stariptv.xyz:8880/819239/571225/114199
+#EXTINF:-1,PT:  SPORT TV 3 HD
+http://stariptv.xyz:8880/819239/571225/61157
+#EXTINF:-1,PT:  SPORT TV 3 HD 1080
+http://stariptv.xyz:8880/819239/571225/114201
+#EXTINF:-1,PT:  SPORT TV 3HD
+http://stariptv.xyz:8880/819239/571225/114203
+#EXTINF:-1,PT:  SPORT TV 4
+http://stariptv.xyz:8880/819239/571225/61159
+#EXTINF:-1,PT:  SPORT TV 4HD
+http://stariptv.xyz:8880/819239/571225/114207
+#EXTINF:-1,PT:  SPORT TV1 FHD
+http://stariptv.xyz:8880/819239/571225/59871
+#EXTINF:-1,PT:  SPORT TV2 FHD
+http://stariptv.xyz:8880/819239/571225/59874
+#EXTINF:-1,PT:  SPORT TV3 FHD
+http://stariptv.xyz:8880/819239/571225/59877
+#EXTINF:-1,PT:  SPORT TV4 FHD
+http://stariptv.xyz:8880/819239/571225/59880
+#EXTINF:-1,PT:  SPORT TV5 FHD
+http://stariptv.xyz:8880/819239/571225/59882
+
+#EXTINF:-1,PT:  BTV HD
+http://stariptv.xyz:8880/819239/571225/59885
+
+#EXTINF:-1,PT:   Eleven Sports 1 HD
+http://stariptv.xyz:8880/819239/571225/99280
+#EXTINF:-1,PT:   Eleven Sports 2 HD
+http://stariptv.xyz:8880/819239/571225/99281
+#EXTINF:-1,PT:   Eleven Sports 3 HD
+http://stariptv.xyz:8880/819239/571225/99282
+#EXTINF:-1,PT:   Eleven Sports 5 HD
+http://stariptv.xyz:8880/819239/571225/99284
+#EXTINF:-1,PT:   ELEVEN 5 HD
+http://stariptv.xyz:8880/819239/571225/61279
+#EXTINF:-1,PT:   ELEVEN 6 HD
+http://stariptv.xyz:8880/819239/571225/61280
+
+#EXTINF:-1 tvg-ID="" tvg-name="REAL MADRID TV" tvg-logo="https://bit.ly/3jx4yfO" group-title="Desporto",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS XTRA" tvg-logo="https://bit.ly/36R7xdL" group-title="Desporto",BEIN SPORTS XTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="RED BULL TV" tvg-logo="https://bit.ly/2MH2zcH" group-title="Desporto",RED BULL TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT" tvg-logo="https://bit.ly/3aEqMsd" group-title="Desporto",EUROSPORT
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/chunklist_w324741174_b3128000_sling.m3u8
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="STADIUM" tvg-logo="https://bit.ly/3jp7qLD" group-title="Desporto",STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ALL SPORTS" tvg-logo="https://bit.ly/39UpHgK" group-title="Desporto",ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1699785111.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CAÇAVISION TV" tvg-logo="https://bit.ly/3ruBqZ9" group-title="Desporto",CAÇAVISION TV
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="RTP ARENA" tvg-logo="https://bit.ly/3tzUFCB" group-title="Desporto",RTP ARENA
+https://d2nvs31859zcd8.cloudfront.net/39d35c4d22a139553ca2_rtparena_41415767086_1611352083/360p30/index-dvr.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="•----• Series & Movies •----•" tvg-logo="https://bit.ly/3pXiWQH" group-title="SERIE & MOVIE",•----• Series & Movies •----•
+http://192.168.1.1
+
+#EXTINF:-1 tvg-ID="" tvg-name="Balas e Bolinhos 1" tvg-logo="https://bit.ly/3jvwgJD" group-title="SERIE & MOVIE",Balas e Bolinhos 1
+https://www.youtube.com/watch?v=P4aJOAn05gA&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="Balas e Bolinhos 2 o Regresso" tvg-logo="https://bit.ly/2LvR2wb" group-title="SERIE & MOVIE",Balas e Bolinhos 2 o Regresso
+https://www.youtube.com/watch?v=o_yfGwtm0Us&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="Balas e Bolinhos 3 O Último Capítulo" tvg-logo="https://bit.ly/3q4jtjQ" group-title="SERIE & MOVIE",Balas e Bolinhos 3 O Último Capítulo
+https://www.youtube.com/watch?v=j64DwVUtxHY&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="Leão da Estrela" tvg-logo="https://bit.ly/2MCW36V" group-title="SERIE & MOVIE",Leão da Estrela
+https://www.youtube.com/watch?v=oOzRchuAcsQ&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="Capitães de Abril" tvg-logo="https://bit.ly/39Z9hDB" group-title="SERIE & MOVIE",Capitães de Abril
+https://www.youtube.com/watch?v=M7oeAH1Rj3I&feature=youtu.be
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="•----• INFANTIL •----•" tvg-logo="https://bit.ly/3tyXjZe" group-title="INFANTIL",•----• Infantil •----•
+http://192.168.1.1
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="Tom & Jerry" tvg-logo="https://bit.ly/3cX4Xqi" group-title="INFANTIL",Tom & Jerry
+https://www.youtube.com/watch?v=roVJhMvW5Dk&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="Alice No País Das Maravilhas" tvg-logo="https://bit.ly/3p0pxsn" group-title="INFANTIL",Alice No País Das Maravilhas
+https://www.youtube.com/watch?v=ZG_oS_Luj20&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="Dumbo" tvg-logo="https://bit.ly/2Z0v8nU" group-title="INFANTIL",Dumbo
+https://www.youtube.com/watch?v=5hUKLzGJYB8&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="Rudolfo a Rena do Nariz Vermelho - O Filme" tvg-logo="https://bit.ly/3jxfqtP" group-title="INFANTIL",Rudolfo a Rena do Nariz Vermelho - O Filme
+https://www.youtube.com/watch?v=TN83a--yAoo&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="A Branca de Neve e os Sete Anões" tvg-logo="https://bit.ly/3jvowHG" group-title="INFANTIL",A Branca de Neve e os Sete Anões
+https://www.youtube.com/watch?v=41gjGl8Z87c&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="Pantera Cor de Rosa" tvg-logo="https://bit.ly/2MHuvx8" group-title="INFANTIL",Pantera Cor de Rosa
+https://www.youtube.com/watch?v=ap90npnxZzs&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="•----• MUSICA •----•" tvg-logo="https://bit.ly/36KQTMH" group-title="MUSICA",•----• MUSICA •----•
+http://192.168.1.1
+
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="https://bit.ly/39UhMzQ" group-title="MUSICA",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+#EXTINF:-1 tvg-ID="Music Channel 1" tvg-name="MUSIC CHANNEL 1" tvg-logo="https://bit.ly/3jofw72" group-title="MUSICA",MUSIC CHANNEL 1
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w333295163.m3u8
+
+#EXTINF:-1 tvg-ID="A State Of Trance" tvg-name="A State Of Trance" tvg-logo="https://bit.ly/39Sn3YQ" group-title="MUSICA",A State Of Trance
+https://www.youtube.com/watch?v=5lMmnfVylEE&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="David Guetta" tvg-name="David Guetta" tvg-logo="https://bit.ly/2YWhVwx" group-title="MUSICA",David Guetta | United at Home - Paris Edition from the Louvre
+https://www.youtube.com/watch?v=9X6hH-Z1Tyw&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="David Guetta" tvg-name="David Guetta" tvg-logo="https://bit.ly/3tzxpVk" group-title="MUSICA",David Guetta | United at Home - Dubai Edition
+https://www.youtube.com/watch?v=xaurMcGqZHU&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="Armin van Buuren" tvg-name="Armin van Buuren" tvg-logo="https://bit.ly/3aLEGbS" group-title="MUSICA",Armin van Buuren live at @AMF​ presents Top 100 DJs Awards 2020 | from CM.com Circuit Zandvoort
+https://www.youtube.com/watch?v=8XskjcJhFVY&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="Armin van Buuren" tvg-name="Armin van Buuren" tvg-logo="https://bit.ly/3oTclFP" group-title="MUSICA",Armin van Buuren live at Tomorrowland 2020 NYE
+https://www.youtube.com/watch?v=JrKdlG-9yxM&feature=youtu.be
+
+#EXTINF:-1 tvg-ID="" tvg-name="•----• RADIO •----•" tvg-logo="https://bit.ly/3cOm1iu" group-title="RADIO",•----• RADIO •----•
+http://192.168.1.1
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3q8DZjD" group-title="RADIO",Amsterdam Trance Radio
+http://sc-atr.1.fm:7700/
+
+#EXTINF:-1 tvg-logo="https://goo.gl/oDjsfS" group-title="RADIO",CIDADE FM
+http://mcrscast.mcr.iol.pt/cidadefm
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/QzumzF" group-title="RADIO",MEGA HITS
+https://20863.live.streamtheworld.com/MEGA_HITS_SC
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3rqEUfk" group-title="RADIO",Radio Nove3cinco
+http://centova.radios.pt:9522/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/eZy3qG" group-title="RADIO",NOVA ERA
+http://centova.radios.pt:9478/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/R2ThTD" group-title="RADIO",ORBITAL
+http://195.23.85.126:8401/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/vRqX8U" group-title="RADIO",RADIO COMERCIAL
+http://mcrscast.mcr.iol.pt/comercial.mp3
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/mhm8ny" group-title="RADIO",RADIO ONDA VIVA
+http://centova.radios.pt:9524/stream
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3tIBHtE" group-title="RADIO",RFM
+https://22533.live.streamtheworld.com/RFMAAC.aac
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/7cuinU" group-title="RADIO",RFM 80
+https://20133.live.streamtheworld.com/GR80SRFM_SC
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/BsUHpG" group-title="RADIO",RFM ON THE ROCK
+https://22603.live.streamtheworld.com/RFMONTHEROCKAAC.aac
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2YQYtBb" group-title="RADIO",RFM DANCEFLOOR
+https://19613.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/gwuYAg" group-title="RADIO",RFM OCEANO PACÍFICO
+https://20723.live.streamtheworld.com/OCEANPACIFICAAC.aac
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3rl3aj0" group-title="RADIO",FAMA RADIO
+http://digitalfm.dynu.com:8000/digitalfm64
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3oQOczr" group-title="RADIO",CIDADE HOJE
+http://centova.radios.pt:8119/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3cQf28y" group-title="RADIO",RADIO JORNAL
+http://213.136.92.8:8006/;
