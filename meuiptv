@@ -3,6 +3,58 @@
 #EXTINF:-1 tvg-ID="" tvg-name="•----• Desporto •----•" tvg-logo="" group-title="PORTUGAL - DESPORTO",•----• Desporto •----•
 http://trial.myinstanttv.com:8080/TV-13833966/202634109860/5938
 
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV 1 HD
+http://stariptv.xyz:8880/468746/649713/61153
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV 1 HD 1080
+http://stariptv.xyz:8880/468746/649713/114196
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV 2
+http://stariptv.xyz:8880/468746/649713/61156
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV 2 HD 1080
+http://stariptv.xyz:8880/468746/649713/114199
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV 3 HD
+http://stariptv.xyz:8880/468746/649713/61157
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV 3 HD 1080
+http://stariptv.xyz:8880/468746/649713/114201
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV 3HD
+http://stariptv.xyz:8880/468746/649713/114203
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV 4
+http://stariptv.xyz:8880/468746/649713/61159
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV 4HD
+http://stariptv.xyz:8880/468746/649713/114207
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV1 FHD
+http://stariptv.xyz:8880/468746/649713/59871
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV2 FHD
+http://stariptv.xyz:8880/468746/649713/59874
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV3 FHD
+http://stariptv.xyz:8880/468746/649713/59877
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV4 FHD
+http://stariptv.xyz:8880/468746/649713/59880
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", SPORT TV5 FHD
+http://stariptv.xyz:8880/468746/649713/59882
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/2Lp68n8", NBA TV
+http://stariptv.xyz:8880/468746/649713/99297
+
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/3jnVREt", BTV HD
+http://stariptv.xyz:8880/468746/649713/59885
+
+
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/3oW5Im2", Eleven Sports 1 HD
+http://stariptv.xyz:8880/468746/649713/99280
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/3oW5Im2", Eleven Sports 2 HD
+http://stariptv.xyz:8880/468746/649713/99281
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/3oW5Im2", Eleven Sports 3 HD
+http://stariptv.xyz:8880/468746/649713/99282
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/3oW5Im2", ELEVEN SPORTS 3 FHD
+http://stariptv.xyz:8880/468746/649713/59889
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/3oW5Im2", ELEVEN SPORTS 5 FHD
+http://stariptv.xyz:8880/468746/649713/59890
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/3oW5Im2", Eleven Sports 5 HD
+http://stariptv.xyz:8880/468746/649713/99284
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/3oW5Im2", ELEVEN 5 HD
+http://stariptv.xyz:8880/468746/649713/61279
+#EXTINF:-1 group-title="Desporto" desporto="true" tvg-logo="https://bit.ly/3oW5Im2", ELEVEN 6 HD
+http://stariptv.xyz:8880/468746/649713/61280
+
 #EXTINF:-1 tvg-ID="" tvg-name="REAL MADRID TV" tvg-logo="https://bit.ly/3jx4yfO" group-title="Desporto",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
  
