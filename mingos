@@ -3,53 +3,8 @@
 #EXTINF:-1 tvg-ID="" tvg-name="•----• Desporto •----•" tvg-logo="" group-title="PORTUGAL - DESPORTO",•----• Desporto •----•
 http://trial.myinstanttv.com:8080/TV-13833966/202634109860/5938
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wE2Msb" tvg-id="LIVE" group-title="LIVE",Gil Vicente vs Sporting
-https://video-weaver.cph01.hls.ttvnw.net/v1/playlist/CsMF6i58NOe-YG3m38pVoLzm9uqU37bCcArBQk02AsIsAqeYVrlxaak5JzB1StqosnHcvfUb1BGBI7ivoT8_nqqFLdwESFwe4WCLRiSjt10wh7Xy13Sb11ID0gQuMfFKpqhcoMkSIhVjVbG2kMZtS_LIytHn3EYeXUpquDZcG4NcfWUh6entOUFFmzexP1h8ix6wFkfLakxIXmr9yZiCKwfMw9rs4vfOx1cTNusvXT3ivI9Po9KrzBwl5JUtl_U3-eRP_riQvf70x6-UIPZp8qmCRHKN9DychBuTVC4MfuAg6K-BpuC43X4youx7AzUXd9tzKan0AjdBGyHrqsEahis0KYBBC0cRrbvXIWqmmNMApfuld7fWtdKKGaEUVZu4sDr1t2JqDlcDlr2WZ60QozL50cwOqOnfv5NlieQBAqNxQ2-2P696BuSWw9eNUA9PCC_GOygfPasZGgqlF59ppeBBWoXgS-mC325j1TAwVT3frZX6GQFQaixf3kx7O9GFM0JG7-zhhaMdpTXGG-wP2yWQqWvDzLsgPYwos00UrChfdk02XXULOKf57q782Q24l9QPmrHHAoXQ1hzruOxNykW2KLtIeY3JyH5paGN_-Opn61qopgDWYfqILj6E9MUf0Lk1keEoEz4ToOGvuphdajRGCp0Dwc3rsL5JovVa2S6upTkBXlZwfVIUE7yF4TVzACfUW51Y1gnIWdXvviIHU-5Vkh9No09R3AEppUzAy8TbZqDcOV81XvyAWVU1w_XjLYN-NOOjg1uuFPlZKFs_x6Oiq6rfaPj5COYUQlavglCD7kyjhY8Q1zVbVJEEd68fkExwcZMRkq2eb6_1kR_fn8qwAMpYKHdd13GL6-St_3XfaatTSIcTSD9DrO7k6vlx8egzbfqFPAWQdop6BGU-RqxVSUrQoMale9A7dbH5KA-uaiHvKbUSEEg3tsZhtlsseqGuATMA8FUaDFIhWZjwHkCq5d9pRA.m3u8
-
-#EXTINF:-1,PT:  SPORT TV 1 HD
-http://stariptv.xyz:8880/819239/571225/61153
-#EXTINF:-1,PT:  SPORT TV 1 HD 1080
-http://stariptv.xyz:8880/819239/571225/114196
-#EXTINF:-1,PT:  SPORT TV 2
-http://stariptv.xyz:8880/819239/571225/61156
-#EXTINF:-1,PT:  SPORT TV 2 HD 1080
-http://stariptv.xyz:8880/819239/571225/114199
-#EXTINF:-1,PT:  SPORT TV 3 HD
-http://stariptv.xyz:8880/819239/571225/61157
-#EXTINF:-1,PT:  SPORT TV 3 HD 1080
-http://stariptv.xyz:8880/819239/571225/114201
-#EXTINF:-1,PT:  SPORT TV 3HD
-http://stariptv.xyz:8880/819239/571225/114203
-#EXTINF:-1,PT:  SPORT TV 4
-http://stariptv.xyz:8880/819239/571225/61159
-#EXTINF:-1,PT:  SPORT TV 4HD
-http://stariptv.xyz:8880/819239/571225/114207
-#EXTINF:-1,PT:  SPORT TV1 FHD
-http://stariptv.xyz:8880/819239/571225/59871
-#EXTINF:-1,PT:  SPORT TV2 FHD
-http://stariptv.xyz:8880/819239/571225/59874
-#EXTINF:-1,PT:  SPORT TV3 FHD
-http://stariptv.xyz:8880/819239/571225/59877
-#EXTINF:-1,PT:  SPORT TV4 FHD
-http://stariptv.xyz:8880/819239/571225/59880
-#EXTINF:-1,PT:  SPORT TV5 FHD
-http://stariptv.xyz:8880/819239/571225/59882
-
-#EXTINF:-1,PT:  BTV HD
-http://stariptv.xyz:8880/819239/571225/59885
-
-#EXTINF:-1,PT:   Eleven Sports 1 HD
-http://stariptv.xyz:8880/819239/571225/99280
-#EXTINF:-1,PT:   Eleven Sports 2 HD
-http://stariptv.xyz:8880/819239/571225/99281
-#EXTINF:-1,PT:   Eleven Sports 3 HD
-http://stariptv.xyz:8880/819239/571225/99282
-#EXTINF:-1,PT:   Eleven Sports 5 HD
-http://stariptv.xyz:8880/819239/571225/99284
-#EXTINF:-1,PT:   ELEVEN 5 HD
-http://stariptv.xyz:8880/819239/571225/61279
-#EXTINF:-1,PT:   ELEVEN 6 HD
-http://stariptv.xyz:8880/819239/571225/61280
+#EXTINF:-1 tvg-logo="https://goo.gl/euKktX" tvg-id="LIVE" group-title="LIVE",Estoril vs Benfica
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CqwFve0tWR--Mia7S5kWICNuy7okPBGAC9Eg-dKiH_4QKpKNZx5xbRwSLc74fuaOvoCxXsXKponFKmxzfEXUSIziB8Ltdcu30naGszk5njPageNnVBNJfwA1jhFycXTd5NOdQjJSe-WLIjZJx2zW-CtyIW2eRZwJJTmeDEtbuv9YuhILsODIYQzPXSk4UEEqrTsc5MiI-3j3E65MpgDnErGwNUpP2BNWRjrJDUBkDgVWUVYbZ9blf9rtk1RWkJJr3iHD8udRDs1cermvsTFUhKIY0lcrilbdxtEWU4I815GxrU3LQu0YAiPWlFoiUX2h-LFAYUFzG0_nwBYSK5cRFUZLnEdrUmFmHfMLPOfCtozLqCW6q2nkyUGOhAH58L_jNU1vlBpK6uAU1qoMCFuqmmoToDCumHHBblS6HPGJNCdeAayz_STVB0f5owXFjn-KQSzERi179MVbt0D0YYhRCcnP5cAP4UkbRJ2hlC3M3UGoO8aZkL2z1N_TJCih1gQ9qkqfw31Lnei0TlpSxM8PEmsY1ZO81O4D4iwzayrypYrgY72ao8og748JyxhWTicYudj4sz0-4k8yPKJGsK8aUq_ZVttHusy5lffL4FAl6hPIdcHfNGbhlFohTZeNyk72HHAo_Gx8mzk6dWBr2nprWFZNg0CB5q_C2Nol7GMJCWiOy6AE79qmQQW3mF_0CMCopn49gnNJb2IWochLWiKlur4dzp1rr3MUYjNQw3-DXs5B2aM1QI9FJM1tcgpIaFQqclZulm4q2mA2X47Q_Cpt5WrQ-8AQp3glLuxsBJUwcB5u6_4sU-UevjA4FN2p0ZEIQFMUF1GRb1sc434VNl2SyKrEgzVBlDXrPF3FlM7jjh6pFGdGskZUBdCIukxdmf4zOty2rDUzivHP8vYlI1nlEhC2PHm19AM005g4tTz7AnTZGgxuGzobVQ-ZGM_PQOA.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="REAL MADRID TV" tvg-logo="https://bit.ly/3jx4yfO" group-title="Desporto",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
