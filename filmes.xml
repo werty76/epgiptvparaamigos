@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2VtA32d" group-title="FILMES 2021", A GERRA DO AMANHÃ (2021)
+https://www.googleapis.com/drive/v3/files/1ElTe7I5-wb7MoHm3Lm8at34Y-v4B9eSv?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/36uBAra" group-title="FILMES 2021", UM HOMEM DE RISCO (2021)
 https://www.googleapis.com/drive/v3/files/1EYzBtxvvPj_iAsPQAV0s93elmQ_PiLY_?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
 
