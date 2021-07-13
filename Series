@@ -1,4 +1,16 @@
 #EXTM3U
  
-#EXTINF:-1 group-title="TV" tvg-id="The Witcher" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91MZ6THo-8L._AC_SY450_.jpg",The Witcher EP.1
-https://drive.google.com/file/d/1XU1C6Fc893uuCxDxJDIyVqlYvq8B8D1n/view
+#EXTINF:-1 tvg-logo="https://bit.ly/3wB5x3g" group-title="LOKI", Loki-01-Glorious Purpose
+https://www.googleapis.com/drive/v3/files/1rwDdB8aItNuWHMsdT3VWts8dMSXV-EWd?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3wB5x3g" group-title="LOKI", Loki-02-The Variant
+https://www.googleapis.com/drive/v3/files/1aI9x9TXpwmhyTdnZePBQyklXb_bKEVVC?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3wB5x3g" group-title="LOKI", Loki-03-Lamentis
+https://www.googleapis.com/drive/v3/files/1F-2RxTa6jihXln1dYZIcaD-H5iwes8LQ?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3wB5x3g" group-title="LOKI", Loki-04-The Nexus Event
+https://www.googleapis.com/drive/v3/files/15FWj-0li2wc3efgX0u_OjYmEFUgCUZO4?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3wB5x3g" group-title="LOKI", Loki-05-Jornada ao Mistério
+https://www.googleapis.com/drive/v3/files/1HyAGZjvKwV3UNm6nmfJX6KzhXUtGMKr3?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
