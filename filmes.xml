@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3z9QX4J" group-title="ANIMAÇÃO PT", SCOOBY! O FILME
+https://tkuniverse.tk/3152592.mp4
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3wHWfCH" group-title="ANIMAÇÃO PT", AS AVENTURAS DE FLORA E ULISSES
 https://tkuniverse.tk/8521736.mp4
 
@@ -25,7 +28,7 @@ https://www.googleapis.com/drive/v3/files/1n2raR1ow-B7CSnFRwv74Gqw4IgIrUL-h?alt=
 https://www.googleapis.com/drive/v3/files/14UthSl34iT_RZKoxNHc2FbgrnAIR3G18?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3huAhyO" group-title="FILMES 2021", GODZILLA VS KONG (2021)
-https://www.googleapis.com/drive/v3/files/1301wzz7vsX5g9yWcZ20RgMkzjBs9VFe3?alt=media&key=AIzaSyB9wbG_vSf3hWGEdOzRWgHm7mEFK3IXM4Y
+https://www.googleapis.com/drive/v3/files/1dn2R3mb-84Xu7z5TxO-PkXkiAUF22o21?alt=media&key=AIzaSyB9wbG_vSf3hWGEdOzRWgHm7mEFK3IXM4Y
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3r2gt92" group-title="ANIMAÇÃO PT", LUCA (2021)
 https://tkuniverse.tk/12801262.mp4
