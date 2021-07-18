@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="FILME ESTIVER OFF AVISA-ME", FILME ESTIVER OFF AVISA-ME
+#EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="", FILME ESTIVER OFF AVISA-ME
 https://1.1.1.1
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="NÃO TEM O FILME PEDE-ME",NÃO TEM O FILME PEDE-ME
+#EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="",NÃO TEM O FILME PEDE-ME
 https://1.1.1.1
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3BhEJc4" group-title="FILMES 2020", CORREIO DE ALTO RISCO
