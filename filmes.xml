@@ -1,12 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="",FILME OFF AVISA-ME
+#EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="FILME ESTIVER OFF AVISA-ME", FILME ESTIVER OFF AVISA-ME
 https://1.1.1.1
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3hRxPTj" group-title="FILMES 2021", Out of Death
+#EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="NÃO TEM O FILME PEDE-ME",NÃO TEM O FILME PEDE-ME
+https://1.1.1.1
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3BhEJc4" group-title="FILMES 2020", CORREIO DE ALTO RISCO
+https://fv2-1.failiem.lv/Files.fm_2021-07-18_file_vh4zjk8jd/CORREIO.mp4?PHPSESSID=c25ecda14dfc9a310164103661183e192f08bd8d
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3hRxPTj" group-title="FILMES 2021", Out of Death (2021)
 https://fv2-3.failiem.lv/Files.fm_2021-07-17_file_7sm6cs6mh/Out.mp4?PHPSESSID=aae876c86726d03f67f56b17836e210f17f1c102
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3BgVkwr" group-title="FILMES 2021", GAIA
+#EXTINF:-1 tvg-logo="https://bit.ly/3BgVkwr" group-title="FILMES 2021", GAIA (2021)
 https://fv2-3.failiem.lv/Files.fm_2021-07-17_file_5q77z9whr/GAI.mp4?PHPSESSID=aae876c86726d03f67f56b17836e210f17f1c102
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3esYlAi" group-title="FILMES 2021", DUPLA EXPLOSIVA 2 (2021)
@@ -15,7 +21,7 @@ https://fv2-2.failiem.lv/Files.fm_2021-07-17_file_vaaygghp9/DUPLA.mp4?PHPSESSID=
 #EXTINF:-1 tvg-logo="https://bit.ly/3z9QX4J" group-title="ANIMAÇÃO PT", SCOOBY! O FILME
 https://tkuniverse.tk/3152592.mp4
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3wHWfCH" group-title="ANIMAÇÃO PT", AS AVENTURAS DE FLORA E ULISSES
+#EXTINF:-1 tvg-logo="https://bit.ly/3wHWfCH" group-title="ANIMAÇÃO PT", AS AVENTURAS DE FLORA E ULISSES (2021)
 https://tkuniverse.tk/8521736.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/36Dg7fN" group-title="ANIMAÇÃO PT", CRUELLA (2021)
@@ -28,7 +34,7 @@ https://tkuniverse.tk/5109280.mp4
 https://fv2-3.failiem.lv/Files.fm_2021-07-17_file_dk8uyre3x/agerra.mp4?PHPSESSID=aae876c86726d03f67f56b17836e210f17f1c102
 
 #EXTINF:-1 tvg-logo="https://bit.ly/36uBAra" group-title="FILMES 2021", UM HOMEM DE RISCO (2021)
-https://www.googleapis.com/drive/v3/files/1EYzBtxvvPj_iAsPQAV0s93elmQ_PiLY_?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
+https://fv2-2.failiem.lv/Files.fm_2021-07-18_file_cvhy7djje/HOMEM.mp4?PHPSESSID=c25ecda14dfc9a310164103661183e192f08bd8d
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3hD8v3j" group-title="FILMES 2021", VIUVA NEGRA (2021)
 https://www.googleapis.com/drive/v3/files/1n2raR1ow-B7CSnFRwv74Gqw4IgIrUL-h?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
