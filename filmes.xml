@@ -6,6 +6,9 @@ https://1.1.1.1
 #EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="",NÃO TEM O FILME PEDE-ME
 https://1.1.1.1
 
+EXTINF:-1 tvg-logo="https://bit.ly/3hQK6qZ" group-title="FILMES 2021", O RESGATE – O DIA DA REDENÇÃO (2021)
+https://fv2-3.failiem.lv/Files.fm_2021-07-20_file_8q6wsu4h3/Resgate.mp4?PHPSESSID=26c904dd53e430c906bceab57e96f6dc9fbd7aaa
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3BhEJc4" group-title="FILMES 2020", CORREIO DE ALTO RISCO
 https://fv2-1.failiem.lv/Files.fm_2021-07-18_file_vh4zjk8jd/CORREIO.mp4?PHPSESSID=c25ecda14dfc9a310164103661183e192f08bd8d
 
@@ -74,6 +77,9 @@ https://www.googleapis.com/drive/v3/files/15FWj-0li2wc3efgX0u_OjYmEFUgCUZO4?alt=
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3wB5x3g" group-title="SERIES", Loki-05-Jornada ao Mistério
 https://www.googleapis.com/drive/v3/files/1HyAGZjvKwV3UNm6nmfJX6KzhXUtGMKr3?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3wB5x3g" group-title="SERIES", Loki-06-Para Todo Tempo. Sempre
+https://www.googleapis.com/drive/v3/files/13k7Z-wiAwcyOPHCkOb4jLvJ6u613wU08?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Ta8t9B" group-title="SERIES", THE WITCHER-01
 https://www.googleapis.com/drive/v3/files/1XU1C6Fc893uuCxDxJDIyVqlYvq8B8D1n?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
