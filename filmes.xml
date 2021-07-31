@@ -165,6 +165,9 @@ https://fv2-1.failiem.lv/Files.fm_2021-07-27_file_vxs4j7g9q/2-8-BAIXO.mp4?PHPSES
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="LOKI (DISNEY)", »»»»»LOKI««««« 
+https://1.1.1.4
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3wB5x3g" group-title="LOKI (DISNEY)", Loki-01-Glorious Purpose
 https://www.googleapis.com/drive/v3/files/1rwDdB8aItNuWHMsdT3VWts8dMSXV-EWd?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
 
@@ -186,6 +189,9 @@ https://www.googleapis.com/drive/v3/files/13k7Z-wiAwcyOPHCkOb4jLvJ6u613wU08?alt=
 
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="THE WITCHER (NETFLIX)", »»»»»THE WITCHER««««« 
+https://1.1.1.5
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Ta8t9B" group-title="THE WITCHER (NETFLIX)", THE WITCHER-01
 https://www.googleapis.com/drive/v3/files/1XU1C6Fc893uuCxDxJDIyVqlYvq8B8D1n?alt=media&key=AIzaSyAI7fSJ3O5IKLKKh7SAvwvwhJ_py_QFlZ8
@@ -214,6 +220,10 @@ https://www.googleapis.com/drive/v3/files/1lsEzzsBlrpcxVchHAjKDhvl9Uq4jW1Uc?alt=
 
 
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="DRAGON BALL SUPER", »»»»»DRAGON BALL SUPER««««« 
+https://1.1.1.6
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3rCRd9F" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER EP1
 https://fv2-1.failiem.lv/Files.fm_2021-07-23_file_gduvkyuqj/DBS%20EP1.mp4?PHPSESSID=33a331e7e89d1cc96454471b780087f534c9a755
@@ -369,6 +379,8 @@ https://fv2-3.failiem.lv/Files.fm_2021-07-29_file_tacvdh2p7/DBS%2050.mp4?PHPSESS
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="SERIES ANTIGAS", »»»»»KnightRider««««« 
+https://1.1.1.7
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3yWy7O3" group-title="SERIES ANTIGAS", KnightRider 1x01x02 Knight Of The Phoenix
 https://www.googleapis.com/drive/v3/files/1XvVZ7LjIeyKV18ZgEuKQgKjwK-jGWYeZ?alt=media&key=AIzaSyB9wbG_vSf3hWGEdOzRWgHm7mEFK3IXM4Y
@@ -397,6 +409,10 @@ https://archive.org/25/items/knight-rider-1x-09-trust-doesnt-rust/Knight%20Rider
 
 
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Naruto", »»»»»Naruto««««« 
+https://1.1.1.8
 
 #EXTINF:-1 tvg-id="1" tvg-name="Ep.1 - Apresentando! Uzumaki Naruto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/220px-Naruto_logo.svg.png" group-title="Naruto",Ep.1 - Apresentando! Uzumaki Naruto
 https://videos.animesgratisbr.com/pubfolder/animes/Naruto/1.mp4
@@ -1062,6 +1078,8 @@ https://videos.animesgratisbr.com/pubfolder/animes/Naruto/220.mp4
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Naruto Shippuden", »»»»»Naruto Shippuden««««« 
+https://1.1.1.9
 
 #EXTINF:-1 tvg-id="1" tvg-name="Ep.1/2 - Volta para Casa / A Akatsuki se Move" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/61/Naruto-logo-shippuuden.png/220px-Naruto-logo-shippuuden.png" group-title="Naruto Shippuden",Ep.1/2 - Volta para Casa / A Akatsuki se Move
 https://videos.animesgratisbr.com/pubfolder/animes/NarutoShippuden/001-002.mp4
@@ -2568,6 +2586,9 @@ https://videos.animesgratisbr.com/pubfolder/animes/NarutoShippuden/500.mp4
 
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="Boruto: Naruto Next Generations", »»»»»Boruto: Naruto Next Generations««««« 
+https://1.1.1.10
 
 #EXTINF:-1 tvg-id="1" tvg-name="Ep.1 - Uzumaki Boruto!!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Boruto_logo.png/440px-Boruto_logo.png" group-title="Boruto: Naruto Next Generations",Ep.1 - Uzumaki Boruto!!
 https://videos.animesgratisbr.com/pubfolder/animes/Boruto/Boruto_01.mp4
