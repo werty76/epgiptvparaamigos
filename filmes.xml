@@ -3274,20 +3274,22 @@ https://archive.org/download/boruto-naruto-next-generations_202103/Boruto_Naruto
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS",TVCine Action
+#EXTINF:-1 tvg-logo="https://bit.ly/3AdxVe3" group-title="CANAIS",TVCine Action
 http://185.236.229.21:9981/play/a04n
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS",TVCine Edition
+#EXTINF:-1 tvg-logo="https://bit.ly/3jqeesO" group-title="CANAIS",TVCine Edition
 http://185.236.229.21:9981/play/a061
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS",TVCine Emotion
+#EXTINF:-1 tvg-logo="https://bit.ly/3fADtaG" group-title="CANAIS",TVCine Emotion
 http://185.236.229.21:9981/play/a05z
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS",TVCine Top
+#EXTINF:-1 tvg-logo="https://bit.ly/2WUgYXH" group-title="CANAIS",TVCine Top
 http://185.236.229.21:9981/play/a04w
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS",NOS Studios HD
+#EXTINF:-1 tvg-logo="https://bit.ly/3imAxAi" group-title="CANAIS",NOS Studios HD
 http://185.236.229.21:9981/play/a054
+
+
 
 
 
