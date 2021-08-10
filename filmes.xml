@@ -186,6 +186,8 @@ https://archive.org/25/items/starwarsfantasma/Star%20Wars-%20Epis%C3%B3dio%20I%2
 
 
 #EXTINF:-1 tvg-logo="" group-title="The Grand Tour - Amazon Prime Video", »»»»»THE GRAND TOUR 1ª TEMPORADA«««««
+https://1.1.1.12
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2U4ILUg" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP1
 https://archive.org/21/items/the.-grand.-tour.-temporada-1/The.Grand.Tour.S01E01.MP4.LEG.mp4
@@ -230,39 +232,40 @@ https://archive.org/21/items/the.-grand.-tour.-temporada-1/The.Grand.Tour.S01E13
 
 
 #EXTINF:-1 tvg-logo="" group-title="The Grand Tour - Amazon Prime Video", »»»»»THE GRAND TOUR 2ª TEMPORADA«««««
+https://1.1.1.13
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s7Wy9h" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP1
-
+https://archive.org/21/items/the.-grand.-tour.-temporada-2/The.Grand.Tour.S02E01.MP4.LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s7Wy9h" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP2
-
+https://archive.org/21/items/the.-grand.-tour.-temporada-2/The.Grand.Tour.S02E02.MP4.LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s7Wy9h" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP3
-
+https://archive.org/21/items/the.-grand.-tour.-temporada-2/The.Grand.Tour.S02E03.MP4.LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s7Wy9h" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP4
-
+https://archive.org/21/items/the.-grand.-tour.-temporada-2/The.Grand.Tour.S02E04.MP4.LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s7Wy9h" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP5
-
+https://archive.org/21/items/the.-grand.-tour.-temporada-2/The.Grand.Tour.S02E05.MP4.LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s7Wy9h" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP6
-
+https://archive.org/21/items/the.-grand.-tour.-temporada-2/The.Grand.Tour.S02E06.MP4.LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s7Wy9h" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP7
-
+https://archive.org/21/items/the.-grand.-tour.-temporada-2/The.Grand.Tour.S02E07.MP4.LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s7Wy9h" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP8
-
+https://archive.org/21/items/the.-grand.-tour.-temporada-2/The.Grand.Tour.S02E08.MP4.LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s7Wy9h" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP9
-
+https://archive.org/21/items/the.-grand.-tour.-temporada-2/The.Grand.Tour.S02E09.MP4.LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s7Wy9h" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP10
-
+https://archive.org/21/items/the.-grand.-tour.-temporada-2/The.Grand.Tour.S02E10.MP4.LEG.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3s7Wy9h" group-title="The Grand Tour - Amazon Prime Video", THE GRAND TOUR EP11
-
+https://archive.org/21/items/the.-grand.-tour.-temporada-2/The.Grand.Tour.S02E11.MP4.LEG.mp4
 
 
 
@@ -370,7 +373,8 @@ https://www.googleapis.com/drive/v3/files/13k7Z-wiAwcyOPHCkOb4jLvJ6u613wU08?alt=
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="LOKI (DISNEY)", »»»»»LOKI«««««
+#EXTINF:-1 tvg-logo="" group-title="FALCÃO E O SOLDADO DE INVERNO (DISNEY)", »»»»»FALCÃO E O SOLDADO DE INVERNO«««««
+https://1.1.1.14
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3iv5oKW" group-title="FALCÃO E O SOLDADO DE INVERNO (DISNEY)", S1 EP01 FALCÃO E O SOLDADO DE INVERNO
 https://archive.org/1/items/falcaoesoldado/Falc%C3%A3o%20e%20Soldado%20Invernal%201.mp4
@@ -397,6 +401,7 @@ https://archive.org/1/items/falcaoesoldado/Falc%C3%A3o%20e%20Soldado%20Invernal%
 
 
 #EXTINF:-1 tvg-logo="" group-title="LUPIN (NETFLIX)", »»»»»LUPIN««««« 
+https://1.1.1.15
 
 #EXTINF:-1 tvg-logo="https://bit.ly/37uQwGo" group-title="LUPIN (NETFLIX)", S1 EP01 LUPIN
 https://archive.org/16/items/01-baixo/01-BAIXO.mp4
