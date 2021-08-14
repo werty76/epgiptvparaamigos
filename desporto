@@ -1,4 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos
-https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CpQF2ysgEIqVPQBa9sX-k5_xv4gjAyXCnB_r3_Wcian1t0T5ADl519h894ViLNTpNRvC1v1BjNg172TJs3ZUiVyrTXrYWdcd2HwI3bBiq7k5MMWlKlp3AydTHqbkT49LzEn1JoZhY1u4-GFLzLzaL5ddF8mKEwKk6dhtTBBndANJw9wEDfAyJGb8NU_n2Czf8w_9WNMIO5SCNiYIhnKxCzOUkw1tJFdG7O9wp1gceNW9MQhJ4scRzTmd8LxEZwP24qljL3-OC-sgF5zriHyD5mscUI7dWIHVxU83r1_IObCsXXF0oe5OMYBq4wnrLRhjKl2zOeKpUy1nXPUdSlzXWmFRl6e7LBFIDlTaYVOeGOweMhtoVrqSNEoU3oSAegoGTLJrAJo8YMQxL20t9bZCkzM4Ehiw71EVsqOV3FWS7EYKDm0NTQZxKAPBLjX73CNWWSLbU2lv6CYLJGcToDaE4odaBogDBzbTT3KsNnt6qIr6Jn5qPI2R0XR9zj3l67IInRFju-PGXbDNypa3O3U8e7MkIz0qJ4FmkMSoUZpA-vn6tIIejj2UGxtV_63MzkWEpTWeK2WpJkHM73esyiSSFXdSX_LbizVoqBqDox0v5U1P3eD9EBNYeryOiWI4nQSXM_LPLpLPEPDl8L7AyKGYuvRWl9tNK_oe_vWpXXUR0BIkzZbxpYQjzrcZIHEJlkgsv0OzZ2AuBESd1xMaRgdQfizGLNFHJk9CT8m372m_kSg1Ce_zLbOyXjkj9jQMBGFRoK2SlUNBx52FUwcTvI7z81AoZRrLkYITEivXWMFJvsamkr4_tR0Cq3mCAsnD0hfluoau4RdzZ6YXjR8KZ9_LOfgCfHwo8TdlOJrVAjRj4WOIwqQu2Dl_EhD1sbMlnxhV0WE7dC8FyppmGgzOtlOVrshvMH9TL1A.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos1
+https://2d03lw.janjua.pw:8088/live/sp0301/playlist.m3u8?vidictid=188534681891&id=102436&pk=36f3032843dee19f5251eaa20d39bbf346f8867eeab7dbc2c90b755a0812576e
+
+#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos1
+https://2204lw.janjua.pw:8088/live/sp0301/media_17406.ts?vidictid=188534516947&id=102436&pk=36f3032843dee19f5251eaa20d39bbf346f8867eeab7dbc2c90b755a0812576e
+
+#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos1
+https://n03.quest123.top:8088/live/sp0301/media_21059.ts?vidictid=188534177802&id=113822&pk=3084cd4fee3969151c28dc694269a127c711e09f19f8c032ed41777aa7f56cc1
+
+#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos2
+https://r9uxprta46.azcdn107.net:8443/hls/u225jtufy2dkv.m3u8?s=P_YrLAt5dYxaFJBplfVupg&e=1628955814
+
+#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos2
+https://r9uxprta46.azcdn107.net:8443/hls/u225jtufy2dkv.m3u8?s=yrG5h94A4EUnb_daPh9YfA&e=1628955977
+
+#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos3
+https://r9uxprta46.azcdn107.net:8443/hls/t69y1s69ffvz.m3u8?s=3OgLCAVqWgFzTRyVIbXWFw&e=1628956049
+
+#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos3
+https://r9uxprta46.azcdn107.net:8443/hls/t69y1s69ffvz.m3u8?s=7yU7qJqQcpfo3dtL9AyoYg&e=1628956146
+
+#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos4
+https://r9uxprta46.azcdn107.net:8443/hls/0zer896oz3mv6.m3u8?s=xqQdD9ZKUVGy_QfQq_GwWQ&e=1628956188
+
+#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos5
+https://r9uxprta46.azcdn107.net:8443/hls/war3u.m3u8?s=kdxff3WECvPy_zDGDfkAZg&e=1628956239
+
+#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos6
+https://s03.quest123.top:8088/live/sp0301/playlist.m3u8?vidictid=188539920154&id=113822&pk=3084cd4fee3969151c28dc694269a127c711e09f19f8c032ed41777aa7f56cc1
+
+#EXTINF:-1 tvg-logo="" group-title="Jogos",Jogos7
+https://n01.quest123.top:8088/live/sp0301/playlist.m3u8?vidictid=188536983138&id=113822&pk=3084cd4fee3969151c28dc694269a127c711e09f19f8c032ed41777aa7f56cc1
+
+
+
