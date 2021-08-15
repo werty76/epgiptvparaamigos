@@ -4,10 +4,10 @@
 http://185.53.89.183/hls/stv.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
-https://2203.janjua.pw:8088/live/sp0301/playlist.m3u8?vidictid=188541694185&id=102436&pk=36f3032843dee19f5251eaa20d39bbf346f8867eeab7dbc2c90b755a0812576e
+http://45.95.235.151:8080/hls/streama148360/1916.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
-https://s03.quest123.top:8088/live/sp0301/playlist.m3u8?vidictid=188548331532&id=113822&pk=3084cd4fee3969151c28dc694269a127c711e09f19f8c032ed41777aa7f56cc1
+http://87.120.36.57:8080/hls/streama148360/1924.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
 https://2d02.janjua.pw:8088/live/sp0301/playlist.m3u8?vidictid=188548900703&id=102436&pk=36f3032843dee19f5251eaa20d39bbf346f8867eeab7dbc2c90b755a0812576e
