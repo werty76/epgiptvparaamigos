@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
+http://127.0.0.1:6878/ace/m/74aa224f489168ecbf82ce36432bda4e17e5648b/f528764d624db129b32c21fbca0cb8d6.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
 https://2203.janjua.pw:8088/live/sp0301/playlist.m3u8?vidictid=188541694185&id=102436&pk=36f3032843dee19f5251eaa20d39bbf346f8867eeab7dbc2c90b755a0812576e
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
