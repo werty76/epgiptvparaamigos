@@ -6,6 +6,18 @@ https://1.1.1.1
 #EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="",NÃO TEM O FILME PEDE-ME
 https://1.1.1.2
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3CPhRkJ" group-title="LIGA PORTUGAL",FAMALICÂO VS PORTO 18:00
+http://185.53.89.183/hls/stv.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3CPhRkJ" group-title="LIGA PORTUGAL",FAMALICÂO VS PORTO 18:00
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3CPhRkJ" group-title="LIGA PORTUGAL",FAMALICÂO VS PORTO 18:00
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3CPhRkJ" group-title="LIGA PORTUGAL",FAMALICÂO VS PORTO 18:00
+
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3j4INEh" group-title="FILMES 2021", Fast & Furious 9 (2021)
 https://archive.org/4/items/fast-9/Fast9.mp4
