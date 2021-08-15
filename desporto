@@ -7,7 +7,7 @@ http://185.53.89.183/hls/stv.m3u8
 https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CpUF_lrijj0em5WxgzWVM8bf3WN_1lJxayyMZRfwKmpAOoq2WxH6aTSYKl-dB7SDD1QFqwm8q28Y6obel8pxkm2hWkyV9Q-QqEsgWcOZleREpwGTQEzdm0OfCYSCHieenuiyodhw70eMvTlhM3Ba5_yODrDE2VvGM3a1qCKW5vXkkxP39TLsESRasshUI8uiXcwRfbakMCJYrQw0mjz8BxPp77E9dEOujAIvh-Ou3sTvg4W2FmYAZbKH1KcLCHOYmv2S9cmgOc_UzbRD_V97_ZwGzRlPWC7PwnXM1WUJ_5NjmLotFI6v-6ftMF9q6DTqYEOk4FYHPWi80meHxb_KZVFfVyW3Mi08fo5DRwaGhUShP9oYSM6q2AEpsM-EWU82OoI7SBywdK4nfoxfcPRnig6psm-lVO_Yrsk_TRDzkSUzP9cEnVC-kbZwfEO2MOlpXjAJytIicJxKVubCqwoPkPjvdRkkH17G_ZiuDmef5C_ZFzv4oCQVyamriZ0zc_9iqlr-HJ1xjbBy9stKvGJF8z7xz4x2RH3luPvwRBRffgF9O2zKwXvjVbF8ybTBmhyb060SCEo0DQ8-pt3P6uZR1TtidBzjvZhOKK9uh1aheyAHStSDN2B3lZDbam7L_0i_sMNIb-wOyV309tLAY4NGbWt2wy2lJAkQ10V4zC_mt1UIbNKomKAYJJCoROjtbvhpjW4lqwniyM2ZftF_usFCtWcqX0EiV-6ZyZKqbgrel4YDQ2pQsncXNOMLuIHKjHNNn1WVMFgS1i5T4vNv23alyJQKpmehGCjZ8lW9Uthg1OwhkpPKxMv6ITHUBpEa58TjHnG5ifM6_iVu8QarU5wlASeJ79RK-dsMzfucaZqzsa3_wCNNZSu3iRIQoRAPSXBuu0pQQRkRifE0-hoMdWH6nQfUdYZrssPs.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
-
+https://reels2watch.com/hls/s4-200.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
 https://2d02.janjua.pw:8088/live/sp0301/playlist.m3u8?vidictid=188548900703&id=102436&pk=36f3032843dee19f5251eaa20d39bbf346f8867eeab7dbc2c90b755a0812576e
@@ -16,13 +16,13 @@ https://2d02.janjua.pw:8088/live/sp0301/playlist.m3u8?vidictid=188548900703&id=1
 https://r9uxprta46.azcdn107.net:8443/hls/walxjawfo5x.m3u8?s=0CUpB90T6EW8HQKgfuRSRA&e=1629060790
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3sgL3fD" group-title="Jogos",sport2
-
+https://reels2watch.com/hls/s4.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3sgL3fD" group-title="Jogos",sport2
+https://hls.raino.xyz/soccer/soccer4-version1/rainostream.m3u8
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3sgL3fD" group-title="Jogos",sport2
+https://hls.raino.xyz/soccer/soccer4-version0/rainostream.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3k0po82" group-title="Jogos",sport3
 
