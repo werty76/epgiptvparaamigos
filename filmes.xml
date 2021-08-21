@@ -4,8 +4,7 @@
 https://1.1.1.1
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="",NÃO TEM O FILME PEDE-ME
-https://1.1.1.2
-
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/kids.xml
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3j4INEh" group-title="FILMES 2021", Fast & Furious 9 (2021)
 https://archive.org/4/items/fast-9/Fast9.mp4
