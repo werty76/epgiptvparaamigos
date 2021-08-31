@@ -1,25 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Jogos", jogos
-https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CpUFNQCfoJox-qm8N2OGD3l5JuwqxYUprtzb_ceRuNCfr8LblvDuAtn1wOwd0zAOEJuOtOMxvdlFuJ43CcvnTiGd-aCJ_guW1LTidvUwM-Pf_edB-G4JYsrXk1DB20MahgkY5OhPSX2LEI2WFdHz61I5uZCU8ljZcfz1V_C1oavkXStY4NkT9YOQ_1Ovl66ldO4fKwsCueegcJ1HZ-HAF2ZTQiGkHrIaN4PM4WOxseB1zXXAixGpQGHQaF-TpNhSUr1d1LTIHMMnVAo8rPHri3z4-M8r2eJVtZaJYdiSzH74kORXMu3UB7znTXqAmcGpNebfBmSKraxEOUJIFvlZ0QRwBiA1E_4wjBs6pzIPDL5oUC2g7v9dsZlQqssVHjs73clh7jyJlm_0xGaGgtW52s-tnAMIjYD0rYRQfYIjWDsapllvKIG7dnq4d5ZxfZgR56tX_9qHMy27uMFuIZmDKBlq5o1yITnYWanc1aQUjSLhUfp4qW5v8A7LIcpMg7tvOBLMPn0bsbxlosox43v0kXZr_th6OBQjCrUYbwkX1KYH3KquQ_ajJkWecxb_Y_4LCT1uglrAymiLCI5p0VvAADO_Y4WGOh0KYaW2rT4C13E6nltW33JELpIjhX_wuOMnQi8cCaaKZg1A7yPWMC5BIjsjc_J9dkJzTkeE1FH1lLU8BJorwY3T0sw6wrMPpkQn4ysYqxjlWITxNaFDIPBcdyZSHAkuOa5fF7W8HdLNCmJ8E-EZY66UuP9poDT2SX00tEYA7rQyHJ9cHINfn3S7crTg5s6bHRBvoAcdv8xRyUI623txXDQqJrX4NSKRw-PXVzD3367z6NodHubcNj98rwKGzP4qW0u8MM7Glq6m-DsGx5aLtz8hBBIQ8oR3YSYq3ypayFEQSQSb7BoMClgCKLH-Nh6pvonr.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Jogos",RED BULL TV FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Jogos", Benfica vs PSV 20:00
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Jogos", RED BULL TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Jogos",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
 
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3sgL3fD" group-title="Jogos",sport2
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3k0po82" group-title="Jogos",sport3
 
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3k0po82" group-title="Jogos",sport3
@@ -34,7 +28,7 @@ https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CpUFNQCfoJox-qm8N2OGD3l5Juw
 #EXTINF:-1 tvg-logo="https://bit.ly/2VMBgCx" group-title="Jogos",btv
 
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2VMBgCx" group-title="Jogos",btv
+
 
 
 
