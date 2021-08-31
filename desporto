@@ -9,6 +9,23 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Jogos",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3mLkrmr" group-title="Jogos",ALL SPORTS HD
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w214841983.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3DxdafV" group-title="Jogos",ABU DHABI SPORTS 1 FHD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3DxdafV" group-title="Jogos",ABU DHABI SPORTS 1 HD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3BqBcr5" group-title="Jogos",ABU DHABI SPORTS 3 FHD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3BqBcr5" group-title="Jogos",ABU DHABI SPORTS 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2WC869d" group-title="Jogos",STADIUM HD
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
 
