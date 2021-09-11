@@ -1,191 +1,45 @@
 #EXTM3U
- 
-#EXTINF:-1 tvg-id="" tvg-name="Santuário das Sombras" tvg-logo="http://ip.platevpc.xyz:8080/images/zduyzcjyahZtP4fGZE6789h04IM_big.jpg" group-title="VOD 2021",Santuário das Sombras
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18635.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Our Friend" tvg-logo="http://ip.platevpc.xyz:8080/images/vg9C5LttsKBqoLuqeQvOXaeBGiD_big.jpg" group-title="ANIMAÇÃO PT",Our Friend
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18634.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wildcat" tvg-logo="http://ip.platevpc.xyz:8080/images/oy16WaZVnjNU86kEUrSc9qPwsgK_big.jpg" group-title="FILMES PT",Wildcat
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18632.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aqueles que me Desejam a Morte" tvg-logo="http://ip.platevpc.xyz:8080/images/lkp6LB2ZfKC4TrGhUJu376PaTFg_big.jpg" group-title="VOD 2021",Aqueles que me Desejam a Morte
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18601.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ape vs. Monster" tvg-logo="http://ip.platevpc.xyz:8080/images/tpwv6bA0jY7SpeiXMmIeLqOW4eg_big.jpg" group-title="VOD 2021",Ape vs. Monster
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18590.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Plano de Fuga" tvg-logo="http://ip.platevpc.xyz:8080/images/3YMy2JFHaXuZwdojXVqBZ4QKC3X_big.jpg" group-title="VOD 2021",Plano de Fuga
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18589.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Djinn" tvg-logo="http://ip.platevpc.xyz:8080/images/kE4j7XP64RvTFNvamhOrf6ZYkb9_big.jpg" group-title="VOD 2021",The Djinn
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18588.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tubarão Branco" tvg-logo="http://ip.platevpc.xyz:8080/images/9Y4EX1QQCScBcaAX8hULSx30QNd_big.jpg" group-title="VOD 2021",Tubarão Branco
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18587.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Mulher à Janela" tvg-logo="http://ip.platevpc.xyz:8080/images/8BasMP1hUZtDx0khdbHBkVZhKjJ_big.jpg" group-title="VOD 2021",A Mulher à Janela
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18586.mkv
-#EXTINF:-1 tvg-id="" tvg-name="I Am All Girls" tvg-logo="http://ip.platevpc.xyz:8080/images/gWBXydaQ9vX3OIf0f1wNQ9Z0ElQ_big.jpg" group-title="VOD 2021",I Am All Girls
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18585.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Happily" tvg-logo="http://ip.platevpc.xyz:8080/images/rgrhFWxH587acHIeqG3woJyKgmf_big.jpg" group-title="VOD 2021",Happily
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18574.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doors" tvg-logo="http://ip.platevpc.xyz:8080/images/pGPUXyhQTOqskKdDOD3Fmicqfc0_big.jpg" group-title="VOD 2021",Doors
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18573.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Breaking News in Yuba County" tvg-logo="http://ip.platevpc.xyz:8080/images/5gk9hCo8x6Hoi2CYtfm1gRayeWo_big.jpg" group-title="VOD 2021",Breaking News in Yuba County
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18572.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Exodus" tvg-logo="http://ip.platevpc.xyz:8080/images/rhIRPRlVLsn2GFxLUf9FUB9a9hP_big.jpg" group-title="VOD 2021",Exodus
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18571.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Phobias" tvg-logo="http://ip.platevpc.xyz:8080/images/zpecci4IooFiwMVGknhm8Jz2FHo_big.jpg" group-title="VOD 2021",Phobias
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18570.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Voyagers" tvg-logo="http://ip.platevpc.xyz:8080/images/gn2vCmWO7jQBBto9SYuBHYZARaU_big.jpg" group-title="VOD 2021",Voyagers
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18525.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En passant pécho" tvg-logo="http://ip.platevpc.xyz:8080/images/hyxaVyx7wEqChZoAO7vpvmMnDb1_big.jpg" group-title="VOD 2021",En passant pécho
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18524.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Red Dot" tvg-logo="http://ip.platevpc.xyz:8080/images/qth9hOnQctaJbyzmAau4DZaUyUG_big.jpg" group-title="VOD 2021",Red Dot
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18523.mkv
-#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas" tvg-logo="http://ip.platevpc.xyz:8080/images/98UFAKFPUOIzF91Q0j0W7vR4ikV_big.jpg" group-title="VOD 2021",As Pequenas Coisas
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18521.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Psycho Goreman" tvg-logo="http://ip.platevpc.xyz:8080/images/foQnDv051kQ7satMQkbkPsUxzkD_big.jpg" group-title="VOD 2021",Psycho Goreman
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18520.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Malcolm & Marie" tvg-logo="http://ip.platevpc.xyz:8080/images/oZDAW4nmlC2cT9vM4fRxTQWHddE_big.jpg" group-title="VOD 2021",Malcolm & Marie
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18519.mkv
-#EXTINF:-1 tvg-id="" tvg-name="NOVA ORDEM ESPACIAL" tvg-logo="http://ip.platevpc.xyz:8080/images/f32ne52ClTPFL9Ew2aPUhKoVn9e_big.jpg" group-title="VOD 2021",NOVA ORDEM ESPACIAL
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18518.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Ultimate Playlist of Noise" tvg-logo="http://ip.platevpc.xyz:8080/images/9e0SRcHiFLcKCOL7HKUcVor49Va_big.jpg" group-title="VOD 2021",The Ultimate Playlist of Noise
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18516.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Penguin Bloom" tvg-logo="http://ip.platevpc.xyz:8080/images/iUn7594Rwfstu5njA8hf9WQIcFi_big.jpg" group-title="VOD 2021",Penguin Bloom
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18515.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bajocero" tvg-logo="http://ip.platevpc.xyz:8080/images/rofFkTuMwwIJpWJVQaTRYqfQuoN_big.jpg" group-title="VOD 2021",Bajocero
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18514.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Escavação" tvg-logo="http://ip.platevpc.xyz:8080/images/ov6ES8aMntZJ6bbhOhhSwNoZbVf_big.jpg" group-title="VOD 2021",A Escavação
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18513.mkv
-#EXTINF:-1 tvg-id="" tvg-name="‘Ohana: Um Tesouro do Havai" tvg-logo="http://ip.platevpc.xyz:8080/images/vcQY8T1owyMMRmp9dZiUTUQVxKW_big.jpg" group-title="VOD 2021",‘Ohana: Um Tesouro do Havai
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18512.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Palmer" tvg-logo="http://ip.platevpc.xyz:8080/images/xSDdRAjxKAGi8fUBLOqSrBhJmF0_big.jpg" group-title="VOD 2021",Palmer
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18511.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Passageiro Acidental" tvg-logo="http://ip.platevpc.xyz:8080/images/n91IdvTOxogvs08HN0mYK7nY5T7_big.jpg" group-title="VOD 2021",Passageiro Acidental
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18510.mkv
-#EXTINF:-1 tvg-id="" tvg-name="HOMUNCULUS" tvg-logo="http://ip.platevpc.xyz:8080/images/rNFTjTUWA75IKdRexadiDEk9Aa3_big.jpg" group-title="VOD 2021",HOMUNCULUS
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18509.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sem Remorso" tvg-logo="http://ip.platevpc.xyz:8080/images/uHEZ4ZMziIjlAgCTQAEh9ROvtj0_big.jpg" group-title="VOD 2021",Sem Remorso
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18508.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sussurros das Trevas" tvg-logo="http://ip.platevpc.xyz:8080/images/bsxQvbWiBa13Vsas5Sj0JhR73QF_big.jpg" group-title="VOD 2021",Sussurros das Trevas
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18505.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Come True" tvg-logo="http://ip.platevpc.xyz:8080/images/hGPGRRz6FTIRed1zestdWrV2Iwd_big.jpg" group-title="VOD 2021",Come True
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18493.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Virtuoso" tvg-logo="http://ip.platevpc.xyz:8080/images/8RIjjmWZi8tJf5lRxyHGErentsv_big.jpg" group-title="VOD 2021",The Virtuoso
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18491.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Assault on VA-33" tvg-logo="http://ip.platevpc.xyz:8080/images/wSAvEMPr8ddriiIX2fxbaPwpa5a_big.jpg" group-title="VOD 2021",Assault on VA-33
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18490.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="http://ip.platevpc.xyz:8080/images/xzDXq7ofNkvIovB6Vb8KZpjqkK0_big.jpg" group-title="VOD 2021",Music
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18475.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wrong Turn" tvg-logo="http://ip.platevpc.xyz:8080/images/rHmZDnvNy19PKv6dRNZGAj28e5o_big.jpg" group-title="VOD 2021",Wrong Turn
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18474.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Willy's Wonderland" tvg-logo="http://ip.platevpc.xyz:8080/images/keEnkeAvifw8NSEC4f6WsqeLJgF_big.jpg" group-title="VOD 2021",Willy's Wonderland
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18473.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Todos os Rapazes: Agora e Para Sempre" tvg-logo="http://ip.platevpc.xyz:8080/images/2uytm9msyYVFxSVPzGPMriWEo0e_big.jpg" group-title="VOD 2021",A Todos os Rapazes: Agora e Para Sempre
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18472.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Map of Tiny Perfect Things" tvg-logo="http://ip.platevpc.xyz:8080/images/sXhkHPAOD14ZtEPoZtJRqLVQKat_big.jpg" group-title="VOD 2021",The Map of Tiny Perfect Things
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18471.mkv
-#EXTINF:-1 tvg-id="" tvg-name="June & Kopi" tvg-logo="http://ip.platevpc.xyz:8080/images/wY3bXOBc513NcZIdkYBoj46fPaH_big.jpg" group-title="VOD 2021",June & Kopi
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18470.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat" tvg-logo="http://ip.platevpc.xyz:8080/images/w8BVC3qrCWCiTHRz4Rft12dtQF0_big.jpg" group-title="VOD 2021",Mortal Kombat
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18468.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dreamcatcher" tvg-logo="http://ip.platevpc.xyz:8080/images/qUyFrgb3jf3f991vm60LOYDkFGM_big.jpg" group-title="VOD 2021",Dreamcatcher
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18465.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Espião Inglês" tvg-logo="http://ip.platevpc.xyz:8080/images/ydMTW0cK6enMEVX7fJGWjFzfscm_big.jpg" group-title="VOD 2021",O Espião Inglês
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18464.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Reckoning" tvg-logo="http://ip.platevpc.xyz:8080/images/3jdBOApDt1DXlJtdzUtp76DhmmP_big.jpg" group-title="VOD 2021",The Reckoning
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18463.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Last Call" tvg-logo="http://ip.platevpc.xyz:8080/images/sYIBL6CqGKUGweL8kkiKpZZ8JpV_big.jpg" group-title="VOD 2021",Last Call
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18457.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Power" tvg-logo="http://ip.platevpc.xyz:8080/images/sxnlb6cyxhhgC2eAwEYu61Zmd4E_big.jpg" group-title="VOD 2021",The Power
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18456.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Judas and the Black Messiah" tvg-logo="http://ip.platevpc.xyz:8080/images/4ep2AOWNbVeS0EKLpOBKcIZ8hZS_big.jpg" group-title="VOD 2021",Judas and the Black Messiah
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18455.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SAS: Red Notice" tvg-logo="http://ip.platevpc.xyz:8080/images/6Y9fl8tD1xtyUrOHV2MkCYTpzgi_big.jpg" group-title="VOD 2021",SAS: Red Notice
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18454.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crisis" tvg-logo="http://ip.platevpc.xyz:8080/images/ao4JajLcPITivfstlzENge3MPkq_big.jpg" group-title="VOD 2021",Crisis
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18453.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Seventh Day" tvg-logo="http://ip.platevpc.xyz:8080/images/2Wpfg66ro2tBs7vYkeu6unzgh3_big.jpg" group-title="VOD 2021",The Seventh Day
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18452.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Uma Última Missão" tvg-logo="http://ip.platevpc.xyz:8080/images/wAJniojhHa4oVKa9AxdNwvpmS74_big.jpg" group-title="VOD 2021",Uma Última Missão
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18451.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Covid Diaries NYC" tvg-logo="http://ip.platevpc.xyz:8080/images/DKFo17a9M3ESdBX1XdqNdEusGi_big.jpg" group-title="VOD 2021",Covid Diaries NYC
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18448.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ninguém" tvg-logo="http://ip.platevpc.xyz:8080/images/woPYFGKwVULILbO7q44HmsNY0kO_big.jpg" group-title="VOD 2021",Ninguém
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18447.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Land" tvg-logo="http://ip.platevpc.xyz:8080/images/6pYhDPzYPGKvDYpxdf0IUE3RDAS_big.jpg" group-title="VOD 2021",Land
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18440.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dolly Parton: A MusiCares Tribute" tvg-logo="http://ip.platevpc.xyz:8080/images/jXkELm9DENmIOuMgveR1RzjCctD_big.jpg" group-title="VOD 2021",Dolly Parton: A MusiCares Tribute
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18439.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Geez & Ann" tvg-logo="http://ip.platevpc.xyz:8080/images/fI9bke5O0Tc9FUUPs722VRKwqI_big.jpg" group-title="VOD 2021",Geez & Ann
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18438.mkv
-#EXTINF:-1 tvg-id="" tvg-name="VOCÊ JÁ VIU VAGALUMES?" tvg-logo="http://ip.platevpc.xyz:8080/images/obiroU0bUT4yeiROMl7DwbGVsLN_big.jpg" group-title="VOD 2021",VOCÊ JÁ VIU VAGALUMES?
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18434.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The World to Come" tvg-logo="http://ip.platevpc.xyz:8080/images/j64CnpmbaKB90Cpprk5hM9kHyJI_big.jpg" group-title="VOD 2021",The World to Come
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18433.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moxie" tvg-logo="http://ip.platevpc.xyz:8080/images/odxiLTEkI7QacNcEpajJbXKzZPT_big.jpg" group-title="VOD 2021",Moxie
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18424.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chaos Walking - O Ruído" tvg-logo="http://ip.platevpc.xyz:8080/images/7poSpsfrnhxjVN2uRmemd76ASvS_big.jpg" group-title="VOD 2021",Chaos Walking - O Ruído
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18422.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Trovão" tvg-logo="http://ip.platevpc.xyz:8080/images/Aej7rR73kpAKce6XXBLeqijAwPD_big.jpg" group-title="VOD 2021",Esquadrão Trovão
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18421.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Príncipe Volta a Nova Iorque" tvg-logo="http://ip.platevpc.xyz:8080/images/mpXRG5zPUT18IeYvCoC4zOscked_big.jpg" group-title="VOD 2021",O Príncipe Volta a Nova Iorque
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mauritano" tvg-logo="http://ip.platevpc.xyz:8080/images/eiUnQ2YXcxSGdCLrN8tQEhLirZq_big.jpg" group-title="VOD 2021",O Mauritano
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18417.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong" tvg-logo="http://ip.platevpc.xyz:8080/images/klAIFewuqcyEmH1SMtR2XbMyqzM_big.jpg" group-title="VOD 2021",Godzilla vs. Kong
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18416.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tony Parker: Entre os Maiores" tvg-logo="http://ip.platevpc.xyz:8080/images/p4lqK6xugHQNXmhKkoDHbi9a7BD_big.jpg" group-title="VOD 2021",Tony Parker: Entre os Maiores
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="त्रिभंग" tvg-logo="http://ip.platevpc.xyz:8080/images/6OWTh12f8gmZ8uo4O2rE5TPKvzc_big.jpg" group-title="VOD 2021",त्रिभंग
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="L'ultimo paradiso" tvg-logo="http://ip.platevpc.xyz:8080/images/iJFc9CUT7v1S3UmsEEaubG2Gcf5_big.jpg" group-title="VOD 2021",L'ultimo paradiso
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter" tvg-logo="http://ip.platevpc.xyz:8080/images/2QhhILPAv7MKFd1q57ssQeEV2su_big.jpg" group-title="VOD 2021",Monster Hunter
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Come True" tvg-logo="http://ip.platevpc.xyz:8080/images/oeUInw5QePyf2rCe9zQzGEAP5gM_big.jpg" group-title="VOD 2021",Come True
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="After - Depois da Verdade" tvg-logo="http://ip.platevpc.xyz:8080/images/aduKXG7H0z0osY8KNQjcLB3cWO5_big.jpg" group-title="VOD 2021",After - Depois da Verdade
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zona de Perigo" tvg-logo="http://ip.platevpc.xyz:8080/images/vnVQx7MJMwTvqcn5pkYDImxzlMg_big.jpg" group-title="VOD 2021",Zona de Perigo
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mix Up in the Mediterranean" tvg-logo="http://ip.platevpc.xyz:8080/images/of6DPZkQJL9qC4AL6hO4M1hko9i_big.jpg" group-title="VOD 2021",Mix Up in the Mediterranean
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love, Lost & Found" tvg-logo="http://ip.platevpc.xyz:8080/images/35LA1oinprT88L1EJNoY6yZrgUe_big.jpg" group-title="VOD 2021",Love, Lost & Found
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cosmic Sin" tvg-logo="http://ip.platevpc.xyz:8080/images/oOiqpWM5id30m7Z5Zuo5cJlwKfV_big.jpg" group-title="VOD 2021",Cosmic Sin
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Contactee" tvg-logo="http://ip.platevpc.xyz:8080/images/7a3O11HCJSXbbo9IQeECWvNGlWZ_big.jpg" group-title="VOD 2021",Contactee
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18300.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills Wedding" tvg-logo="http://ip.platevpc.xyz:8080/images/bghXohmeni6EDZQdZSQkvJG1hjE_big.jpg" group-title="VOD 2021",Beverly Hills Wedding
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Barb and Star Go to Vista Del Mar" tvg-logo="http://ip.platevpc.xyz:8080/images/6Z1a6RUMWGRHoecMPrV2VTAZNOL_big.jpg" group-title="VOD 2021",Barb and Star Go to Vista Del Mar
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agent Revelation" tvg-logo="http://ip.platevpc.xyz:8080/images/lnihobYZTZZ88PUKKw30WpaCveV_big.jpg" group-title="VOD 2021",Agent Revelation
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batman: Soul Of The Dragon ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDhnTtSxU5a8DtZdbbin3aZmkmU.jpg" group-title="VOD 2021",Batman: Soul Of The Dragon ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Battle In Space The Armada Attacks ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gM5PP0EAGz4iKN1AcuOzSBumC1.jpg" group-title="VOD 2021",Battle In Space The Armada Attacks ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boss Level ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nR2X7oi1Ot8AVti5kuGNwGXFwHW.jpg" group-title="VOD 2021",Boss Level ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17548.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crack: Cocaine, Corruption And Conspiracy ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVKWtkgwCd34wT10v0Bwg1NYYcc.jpg" group-title="VOD 2021",Crack: Cocaine, Corruption And Conspiracy ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Locked Down ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svHelD0Hb3TXPAQoPsoBwdDMTvf.jpg" group-title="VOD 2021",Locked Down ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Redemption Day ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCTo0s8xzQplZY5h70cRy2OA4Pt.jpg" group-title="VOD 2021",Redemption Day ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Outside The Wire ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg" group-title="VOD 2021",Outside The Wire ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bliss ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7BllsQkD6nTkAdtd28UVCmKqVi.jpg" group-title="VOD 2021",Bliss ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Courting Mom And Dad ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6QXao2eqgPbmJYbydVNbE3Gtln.jpg" group-title="VOD 2021",Courting Mom And Dad ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Expiry ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aX3C0CR3fnW2TwVLj5SvVWeDgXd.jpg" group-title="VOD 2021",Expiry ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marvel's Behind The Mask ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p71YgDQk5sFHTqF3FBygLPmZEX5.jpg" group-title="VOD 2021",Marvel's Behind The Mask ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spiral: From The Book Of Saw ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkl6mRoFexK2FGWCbAsvrRxjWaF.jpg" group-title="VOD 2021",Spiral: From The Book Of Saw ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stars Fell On Alabama ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGMa5XCyUFFWaIlKZoQvW6gCwGp.jpg" group-title="VOD 2021",Stars Fell On Alabama ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Little Things ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7VlGCCgM9GZivKSzBgzuOVxQn7.jpg" group-title="VOD 2021",The Little Things ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agent Revelation ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnihobYZTZZ88PUKKw30WpaCveV.jpg" group-title="VOD 2021",Agent Revelation ()
-http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/17677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love You Right: An R&B Musical ()" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciz43leu3ALrAyWfEQfY32cklhg.jpg" group-title="VOD 2021",Love You Right: An R&B Musical ()
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3zYGZ6V" group-title="", WHATSAPP
+https://bit.ly/3hjOYUD
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 9" tvg-logo="https://bit.ly/3j4INEh" group-title="FILMES 2021", Fast & Furious 9 (2021)
+https://archive.org/27/items/f-9-2021-720p-mp-4/F9%202021%20720p%20MP4.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 9" tvg-logo="https://bit.ly/3j4INEh" group-title="FILMES 2021", OPÇÃO 2 Fast & Furious 9 (2021)
+https://fv2-2.failiem.lv/thumb_video/w8j83h9q6.mp4?&download_checksum=27121c3d2d302089986c711d0bec80dc3460d533&download_timestamp=1630959174
+
+#EXTINF:-1 tvg-id="" tvg-name="O ESQUADRÃO SUICIDA" tvg-logo="https://bit.ly/2Vx5qZQ" group-title="FILMES 2021", O ESQUADRÃO SUICIDA (2021)
+https://archive.org/2/items/esquadro.-s..-2021.720p/Esquadro.S..2021.720p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jungle Cruise PT" tvg-logo="https://bit.ly/3BYgQ9D" group-title="ANIMAÇÃO PT", Jungle Cruise PT (2021)
+http://tkuniverse21.tk/0870154.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SPACE JAM PT" tvg-logo="https://bit.ly/36YG9tW" group-title="ANIMAÇÃO PT", SPACE JAM PT (2021)
+http://tkuniverse21.tk/3554046.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="G.I. JOE ORIGENS: SNAKE EYES" tvg-logo="https://bit.ly/3sQaSUk" group-title="FILMES 2021", G.I. JOE ORIGENS: SNAKE EYES (2021)
+https://archive.org/22/items/g.-i.-joe-origens-snake-eyes/G.I.%20Joe%20Origens-%20Snake%20Eyes.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A PROTEGIDA" tvg-logo="https://bit.ly/3mQP5uH" group-title="FILMES 2021", A PROTEGIDA (2021)
+https://archive.org/10/items/a-protegida/A%20PROTEGIDA.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGERS" tvg-logo="https://bit.ly/3ByWlzo" group-title="FILMES 2021", VOYAGERS (2021)
+https://archive.org/5/items/voyagers2021/Voyagers%202021%20720p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="VACATION FRIENDS" tvg-logo="https://bit.ly/3DSyzjF" group-title="FILMES 2021", VACATION FRIENDS (2021)
+https://archive.org/download/vacation-friends/Vacation%20Friends.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SPIRAL: FROM THE BOOK OF SAW" tvg-logo="https://bit.ly/3thFkXq" group-title="FILMES 2021", SPIRAL: FROM THE BOOK OF SAW (2021)
+https://archive.org/download/spiral-saw_202109/spiral-%20From%20the%20Book%20of%20Saw.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="CINDERELLA" tvg-logo="https://bit.ly/3BJpPuu" group-title="FILMES 2021", CINDERELLA (2021)
+https://archive.org/download/princesa_202109/%20Cinderela.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="NA PORTA AO  LADO: ESPERANÇA" tvg-logo="https://bit.ly/3jtUbL3" group-title="FILMES PT", NA PORTA AO  LADO: ESPERANÇA (2021)
+https://archive.org/download/npa-le-2021/NPaLE2021.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="CABRAS DA PESTE" tvg-logo="https://bit.ly/38pEu1t" group-title="FILMES BR", CABRAS DA PESTE (2021)
+https://archive.org/26/items/caasd-pst-2021_202108/CaasdPst2021.mp4
