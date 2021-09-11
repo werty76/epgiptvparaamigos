@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="", FILME ESTIVER OFF AVISA-ME
-https://1.1.1.1
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2UjaUqI" group-title="",NÃO TEM O FILME PEDE-ME
-https://1.1.1.2
-
 #EXTINF:-1 tvg-logo="https://bit.ly/3j4INEh" group-title="FILMES 2021", Fast & Furious 9 (2021)
 https://archive.org/27/items/f-9-2021-720p-mp-4/F9%202021%20720p%20MP4.mp4
 
