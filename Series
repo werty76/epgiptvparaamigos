@@ -1,16 +1,16 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-id="Terror" tvg-name="Santuário das Sombras" tvg-logo="http://ip.platevpc.xyz:8080/images/zduyzcjyahZtP4fGZE6789h04IM_big.jpg" group-title="VOD 2021",Santuário das Sombras
+#EXTINF:-1 tvg-id="" tvg-name="Santuário das Sombras" tvg-logo="http://ip.platevpc.xyz:8080/images/zduyzcjyahZtP4fGZE6789h04IM_big.jpg" group-title="VOD 2021",Santuário das Sombras
 http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18635.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Our Friend" tvg-logo="http://ip.platevpc.xyz:8080/images/vg9C5LttsKBqoLuqeQvOXaeBGiD_big.jpg" group-title="VOD 2021",Our Friend
+#EXTINF:-1 tvg-id="" tvg-name="Our Friend" tvg-logo="http://ip.platevpc.xyz:8080/images/vg9C5LttsKBqoLuqeQvOXaeBGiD_big.jpg" group-title="ANIMAÇÃO PT",Our Friend
 http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18634.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wildcat" tvg-logo="http://ip.platevpc.xyz:8080/images/oy16WaZVnjNU86kEUrSc9qPwsgK_big.jpg" group-title="VOD 2021",Wildcat
+#EXTINF:-1 tvg-id="" tvg-name="Wildcat" tvg-logo="http://ip.platevpc.xyz:8080/images/oy16WaZVnjNU86kEUrSc9qPwsgK_big.jpg" group-title="FILMES PT",Wildcat
 http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18632.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aqueles que me Desejam a Morte" tvg-logo="http://ip.platevpc.xyz:8080/images/lkp6LB2ZfKC4TrGhUJu376PaTFg_big.jpg" group-title="VOD 2021",Aqueles que me Desejam a Morte
 http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18601.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ape vs. Monster" tvg-logo="http://ip.platevpc.xyz:8080/images/tpwv6bA0jY7SpeiXMmIeLqOW4eg_big.jpg" group-title="VOD 2021",Ape vs. Monster
 http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18590.mkv
-#EXTINF:-1 tvg-id="Ação" tvg-name="Plano de Fuga" tvg-logo="http://ip.platevpc.xyz:8080/images/3YMy2JFHaXuZwdojXVqBZ4QKC3X_big.jpg" group-title="VOD 2021",Plano de Fuga
+#EXTINF:-1 tvg-id="" tvg-name="Plano de Fuga" tvg-logo="http://ip.platevpc.xyz:8080/images/3YMy2JFHaXuZwdojXVqBZ4QKC3X_big.jpg" group-title="VOD 2021",Plano de Fuga
 http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18589.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Djinn" tvg-logo="http://ip.platevpc.xyz:8080/images/kE4j7XP64RvTFNvamhOrf6ZYkb9_big.jpg" group-title="VOD 2021",The Djinn
 http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18588.mkv
