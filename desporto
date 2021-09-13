@@ -56,6 +56,9 @@ http://mytv.fun:8080/erbil22/fHXlwwRS/13770
 #EXTINF:-1 tvg-logo="https://bit.ly/3tDApAe" group-title="Jogos", Eleven Sports 6
 http://mytv.fun:8080/erbil22/fHXlwwRS/13769
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto", WWE NETWORK HD
+http://mytv.fun:8080/erbil22/fHXlwwRS/683002
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",RED BULL TV FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
