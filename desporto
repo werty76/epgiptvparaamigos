@@ -12,6 +12,24 @@ https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CpIF5eYvHbnjJe_YBfObx4n8Lqs
 #EXTINF:-1 tvg-logo="https://bit.ly/3tylWFI" group-title="Liga Portugal", Liga Portugal
 https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CpIFzDsb71pS8OSr5MM8o3fDSxtqcfZcHGy870pWh5uQSM9lI2zLlqQt9v2ggafOKqPWenHVmZXSfqpYH7gZdKOypaqVKbI-F4Mgunz5eIhJ8iJ7eJjOAS70VELKBJTG_X4kHJgYlK1DwwWdNasMsALVsqLFvPYDP2fZNw-BkJUETkxee6bdUccEQo77f-HcUBuIe3-Lasf0LGMir6XAmFr8MZ1PwSuBXmuir0xBROxUk_tKuSNYCb_tAhefgsUxn0B-eG7WDn3rf-dgto82NcSA2JparO4zUW_7hBmYUKxkn5B5qXsP-5Y8NxVm1tnuRnVxLbdCDl637S2y4tZ_RsiajfGE8-mExUP1-6zhpcxZmr1KHOZ3JocI901PnjMKGUg7V7UH6mKtp3SlaB7qKnjFZL2yjb6_XpBJtMuFjG2huFLf7IA0pvDv9Euikf7FaLi9xRoDtVxVwRma1aQnXaX0wZyRZAp9L7gvfzHWtfLTfHxZ25qEidf8Q9EgsNAghugj_8T4VSG93zBSUaV75a-PSg8u-7CpZCk-PAb2etzCf25hz2zLOEY9T30qQ_NnO5CLkPLGzw3zcRmMw690OC1xOY3BJ27M9QIzhhCp8OZ4izAacgek6H80PGqttdxrpObxb6VygSLLMFBalUADwZUOUNDVq5JxfdZNCJsOYmHwWF04RpuIxBcYE-lsf7my3KyvY5Vfkv4FPsjKBLVDXzc10QKvN4VzySqP1AZu2vtCZQGhWJ47unQ-MkW4nn43WfmgReMb4Fo_1PZlNZWYHCz5esK6Yr5lndhEp_5PXmODXgJw122F1M2kdcSgFkDGXXbWbcjsunq-Kn6CiNxhpPm9_HRD3196uzaRWSiziUhwmlomAhIQM0EfFejPyB17vPPgaHG1NxoMPAqYU6DruM7bq0pl.m3u8
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/500
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3sgL3fD" group-title="Jogos",sport2
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/499
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3k0po82" group-title="Jogos",sport3
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/498
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3iLVJQp" group-title="Jogos",sport4
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/497
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3g22v2S" group-title="Jogos",sport5
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1644
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2VMBgCx" group-title="Jogos",btv
+
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",RED BULL TV FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
@@ -39,22 +57,7 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://bit.ly/2WC869d" group-title="Desporto",STADIUM HD
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport1
-http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/500
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3sgL3fD" group-title="Jogos",sport2
-http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/499
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3k0po82" group-title="Jogos",sport3
-http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/498
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3iLVJQp" group-title="Jogos",sport4
-http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/497
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g22v2S" group-title="Jogos",sport5
-http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1644
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2VMBgCx" group-title="Jogos",btv
 
 
 
