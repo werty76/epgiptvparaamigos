@@ -38,6 +38,23 @@ http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2VMBgCx" group-title="Jogos",btv
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3tDApAe" group-title="Jogos", Eleven Sports 1
+http://mytv.fun:8080/erbil22/fHXlwwRS/13774
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tDApAe" group-title="Jogos", Eleven Sports 2
+http://mytv.fun:8080/erbil22/fHXlwwRS/13773
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tDApAe" group-title="Jogos", Eleven Sports 3
+http://mytv.fun:8080/erbil22/fHXlwwRS/13772
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tDApAe" group-title="Jogos", Eleven Sports 4
+http://mytv.fun:8080/erbil22/fHXlwwRS/13771
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tDApAe" group-title="Jogos", Eleven Sports 5
+http://mytv.fun:8080/erbil22/fHXlwwRS/13770
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tDApAe" group-title="Jogos", Eleven Sports 6
+http://mytv.fun:8080/erbil22/fHXlwwRS/13769
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",RED BULL TV FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
