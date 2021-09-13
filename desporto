@@ -15,11 +15,20 @@ https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CpIFzDsb71pS8OSr5MM8o3fDSxt
 #EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport tv1
 http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/500
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3fZ93yT" group-title="Jogos",sport tv1
+http://mytv.fun:8080/erbil22/fHXlwwRS/5442
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3sgL3fD" group-title="Jogos",sport tv2
 http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/499
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3sgL3fD" group-title="Jogos",sport tv2
+http://mytv.fun:8080/erbil22/fHXlwwRS/5441
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3k0po82" group-title="Jogos",sport tv3
 http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/498
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3k0po82" group-title="Jogos",sport tv3
+http://mytv.fun:8080/erbil22/fHXlwwRS/5440
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3iLVJQp" group-title="Jogos",sport tv4
 http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/497
