@@ -195,33 +195,17 @@ http://1.1.1.22
 #EXTINF:-1 tvg-logo="https://bit.ly/2YoO2YK" group-title="LA CASA DE PAPEL",CASA DE PAPEL Tª5 EO1
 https://fv2-1.failiem.lv/thumb_video/8xhdr6f7v.mp4?v=1632782334
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2YoO2YK" group-title="LA CASA DE PAPEL",OPÇÃO 2 Tª5 EO1
-https://proxy-003.ix7.dailymotion.com/sec(zBLo9_ZO9Yz5cZ8xnl9pTvaJSljWpmBbhZN4YTudAVEl9vKh6XI12CjFBVnQTjFgJB_I_cIMYpjsyGLkV-QpqTsAMFMTx8eny0uFo2JxFc0)/video/640/465/490564046_mp4_h264_aac_hq.m3u8
-
 #EXTINF:-1 tvg-logo="https://bit.ly/2YoO2YK" group-title="LA CASA DE PAPEL",CASA DE PAPEL Tª5 EO2
 https://fv2-3.failiem.lv/thumb_video/hrzq9tenq.mp4?v=1632782369
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2YoO2YK" group-title="LA CASA DE PAPEL",OPÇÃO 2 Tª5 EO2
-https://proxy-044.dc3.dailymotion.com/sec(ze_zdAyquuHZoAqFx0DMTx5DwLDncC3JrlMuYGZNRjYPXrmxiJNXz2NadNMMFxOrQ3FCJhtNMZkFpSHkY0U0BexFqKlc7avkhHV6RorokWQ)/video/473/465/490564374_mp4_h264_aac_hq.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2YoO2YK" group-title="LA CASA DE PAPEL",CASA DE PAPEL Tª5 EO3
 https://fv2-2.failiem.lv/thumb_video/8g35czkdh.mp4?v=1632782400
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2YoO2YK" group-title="LA CASA DE PAPEL",OPCÃO 2 Tª5 EO3
-https://proxy-008.dc3.dailymotion.com/sec(x2bUAZMv-rYwDLQ90TPHZP732tAuElTitCxHx2WYq052O7rSbiX6pJIJnAOmOi6XrxlhOYIpt6j95ur6jcZ4wzi7SgyCqipyi0Zx5yE5G9E)/video/293/465/490564392_mp4_h264_aac_hq.m3u8
-
 #EXTINF:-1 tvg-logo="https://bit.ly/2YoO2YK" group-title="LA CASA DE PAPEL",CASA DE PAPEL Tª5 EO4
 https://fv2-3.failiem.lv/thumb_video/6rm6z5nr7.mp4?v=16327824264
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2YoO2YK" group-title="LA CASA DE PAPEL",OPCÃO 2 Tª5 EO4
-https://proxy-018.ix7.dailymotion.com/sec(06B2xrQvupyx3v5AXa2ZbfxBsHAq-fQIHTpXnNFTUpGyiJkhbzvgvjqhW-1npDvub8LcQsvgGpLIcmfutHjVTX8-EaML9zjqFqiQMjU4XdM)/video/167/416/490614761_mp4_h264_aac_hq.m3u8
-
 #EXTINF:-1 tvg-logo="https://bit.ly/2YoO2YK" group-title="LA CASA DE PAPEL",CASA DE PAPEL Tª5 EO5
 https://fv2-1.failiem.lv/thumb_video/euzg5agf2.mp4?v=1632782448
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2YoO2YK" group-title="LA CASA DE PAPEL",OPCÃO 2 Tª5 EO5
-https://proxy-044.ix7.dailymotion.com/sec(hCRZ4giIu0onR2ZnmiaRMHsYElXfCTsXcV3pJCyxoFW1lMuc7wvegy07-Z05psxu-ZOsCeQAcOnu7qTzWjR6EGCP6jkmepfj93ZNDuEu6vY)/video/667/416/490614766_mp4_h264_aac_hq.m3u8
-
 
 
 
@@ -277,10 +261,10 @@ https://fv2-1.failiem.lv/thumb_video/2rzhde5c8.mp4?v=1632568265
 https://fv2-4.failiem.lv/thumb_video/e9fqkrd7j.mp4?v=1633372730
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3k5xflQ" group-title="SEE", T2 EP7 SEE
-https://archive.org/download/see-s-02-e-07/See%20S02E07%20.mp4
+https://fv9-1.failiem.lv/thumb_video/kza9vqwq3.mp4?v=1636117646
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3k5xflQ" group-title="SEE", T2 EP8 SEE
-https://archive.org/download/see-s-02-e-07_202110/see%20s02%20e07.mp4
+https://fv9-3.failiem.lv/thumb_video/y9ycwqjdu.mp4?v=1636117521
 
 
 
@@ -334,6 +318,39 @@ https://fv2-2.failiem.lv/Files.fm_2021-07-27_file_g4br53zqs/2-7-BAIXO.mp4?PHPSES
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2ViWyqM" group-title="MANDALORIAN (DISNEY)", MANDALORIAN Tº2 EP8
 https://fv2-1.failiem.lv/Files.fm_2021-07-27_file_vxs4j7g9q/2-8-BAIXO.mp4?PHPSESSID=181345159e27278d021239e08f563c01b2197a00
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="O CLUBE",»»»»»O CLUBE 1ª Temporada«««««
+http://1.1.1.24
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Vq2FKg" group-title="O CLUBE",EP1 VIANA - O CLUB
+https://archive.org/download/ep-1-viana-o-club/EP1%20VIANA%20-%20O%20CLUB.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Vq2FKg" group-title="O CLUBE",EP2 VERA - MUDANÇAS
+https://archive.org/download/ep-2-vera-mudancas/EP2%20VERA%20-%20MUDAN%C3%87AS.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Vq2FKg" group-title="O CLUBE",EP3 ANDREIA - PRISIONEIRAS
+https://archive.org/download/ep-3-andreia-prisioneiras/EP3%20ANDREIA%20-%20PRISIONEIRAS.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Vq2FKg" group-title="O CLUBE",EP4 MARTINA - NEGOCIOS
+https://archive.org/download/ep-4-martina-negocios/EP4%20MARTINA%20-%20NEGOCIOS.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Vq2FKg" group-title="O CLUBE",EP5 VASCO - CONCEQUENCIAS
+https://archive.org/download/ep-5-vasco-concequencias/EP5%20VASCO%20-%20CONCEQUENCIAS.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Vq2FKg" group-title="O CLUBE",EP6 RUTE - SURPRESAS
+https://archive.org/download/ep-6-rute-surpresas/EP6%20RUTE%20-%20SURPRESAS.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Vq2FKg" group-title="O CLUBE",EP7 BERNARDO - REVELAÇÕES
+https://archive.org/download/ep-7-bernardo-revelaco-es/EP7%20BERNARDO%20-%20REVELA%C3%87%C3%95ES.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Vq2FKg" group-title="O CLUBE",EP8 JESSICA - IMPREVISTOS
+https://archive.org/download/ep-8-jessica-imprevistos/EP8%20JESSICA%20-%20IMPREVISTOS.mp4
+
+
+
 
 
 
