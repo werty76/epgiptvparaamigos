@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3HdYgwM" group-title="FILMES 2021", SHANG-CHI E A LENDA DOS  DEZ  ANÉIS (2021)
+https://fv9-3.failiem.lv/thumb_video/wxw8m3g5g.mp4?v=1636584152
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3o92fSz" group-title="FILMES 2021", APEX (2021)
 https://archive.org/download/aspeto-fraco-2021-mp-4-leg/Aspeto%20fraco%202021%20MP4%20LEG.mp4
 
@@ -245,6 +248,9 @@ https://archive.org/download/homem-feio-vai-embora-2019-mp-4-leg/Homem%20feio%20
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3hD8v3j" group-title="MARVEL", VIUVA NEGRA 
 https://archive.org/download/como-obter-o-corte-de-cabelo-parte-perfeita/Como%20obter%20o%20corte%20de%20cabelo%20parte%20perfeita.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3HdYgwM" group-title="MARVEL", SHANG-CHI E A LENDA DOS  DEZ  ANÉIS (2021)
+https://fv9-3.failiem.lv/thumb_video/wxw8m3g5g.mp4?v=1636584152
 
 
 
