@@ -1,6 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="HAWKEYE",»»»»»HAWKEYE 1ª Temporada«««««
+http://1.1.1.233
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3GaMBgY" group-title="HAWKEYE", HAWKEYE S01E01
+https://archive.org/download/gaviao-s-01-e-02-mp-4/Gavi%C3%A3o%20S01E01%20MP4.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3GaMBgY" group-title="HAWKEYE", HAWKEYE S01E02
+https://archive.org/download/gaviao-s-01-e-02-mp-4/Gavi%C3%A3o%20S01E02%20%20MP4.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3GaMBgY" group-title="HAWKEYE", HAWKEYE S01E03
+https://archive.org/download/gaviao-s-01-e-02-mp-4/Gavi%C3%A3o%20S01E03%20MP4.mp4
+
+
 #EXTINF:-1 tvg-logo="" group-title="GLÓRIA",»»»»»GLÓRIA 1ª Temporada«««««
 http://1.1.1.232
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3qJYGpd" group-title="GLÓRIA", GLÓRIA EP1
 https://archive.org/download/golo-da-gloria-ep-1/Golo%20da%20Gl%C3%B3ria%20ep1.mkv
@@ -67,6 +81,9 @@ https://archive.org/download/6-ideias-praticas-para-galpoes-de-madeira/6%20ideia
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3Cd7xBw" group-title="DEXTER: NEW BLOOD", DEXTER: NEW BLOOD S01E03
 https://archive.org/download/um-momento-loiro-as-tendencias-de-2021/Um%20momento%20loiro-%20as%20tend%C3%AAncias%20de%202021.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3Cd7xBw" group-title="DEXTER: NEW BLOOD", DEXTER: NEW BLOOD S01E04
+https://archive.org/download/7-cabeleireiros-negros-que-voce-deveria-seguir_202112/7%20Cabeleireiros%20negros%20que%20voc%C3%AA%20deveria%20seguir.mp4
 
 
 
