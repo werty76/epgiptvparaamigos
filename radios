@@ -9,13 +9,19 @@ http://sc-atr.1.fm:7700/
 http://mcrscast.mcr.iol.pt/cidadefm
  
 #EXTINF:-1 tvg-logo="https://goo.gl/QzumzF" group-title="RADIO",MEGA HITS
-http://19573.live.streamtheworld.com/MEGA_HITS_SC
+http://radiotrucker.com/pt/play/41316/mega-hits-fm
  
 #EXTINF:-1 tvg-logo="https://goo.gl/1koNU4" group-title="RADIO",Radio Nove3cinco
 http://centova.radios.pt:9522/stream/1/
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3entkgu" group-title="RADIO",Radio M80
+http://radiotrucker.com/pt/play/41316/radio-m80
  
 #EXTINF:-1 tvg-logo="https://goo.gl/eZy3qG" group-title="RADIO",NOVA ERA
 http://centova.radios.pt:9478/stream/1/
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3sFA0iB" group-title="RADIO",Vodafone FM
+http://radiotrucker.com/pt/play/41316/vodafone-fm|Vodafone FM
  
 #EXTINF:-1 tvg-logo="https://goo.gl/R2ThTD" group-title="RADIO",ORBITAL
 http://195.23.85.126:8401/stream/1/
@@ -27,19 +33,22 @@ http://mcrscast.mcr.iol.pt/comercial.mp3
 http://centova.radios.pt:9524/stream
  
 #EXTINF:-1 tvg-logo="https://goo.gl/uq5Ym5" group-title="RADIO",RFM
-http://19553.live.streamtheworld.com/RFM_SC
+https://23563.live.streamtheworld.com/RFMAAC.aac
  
 #EXTINF:-1 tvg-logo="https://goo.gl/7cuinU" group-title="RADIO",RFM 80
-http://19553.live.streamtheworld.com/GR80SRFM_SC
- 
+https://20863.live.streamtheworld.com/GR80SRFMAAC.aac
+
 #EXTINF:-1 tvg-logo="https://goo.gl/BsUHpG" group-title="RADIO",RFM ON THE ROCK
-https://19993.live.streamtheworld.com/RFMONTHEROCKAAC.aac
+https://22533.live.streamtheworld.com/RFMONTHEROCKAAC.aac
  
 #EXTINF:-1 tvg-logo="https://goo.gl/UoSBMq" group-title="RADIO",RFM DANCEFLOOR
-https://19613.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
+https://22533.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
  
 #EXTINF:-1 tvg-logo="https://goo.gl/gwuYAg" group-title="RADIO",RFM OCEANO PACÍFICO
-https://19613.live.streamtheworld.com/OCEANPACIFICAAC.aac
+https://20723.live.streamtheworld.com/OCEANPACIFICAAC.aac
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3z3r47Q" group-title="RADIO",NATAL RFM
+https://20863.live.streamtheworld.com/LIVESTREAMAAC.aac
  
 #EXTINF:-1 tvg-logo="https://goo.gl/TC8hL4" group-title="RADIO",DIGITAL FM
 http://digitalfm.dynu.com:8000/digitalfm64
