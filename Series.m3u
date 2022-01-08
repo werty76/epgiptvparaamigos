@@ -1,4 +1,41 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="COBRA KAI",»»»»»COBRA KAI 4ª Temporada«««««
+http://1.1.1.234
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tb9qxU" group-title="COBRA KAI", COBRA KAI S0401
+https://bit.ly/COBRAKAIS04E01
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tb9qxU" group-title="COBRA KAI", COBRA KAI S0402
+https://bit.ly/COBRAKAIS04E02
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tb9qxU" group-title="COBRA KAI", COBRA KAI S0403
+https://bit.ly/COBRAKAIS04E03
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tb9qxU" group-title="COBRA KAI", COBRA KAI S0404
+https://bit.ly/COBRAKAIS04E04
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tb9qxU" group-title="COBRA KAI", COBRA KAI S0405
+https://bit.ly/COBRAKAIS04E05
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tb9qxU" group-title="COBRA KAI", COBRA KAI S0406
+https://bit.ly/COBRAKAIS04E06
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tb9qxU" group-title="COBRA KAI", COBRA KAI S0407
+https://bit.ly/COBRAKAIS04E07
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tb9qxU" group-title="COBRA KAI", COBRA KAI S0408
+https://bit.ly/COBRAKAIS04E08
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tb9qxU" group-title="COBRA KAI", COBRA KAI S0409
+https://bit.ly/COBRAKAIS04E09
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3tb9qxU" group-title="COBRA KAI", COBRA KAI S0410
+https://bit.ly/COBRAKAIS04E10
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="HAWKEYE",»»»»»HAWKEYE 1ª Temporada«««««
 http://1.1.1.233
 
