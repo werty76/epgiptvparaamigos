@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3reC3aJ" group-title="FILMES 2022", The King's Daughter (2022)
+
+
 #EXTINF:-1 tvg-logo="https://bit.ly/32KKNgT" group-title="FILMES 2021", GHOSTBUSTERS: AFTERLIFE (2021)
 https://archive.org/download/como-consertar-madeira-podre-com-epoxi/Como%20consertar%20madeira%20podre%20com%20ep%C3%B3xi.mp4
 
@@ -8,6 +11,9 @@ https://archive.org/download/como-o-shampoo-e-condicionador-biolage/Como%20o%20s
 
 #EXTINF:-1 tvg-logo="https://bit.ly/34bUm8P" group-title="FILMES 2021", RESIDENT EVIL: WELCOME TO RACCOON CITY (2021)
 https://archive.org/download/30-ideias-de-tintura-de-cabelo-para-o-dia-do-orgulho/30%20Id%C3%A9ias%20de%20tintura%20de%20cabelo%20para%20o%20dia%20do%20Orgulho.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/33vm93O" group-title="FILMES 1999", UMA LOUCA CASA DE HOSPEDES (1999)
+https://fv9-3.failiem.lv/Files.fm_2022-01-12_file_7bs67pcj4/UMA%20LOUCA%20CASA%20DE%20HOSPEDES.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f68SBf" group-title="FILMES 1986", COBRA (1986)
 https://fv9-4.failiem.lv/Files.fm_2022-01-12_file_zfgdusjby/Cobra%20(1986).mp4
