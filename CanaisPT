@@ -3,280 +3,1190 @@
 
 
 
-
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTP1.png",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTP2.png",RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/SIC.png",SIC [APENAS PORTUGAL]
-https://live.impresa.pt/live/sic/sic540p.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/TVI.png",TVI
-http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/SICN.png",SIC NOTICIAS [APENAS PORTUGAL]
-https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTP3.png",RTP3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/TVI24.png",TVI24
-http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/EURONEWS.png",EURONEWS
-https://euronews-pt-p13-cdn.hexaglobe.net/7823250820463f496e3aef1ec097f9e2/5d30dde9/euronews/euronews-euronews-website-web-responsive-2/ewnsabrptpri_por.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/ARTV.png",CANAL PARLAMENTO
-http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI_INTERNACIONAL" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tviinternacional.png",TVI INTERNACIONAL
-http://51.255.196.214/KodiPortugalRedirectService/TVIINTERNACIONAL/streamtoken=KXTBqfrTPllNzFQnfyxyBfTmcFudId.php
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTPINTER.png",RTP INTERNACIONAL
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/SICR.png",SIC RADICAL [APENAS PORTUGAL]
-https://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tvificcao.png",TVI FICCAO [APENAS ESTRANGEIRO]
-http://51.255.196.214/KodiPortugalRedirectService/TVIFICCAO/streamtoken=YkgiAEujVcuFbPvJmRnnBmCMQfzMNp.php
-#EXTINF:-1 tvg-id="TVIREAL" tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tvireality.png",TVI REALITY
-http://video-auth8.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="CMTV" tvg-logo="http://caixapreta.pt/logos/CMTV.png",CMTV
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26575.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="CANAL 180" tvg-logo="http://caixapreta.pt/logos/Canal-180.png",Canal 180
-http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="RTP Memória" tvg-logo="http://caixapreta.pt/logos/RTP-Memória.png",RTP Memória
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Q" tvg-logo="http://caixapreta.pt/logos/Canal-Q.png",Canal Q
-#http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27523.m3u8
-
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/PORTOCANAL.png",PORTO CANAL
-http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://portocanal.sapo.pt/live
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTPACO.png",RTP ACORES
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTPAFR.png",RTP AFRICA
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="RTPMadeira.pt"tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTPMAD.png",RTP MADEIRA
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/RTPMEM.png",RTP MEMORIA
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/
-#EXTINF:-1 tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",CANCAO NOVA
-https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/stream1.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="http://51.255.196.214/Logotipos/KodiPortugal/SANFAT.png",SANTUARIO DE FATIMA
-http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
-
-
-#EXTINF:-1 group-title="TV" tvg-id="SIC Radical" tvg-logo="http://caixapreta.pt/logos/SIC-Radical.png",SIC Radical
-http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="SIC K" tvg-logo="http://caixapreta.pt/logos/SIC-K.png",SIC K
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26608.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Boomerang" tvg-logo="http://caixapreta.pt/logos/Boomerang.png",Boomerang
-http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/85918.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Cartoon Network" tvg-logo="http://caixapreta.pt/logos/Cartoon-Network.png",Cartoon Network
-http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/47.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Nicke" tvg-logo="http://caixapreta.pt/logos/Nickelodeon.png",Nickelodeon
-http://85.244.70.140:7000/play/a00o
-#EXTINF:-1 group-title="TV" tvg-id="Disney Channel" tvg-logo="http://caixapreta.pt/logos/Disney-Channel.png",Disney Channel
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26611.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Disney Junior" tvg-logo="http://caixapreta.pt/logos/Disney-Junior.png",Disney Junior
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26612.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Panda" tvg-logo="http://caixapreta.pt/logos/Panda.png",Panda
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26614.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Biggs" tvg-logo="http://caixapreta.pt/logos/Biggs.png",Biggs
-http://85.244.70.140:7000/play/a013
-#EXTINF:-1 group-title="TV" tvg-id="JimJam" tvg-logo="http://caixapreta.pt/logos/JimJam.png",JimJam
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26615.m3u8
-#EXTINF:-1 tvg-ID="BabyFirstTV.pt" tvg-logo="http://caixapreta.pt/logos/BabyFirst.png",Baby First
-http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/68.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Baby TV" tvg-logo="http://caixapreta.pt/logos/BabyTV.png",BabyTV
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26616.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Nick Junior" tvg-logo="http://caixapreta.pt/logos/Nick-Junior.png",Nick Junior
-http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/63.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Cachipum-TV.png",Cachipum.TV
-http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Locomotion.png",Locomotion
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="AMC" tvg-logo="http://caixapreta.pt/logos/AMC.png",AMC
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26593.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Hollywood" tvg-logo="http://caixapreta.pt/logos/Hollywood.png",Hollywood
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26595.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="CINEMUNDO" tvg-logo="http://caixapreta.pt/logos/Cinemundo.png",Cinemundo
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26581.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="FOX Movies" tvg-logo="http://caixapreta.pt/logos/Fox-Movies.png",Fox Movies
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26583.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="FOX" tvg-logo="http://caixapreta.pt/logos/Fox.png",Fox
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26588.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="FOX Crime" tvg-logo="http://caixapreta.pt/logos/Fox-Crime.png",Fox Crime
-http//185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/62404.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="FOX Comedy" tvg-logo="http://caixapreta.pt/logos/Fox-Comedy.png",Fox Comedy
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26587.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="FOX Life" tvg-logo="http://caixapreta.pt/logos/Fox-Life.png",Fox Life
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26584.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="AXN" tvg-logo="http://caixapreta.pt/logos/AXN.png",AXN
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26591.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="AXN White" tvg-logo="http://caixapreta.pt/logos/AXN-White.png",AXN White
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26589.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="AXN Black" tvg-logo="http://caixapreta.pt/logos/AXN-Black.png",AXN Black
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26590.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="SyFy" tvg-logo="http://caixapreta.pt/logos/SyFy.png",SyFy
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26597.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Discovery Channel" tvg-logo="http://caixapreta.pt/logos/Discovery-Channel.png",Discovery Channel
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27520.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Discovery Showcase" tvg-logo="http://caixapreta.pt/logos/Discovery-Showcase.png",Discovery Showcase
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27519.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="National Geographic" tvg-logo="http://caixapreta.pt/logos/National-Geographic.png",National Geographic
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27513.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Nat Geo Wild" tvg-logo="http://caixapreta.pt/logos/National-Geographic-Wild.png",National Geographic Wild
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27512.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="História" tvg-logo="http://caixapreta.pt/logos/Canal-de-História.png",Canal de História
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27516.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Odisseia" tvg-logo="http://caixapreta.pt/logos/Odisseia.png",Odisseia
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27510.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Travel Channel" tvg-logo="http://caixapreta.pt/logos/Travel-Channel.png",Travel Channel
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27508.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Dog-TV.png",Dog TV
-http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/39.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Mezzo",Mezzo
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27533.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="VH1" tvg-logo="http://caixapreta.pt/logos/VH1.png",VH1
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27537.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="VH1 CLASSIC" tvg-logo="http://caixapreta.pt/logos/VH1-Classic.png",VH1 Classic
-http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/32.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="MTV Classic" tvg-logo="http://caixapreta.pt/logos/MTV-Classic.png",MTV Classic
-http://94.46.222.90:2107
-#EXTINF:-1 group-title="TV" tvg-id="MTV Base" tvg-logo="http://caixapreta.pt/logos/MTV-Base.png",MTV Base
-http://94.46.222.90:2106
-#EXTINF:-1 group-title="TV" tvg-id="MTV Portugal" tvg-logo="http://caixapreta.pt/logos/MTV.png",MTV Portugal
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27538.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="MTV Dance" tvg-logo="http://caixapreta.pt/logos/MTV-Dance.png",MTV Dance
-http://91.231.219.145:80/tv_mtv_dance/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="MTV Hits" tvg-logo="http://caixapreta.pt/logos/MTV-Hits.png",MTV Hits
-http://91.231.219.145:80/tv_mtv_hits/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="MTV Rocks" tvg-logo="http://caixapreta.pt/logos/MTV-Rocks.png",MTV Rocks
-http://91.231.219.145:80/tv_mtv_rocks/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Trace Urban" tvg-logo="http://caixapreta.pt/logos/TRACE-Urban.png",TRACE Urban
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TRACE TOCA" tvg-logo="http://caixapreta.pt/logos/TRACE-Toca.png",TRACE Toca
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TRACE-Latina.png",TRACE Latina
-http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TRACE TROPICAL" tvg-logo="http://caixapreta.pt/logos/TRACE-Tropical.png",TRACE Tropical
-http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TraceAfrica" tvg-logo="http://caixapreta.pt/logos/TRACE-Africa.png",TRACE Africa
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TRACE-Ayiti.png",TRACE Ayiti
-http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TraceKitoko.fr" tvg-logo="http://caixapreta.pt/logos/TRACE-Kitoko.png",TRACE Kitoko
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TraceMziki" tvg-logo="http://caixapreta.pt/logos/TRACE-Mziki.png",TRACE Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TraceNaija.fr" tvg-logo="http://caixapreta.pt/logos/TRACE-Naija.png",TRACE Naija
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="BBLACK AFRICA" tvg-logo="http://caixapreta.pt/logos/BBlack-Africa.png",BBlack Africa
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/BBlack-Caribbean.png",BBlack Caribbean
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/BBlack-Classik.png",BBlack Classik
-http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Afro Music" tvg-logo="http://caixapreta.pt/logos/Afro-Music.png",Afro Music
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27531.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="MCM TOP" tvg-logo="http://caixapreta.pt/logos/MCM-Top.png",MCM Top
-http://ott-cdn.ucom.am/s49/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="MCM POP" tvg-logo="http://caixapreta.pt/logos/MCM-Pop.png",MCM Pop
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27535.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="NRJ HITS" tvg-logo="http://caixapreta.pt/logos/NRJ-Hits-TV.png",NRJ Hits TV
-https://energytv.vedge.infomaniak.com/livecast/smil:energytv.smil/manifest.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Clubbing TV" tvg-logo="http://caixapreta.pt/logos/Clubbing-TV.png",Clubbing TV
-http://188.83.103.117:8035/play/a016
-#EXTINF:-1 group-title="TV" tvg-id="Deejay TV" tvg-logo="http://caixapreta.pt/logos/DeeJay-TV.png",DeeJay TV
-http://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="DELUXE MUSIC TV" tvg-logo="http://caixapreta.pt/logos/Deluxe-Music-TV.png",Deluxe Music TV
-http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Indie-Wave.png",Indie Wave
-http://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Hit-TV.png",Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Music-Box.png",Music Box
-http://212.26.132.86/hls/mb_ua_2500.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="4FUN.TV" tvg-id="4fun.pl" tvg-logo="http://caixapreta.pt/logos/4Fun-TV.png",4Fun.TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/FM-Italia-TV.png",FM Italia TV
-http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Colosal-TV.png",Colosal TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/CMC.png",California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/CMC.png",Country Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Eurosport" tvg-logo="http://caixapreta.pt/logos/Eurosport.png",Eurosport
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27550.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Eurosport 2" tvg-logo="http://caixapreta.pt/logos/Eurosport2.png",Eurosport 2
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27548.m3u8
-#EXTINF:-1 group-title="TV",Motors TV
-http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/56.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Motorvision-TV.png",Motorvision TV
-http://85.244.70.140:7000/play/a00t
-#EXTINF:-1 group-title="TV" tvg-id="Fuel TV" tvg-logo="http://caixapreta.pt/logos/Fuel-TV.png",Fuel TV
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27541.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="KOMBAT SPORT" tvg-logo="http://caixapreta.pt/logos/Kombat-Sport.png",Kombat Sport
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27543.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Eurosport News" tvg-logo="http://caixapreta.pt/logos/Eurosport-News.png",Eurosport News
-http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/71.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="A Bola TV" tvg-logo="http://caixapreta.pt/logos/A-Bola-TV.png",A Bola TV
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27552.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="SPORT TV+" tvg-logo="http://caixapreta.pt/logos/Sport-TV+.png",Sport TV +
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26571.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Sporting TV" tvg-logo="http://caixapreta.pt/logos/Sporting-TV.png",Sporting TV
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/27554.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Real Madrid TV" tvg-logo="http://caixapreta.pt/logos/RMTV.png",Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/All-Sports-Brasil.png",All Sports Brasil
-http://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/CDO.png",CDO - Canal del Deporte Olímpico
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Red-Bull-TV.png",Red Bull TV 
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="RTP Internacional" tvg-logo="http://caixapreta.pt/logos/RTP-Internacional.png",RTP Internacional
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="RTP África" tvg-logo="http://caixapreta.pt/logos/RTP-África.png",RTP África
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="RTP Açores" tvg-logo="http://caixapreta.pt/logos/RTP-Açores.png",RTP Açores
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="RTP Madeira" tvg-logo="http://caixapreta.pt/logos/RTP-Madeira.png",RTP Madeira
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Porto Canal" tvg-logo="http://caixapreta.pt/logos/Porto-Canal.png",Porto Canal
-https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1672243089.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Localvisão TV" tvg-logo="http://caixapreta.pt/logos/Localvisão-TV.png",Localvisão TV
-http://powerful.selfip.info:8000/live/carloss/carloss/343.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TVIREAL" tvg-logo="http://caixapreta.pt/logos/TVI-Reality.png",TVI Reality
-http://video-auth8.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau
-http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TCV" tvg-logo="http://caixapreta.pt/logos/TCV.png",TCV
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/63763.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TPA Internacional" tvg-logo="http://caixapreta.pt/logos/TPA.png",TPA Internacional
-http://leaderpro.pro:25461/live/paulomonteiro/paulomonteiro/4.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TVM.png",TVM
-http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/TVMI.png",TVM Internacional
-http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Record News" tvg-logo="http://caixapreta.pt/logos/Record-News.png",Record News
-http://iptvpro.vision-new.org:8789/live/iptvpro2channel/vAtyocUOiq/1061.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TV Escola [Brazil]" tvg-logo="http://caixapreta.pt/logos/TV-Escola.png",TV Escola
-http://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Futura [Brazil]" tvg-logo="http://caixapreta.pt/logos/Canal-Futura.png",Canal Futura
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="AgroBrasil TV" tvg-logo="http://caixapreta.pt/logos/AgroBrasil-TV.png",AgroBrasil TV
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Rede Minas" tvg-logo="http://caixapreta.pt/logos/Rede-Minas.png",Rede Minas
-http://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="Rede TV [Brazil]" tvg-logo="http://caixapreta.pt/logos/RedeTV.png",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Rede-Atividade.png",Rede Atividade
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/Rede-New.png",Rede New
-https://5a1c76baf08c0.streamlock.net/z474-live/aovivo/chunklist_w959333906.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://caixapreta.pt/logos/CBTV-Internacional.jpg",CBTV Internacional
-http://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TV Record" tvg-logo="http://caixapreta.pt/logos/Record-TV.png",Record TV
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/26619.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="GLOBO" tvg-logo="http://caixapreta.pt/logos/Globo.png",Globo
-http://185.71.66.13:8080/live/zyTYRQufUL/YBZgSIUHnS/40260.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="SBT [Brazil]" tvg-logo="http://caixapreta.pt/logos/SBT.png",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
-
+#EXTINF:-1,RTP 1  LOW
+http://comag.rip:8000/50602242995347/35242191154617/199287
+#EXTINF:-1,RTP 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/199286
+#EXTINF:-1,RTP 1 FHD
+http://comag.rip:8000/50602242995347/35242191154617/199285
+#EXTINF:-1,RTP INTERNACIONAL
+http://comag.rip:8000/50602242995347/35242191154617/199284
+#EXTINF:-1,RTP ARENA HD
+http://comag.rip:8000/50602242995347/35242191154617/199283
+#EXTINF:-1,RTP 2
+http://comag.rip:8000/50602242995347/35242191154617/199282
+#EXTINF:-1,RTP 2 HD
+http://comag.rip:8000/50602242995347/35242191154617/199281
+#EXTINF:-1,RTP 2 FHD
+http://comag.rip:8000/50602242995347/35242191154617/199280
+#EXTINF:-1,SIC LOW
+http://comag.rip:8000/50602242995347/35242191154617/199279
+#EXTINF:-1,SIC
+http://comag.rip:8000/50602242995347/35242191154617/199278
+#EXTINF:-1,SIC HD
+http://comag.rip:8000/50602242995347/35242191154617/199277
+#EXTINF:-1,SIC FHD
+http://comag.rip:8000/50602242995347/35242191154617/199276
+#EXTINF:-1,SIC INTERNACIONAL
+http://comag.rip:8000/50602242995347/35242191154617/199275
+#EXTINF:-1,ADVANCE SIC
+http://comag.rip:8000/50602242995347/35242191154617/199274
+#EXTINF:-1,TVI  LOW
+http://comag.rip:8000/50602242995347/35242191154617/199273
+#EXTINF:-1,TVI
+http://comag.rip:8000/50602242995347/35242191154617/199272
+#EXTINF:-1,TVI HD
+http://comag.rip:8000/50602242995347/35242191154617/199271
+#EXTINF:-1,TVI FHD
+http://comag.rip:8000/50602242995347/35242191154617/199270
+#EXTINF:-1,TVI INTERNACIONAL
+http://comag.rip:8000/50602242995347/35242191154617/199269
+#EXTINF:-1,RTP Memoria
+http://comag.rip:8000/50602242995347/35242191154617/199268
+#EXTINF:-1,RTP 3 LOW
+http://comag.rip:8000/50602242995347/35242191154617/199267
+#EXTINF:-1,RTP 3
+http://comag.rip:8000/50602242995347/35242191154617/199266
+#EXTINF:-1,SIC NOTICIAS LOW
+http://comag.rip:8000/50602242995347/35242191154617/199265
+#EXTINF:-1,SIC NOTICIAS
+http://comag.rip:8000/50602242995347/35242191154617/199264
+#EXTINF:-1,SIC NOTICIAS HD
+http://comag.rip:8000/50602242995347/35242191154617/199263
+#EXTINF:-1,CNN PORTUGAL LOW
+http://comag.rip:8000/50602242995347/35242191154617/199262
+#EXTINF:-1,CNN PORTUGAL
+http://comag.rip:8000/50602242995347/35242191154617/199261
+#EXTINF:-1,CNN PORTUGAL HD
+http://comag.rip:8000/50602242995347/35242191154617/199260
+#EXTINF:-1,CMTV LOW
+http://comag.rip:8000/50602242995347/35242191154617/199259
+#EXTINF:-1,CMTV
+http://comag.rip:8000/50602242995347/35242191154617/199258
+#EXTINF:-1,CMTV HD
+http://comag.rip:8000/50602242995347/35242191154617/199257
+#EXTINF:-1,PORTO CANAL
+http://comag.rip:8000/50602242995347/35242191154617/199256
+#EXTINF:-1,PORTO CANAL HD
+http://comag.rip:8000/50602242995347/35242191154617/199255
+#EXTINF:-1,SIC CARAS
+http://comag.rip:8000/50602242995347/35242191154617/199254
+#EXTINF:-1,SIC CARAS HD
+http://comag.rip:8000/50602242995347/35242191154617/199253
+#EXTINF:-1,CANAL Q
+http://comag.rip:8000/50602242995347/35242191154617/199252
+#EXTINF:-1,TV ZIMBO
+http://comag.rip:8000/50602242995347/35242191154617/199251
+#EXTINF:-1,ZAP VIVA LOW
+http://comag.rip:8000/50602242995347/35242191154617/199250
+#EXTINF:-1,Zap Viva HD
+http://comag.rip:8000/50602242995347/35242191154617/199249
+#EXTINF:-1,ZAP VIVA FHD
+http://comag.rip:8000/50602242995347/35242191154617/199248
+#EXTINF:-1,TVI FICCAO
+http://comag.rip:8000/50602242995347/35242191154617/199247
+#EXTINF:-1,TVI FICCAO HD
+http://comag.rip:8000/50602242995347/35242191154617/199246
+#EXTINF:-1,BBB21-MOSAICO
+http://comag.rip:8000/50602242995347/35242191154617/199245
+#EXTINF:-1,BBB-21
+http://comag.rip:8000/50602242995347/35242191154617/199244
+#EXTINF:-1,TVI REALITY
+http://comag.rip:8000/50602242995347/35242191154617/199243
+#EXTINF:-1,TVI Reality HD
+http://comag.rip:8000/50602242995347/35242191154617/199242
+#EXTINF:-1,TVI REALITY EXCLUSIVO
+http://comag.rip:8000/50602242995347/35242191154617/199241
+#EXTINF:-1,TVI REALITY MOSAICO
+http://comag.rip:8000/50602242995347/35242191154617/199240
+#EXTINF:-1,TVI REALITY  CAM1
+http://comag.rip:8000/50602242995347/35242191154617/199239
+#EXTINF:-1,TVI REALITY CAM2
+http://comag.rip:8000/50602242995347/35242191154617/199238
+#EXTINF:-1,TVI REALITY CAM3
+http://comag.rip:8000/50602242995347/35242191154617/199237
+#EXTINF:-1,TVI REALITY CAM4
+http://comag.rip:8000/50602242995347/35242191154617/199236
+#EXTINF:-1,RTP Africa
+http://comag.rip:8000/50602242995347/35242191154617/199235
+#EXTINF:-1,RTP MADEIRA
+http://comag.rip:8000/50602242995347/35242191154617/199234
+#EXTINF:-1,RTP Acores
+http://comag.rip:8000/50602242995347/35242191154617/199233
+#EXTINF:-1,SIC Mulher LOW
+http://comag.rip:8000/50602242995347/35242191154617/199232
+#EXTINF:-1,SIC MULHER
+http://comag.rip:8000/50602242995347/35242191154617/199231
+#EXTINF:-1,SIC MULHER HD
+http://comag.rip:8000/50602242995347/35242191154617/199230
+#EXTINF:-1,SIC RADICAL
+http://comag.rip:8000/50602242995347/35242191154617/199229
+#EXTINF:-1,SIC RADICAL HD
+http://comag.rip:8000/50602242995347/35242191154617/199228
+#EXTINF:-1,TV RECORD
+http://comag.rip:8000/50602242995347/35242191154617/199227
+#EXTINF:-1,TV RECORD HD
+http://comag.rip:8000/50602242995347/35242191154617/199226
+#EXTINF:-1,GLOBO LOW
+http://comag.rip:8000/50602242995347/35242191154617/199225
+#EXTINF:-1,TV GLOBO
+http://comag.rip:8000/50602242995347/35242191154617/199224
+#EXTINF:-1,TV GLOBO HD
+http://comag.rip:8000/50602242995347/35242191154617/199223
+#EXTINF:-1,TV GLOBO NOW
+http://comag.rip:8000/50602242995347/35242191154617/199222
+#EXTINF:-1,Globo Now HD
+http://comag.rip:8000/50602242995347/35242191154617/199221
+#EXTINF:-1,WRC
+http://comag.rip:8000/50602242995347/35242191154617/199220
+#EXTINF:-1,WRC MOMENTS HD
+http://comag.rip:8000/50602242995347/35242191154617/199219
+#EXTINF:-1,A Bola TV LOW
+http://comag.rip:8000/50602242995347/35242191154617/199218
+#EXTINF:-1,A BOLA TV
+http://comag.rip:8000/50602242995347/35242191154617/199217
+#EXTINF:-1,A BOLA TV HD
+http://comag.rip:8000/50602242995347/35242191154617/199216
+#EXTINF:-1,CANAL 11 HD
+http://comag.rip:8000/50602242995347/35242191154617/199215
+#EXTINF:-1,SPORT TV + LOW
+http://comag.rip:8000/50602242995347/35242191154617/199214
+#EXTINF:-1,SPORT TV +
+http://comag.rip:8000/50602242995347/35242191154617/199213
+#EXTINF:-1,SPORT TV +  HD
+http://comag.rip:8000/50602242995347/35242191154617/199212
+#EXTINF:-1,SPORTV + FHD
+http://comag.rip:8000/50602242995347/35242191154617/199211
+#EXTINF:-1,SPORT TV 1 LOW
+http://comag.rip:8000/50602242995347/35242191154617/199210
+#EXTINF:-1,SPORT TV 1 HD 1Mb
+http://comag.rip:8000/50602242995347/35242191154617/199209
+#EXTINF:-1,SPORT TV 1
+http://comag.rip:8000/50602242995347/35242191154617/199208
+#EXTINF:-1,SPORT TV 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/199207
+#EXTINF:-1,Sport TV 1 FHD
+http://comag.rip:8000/50602242995347/35242191154617/199206
+#EXTINF:-1,SPORT TV 1 UHD
+http://comag.rip:8000/50602242995347/35242191154617/199205
+#EXTINF:-1,SPORT TV 2 LOW
+http://comag.rip:8000/50602242995347/35242191154617/199204
+#EXTINF:-1,SPORT TV 2
+http://comag.rip:8000/50602242995347/35242191154617/199203
+#EXTINF:-1,SPORT TV 2 HD
+http://comag.rip:8000/50602242995347/35242191154617/199202
+#EXTINF:-1,SPORT TV 2 FHD
+http://comag.rip:8000/50602242995347/35242191154617/199201
+#EXTINF:-1,SPORT TV 3 LOW
+http://comag.rip:8000/50602242995347/35242191154617/199200
+#EXTINF:-1,SPORT TV 3
+http://comag.rip:8000/50602242995347/35242191154617/199199
+#EXTINF:-1,SPORT TV 3 HD
+http://comag.rip:8000/50602242995347/35242191154617/199198
+#EXTINF:-1,SPORT TV 3 FHD
+http://comag.rip:8000/50602242995347/35242191154617/199197
+#EXTINF:-1,SPORT TV 4
+http://comag.rip:8000/50602242995347/35242191154617/199196
+#EXTINF:-1,SPORT TV 4 HD
+http://comag.rip:8000/50602242995347/35242191154617/199195
+#EXTINF:-1,SPORT TV 4 FHD
+http://comag.rip:8000/50602242995347/35242191154617/199194
+#EXTINF:-1,SPORT TV 5
+http://comag.rip:8000/50602242995347/35242191154617/199193
+#EXTINF:-1,SPORT TV 5 HD
+http://comag.rip:8000/50602242995347/35242191154617/199192
+#EXTINF:-1,SPORT TV 5 FHD
+http://comag.rip:8000/50602242995347/35242191154617/199191
+#EXTINF:-1,SPORT TV 6 HD
+http://comag.rip:8000/50602242995347/35242191154617/199190
+#EXTINF:-1,SPORT TV NBA
+http://comag.rip:8000/50602242995347/35242191154617/199189
+#EXTINF:-1,Sport TV NBA HD
+http://comag.rip:8000/50602242995347/35242191154617/199188
+#EXTINF:-1,BTV LOW
+http://comag.rip:8000/50602242995347/35242191154617/199187
+#EXTINF:-1,BTV 1
+http://comag.rip:8000/50602242995347/35242191154617/199186
+#EXTINF:-1,BTV HD
+http://comag.rip:8000/50602242995347/35242191154617/199185
+#EXTINF:-1,BTV HD 1Mb
+http://comag.rip:8000/50602242995347/35242191154617/199184
+#EXTINF:-1,BTV UHD
+http://comag.rip:8000/50602242995347/35242191154617/199183
+#EXTINF:-1,BTV FHD
+http://comag.rip:8000/50602242995347/35242191154617/199182
+#EXTINF:-1,ELEVEN SPORTS 1 LOW
+http://comag.rip:8000/50602242995347/35242191154617/199181
+#EXTINF:-1,ELEVEN SPORTS 1
+http://comag.rip:8000/50602242995347/35242191154617/199180
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/199179
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://comag.rip:8000/50602242995347/35242191154617/199178
+#EXTINF:-1,ELEVEN SPORTS 1 UHD
+http://comag.rip:8000/50602242995347/35242191154617/199177
+#EXTINF:-1,ELEVEN SPORTS 2 LOW
+http://comag.rip:8000/50602242995347/35242191154617/199176
+#EXTINF:-1,ELEVEN SPORTS 2
+http://comag.rip:8000/50602242995347/35242191154617/199175
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://comag.rip:8000/50602242995347/35242191154617/199174
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://comag.rip:8000/50602242995347/35242191154617/199173
+#EXTINF:-1,ELEVEN SPORTS 3
+http://comag.rip:8000/50602242995347/35242191154617/199172
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://comag.rip:8000/50602242995347/35242191154617/199171
+#EXTINF:-1,ELEVEN SPORTS 4
+http://comag.rip:8000/50602242995347/35242191154617/199170
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://comag.rip:8000/50602242995347/35242191154617/199169
+#EXTINF:-1,ELEVEN SPORTS 5
+http://comag.rip:8000/50602242995347/35242191154617/199168
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://comag.rip:8000/50602242995347/35242191154617/199167
+#EXTINF:-1,ELEVEN SPORTS 6
+http://comag.rip:8000/50602242995347/35242191154617/199166
+#EXTINF:-1,SPORT TV 6 LOW
+http://comag.rip:8000/50602242995347/35242191154617/199165
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://comag.rip:8000/50602242995347/35242191154617/199164
+#EXTINF:-1,PFC
+http://comag.rip:8000/50602242995347/35242191154617/199163
+#EXTINF:-1,SPORTING TV
+http://comag.rip:8000/50602242995347/35242191154617/199162
+#EXTINF:-1,SPORTING TV HD
+http://comag.rip:8000/50602242995347/35242191154617/199161
+#EXTINF:-1,EUROSPORT 1
+http://comag.rip:8000/50602242995347/35242191154617/199160
+#EXTINF:-1,EUROSPORT 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/199159
+#EXTINF:-1,EUROSPORT 2
+http://comag.rip:8000/50602242995347/35242191154617/199158
+#EXTINF:-1,EUROSPORT 2 HD
+http://comag.rip:8000/50602242995347/35242191154617/199157
+#EXTINF:-1,Extreme Sport
+http://comag.rip:8000/50602242995347/35242191154617/199156
+#EXTINF:-1,MEO Videoclube
+http://comag.rip:8000/50602242995347/35242191154617/199155
+#EXTINF:-1,MEO Destaques
+http://comag.rip:8000/50602242995347/35242191154617/199154
+#EXTINF:-1,Gametoon HD
+http://comag.rip:8000/50602242995347/35242191154617/199153
+#EXTINF:-1,NETFLIX HD
+http://comag.rip:8000/50602242995347/35242191154617/199152
+#EXTINF:-1,HBO HD
+http://comag.rip:8000/50602242995347/35242191154617/199151
+#EXTINF:-1,OPTO 
+http://comag.rip:8000/50602242995347/35242191154617/199150
+#EXTINF:-1,STAR + HD
+http://comag.rip:8000/50602242995347/35242191154617/199149
+#EXTINF:-1,DIZI CHANNEL
+http://comag.rip:8000/50602242995347/35242191154617/199148
+#EXTINF:-1,DISNEY +
+http://comag.rip:8000/50602242995347/35242191154617/199147
+#EXTINF:-1,DISNEY MARVEL
+http://comag.rip:8000/50602242995347/35242191154617/199146
+#EXTINF:-1,DISNEY PIXAR
+http://comag.rip:8000/50602242995347/35242191154617/199145
+#EXTINF:-1,DISNEY STAR WARS
+http://comag.rip:8000/50602242995347/35242191154617/199144
+#EXTINF:-1,LOLLY KIDS HD
+http://comag.rip:8000/50602242995347/35242191154617/199143
+#EXTINF:-1,TV CINE + HD
+http://comag.rip:8000/50602242995347/35242191154617/199142
+#EXTINF:-1,TV Cine TOP LOW
+http://comag.rip:8000/50602242995347/35242191154617/199141
+#EXTINF:-1,TVCINE TOP
+http://comag.rip:8000/50602242995347/35242191154617/199140
+#EXTINF:-1,TVCINE TOP HD
+http://comag.rip:8000/50602242995347/35242191154617/199139
+#EXTINF:-1,TV Cine Edition LOW
+http://comag.rip:8000/50602242995347/35242191154617/199138
+#EXTINF:-1,TVCINE EDTION
+http://comag.rip:8000/50602242995347/35242191154617/199137
+#EXTINF:-1,TVCINE EDITION HD
+http://comag.rip:8000/50602242995347/35242191154617/199136
+#EXTINF:-1,TV Cine Emotion LOW
+http://comag.rip:8000/50602242995347/35242191154617/199135
+#EXTINF:-1,TVCINE EMOTION
+http://comag.rip:8000/50602242995347/35242191154617/199134
+#EXTINF:-1,TVCINE EMOTION HD
+http://comag.rip:8000/50602242995347/35242191154617/199133
+#EXTINF:-1,TVCINE ACTION LOW
+http://comag.rip:8000/50602242995347/35242191154617/199132
+#EXTINF:-1,TVCINE ACTION
+http://comag.rip:8000/50602242995347/35242191154617/199131
+#EXTINF:-1,TVCINE ACTION HD
+http://comag.rip:8000/50602242995347/35242191154617/199130
+#EXTINF:-1,NOS STUDIOS LOW
+http://comag.rip:8000/50602242995347/35242191154617/199129
+#EXTINF:-1,NOS STUDIOS
+http://comag.rip:8000/50602242995347/35242191154617/199128
+#EXTINF:-1,NOS STUDIOS HD
+http://comag.rip:8000/50602242995347/35242191154617/199127
+#EXTINF:-1,CANAL NOS HD
+http://comag.rip:8000/50602242995347/35242191154617/199126
+#EXTINF:-1,CINEMUNDO LOW
+http://comag.rip:8000/50602242995347/35242191154617/199125
+#EXTINF:-1,CINEMUNDO
+http://comag.rip:8000/50602242995347/35242191154617/199124
+#EXTINF:-1,CINEMUNDO HD
+http://comag.rip:8000/50602242995347/35242191154617/199123
+#EXTINF:-1,HOLLYWOOD LOW
+http://comag.rip:8000/50602242995347/35242191154617/199122
+#EXTINF:-1,HOLLYWOOD
+http://comag.rip:8000/50602242995347/35242191154617/199121
+#EXTINF:-1,HOLLYWOOD HD
+http://comag.rip:8000/50602242995347/35242191154617/199120
+#EXTINF:-1,AMC
+http://comag.rip:8000/50602242995347/35242191154617/199119
+#EXTINF:-1,AMC HD
+http://comag.rip:8000/50602242995347/35242191154617/199118
+#EXTINF:-1,AXN LOW
+http://comag.rip:8000/50602242995347/35242191154617/199117
+#EXTINF:-1,AXN
+http://comag.rip:8000/50602242995347/35242191154617/199116
+#EXTINF:-1,AXN HD
+http://comag.rip:8000/50602242995347/35242191154617/199115
+#EXTINF:-1,AXN WHITE LOW
+http://comag.rip:8000/50602242995347/35242191154617/199114
+#EXTINF:-1,AXN WHITE
+http://comag.rip:8000/50602242995347/35242191154617/199113
+#EXTINF:-1,AXN WHITE HD
+http://comag.rip:8000/50602242995347/35242191154617/199112
+#EXTINF:-1,AXN MOVIES LOW
+http://comag.rip:8000/50602242995347/35242191154617/199111
+#EXTINF:-1,AXN MOVIES HD
+http://comag.rip:8000/50602242995347/35242191154617/199110
+#EXTINF:-1,FOX LOW
+http://comag.rip:8000/50602242995347/35242191154617/199109
+#EXTINF:-1,FOX
+http://comag.rip:8000/50602242995347/35242191154617/199108
+#EXTINF:-1,FOX HD
+http://comag.rip:8000/50602242995347/35242191154617/199107
+#EXTINF:-1,FOX CRIME LOW
+http://comag.rip:8000/50602242995347/35242191154617/199106
+#EXTINF:-1,FOX CRIME
+http://comag.rip:8000/50602242995347/35242191154617/199105
+#EXTINF:-1,FOX CRIME HD
+http://comag.rip:8000/50602242995347/35242191154617/199104
+#EXTINF:-1,FOX COMEDY
+http://comag.rip:8000/50602242995347/35242191154617/199103
+#EXTINF:-1,FOX COMEDY HD
+http://comag.rip:8000/50602242995347/35242191154617/199102
+#EXTINF:-1,FOX LIFE
+http://comag.rip:8000/50602242995347/35242191154617/199101
+#EXTINF:-1,FOX LIFE HD
+http://comag.rip:8000/50602242995347/35242191154617/199100
+#EXTINF:-1,FOX MOVIES LOW
+http://comag.rip:8000/50602242995347/35242191154617/199099
+#EXTINF:-1,FOX MOVIES
+http://comag.rip:8000/50602242995347/35242191154617/199098
+#EXTINF:-1,FOX MOVIES HD
+http://comag.rip:8000/50602242995347/35242191154617/199097
+#EXTINF:-1,***MARVEL PLUS***
+http://comag.rip:8000/50602242995347/35242191154617/199096
+#EXTINF:-1,SYFY
+http://comag.rip:8000/50602242995347/35242191154617/199095
+#EXTINF:-1,SYFY HD
+http://comag.rip:8000/50602242995347/35242191154617/199094
+#EXTINF:-1,DISNEY CHANNEL
+http://comag.rip:8000/50602242995347/35242191154617/199093
+#EXTINF:-1,DISNEY JUNIOR
+http://comag.rip:8000/50602242995347/35242191154617/199092
+#EXTINF:-1,PANDA BIGGS
+http://comag.rip:8000/50602242995347/35242191154617/199091
+#EXTINF:-1,PANDA KIDS
+http://comag.rip:8000/50602242995347/35242191154617/199090
+#EXTINF:-1,CANAL PANDA LOW
+http://comag.rip:8000/50602242995347/35242191154617/199089
+#EXTINF:-1,CANAL PANDA
+http://comag.rip:8000/50602242995347/35242191154617/199088
+#EXTINF:-1,Sic Kids
+http://comag.rip:8000/50602242995347/35242191154617/199087
+#EXTINF:-1,Sic Kids HD
+http://comag.rip:8000/50602242995347/35242191154617/199086
+#EXTINF:-1,CARTOON  NETWORK
+http://comag.rip:8000/50602242995347/35242191154617/199085
+#EXTINF:-1,NICKELODEON
+http://comag.rip:8000/50602242995347/35242191154617/199084
+#EXTINF:-1,Nick Junior
+http://comag.rip:8000/50602242995347/35242191154617/199083
+#EXTINF:-1,JIM JAM
+http://comag.rip:8000/50602242995347/35242191154617/199082
+#EXTINF:-1,BABY TV
+http://comag.rip:8000/50602242995347/35242191154617/199081
+#EXTINF:-1,BOOMERANG
+http://comag.rip:8000/50602242995347/35242191154617/199080
+#EXTINF:-1,Kuriakos tv Kids HD
+http://comag.rip:8000/50602242995347/35242191154617/199079
+#EXTINF:-1,NASA TV HD
+http://comag.rip:8000/50602242995347/35242191154617/199078
+#EXTINF:-1,National Geographic wild
+http://comag.rip:8000/50602242995347/35242191154617/199077
+#EXTINF:-1,National Geographic wild HD
+http://comag.rip:8000/50602242995347/35242191154617/199076
+#EXTINF:-1,National Geographic
+http://comag.rip:8000/50602242995347/35242191154617/199075
+#EXTINF:-1,National geographic HD
+http://comag.rip:8000/50602242995347/35242191154617/199074
+#EXTINF:-1,Discovery Channel
+http://comag.rip:8000/50602242995347/35242191154617/199073
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://comag.rip:8000/50602242995347/35242191154617/199072
+#EXTINF:-1,ID Investigation Discovery HD
+http://comag.rip:8000/50602242995347/35242191154617/199071
+#EXTINF:-1,Crime Investigacao
+http://comag.rip:8000/50602242995347/35242191154617/199070
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://comag.rip:8000/50602242995347/35242191154617/199069
+#EXTINF:-1,ODISSEIA
+http://comag.rip:8000/50602242995347/35242191154617/199068
+#EXTINF:-1,ODISSEIA HD
+http://comag.rip:8000/50602242995347/35242191154617/199067
+#EXTINF:-1,HISTORIA
+http://comag.rip:8000/50602242995347/35242191154617/199066
+#EXTINF:-1,HISTORIA HD
+http://comag.rip:8000/50602242995347/35242191154617/199065
+#EXTINF:-1,KURIAKOS TV
+http://comag.rip:8000/50602242995347/35242191154617/199064
+#EXTINF:-1,TLC
+http://comag.rip:8000/50602242995347/35242191154617/199063
+#EXTINF:-1,CASA COZINHA HD
+http://comag.rip:8000/50602242995347/35242191154617/199062
+#EXTINF:-1,24 KITCHEN
+http://comag.rip:8000/50602242995347/35242191154617/199061
+#EXTINF:-1,24 KITCHEN HD
+http://comag.rip:8000/50602242995347/35242191154617/199060
+#EXTINF:-1,FOOD NETWORK
+http://comag.rip:8000/50602242995347/35242191154617/199059
+#EXTINF:-1,E! ENTERTAINMENT
+http://comag.rip:8000/50602242995347/35242191154617/199058
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://comag.rip:8000/50602242995347/35242191154617/199057
+#EXTINF:-1,FASHION TV
+http://comag.rip:8000/50602242995347/35242191154617/199056
+#EXTINF:-1,MAS CHIC
+http://comag.rip:8000/50602242995347/35242191154617/199055
+#EXTINF:-1,DOG TV
+http://comag.rip:8000/50602242995347/35242191154617/199054
+#EXTINF:-1,FUEL HD
+http://comag.rip:8000/50602242995347/35242191154617/199053
+#EXTINF:-1,FUEL TV HD
+http://comag.rip:8000/50602242995347/35242191154617/199052
+#EXTINF:-1,Red Bull
+http://comag.rip:8000/50602242995347/35242191154617/199051
+#EXTINF:-1,Caca & Pesca
+http://comag.rip:8000/50602242995347/35242191154617/199050
+#EXTINF:-1,CACA & PESCA HD
+http://comag.rip:8000/50602242995347/35242191154617/199049
+#EXTINF:-1,Cacavision
+http://comag.rip:8000/50602242995347/35242191154617/199048
+#EXTINF:-1,CAMPO PEQUENO TV HD
+http://comag.rip:8000/50602242995347/35242191154617/199047
+#EXTINF:-1,TOROS TV
+http://comag.rip:8000/50602242995347/35242191154617/199046
+#EXTINF:-1,Toros TV HD
+http://comag.rip:8000/50602242995347/35242191154617/199045
+#EXTINF:-1,RTP 1 HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199044
+#EXTINF:-1,RTP 1 FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199043
+#EXTINF:-1,RTP 2 HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199042
+#EXTINF:-1,SIC HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199041
+#EXTINF:-1,SIC FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199040
+#EXTINF:-1,TVI HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199039
+#EXTINF:-1,TVI FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199038
+#EXTINF:-1,SIC NOTICIAS HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199037
+#EXTINF:-1,CNN PORTUGAL HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199036
+#EXTINF:-1,CMTV HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199035
+#EXTINF:-1,CMTV FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199034
+#EXTINF:-1,SIC CARAS HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199033
+#EXTINF:-1,TVI FICCAO HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199032
+#EXTINF:-1,SIC RADICAL HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199031
+#EXTINF:-1,GLOBO HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199030
+#EXTINF:-1,A BOLA HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199029
+#EXTINF:-1,SPORT TV + HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199028
+#EXTINF:-1,SPORT TV 1 HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199027
+#EXTINF:-1,SPORT TV 1 FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199026
+#EXTINF:-1,SPORT TV 2 HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199025
+#EXTINF:-1,SPORT TV 2 FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199024
+#EXTINF:-1,SPORT TV 3 HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199023
+#EXTINF:-1,SPORT TV 4 HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199022
+#EXTINF:-1,SPORT TV 5 HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199021
+#EXTINF:-1,SPORT TV NBA HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199020
+#EXTINF:-1,BTV HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199019
+#EXTINF:-1,BTV FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199018
+#EXTINF:-1,ELEVEN SPORTS 1 HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199017
+#EXTINF:-1,ELEVEN SPORTS 1 FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199016
+#EXTINF:-1,ELEVEN SPORTS 2 HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199015
+#EXTINF:-1,ELEVEN SPORTS 2 FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199014
+#EXTINF:-1,SPORT TV 6 HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199013
+#EXTINF:-1,TVCINE TOP HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199012
+#EXTINF:-1,TVCINE TOP FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199011
+#EXTINF:-1,TVCINE EDITION HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199010
+#EXTINF:-1,TVCINE EDITION FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199009
+#EXTINF:-1,TVCINE ACTION HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199008
+#EXTINF:-1,TVCINE ACTION FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199007
+#EXTINF:-1,TVCINE EMOTION HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199006
+#EXTINF:-1,NOS STUDIOS ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199005
+#EXTINF:-1,CINEMUNDO ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199004
+#EXTINF:-1,HOLLYWOOD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199003
+#EXTINF:-1,AXN HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199002
+#EXTINF:-1,AXN FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199001
+#EXTINF:-1,AXN MOVIES HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/199000
+#EXTINF:-1,FOX HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/198999
+#EXTINF:-1,FOX FHD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/198998
+#EXTINF:-1,FOX CRIME HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/198997
+#EXTINF:-1,FOX COMEDY HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/198996
+#EXTINF:-1,FOX MOVIES HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/198995
+#EXTINF:-1,SIC KIDS HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/198994
+#EXTINF:-1,National geographic ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/198993
+#EXTINF:-1,CASA COZINHA ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/198992
+#EXTINF:-1,AMC HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/198991
+#EXTINF:-1,AXN WHITE HD ᴴᵉᵛᶜ
+http://comag.rip:8000/50602242995347/35242191154617/198990
+#EXTINF:-1,Coronavirus (COVID-19)
+http://comag.rip:8000/50602242995347/35242191154617/93528
+#EXTINF:-1,VIP:PT - RTP 1 Full HD
+http://comag.rip:8000/50602242995347/35242191154617/79021
+#EXTINF:-1,VIP:PT - SIC MULHER HD
+http://comag.rip:8000/50602242995347/35242191154617/79022
+#EXTINF:-1,VIP:PT - SIC Full HD
+http://comag.rip:8000/50602242995347/35242191154617/79023
+#EXTINF:-1,VIP:PT - SIC RADICAL Full HD
+http://comag.rip:8000/50602242995347/35242191154617/79024
+#EXTINF:-1,VIP:PT - TVI Full HD
+http://comag.rip:8000/50602242995347/35242191154617/79025
+#EXTINF:-1,VIP:PT - 24 KITCHEN HD
+http://comag.rip:8000/50602242995347/35242191154617/79026
+#EXTINF:-1,VIP:PT - A&E
+http://comag.rip:8000/50602242995347/35242191154617/79027
+#EXTINF:-1,VIP:PT - AFRO TV
+http://comag.rip:8000/50602242995347/35242191154617/79029
+#EXTINF:-1,VIP:PT - AMC
+http://comag.rip:8000/50602242995347/35242191154617/79030
+#EXTINF:-1,VIP:PT - AXN BLACK HD
+http://comag.rip:8000/50602242995347/35242191154617/79032
+#EXTINF:-1,VIP:PT - AXN HD
+http://comag.rip:8000/50602242995347/35242191154617/79033
+#EXTINF:-1,VIP:PT - AXN WHITE HD
+http://comag.rip:8000/50602242995347/35242191154617/79034
+#EXTINF:-1,VIP:PT - BABY TV
+http://comag.rip:8000/50602242995347/35242191154617/79036
+#EXTINF:-1,VIP:PT - BBC ENTRAITEMENT
+http://comag.rip:8000/50602242995347/35242191154617/79037
+#EXTINF:-1,VIP:PT - BTV 1
+http://comag.rip:8000/50602242995347/35242191154617/79040
+#EXTINF:-1,VIP:PT - BTV 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/79041
+#EXTINF:-1,VIP:PT - CASA E PESCA
+http://comag.rip:8000/50602242995347/35242191154617/79042
+#EXTINF:-1,VIP:PT - CACAVISION
+http://comag.rip:8000/50602242995347/35242191154617/79043
+#EXTINF:-1,VIP:PT - CANAL HISTORIA
+http://comag.rip:8000/50602242995347/35242191154617/79044
+#EXTINF:-1,VIP:PT - CANAL PANDA
+http://comag.rip:8000/50602242995347/35242191154617/79045
+#EXTINF:-1,VIP:PT - CANAL Q
+http://comag.rip:8000/50602242995347/35242191154617/79046
+#EXTINF:-1,VIP:PT - CANCAO NOVA
+http://comag.rip:8000/50602242995347/35242191154617/79047
+#EXTINF:-1,VIP:PT - CARTOON NETWORK
+http://comag.rip:8000/50602242995347/35242191154617/79048
+#EXTINF:-1,VIP:PT - CBS REALITY
+http://comag.rip:8000/50602242995347/35242191154617/79049
+#EXTINF:-1,VIP:PT - CINEMUNDO
+http://comag.rip:8000/50602242995347/35242191154617/79050
+#EXTINF:-1,VIP:PT - CM TV
+http://comag.rip:8000/50602242995347/35242191154617/79051
+#EXTINF:-1,VIP:PT - DISCOVERY CHANNEL
+http://comag.rip:8000/50602242995347/35242191154617/79054
+#EXTINF:-1,VIP:PT - DISNEY CHANNEL
+http://comag.rip:8000/50602242995347/35242191154617/79056
+#EXTINF:-1,VIP:PT - DISNEY JUNIOR
+http://comag.rip:8000/50602242995347/35242191154617/79057
+#EXTINF:-1,VIP:PT - E! ENTERTAINMENT
+http://comag.rip:8000/50602242995347/35242191154617/79058
+#EXTINF:-1,VIP:PT - EUROSPORT 1
+http://comag.rip:8000/50602242995347/35242191154617/79060
+#EXTINF:-1,VIP:PT - EUROSPORT 2
+http://comag.rip:8000/50602242995347/35242191154617/79061
+#EXTINF:-1,VIP:PT - EUROSPORT 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/79062
+#EXTINF:-1,VIP:PT - DISCOVERY INVESTIGATION HD
+http://comag.rip:8000/50602242995347/35242191154617/79063
+#EXTINF:-1,VIP:PT - FASHION TV
+http://comag.rip:8000/50602242995347/35242191154617/79064
+#EXTINF:-1,VIP:PT - FOX COMEDY
+http://comag.rip:8000/50602242995347/35242191154617/79065
+#EXTINF:-1,VIP:PT - FOX CRIME
+http://comag.rip:8000/50602242995347/35242191154617/79066
+#EXTINF:-1,VIP:PT - FOX HD
+http://comag.rip:8000/50602242995347/35242191154617/79067
+#EXTINF:-1,VIP:PT - FOX LIFE
+http://comag.rip:8000/50602242995347/35242191154617/79068
+#EXTINF:-1,VIP:PT - FOX MOVIES
+http://comag.rip:8000/50602242995347/35242191154617/79069
+#EXTINF:-1,VIP:PT - FUEL TV
+http://comag.rip:8000/50602242995347/35242191154617/79071
+#EXTINF:-1,VIP:PT - GLOBO
+http://comag.rip:8000/50602242995347/35242191154617/79072
+#EXTINF:-1,VIP:PT - GLOBO INTERNACIONAL
+http://comag.rip:8000/50602242995347/35242191154617/79073
+#EXTINF:-1,VIP:PT - GLOBO HD
+http://comag.rip:8000/50602242995347/35242191154617/79074
+#EXTINF:-1,VIP:PT - HOLLYWOOD
+http://comag.rip:8000/50602242995347/35242191154617/79075
+#EXTINF:-1,VIP:PT - HOLLYWOOD HD
+http://comag.rip:8000/50602242995347/35242191154617/79076
+#EXTINF:-1,VIP:PT - JIM JAM
+http://comag.rip:8000/50602242995347/35242191154617/79078
+#EXTINF:-1,VIP:PT - MCM POP
+http://comag.rip:8000/50602242995347/35242191154617/79080
+#EXTINF:-1,VIP:PT - MEZZO HD
+http://comag.rip:8000/50602242995347/35242191154617/79082
+#EXTINF:-1,VIP:PT - MOTORS TV
+http://comag.rip:8000/50602242995347/35242191154617/79083
+#EXTINF:-1,VIP:PT - MOTORVISION
+http://comag.rip:8000/50602242995347/35242191154617/79084
+#EXTINF:-1,VIP:PT - MTV (PT)
+http://comag.rip:8000/50602242995347/35242191154617/79085
+#EXTINF:-1,VIP:PT - NAT GEO WILD
+http://comag.rip:8000/50602242995347/35242191154617/79086
+#EXTINF:-1,VIP:PT - NAT. GEOGRAPHIC HD
+http://comag.rip:8000/50602242995347/35242191154617/79087
+#EXTINF:-1,VIP:PT - NBA HD
+http://comag.rip:8000/50602242995347/35242191154617/79088
+#EXTINF:-1,VIP:PT - NICKELODEON
+http://comag.rip:8000/50602242995347/35242191154617/79089
+#EXTINF:-1,VIP:PT - ODISSEIA
+http://comag.rip:8000/50602242995347/35242191154617/79090
+#EXTINF:-1,VIP:PT - PANDA BIGGS
+http://comag.rip:8000/50602242995347/35242191154617/79091
+#EXTINF:-1,VIP:PT - PFC
+http://comag.rip:8000/50602242995347/35242191154617/79092
+#EXTINF:-1,VIP:PT - PORTO CANAL
+http://comag.rip:8000/50602242995347/35242191154617/79094
+#EXTINF:-1,VIP:PT - RTP 1
+http://comag.rip:8000/50602242995347/35242191154617/79095
+#EXTINF:-1,VIP:PT - RTP 2
+http://comag.rip:8000/50602242995347/35242191154617/79096
+#EXTINF:-1,VIP:PT - RTP 3
+http://comag.rip:8000/50602242995347/35242191154617/79097
+#EXTINF:-1,VIP:PT - RTP ACORES
+http://comag.rip:8000/50602242995347/35242191154617/79098
+#EXTINF:-1,VIP:PT - RTP AFRICA
+http://comag.rip:8000/50602242995347/35242191154617/79099
+#EXTINF:-1,VIP:PT - RTP MADEIRA
+http://comag.rip:8000/50602242995347/35242191154617/79101
+#EXTINF:-1,VIP:PT - RTP MEMORIA
+http://comag.rip:8000/50602242995347/35242191154617/79102
+#EXTINF:-1,VIP:PT - SIC
+http://comag.rip:8000/50602242995347/35242191154617/79104
+#EXTINF:-1,VIP:PT - SIC CARAS
+http://comag.rip:8000/50602242995347/35242191154617/79105
+#EXTINF:-1,VIP:PT - SIC K
+http://comag.rip:8000/50602242995347/35242191154617/79106
+#EXTINF:-1,VIP:PT - SIC MULHER
+http://comag.rip:8000/50602242995347/35242191154617/79107
+#EXTINF:-1,VIP:PT - SIC NOTICIAS
+http://comag.rip:8000/50602242995347/35242191154617/79108
+#EXTINF:-1,VIP:PT - SIC RADICAL
+http://comag.rip:8000/50602242995347/35242191154617/79109
+#EXTINF:-1,VIP:PT - KURIAKOS TV HD
+http://comag.rip:8000/50602242995347/35242191154617/79110
+#EXTINF:-1,VIP:PT - SPORT TV 4K UHD
+http://comag.rip:8000/50602242995347/35242191154617/79112
+#EXTINF:-1,VIP:PT - SPORTING TV
+http://comag.rip:8000/50602242995347/35242191154617/79113
+#EXTINF:-1,VIP:PT - SPORT TV
+http://comag.rip:8000/50602242995347/35242191154617/79114
+#EXTINF:-1,VIP:PT - SPORTTV 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/79115
+#EXTINF:-1,VIP:PT - SPORTV 1
+http://comag.rip:8000/50602242995347/35242191154617/79116
+#EXTINF:-1,VIP:PT - SPORTV 2
+http://comag.rip:8000/50602242995347/35242191154617/79117
+#EXTINF:-1,VIP:PT - SPORTV 2 HD
+http://comag.rip:8000/50602242995347/35242191154617/79118
+#EXTINF:-1,VIP:PT - SPORTV 3
+http://comag.rip:8000/50602242995347/35242191154617/79119
+#EXTINF:-1,VIP:PT - SPORTV 3 HD
+http://comag.rip:8000/50602242995347/35242191154617/79120
+#EXTINF:-1,VIP:PT - SPORTV 4
+http://comag.rip:8000/50602242995347/35242191154617/79121
+#EXTINF:-1,VIP:PT - SPORTV 5
+http://comag.rip:8000/50602242995347/35242191154617/79122
+#EXTINF:-1,VIP:PT - SYFY
+http://comag.rip:8000/50602242995347/35242191154617/79123
+#EXTINF:-1,VIP:PT - TLC
+http://comag.rip:8000/50602242995347/35242191154617/79124
+#EXTINF:-1,VIP:PT - TOROS HD
+http://comag.rip:8000/50602242995347/35242191154617/79125
+#EXTINF:-1,VIP:PT - TOROS TV
+http://comag.rip:8000/50602242995347/35242191154617/79126
+#EXTINF:-1,VIP:PT - TPA
+http://comag.rip:8000/50602242995347/35242191154617/79127
+#EXTINF:-1,VIP:PT - TRACE URBAN
+http://comag.rip:8000/50602242995347/35242191154617/79128
+#EXTINF:-1,VIP:PT - TV RECORD
+http://comag.rip:8000/50602242995347/35242191154617/79130
+#EXTINF:-1,VIP:PT - TV SERIES HD
+http://comag.rip:8000/50602242995347/35242191154617/79132
+#EXTINF:-1,VIP:PT - TVCINE TOP
+http://comag.rip:8000/50602242995347/35242191154617/79133
+#EXTINF:-1,VIP:PT - TVCINE TOP HD
+http://comag.rip:8000/50602242995347/35242191154617/79134
+#EXTINF:-1,VIP:PT - TVCINE EDITION
+http://comag.rip:8000/50602242995347/35242191154617/79135
+#EXTINF:-1,VIP:PT - TVCINE EDITION HD
+http://comag.rip:8000/50602242995347/35242191154617/79136
+#EXTINF:-1,VIP:PT - TVCINE EMOTION
+http://comag.rip:8000/50602242995347/35242191154617/79137
+#EXTINF:-1,VIP:PT - TVCINE EMOTION HD
+http://comag.rip:8000/50602242995347/35242191154617/79138
+#EXTINF:-1,VIP:PT - TVCINE ACTION
+http://comag.rip:8000/50602242995347/35242191154617/79139
+#EXTINF:-1,VIP:PT - TVCINE ACTION HD
+http://comag.rip:8000/50602242995347/35242191154617/79140
+#EXTINF:-1,VIP:PT - TVE 24H
+http://comag.rip:8000/50602242995347/35242191154617/79141
+#EXTINF:-1,VIP:PT - TVI
+http://comag.rip:8000/50602242995347/35242191154617/79143
+#EXTINF:-1,VIP:PT - TVI 24
+http://comag.rip:8000/50602242995347/35242191154617/79144
+#EXTINF:-1,VIP:PT - TVI FICCAO
+http://comag.rip:8000/50602242995347/35242191154617/79145
+#EXTINF:-1,VIP:PT - TVI REALITY
+http://comag.rip:8000/50602242995347/35242191154617/79146
+#EXTINF:-1,VIP:PT - LA LIGA UHD
+http://comag.rip:8000/50602242995347/35242191154617/79147
+#EXTINF:-1,VIP:PT - VH1
+http://comag.rip:8000/50602242995347/35242191154617/79148
+#EXTINF:-1,VIP:PT - VH1 CLASSIC
+http://comag.rip:8000/50602242995347/35242191154617/79149
+#EXTINF:-1,VIP:PT - AMC HD
+http://comag.rip:8000/50602242995347/35242191154617/79150
+#EXTINF:-1,VIP:PT - BLAZE HD
+http://comag.rip:8000/50602242995347/35242191154617/79151
+#EXTINF:-1,VIP:PT - BTV HD
+http://comag.rip:8000/50602242995347/35242191154617/79152
+#EXTINF:-1,VIP:PT - CAçA & PESCA
+http://comag.rip:8000/50602242995347/35242191154617/79153
+#EXTINF:-1,VIP:PT - CINEMUNDO HD
+http://comag.rip:8000/50602242995347/35242191154617/79154
+#EXTINF:-1,VIP:PT - CM TV HD
+http://comag.rip:8000/50602242995347/35242191154617/79155
+#EXTINF:-1,VIP:PT - DISCOVERY CHANNEL HD
+http://comag.rip:8000/50602242995347/35242191154617/79156
+#EXTINF:-1,VIP:PT - DISCOVERY SHOWCASE HD
+http://comag.rip:8000/50602242995347/35242191154617/79157
+#EXTINF:-1,VIP:PT - ELEVEN SPORTS 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/79158
+#EXTINF:-1,VIP:PT - ELEVEN SPORTS 2 HD
+http://comag.rip:8000/50602242995347/35242191154617/79159
+#EXTINF:-1,VIP:PT - ELEVEN SPORTS 3 HD
+http://comag.rip:8000/50602242995347/35242191154617/79160
+#EXTINF:-1,VIP:PT - ELEVEN SPORTS 4 HD
+http://comag.rip:8000/50602242995347/35242191154617/79161
+#EXTINF:-1,VIP:PT - ELEVEN SPORTS 5 HD
+http://comag.rip:8000/50602242995347/35242191154617/79162
+#EXTINF:-1,VIP:PT - ELEVEN SPORTS 6 HD
+http://comag.rip:8000/50602242995347/35242191154617/79163
+#EXTINF:-1,VIP:PT - EUROSPORT 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/79164
+#EXTINF:-1,VIP:PT - FIGHT NETWORK HD
+http://comag.rip:8000/50602242995347/35242191154617/79165
+#EXTINF:-1,VIP:PT - FOX CRIME HD
+http://comag.rip:8000/50602242995347/35242191154617/79166
+#EXTINF:-1,VIP:PT - FOX LIFE HD
+http://comag.rip:8000/50602242995347/35242191154617/79167
+#EXTINF:-1,VIP:PT - FOX MOVIES HD
+http://comag.rip:8000/50602242995347/35242191154617/79168
+#EXTINF:-1,VIP:PT - FUEL TV HD
+http://comag.rip:8000/50602242995347/35242191154617/79169
+#EXTINF:-1,VIP:PT - iCONCERTS HD
+http://comag.rip:8000/50602242995347/35242191154617/79170
+#EXTINF:-1,VIP:PT - LOCALVISÃO TV HD
+http://comag.rip:8000/50602242995347/35242191154617/79171
+#EXTINF:-1,VIP:PT - MEZZO LIVE HD
+http://comag.rip:8000/50602242995347/35242191154617/79172
+#EXTINF:-1,VIP:PT - MOTORVISION HD
+http://comag.rip:8000/50602242995347/35242191154617/79173
+#EXTINF:-1,VIP:PT - MTV PORTUGAL HD
+http://comag.rip:8000/50602242995347/35242191154617/79174
+#EXTINF:-1,VIP:PT - NAT GEO WILD HD
+http://comag.rip:8000/50602242995347/35242191154617/79176
+#EXTINF:-1,VIP:PT - NATIONAL GEOGRAPHIC HD
+http://comag.rip:8000/50602242995347/35242191154617/79177
+#EXTINF:-1,VIP:PT - ODISSEIA HD
+http://comag.rip:8000/50602242995347/35242191154617/79178
+#EXTINF:-1,VIP:PT - PORTO CANAL HD
+http://comag.rip:8000/50602242995347/35242191154617/79179
+#EXTINF:-1,VIP:PT - SIC CARAS HD
+http://comag.rip:8000/50602242995347/35242191154617/79180
+#EXTINF:-1,VIP:PT - SIC NOTICIAS HD
+http://comag.rip:8000/50602242995347/35242191154617/79181
+#EXTINF:-1,VIP:PT - SPORTING TV HD
+http://comag.rip:8000/50602242995347/35242191154617/79182
+#EXTINF:-1,VIP:PT - SYFY HD
+http://comag.rip:8000/50602242995347/35242191154617/79184
+#EXTINF:-1,VIP:PT - TRACE URBAN PT HD
+http://comag.rip:8000/50602242995347/35242191154617/79185
+#EXTINF:-1,VIP:PT - TV GLOBO HD
+http://comag.rip:8000/50602242995347/35242191154617/79186
+#EXTINF:-1,VIP:PT - TV GLOBO NOW HD
+http://comag.rip:8000/50602242995347/35242191154617/79187
+#EXTINF:-1,VIP:PT - ZAP VIVA HD
+http://comag.rip:8000/50602242995347/35242191154617/79188
+#EXTINF:-1,PT AXN
+http://comag.rip:8000/50602242995347/35242191154617/29353
+#EXTINF:-1,PT AXN BLACK
+http://comag.rip:8000/50602242995347/35242191154617/29352
+#EXTINF:-1,PT AXN WHITE
+http://comag.rip:8000/50602242995347/35242191154617/29351
+#EXTINF:-1,PT BABY
+http://comag.rip:8000/50602242995347/35242191154617/29350
+#EXTINF:-1,PT BENFICA
+http://comag.rip:8000/50602242995347/35242191154617/29349
+#EXTINF:-1,PT CARTOON NETWORK
+http://comag.rip:8000/50602242995347/35242191154617/29348
+#EXTINF:-1,PT DISCOVERY
+http://comag.rip:8000/50602242995347/35242191154617/29347
+#EXTINF:-1,PT DISNEY CHANNEL
+http://comag.rip:8000/50602242995347/35242191154617/29345
+#EXTINF:-1,PT DISNEY JUNIOR
+http://comag.rip:8000/50602242995347/35242191154617/29344
+#EXTINF:-1,PT E!
+http://comag.rip:8000/50602242995347/35242191154617/29343
+#EXTINF:-1,PT EUROSPORT 1
+http://comag.rip:8000/50602242995347/35242191154617/29342
+#EXTINF:-1,PT EUROSPORT 2
+http://comag.rip:8000/50602242995347/35242191154617/29341
+#EXTINF:-1,PT FOX
+http://comag.rip:8000/50602242995347/35242191154617/29340
+#EXTINF:-1,PT FOX LIFE
+http://comag.rip:8000/50602242995347/35242191154617/29339
+#EXTINF:-1,PT FUEL TV
+http://comag.rip:8000/50602242995347/35242191154617/29338
+#EXTINF:-1,PT HOLLYWOOD HD
+http://comag.rip:8000/50602242995347/35242191154617/29337
+#EXTINF:-1,PT NAT GEO
+http://comag.rip:8000/50602242995347/35242191154617/29336
+#EXTINF:-1,PT NATIONAL GEO WILD
+http://comag.rip:8000/50602242995347/35242191154617/29335
+#EXTINF:-1,PT NICKELODEON
+http://comag.rip:8000/50602242995347/35242191154617/29334
+#EXTINF:-1,PT PORTO CANAL
+http://comag.rip:8000/50602242995347/35242191154617/29333
+#EXTINF:-1,PT RTP 1
+http://comag.rip:8000/50602242995347/35242191154617/29332
+#EXTINF:-1,PT RTP 2
+http://comag.rip:8000/50602242995347/35242191154617/29331
+#EXTINF:-1,PT RTP 3
+http://comag.rip:8000/50602242995347/35242191154617/29330
+#EXTINF:-1,PT RTP AFRICA
+http://comag.rip:8000/50602242995347/35242191154617/29329
+#EXTINF:-1,PT RTP MEMORIA
+http://comag.rip:8000/50602242995347/35242191154617/29328
+#EXTINF:-1,PT SIC
+http://comag.rip:8000/50602242995347/35242191154617/29327
+#EXTINF:-1,PT SIC MULHER
+http://comag.rip:8000/50602242995347/35242191154617/29326
+#EXTINF:-1,PT SIC NOCITAS
+http://comag.rip:8000/50602242995347/35242191154617/29325
+#EXTINF:-1,PT SIC RADICAL
+http://comag.rip:8000/50602242995347/35242191154617/29324
+#EXTINF:-1,PT SPORT TV
+http://comag.rip:8000/50602242995347/35242191154617/29323
+#EXTINF:-1,PT SPORT TV 1
+http://comag.rip:8000/50602242995347/35242191154617/29322
+#EXTINF:-1,PT SPORT TV 2 HD
+http://comag.rip:8000/50602242995347/35242191154617/29321
+#EXTINF:-1,PT SPORT TV 3
+http://comag.rip:8000/50602242995347/35242191154617/29320
+#EXTINF:-1,PT SPORT TV 4
+http://comag.rip:8000/50602242995347/35242191154617/29319
+#EXTINF:-1,PT SPORT TV 5
+http://comag.rip:8000/50602242995347/35242191154617/29318
+#EXTINF:-1,PT SPORTING TV
+http://comag.rip:8000/50602242995347/35242191154617/29317
+#EXTINF:-1,PT TV GLOBO
+http://comag.rip:8000/50602242995347/35242191154617/29316
+#EXTINF:-1,PT TV SERIES
+http://comag.rip:8000/50602242995347/35242191154617/29315
+#EXTINF:-1,PT TVCINE 1
+http://comag.rip:8000/50602242995347/35242191154617/29314
+#EXTINF:-1,PT TVCINE ACTION
+http://comag.rip:8000/50602242995347/35242191154617/29313
+#EXTINF:-1,PT TVCINE EMOTION
+http://comag.rip:8000/50602242995347/35242191154617/29312
+#EXTINF:-1,PT TVCINE EDITION
+http://comag.rip:8000/50602242995347/35242191154617/29311
+#EXTINF:-1,PT TVI
+http://comag.rip:8000/50602242995347/35242191154617/29310
+#EXTINF:-1,PT TVI 24
+http://comag.rip:8000/50602242995347/35242191154617/29309
+#EXTINF:-1,PT: Eleven Sport 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/22520
+#EXTINF:-1,PT: Eleven Sport 2 HD
+http://comag.rip:8000/50602242995347/35242191154617/22519
+#EXTINF:-1,PT: Eleven Sport 3 HD
+http://comag.rip:8000/50602242995347/35242191154617/22518
+#EXTINF:-1,PT: Eleven Sport 4 HD
+http://comag.rip:8000/50602242995347/35242191154617/22517
+#EXTINF:-1,PT: Eleven Sport 5 HD
+http://comag.rip:8000/50602242995347/35242191154617/22516
+#EXTINF:-1,PT: Eleven Sport 6 HD
+http://comag.rip:8000/50602242995347/35242191154617/22515
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/66450
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://comag.rip:8000/50602242995347/35242191154617/66449
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://comag.rip:8000/50602242995347/35242191154617/66448
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://comag.rip:8000/50602242995347/35242191154617/66447
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://comag.rip:8000/50602242995347/35242191154617/66446
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://comag.rip:8000/50602242995347/35242191154617/66445
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://comag.rip:8000/50602242995347/35242191154617/66429
+#EXTINF:-1,PT: ABola TV
+http://comag.rip:8000/50602242995347/35242191154617/66398
+#EXTINF:-1,PT: Afro Music
+http://comag.rip:8000/50602242995347/35242191154617/66373
+#EXTINF:-1,PT: AMC
+http://comag.rip:8000/50602242995347/35242191154617/66396
+#EXTINF:-1,PT: AXN BLACK HD
+http://comag.rip:8000/50602242995347/35242191154617/66438
+#EXTINF:-1,PT: AXN HD
+http://comag.rip:8000/50602242995347/35242191154617/66437
+#EXTINF:-1,PT: AXN WHITE HD
+http://comag.rip:8000/50602242995347/35242191154617/66436
+#EXTINF:-1,PT: Baby First
+http://comag.rip:8000/50602242995347/35242191154617/66385
+#EXTINF:-1,PT: Biggs
+http://comag.rip:8000/50602242995347/35242191154617/66384
+#EXTINF:-1,PT: BTV 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/66435
+#EXTINF:-1,PT: CAÇAVISION
+http://comag.rip:8000/50602242995347/35242191154617/66444
+#EXTINF:-1,PT: Canal NOS
+http://comag.rip:8000/50602242995347/35242191154617/66383
+#EXTINF:-1,PT: Canal Panda
+http://comag.rip:8000/50602242995347/35242191154617/66382
+#EXTINF:-1,PT: Canal Q
+http://comag.rip:8000/50602242995347/35242191154617/66381
+#EXTINF:-1,PT: Cartoon Network Portugal
+http://comag.rip:8000/50602242995347/35242191154617/66386
+#EXTINF:-1,PT: caza pesca
+http://comag.rip:8000/50602242995347/35242191154617/66428
+#EXTINF:-1,PT: CBS Reality
+http://comag.rip:8000/50602242995347/35242191154617/66395
+#EXTINF:-1,PT: CINEMUNDO
+http://comag.rip:8000/50602242995347/35242191154617/66426
+#EXTINF:-1,PT: CMTV
+http://comag.rip:8000/50602242995347/35242191154617/66421
+#EXTINF:-1,PT: Discovery
+http://comag.rip:8000/50602242995347/35242191154617/66367
+#EXTINF:-1,PT: Discovery Channel
+http://comag.rip:8000/50602242995347/35242191154617/66432
+#EXTINF:-1,PT: Disney Channel
+http://comag.rip:8000/50602242995347/35242191154617/66380
+#EXTINF:-1,PT: Disney Junior
+http://comag.rip:8000/50602242995347/35242191154617/66379
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://comag.rip:8000/50602242995347/35242191154617/66394
+#EXTINF:-1,PT: Euronews
+http://comag.rip:8000/50602242995347/35242191154617/66376
+#EXTINF:-1,PT: EUROSPORT 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/66460
+#EXTINF:-1,PT: EUROSPORT 2
+http://comag.rip:8000/50602242995347/35242191154617/66451
+#EXTINF:-1,PT: Eurosport 1
+http://comag.rip:8000/50602242995347/35242191154617/66459
+#EXTINF:-1,PT: FOX Comedy
+http://comag.rip:8000/50602242995347/35242191154617/66423
+#EXTINF:-1,PT: FOX CRIME HD
+http://comag.rip:8000/50602242995347/35242191154617/66366
+#EXTINF:-1,PT: FOX Movies
+http://comag.rip:8000/50602242995347/35242191154617/66424
+#EXTINF:-1,PT: FOX News
+http://comag.rip:8000/50602242995347/35242191154617/66375
+#EXTINF:-1,PT: FTV
+http://comag.rip:8000/50602242995347/35242191154617/66393
+#EXTINF:-1,PT: Fuel TV
+http://comag.rip:8000/50602242995347/35242191154617/66392
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://comag.rip:8000/50602242995347/35242191154617/66422
+#EXTINF:-1,PT: Historia
+http://comag.rip:8000/50602242995347/35242191154617/66387
+#EXTINF:-1,PT: HOLLYWOOD
+http://comag.rip:8000/50602242995347/35242191154617/66427
+#EXTINF:-1,PT: JimJam
+http://comag.rip:8000/50602242995347/35242191154617/66378
+#EXTINF:-1,PT: MCM Pop
+http://comag.rip:8000/50602242995347/35242191154617/66372
+#EXTINF:-1,PT: Mezzo
+http://comag.rip:8000/50602242995347/35242191154617/66371
+#EXTINF:-1,PT: Motor vision
+http://comag.rip:8000/50602242995347/35242191154617/66458
+#EXTINF:-1,PT: MTV Portugal
+http://comag.rip:8000/50602242995347/35242191154617/66370
+#EXTINF:-1,PT: Nat Geo Wild
+http://comag.rip:8000/50602242995347/35242191154617/66433
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://comag.rip:8000/50602242995347/35242191154617/66430
+#EXTINF:-1,PT: Nickelodeon
+http://comag.rip:8000/50602242995347/35242191154617/66377
+#EXTINF:-1,PT: Odisseia
+http://comag.rip:8000/50602242995347/35242191154617/66390
+#EXTINF:-1,PT: PFC
+http://comag.rip:8000/50602242995347/35242191154617/66453
+#EXTINF:-1,PT: Porto Canal
+http://comag.rip:8000/50602242995347/35242191154617/66457
+#EXTINF:-1,PT: RTP 1
+http://comag.rip:8000/50602242995347/35242191154617/66420
+#EXTINF:-1,PT: RTP 2
+http://comag.rip:8000/50602242995347/35242191154617/66419
+#EXTINF:-1,PT: RTP 3
+http://comag.rip:8000/50602242995347/35242191154617/66418
+#EXTINF:-1,PT: RTP Africa
+http://comag.rip:8000/50602242995347/35242191154617/66415
+#EXTINF:-1,PT: RTP AÇORES
+http://comag.rip:8000/50602242995347/35242191154617/66414
+#EXTINF:-1,PT: RTP MADEIRA
+http://comag.rip:8000/50602242995347/35242191154617/66417
+#EXTINF:-1,PT: RTP MEMORIA
+http://comag.rip:8000/50602242995347/35242191154617/66416
+#EXTINF:-1,PT: SIC
+http://comag.rip:8000/50602242995347/35242191154617/66413
+#EXTINF:-1,PT: SIC CARAS
+http://comag.rip:8000/50602242995347/35242191154617/66412
+#EXTINF:-1,PT: SIC K
+http://comag.rip:8000/50602242995347/35242191154617/66411
+#EXTINF:-1,PT: SIC Mulher
+http://comag.rip:8000/50602242995347/35242191154617/66409
+#EXTINF:-1,PT: SIC NOTICIAS
+http://comag.rip:8000/50602242995347/35242191154617/66408
+#EXTINF:-1,PT: SIC RADICAL
+http://comag.rip:8000/50602242995347/35242191154617/66410
+#EXTINF:-1,PT: SPORT TV
+http://comag.rip:8000/50602242995347/35242191154617/66461
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/66469
+#EXTINF:-1,PT: SPORT TV 1 SD
+http://comag.rip:8000/50602242995347/35242191154617/66468
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://comag.rip:8000/50602242995347/35242191154617/66467
+#EXTINF:-1,PT: SPORT TV 2 SD
+http://comag.rip:8000/50602242995347/35242191154617/66466
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://comag.rip:8000/50602242995347/35242191154617/66465
+#EXTINF:-1,PT: SPORT TV 3 SD
+http://comag.rip:8000/50602242995347/35242191154617/66464
+#EXTINF:-1,PT: SPORT TV 4
+http://comag.rip:8000/50602242995347/35242191154617/66463
+#EXTINF:-1,PT: SPORT TV 5
+http://comag.rip:8000/50602242995347/35242191154617/66462
+#EXTINF:-1,PT: SPORT TV NBA
+http://comag.rip:8000/50602242995347/35242191154617/66452
+#EXTINF:-1,PT: Sporting TV
+http://comag.rip:8000/50602242995347/35242191154617/66456
+#EXTINF:-1,PT: Syfy
+http://comag.rip:8000/50602242995347/35242191154617/66397
+#EXTINF:-1,PT: TLC
+http://comag.rip:8000/50602242995347/35242191154617/66400
+#EXTINF:-1,PT: Toros TV
+http://comag.rip:8000/50602242995347/35242191154617/66454
+#EXTINF:-1,PT: Trace TV
+http://comag.rip:8000/50602242995347/35242191154617/66389
+#EXTINF:-1,PT: TV Galicia
+http://comag.rip:8000/50602242995347/35242191154617/66406
+#EXTINF:-1,PT: TV SERIES
+http://comag.rip:8000/50602242995347/35242191154617/66374
+#EXTINF:-1,PT: TVCINE 1 HD
+http://comag.rip:8000/50602242995347/35242191154617/66443
+#EXTINF:-1,PT: TVCINE 2 HD
+http://comag.rip:8000/50602242995347/35242191154617/66442
+#EXTINF:-1,PT: TVCINE 3 HD
+http://comag.rip:8000/50602242995347/35242191154617/66441
+#EXTINF:-1,PT: TVCINE 4 HD
+http://comag.rip:8000/50602242995347/35242191154617/66440
+#EXTINF:-1,PT: TVE 24h
+http://comag.rip:8000/50602242995347/35242191154617/66405
+#EXTINF:-1,PT: TVI Internacional
+http://comag.rip:8000/50602242995347/35242191154617/66404
+#EXTINF:-1,PT: TVI
+http://comag.rip:8000/50602242995347/35242191154617/66403
+#EXTINF:-1,PT: TVI 24
+http://comag.rip:8000/50602242995347/35242191154617/66407
+#EXTINF:-1,PT: TVI Ficlo
+http://comag.rip:8000/50602242995347/35242191154617/66402
+#EXTINF:-1,PT: TVI Reality
+http://comag.rip:8000/50602242995347/35242191154617/66401
+#EXTINF:-1,PT: TVSeries HD
+http://comag.rip:8000/50602242995347/35242191154617/66439
+#EXTINF:-1,PT: VH1
+http://comag.rip:8000/50602242995347/35242191154617/66369
+#EXTINF:-1,PT: VH1 Classic
+http://comag.rip:8000/50602242995347/35242191154617/66368
 
 
 
