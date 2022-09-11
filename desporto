@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://bit.ly/3fZ93yT" group-title="SPORT TV",SPORT TV 1 LOW
+#EXTINF:-1,SPORT TV 1 LOW
 http://comag.rip:8000/50602242995347/35242191154617/199210
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="https://bit.ly/3eGY5R4" group-title="SPORT TV",SPORT TV 1 HD 1Mb
+#EXTINF:-1,SPORT TV 1 HD 1Mb
 http://comag.rip:8000/50602242995347/35242191154617/199209
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://bit.ly/3fZ93yT" group-title="SPORT TV",SPORT TV 1
+#EXTINF:-1,SPORT TV 1
 http://comag.rip:8000/50602242995347/35242191154617/199208
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="https://bit.ly/3eGY5R4" group-title="SPORT TV",SPORT TV 1 HD
+#EXTINF:-1,SPORT TV 1 HD
 http://comag.rip:8000/50602242995347/35242191154617/199207
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="https://bit.ly/3eGY5R4" group-title="SPORT TV",Sport TV 1 FHD
+#EXTINF:-1,Sport TV 1 FHD
 http://comag.rip:8000/50602242995347/35242191154617/199206
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="https://bit.ly/3eGY5R4" group-title="SPORT TV",SPORT TV 1 UHD
+#EXTINF:-1,SPORT TV 1 UHD
 http://comag.rip:8000/50602242995347/35242191154617/199205
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="https://bit.ly/3sgL3fD" group-title="SPORT TV",SPORT TV 2 LOW
+#EXTINF:-1,SPORT TV 2 LOW
 http://comag.rip:8000/50602242995347/35242191154617/199204
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="https://bit.ly/3sgL3fD" group-title="SPORT TV",SPORT TV 2
+#EXTINF:-1,SPORT TV 2
 http://comag.rip:8000/50602242995347/35242191154617/199203
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="https://bit.ly/3U4gojp" group-title="SPORT TV",SPORT TV 2 HD
+#EXTINF:-1,SPORT TV 2 HD
 http://comag.rip:8000/50602242995347/35242191154617/199202
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="https://bit.ly/3U4gojp" group-title="SPORT TV",SPORT TV 2 FHD
+#EXTINF:-1,SPORT TV 2 FHD
 http://comag.rip:8000/50602242995347/35242191154617/199201
 #EXTINF:-1,SPORT TV 3 LOW
 http://comag.rip:8000/50602242995347/35242191154617/199200
@@ -97,11 +97,11 @@ http://comag.rip:8000/50602242995347/35242191154617/199164
 #EXTINF:-1,PFC
 http://comag.rip:8000/50602242995347/35242191154617/199163
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="https://bit.ly/3eGY5R4" group-title="SPORT TV",SPORT TV 1 HD ᴴᵉᵛᶜ
+#EXTINF:-1,SPORT TV 1 HD ᴴᵉᵛᶜ
 http://comag.rip:8000/50602242995347/35242191154617/199027
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="https://bit.ly/3eGY5R4" group-title="SPORT TV",SPORT TV 1 FHD ᴴᵉᵛᶜ
+#EXTINF:-1,SPORT TV 1 FHD ᴴᵉᵛᶜ
 http://comag.rip:8000/50602242995347/35242191154617/199026
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="https://bit.ly/3U4gojp" group-title="SPORT TV",SPORT TV 2 HD ᴴᵉᵛᶜ
+#EXTINF:-1,SPORT TV 2 HD ᴴᵉᵛᶜ
 http://comag.rip:8000/50602242995347/35242191154617/199025
 #EXTINF:-1,SPORT TV 2 FHD ᴴᵉᵛᶜ
 http://comag.rip:8000/50602242995347/35242191154617/199024
@@ -128,13 +128,13 @@ http://comag.rip:8000/50602242995347/35242191154617/199014
 #EXTINF:-1,SPORT TV 6 HD ᴴᵉᵛᶜ
 http://comag.rip:8000/50602242995347/35242191154617/199013
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="https://bit.ly/3eGY5R4" group-title="SPORT TV",SPORT TV 1 HD
+#EXTINF:-1,VIP:PT - SPORTTV 1 HD
 http://comag.rip:8000/50602242995347/35242191154617/79115
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://bit.ly/3fZ93yT" group-title="SPORT TV",SPORT TV 1
+#EXTINF:-1,VIP:PT - SPORTV 1
 http://comag.rip:8000/50602242995347/35242191154617/79116
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="https://bit.ly/3sgL3fD" group-title="SPORT TV",SPORT TV 2
+#EXTINF:-1,VIP:PT - SPORTV 2
 http://comag.rip:8000/50602242995347/35242191154617/79117
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="https://bit.ly/3U4gojp" group-title="SPORT TV",SPORT TV 2 HD
+#EXTINF:-1,VIP:PT - SPORTV 2 HD
 http://comag.rip:8000/50602242995347/35242191154617/79118
 #EXTINF:-1,VIP:PT - SPORTV 3
 http://comag.rip:8000/50602242995347/35242191154617/79119
@@ -144,8 +144,6 @@ http://comag.rip:8000/50602242995347/35242191154617/79120
 http://comag.rip:8000/50602242995347/35242191154617/79121
 #EXTINF:-1,VIP:PT - SPORTV 5
 http://comag.rip:8000/50602242995347/35242191154617/79122
-#EXTINF:-1,VIP:PT - BTV HD
-http://comag.rip:8000/50602242995347/35242191154617/79152
 #EXTINF:-1,VIP:PT - ELEVEN SPORTS 1 HD
 http://comag.rip:8000/50602242995347/35242191154617/79158
 #EXTINF:-1,VIP:PT - ELEVEN SPORTS 2 HD
@@ -159,9 +157,9 @@ http://comag.rip:8000/50602242995347/35242191154617/79162
 #EXTINF:-1,VIP:PT - ELEVEN SPORTS 6 HD
 http://comag.rip:8000/50602242995347/35242191154617/79163
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://bit.ly/3fZ93yT" group-title="SPORT TV",SPORT TV 1
+#EXTINF:-1,PT SPORT TV 1
 http://comag.rip:8000/50602242995347/35242191154617/29322
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="https://bit.ly/3U4gojp" group-title="SPORT TV",SPORT TV 2 HD
+#EXTINF:-1,PT SPORT TV 2 HD
 http://comag.rip:8000/50602242995347/35242191154617/29321
 #EXTINF:-1,PT SPORT TV 3
 http://comag.rip:8000/50602242995347/35242191154617/29320
@@ -193,15 +191,13 @@ http://comag.rip:8000/50602242995347/35242191154617/66447
 http://comag.rip:8000/50602242995347/35242191154617/66446
 #EXTINF:-1,PT: ELEVEN SPORTS 6 HD
 http://comag.rip:8000/50602242995347/35242191154617/66445
-#EXTINF:-1,PT: BTV 1 HD
-http://comag.rip:8000/50602242995347/35242191154617/66435
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="https://bit.ly/3eGY5R4" group-title="SPORT TV",SPORT TV 1 HD
+#EXTINF:-1,PT: SPORT TV 1 HD
 http://comag.rip:8000/50602242995347/35242191154617/66469
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://bit.ly/3fZ93yT" group-title="SPORT TV",SPORT TV 1 SD
+#EXTINF:-1,PT: SPORT TV 1 SD
 http://comag.rip:8000/50602242995347/35242191154617/66468
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="https://bit.ly/3U4gojp" group-title="SPORT TV",SPORT TV 2 HD
+#EXTINF:-1,PT: SPORT TV 2 HD
 http://comag.rip:8000/50602242995347/35242191154617/66467
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="https://bit.ly/3sgL3fD" group-title="SPORT TV",SPORT TV 2 SD
+#EXTINF:-1,PT: SPORT TV 2 SD
 http://comag.rip:8000/50602242995347/35242191154617/66466
 #EXTINF:-1,PT: SPORT TV 3 HD
 http://comag.rip:8000/50602242995347/35242191154617/66465
@@ -214,6 +210,7 @@ http://comag.rip:8000/50602242995347/35242191154617/66462
 
 
 
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",RED BULL TV FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
@@ -222,14 +219,5 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3mLkrmr" group-title="Desporto",ALL SPORTS HD
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w214841983.m3u8
-
-
-
-
-
-
 
 
