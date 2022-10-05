@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong" tvg-logo="http://ip.platevpc.xyz:8080/images/klAIFewuqcyEmH1SMtR2XbMyqzM_big.jpg" group-title="VOD 2021",Godzilla vs. Kong
+#EXTINF:-1 tvg-id="Filmes" tvg-name="Godzilla vs. Kong" tvg-logo="http://ip.platevpc.xyz:8080/images/klAIFewuqcyEmH1SMtR2XbMyqzM_big.jpg" group-title="Filmes",Godzilla vs. Kong
 http://ip.platevpc.xyz:8080/movie/Josesa/Hye6he25/18416.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3reC3aJ" group-title="FILMES 2022", The King's Daughter (2022)
