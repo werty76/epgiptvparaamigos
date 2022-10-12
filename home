@@ -25,4 +25,12 @@
 <info>TugaFlix</info>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Radios[/COLOR][/B]</name>
+<thumbnail>https://img.comunidades.net/rad/radios-online/imagens_radios_online_fone.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/radios</externallink>
+<fanart>https://www.softandapps.info/wp-content/uploads/2018/02/Emisoras-de-radio-online.jpg</fanart>
+<info>TugaFlix</info>
+</channel>
+
 </channels>
