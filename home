@@ -6,7 +6,7 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/desporto</externallink>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</fanart>
-<info>TugaFlix</info>
+<info>Desporto no TugaFlix</info>
 </channel>
 
 <channel>
@@ -14,15 +14,15 @@
 <thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/filmes.m3u</externallink>
 <fanart>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</fanart>
-<info>TugaFlix</info>
+<info>Os melhores filmes estão aqui no seu TugaFlix</info>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
 <thumbnail>https://cdn.e-konomista.pt/uploads/2019/07/106182-netflix_1541693766.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Series.m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/series.home</externallink>
 <fanart>https://cdn.e-konomista.pt/uploads/2019/07/106182-netflix_1541693766.png</fanart>
-<info>TugaFlix</info>
+<info>As melhores series estão aqui no seu TugaFlix</info>
 </channel>
 
 <channel>
@@ -30,7 +30,7 @@
 <thumbnail>https://img.comunidades.net/rad/radios-online/imagens_radios_online_fone.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/radios</externallink>
 <fanart>https://www.softandapps.info/wp-content/uploads/2018/02/Emisoras-de-radio-online.jpg</fanart>
-<info>TugaFlix</info>
+<info>As melhores radios estão aqui no seu TugaFlix</info>
 </channel>
 
 </channels>
