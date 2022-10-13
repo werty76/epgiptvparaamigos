@@ -1,7 +1,12 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
-<thumbnail>https://cdn.e-konomista.pt/uploads/2019/07/106182-netflix_1541693766.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Series.m3u8</externallink>
-<fanart>https://cdn.e-konomista.pt/uploads/2019/07/106182-netflix_1541693766.png</fanart>
-<info>TugaFlix</info>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]A Idade do Gelo- As Desventuras de Scrat[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/lJCe6cQl4PfFMIN4jZCSrEpOXW.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/As%20Desventuras%20de%20Scrat</externallink>
+<fanart>https://image.tmdb.org/t/p/w500/lJCe6cQl4PfFMIN4jZCSrEpOXW.jpg</fanart>
+<info>Scrat experimenta os altos e baixos da paternidade, enquanto ele e o adorável e travesso Bebê Scrat se unem alternadamente e lutam pela posse da altamente preciosa Acorn.</info>
 </channel>
+
+</channels>
