@@ -33,4 +33,13 @@
 <info>As melhores radios estão aqui no seu TugaFlix</info>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Teste[/COLOR][/B]</name>
+<thumbnail>https://img.comunidades.net/rad/radios-online/imagens_radios_online_fone.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/meuiptv</externallink>
+<fanart>https://www.softandapps.info/wp-content/uploads/2018/02/Emisoras-de-radio-online.jpg</fanart>
+<info>As melhores radios estão aqui no seu TugaFlix</info>
+</channel>
+
+
 </channels>
