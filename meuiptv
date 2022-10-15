@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 "<item><title>A Idade do Gelo- As Desventuras de Scrat S01E01</title>
-<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>https://www.fembed.com/v/d1y0lsx225mp5e5</page></regex></link><thumbnail>https://filmspot.com.pt/images/filmes/posters/big/531593.jpg</thumbnail><fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart><info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Reprisal[/B][/COLOR]
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>https://www.fembed.com/f/d1y0lsx225mp5e5</page></regex></link><thumbnail>https://filmspot.com.pt/images/filmes/posters/big/531593.jpg</thumbnail><fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart><info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Reprisal[/B][/COLOR]
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Ação
 [B][COLOR deepskyblue]Realização:[/B][/COLOR] Brian A Miller
 [B][COLOR deepskyblue]Duração:[/B][/COLOR] 89 m
