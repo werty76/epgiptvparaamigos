@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3o2m7uD" tvg-id="RALLY WRC 2023", Rally Portugal 2023 Day1
+#EXTINF:-1 tvg-logo="https://bit.ly/3o2m7uD" tvg-id="RALLY WRC 2023", Rally Portugal 2023 Day 1
 https://rbmn-live.akamaized.net/hls/live/655944/230512WrcFriHiPri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3o2m7uD" tvg-id="RALLY WRC 2023", Rally Portugal 2023 Day 2
+https://rbmn-live.akamaized.net/hls/live/655944/230513WrcSatHiPri/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3M0g2ai" tvg-id="RALLY WRC 2023", Rally Croatia 2023 Day 1
 https://rbmn-live.akamaized.net/hls/live/655944/230421WrcFriHiPri/master_3360.m3u8
