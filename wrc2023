@@ -1,31 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3M4FOtQ" tvg-id="RALLY WRC 2023", Rally Monte Carlo 2023 Day 1
-https://rbmn-live.akamaized.net/hls/live/655944/230120WrcFriHiPri/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3M4FOtQ" tvg-id="RALLY WRC 2023", Rally Monte Carlo 2023 Day 2
-https://rbmn-live.akamaized.net/hls/live/655945/230121WrcSatHiSec/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3M4FOtQ" tvg-id="RALLY WRC 2023", Rally Monte Carlo 2023 Day 3
-https://rbmn-live.akamaized.net/hls/live/655944/230122WrcSunHiPri/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3pwSMJf" tvg-id="RALLY WRC 2023", Rally Sweden 2023 Day 1
-https://rbmn-live.akamaized.net/hls/live/655944/230210WrcFriHiPri/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3pwSMJf" tvg-id="RALLY WRC 2023", Rally Sweden 2023 Day 2
-https://rbmn-live.akamaized.net/hls/live/655945/230211WrcSatHiSec/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3pwSMJf" tvg-id="RALLY WRC 2023", Rally Sweden 2023 Day 3
-https://rbmn-live.akamaized.net/hls/live/655944/230212WrcSunHiPri/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/42upF80" tvg-id="RALLY WRC 2023", Rally Mexico 2023 Day 1 
-https://rbmn-live.akamaized.net/hls/live/655944/230318WrcFriHiPri/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/42upF80" tvg-id="RALLY WRC 2023", Rally Mexico 2023 Day 2
-https://rbmn-live.akamaized.net/hls/live/655944/230319WrcSatHiPri/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/42upF80" tvg-id="RALLY WRC 2023", Rally Mexico 2023 Day 3
-https://rbmn-live.akamaized.net/hls/live/655944/230320WrcSunHiPri/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3o2m7uD" tvg-id="RALLY WRC 2023", Rally Portugal 2023 Day1
+https://rbmn-live.akamaized.net/hls/live/655944/230512WrcFriHiPri/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3M0g2ai" tvg-id="RALLY WRC 2023", Rally Croatia 2023 Day 1
 https://rbmn-live.akamaized.net/hls/live/655944/230421WrcFriHiPri/master_3360.m3u8
@@ -36,5 +12,29 @@ https://rbmn-live.akamaized.net/hls/live/655944/230422WrcSatHiPri/master_3360.m3
 #EXTINF:-1 tvg-logo="https://bit.ly/3M0g2ai" tvg-id="RALLY WRC 2023", Rally Croatia 2023 Day 3
 https://rbmn-live.akamaized.net/hls/live/655944/230423WrcSunHiPri/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3o2m7uD" tvg-id="RALLY WRC 2023", Rally Portugal 2023 Day1
-https://rbmn-live.akamaized.net/hls/live/655944/230512WrcFriHiPri/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/42upF80" tvg-id="RALLY WRC 2023", Rally Mexico 2023 Day 1 
+https://rbmn-live.akamaized.net/hls/live/655944/230318WrcFriHiPri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/42upF80" tvg-id="RALLY WRC 2023", Rally Mexico 2023 Day 2
+https://rbmn-live.akamaized.net/hls/live/655944/230319WrcSatHiPri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/42upF80" tvg-id="RALLY WRC 2023", Rally Mexico 2023 Day 3
+https://rbmn-live.akamaized.net/hls/live/655944/230320WrcSunHiPri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3pwSMJf" tvg-id="RALLY WRC 2023", Rally Sweden 2023 Day 1
+https://rbmn-live.akamaized.net/hls/live/655944/230210WrcFriHiPri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3pwSMJf" tvg-id="RALLY WRC 2023", Rally Sweden 2023 Day 2
+https://rbmn-live.akamaized.net/hls/live/655945/230211WrcSatHiSec/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3pwSMJf" tvg-id="RALLY WRC 2023", Rally Sweden 2023 Day 3
+https://rbmn-live.akamaized.net/hls/live/655944/230212WrcSunHiPri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3M4FOtQ" tvg-id="RALLY WRC 2023", Rally Monte Carlo 2023 Day 1
+https://rbmn-live.akamaized.net/hls/live/655944/230120WrcFriHiPri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3M4FOtQ" tvg-id="RALLY WRC 2023", Rally Monte Carlo 2023 Day 2
+https://rbmn-live.akamaized.net/hls/live/655945/230121WrcSatHiSec/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3M4FOtQ" tvg-id="RALLY WRC 2023", Rally Monte Carlo 2023 Day 3
+https://rbmn-live.akamaized.net/hls/live/655944/230122WrcSunHiPri/master_3360.m3u8
