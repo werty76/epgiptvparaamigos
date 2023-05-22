@@ -221,6 +221,8 @@ http://45.12.1.14:80/Sawyer2023/ftZiK872/3223
 http://45.12.1.14:80/Sawyer2023/ftZiK872/7843
 #EXTINF:-1 tvg-id="SportTV4fhd.pt" tvg-name="Sport TV 4 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv4hdpt.jpg" group-title="Live: Portugal",Sport TV 4 FHD PT
 http://45.12.1.14:80/Sawyer2023/ftZiK872/3224
+#EXTINF:-1 tvg-id="SportTV5fhd.pt" tvg-name="Sport TV 5 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5hdpt.jpg" group-title="Live: Portugal",Sport TV 5 FHD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/16297
 #EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5pt.jpg" group-title="Live: Portugal",Sport TV 5 PT
 http://45.12.1.14:80/Sawyer2023/ftZiK872/7842
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV + FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttvpluspt.jpg" group-title="Live: Portugal",Sport TV + FHD PT
@@ -241,4 +243,10 @@ http://45.12.1.14:80/Sawyer2023/ftZiK872/23322
 http://45.12.1.14:80/Sawyer2023/ftZiK872/23323
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg" group-title="Live: Portugal",Eleven Sports 6 FHD PT
 http://45.12.1.14:80/Sawyer2023/ftZiK872/23324
+#EXTINF:-1 tvg-id="ABOLATV.pt.pt" tvg-name="A Bola TV PT" tvg-logo="https://picon-13398.kxcdn.com/abolatv.jpg" group-title="Live: Portugal",A Bola TV PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/5540
+#EXTINF:-1 tvg-id="PFC.pt" tvg-name="PFC PT" tvg-logo="https://picon-13398.kxcdn.com/pfcpt.jpg" group-title="Live: Portugal",PFC PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/3248
+#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="Caza y Pesca PT" tvg-logo="https://picon-13398.kxcdn.com/cazaypesca.jpg" group-title="Live: Portugal",Caza y Pesca PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/19626
 
