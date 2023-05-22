@@ -203,4 +203,207 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7846
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pthd.jpg" group-title="Live: Portugal",Sport TV 1 HD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/3221
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 FHD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/17744
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pt.jpg" group-title="Live: Portugal",Sport TV 2 PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7845
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pthd.jpg" group-title="Live: Portugal",Sport TV 2 FHD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/3222
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv3pt.jpg" group-title="Live: Portugal",Sport TV 3 PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7844
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv3hdpt.jpg" group-title="Live: Portugal",Sport TV 3 FHD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/3223
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv4pt.jpg" group-title="Live: Portugal",Sport TV 4 PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7843
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv4hdpt.jpg" group-title="Live: Portugal",Sport TV 4 FHD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/3224
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5pt.jpg" group-title="Live: Portugal",Sport TV 5 PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7842
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV + FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttvpluspt.jpg" group-title="Live: Portugal",Sport TV + FHD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/19589
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/3308
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 HD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/5541
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="Eleven Sports 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 HD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/23325
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="Eleven Sports 2 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg" group-title="Live: Portugal",Eleven Sports 2 HD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/23320
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="Eleven Sports 3 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports3pl.jpg" group-title="Live: Portugal",Eleven Sports 3 HD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/23321
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="Eleven Sports 4 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports4pl.jpg" group-title="Live: Portugal",Eleven Sports 4 HD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/23322
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="Eleven Sports 5 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg" group-title="Live: Portugal",Eleven Sports 5 HD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/23323
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg" group-title="Live: Portugal",Eleven Sports 6 FHD PT
+http://45.12.1.14:80/Sawyer2023/ftZiK872/23324
+
+#EXTINF:-1 tvg-id="SportTV1.si" tvg-name="Sport TV 1 HD SI" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: ex-Yu Countries",Sport TV 1 HD SI
+http://45.12.1.14:80/Sawyer2023/ftZiK872/27817
+#EXTINF:-1 tvg-id="SportTV2.si" tvg-name="Sport TV 2 HD SI" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pthd.jpg" group-title="Live: ex-Yu Countries",Sport TV 2 HD SI
+http://45.12.1.14:80/Sawyer2023/ftZiK872/27818
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="RMC Sport Access 1 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Access 1 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28583
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="RMC Sport Access 2 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Access 2 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28584
+#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="RMC Sport Access 3 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Access 3 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28585
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="RMC Sport Live 5 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 5 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28586
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="RMC Sport Live 6 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 6 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28587
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="RMC Sport Live 7 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 7 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28588
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="RMC Sport Live 8 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 8 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28589
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="RMC Sport Live 9 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 9 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28590
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="RMC Sport Live 10 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 10 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28591
+#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="RMC Sport Live 11 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 11 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28592
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="RMC Sport Live 12 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 12 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28593
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="RMC Sport Live 13 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 13 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28594
+#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="RMC Sport Live 14 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 14 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28595
+#EXTINF:-1 tvg-id="RMCSportLive15.fr" tvg-name="RMC Sport Live 15 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/rmcsportfr.jpg" group-title="Live: France",RMC Sport Live 15 FHD FR
+http://45.12.1.14:80/Sawyer2023/ftZiK872/28596
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Germany",Sky Sport News FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7337
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysporttopeventde.jpg" group-title="Live: Germany",Sky Sport Top Event FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/108334
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Sport Bundesliga HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Sport Bundesliga HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/3436
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1 HD DE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-f1-359.png" group-title="Live: Germany",Sky Sport F1 HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/80089
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1 FHD DE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-f1-359.png" group-title="Live: Germany",Sky Sport F1 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/74989
+#EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-name="Sky Sport Premier League FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg" group-title="Live: Germany",Sky Sport Premier League FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/108335
+#EXTINF:-1 tvg-id="SkySportMix.de" tvg-name="Sky Sport Mix FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportsmix.jpg" group-title="Live: Germany",Sky Sport Mix FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/108336
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysporttennisit.jpg" group-title="Live: Germany",Sky Sport Tennis FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/108333
+#EXTINF:-1 tvg-id="SkySportGolf.de" tvg-name="Sky Sport Golf FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg" group-title="Live: Germany",Sky Sport Golf FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/108337
+#EXTINF:-1 tvg-id="SkySportUHD.de" tvg-name="Sky Sport UHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportuhdde.jpg" group-title="Live: Germany",Sky Sport UHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/88668
+#EXTINF:-1 tvg-id="SkyBundesligaUHD.de" tvg-name="Sky Bundesliga UHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesligauhdde.jpg" group-title="Live: Germany",Sky Bundesliga UHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/88667
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="Live: Germany",Sky Bundesliga 1 HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14550
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Bundesliga 1 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7338
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga2.jpg" group-title="Live: Germany",Sky Bundesliga 2 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14551
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga2hd.jpg" group-title="Live: Germany",Sky Bundesliga 2 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7339
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga3.jpg" group-title="Live: Germany",Sky Bundesliga 3 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14552
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga3hd.jpg" group-title="Live: Germany",Sky Bundesliga 3 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7340
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga4.jpg" group-title="Live: Germany",Sky Bundesliga 4 HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14553
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga4hd.jpg" group-title="Live: Germany",Sky Bundesliga 4 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7341
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga5.jpg" group-title="Live: Germany",Sky Bundesliga 5 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14554
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga5hd.jpg" group-title="Live: Germany",Sky Bundesliga 5 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7342
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga6.jpg" group-title="Live: Germany",Sky Bundesliga 6 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14555
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga6hd.jpg" group-title="Live: Germany",Sky Bundesliga 6 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7343
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga7.jpg" group-title="Live: Germany",Sky Bundesliga 7 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/24735
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga7hd.jpg" group-title="Live: Germany",Sky Bundesliga 7 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7344
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga8.jpg" group-title="Live: Germany",Sky Bundesliga 8 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14556
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga8hd.jpg" group-title="Live: Germany",Sky Bundesliga 8 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7345
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga9.jpg" group-title="Live: Germany",Sky Bundesliga 9 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14557
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga9hd.jpg" group-title="Live: Germany",Sky Bundesliga 9 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7346
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10.jpg" group-title="Live: Germany",Sky Bundesliga 10 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14558
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10hd.jpg" group-title="Live: Germany",Sky Bundesliga 10 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7347
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Germany",Sky Sport 1 HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/1479
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Germany",Sky Sport 1 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7326
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Germany",Sky Sport 2 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14560
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/1480
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7327
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport3.jpg" group-title="Live: Germany",Sky Sport 3 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14561
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport3hd.jpg" group-title="Live: Germany",Sky Sport 3 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7328
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport4.jpg" group-title="Live: Germany",Sky Sport 4 HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14562
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport4hd.jpg" group-title="Live: Germany",Sky Sport 4 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7329
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport5.jpg" group-title="Live: Germany",Sky Sport 5 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14563
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport5hd.jpg" group-title="Live: Germany",Sky Sport 5 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7330
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport6.jpg" group-title="Live: Germany",Sky Sport 6 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14564
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport6hd.jpg" group-title="Live: Germany",Sky Sport 6 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7331
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport7.jpg" group-title="Live: Germany",Sky Sport 7 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14565
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport7hd.jpg" group-title="Live: Germany",Sky Sport 7 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7332
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport8.jpg" group-title="Live: Germany",Sky Sport 8 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14566
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport8hd.jpg" group-title="Live: Germany",Sky Sport 8 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7333
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport9.jpg" group-title="Live: Germany",Sky Sport 9 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/14567
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport9hd.jpg" group-title="Live: Germany",Sky Sport 9 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7334
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport10hd.jpg" group-title="Live: Germany",Sky Sport 10 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7335
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport11hd.jpg" group-title="Live: Germany",Sky Sport 11 HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/7336
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN Bar 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Germany",DAZN Bar 1 HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/97182
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN Bar 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Germany",DAZN Bar 1 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/23280
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN Bar 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Germany",DAZN Bar 2 HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/99502
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN Bar 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Germany",DAZN Bar 2 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/23281
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigitalhd.jpg" group-title="Live: Germany",sportdigital FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/16582
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg" group-title="Live: Germany",Eurosport 1 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/19101
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Germany",Eurosport 1 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/3435
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Germany",Eurosport 2 HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/15568
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 DE" tvg-logo="https://picon-13398.kxcdn.com/sport1-duslelaslu.jpg" group-title="Live: Germany",SPORT1 DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/9552
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sport1hd-duslelaslu.jpg" group-title="Live: Germany",SPORT1 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/15745
+#EXTINF:-1 tvg-id="Sport1Plus.de" tvg-name="Sport 1+ FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sport1plushd.jpg" group-title="Live: Germany",Sport 1+ FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/17166
+#EXTINF:-1 tvg-id="eSports1.de" tvg-name="eSports1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ginx.jpg" group-title="Live: Germany",eSports1 FHD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/18820
+#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor und Sport HD DE" tvg-logo="https://picon-13398.kxcdn.com/automotorsporthd.jpg" group-title="Live: Germany",Auto Motor und Sport HD DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/19658
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorvision TV DE" tvg-logo="https://picon-13398.kxcdn.com/motorvisiontv.jpg" group-title="Live: Germany",Motorvision TV DE
+http://45.12.1.14:80/Sawyer2023/ftZiK872/9564
 
