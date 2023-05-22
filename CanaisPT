@@ -79,10 +79,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV",Geekdot
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="tracehd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
 #KODIPROP:inputstream=inputstream.adaptive
@@ -93,16 +89,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live-3.otcnet.ru/onehdmulti/index.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/VH1.png",VH1 Italia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV BR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="fueltvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV
 #KODIPROP:inputstream=inputstream.adaptive
