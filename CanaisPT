@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 UHD 4K PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 UHD 4K PT
+#EXTINF:-1 tvg-id="SportTV1uhd.pt" tvg-name="Sport TV 1 UHD 4K PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 UHD 4K PT
 http://45.12.1.14:80/Sawyer2023/ftZiK872/86631
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 PT
 http://45.12.1.14:80/Sawyer2023/ftZiK872/7846
@@ -24,13 +24,13 @@ http://45.12.1.14:80/Sawyer2023/ftZiK872/3224
 http://45.12.1.14:80/Sawyer2023/ftZiK872/16297
 #EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5pt.jpg" group-title="Live: Portugal",Sport TV 5 PT
 http://45.12.1.14:80/Sawyer2023/ftZiK872/7842
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 UHD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 UHD PT
+#EXTINF:-1 tvg-id="BenficaTV1uhd.pt" tvg-name="Benfica TV 1 UHD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 UHD PT
 http://45.12.1.14:80/Sawyer2023/ftZiK872/86629
 #EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 PT
 http://45.12.1.14:80/Sawyer2023/ftZiK872/3308
 #EXTINF:-1 tvg-id="BenficaTV1hd.pt" tvg-name="Benfica TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 HD PT
 http://45.12.1.14:80/Sawyer2023/ftZiK872/5541
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="Eleven Sports 1 UHD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 UHD PT
+#EXTINF:-1 tvg-id="ElevenSports1uhd.pt" tvg-name="Eleven Sports 1 UHD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 UHD PT
 http://45.12.1.14:80/Sawyer2023/ftZiK872/86630
 #EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="Eleven Sports 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 HD PT
 http://45.12.1.14:80/Sawyer2023/ftZiK872/23325
