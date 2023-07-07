@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Ns7ZvS/safari.jpg" tvg-id="RALLY WRC 2023", Rally Kenya 2023 Day 1
+https://rbmn-live.akamaized.net/hls/live/655944/230623WrcFriHiPri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Ns7ZvS/safari.jpg" tvg-id="RALLY WRC 2023", Rally Kenya 2023 Day 2
+https://rbmn-live.akamaized.net/hls/live/655944/230624WrcSatHiPri/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Ns7ZvS/safari.jpg" tvg-id="RALLY WRC 2023", Rally Kenya 2023 Day 3
+https://rbmn-live.akamaized.net/hls/live/655944/230625WrcSunHiPri/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="bit.ly/43iObJz" tvg-id="RALLY WRC 2023", Rally Italia 2023 Day 1
 https://rbmn-live.akamaized.net/hls/live/655944/230602WrcFriHiPri/master_3360.m3u8
 
