@@ -1,55 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SportTV1uhd.pt" tvg-name="Sport TV 1 UHD 4K PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 UHD 4K PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/86631
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/7846
-#EXTINF:-1 tvg-id="SportTV1hd.pt" tvg-name="Sport TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pthd.jpg" group-title="Live: Portugal",Sport TV 1 HD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/3221
-#EXTINF:-1 tvg-id="SportTV1fhd.pt" tvg-name="Sport TV 1 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Live: Portugal",Sport TV 1 FHD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/17744
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV 2 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pt.jpg" group-title="Live: Portugal",Sport TV 2 PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/7845
-#EXTINF:-1 tvg-id="SportTV2fhd.pt" tvg-name="Sport TV 2 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pthd.jpg" group-title="Live: Portugal",Sport TV 2 FHD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/3222
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="Sport TV 3 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv3pt.jpg" group-title="Live: Portugal",Sport TV 3 PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/7844
-#EXTINF:-1 tvg-id="SportTV3fhd.pt" tvg-name="Sport TV 3 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv3hdpt.jpg" group-title="Live: Portugal",Sport TV 3 FHD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/3223
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="Sport TV 4 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv4pt.jpg" group-title="Live: Portugal",Sport TV 4 PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/7843
-#EXTINF:-1 tvg-id="SportTV4fhd.pt" tvg-name="Sport TV 4 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv4hdpt.jpg" group-title="Live: Portugal",Sport TV 4 FHD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/3224
-#EXTINF:-1 tvg-id="SportTV5fhd.pt" tvg-name="Sport TV 5 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5hdpt.jpg" group-title="Live: Portugal",Sport TV 5 FHD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/16297
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5pt.jpg" group-title="Live: Portugal",Sport TV 5 PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/7842
-#EXTINF:-1 tvg-id="BenficaTV1uhd.pt" tvg-name="Benfica TV 1 UHD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 UHD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/86629
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="Benfica TV 1 PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/3308
-#EXTINF:-1 tvg-id="BenficaTV1hd.pt" tvg-name="Benfica TV 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg" group-title="Live: Portugal",Benfica TV 1 HD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/5541
-#EXTINF:-1 tvg-id="ElevenSports1uhd.pt" tvg-name="Eleven Sports 1 UHD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 UHD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/86630
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="Eleven Sports 1 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Live: Portugal",Eleven Sports 1 HD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/23325
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="Eleven Sports 2 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg" group-title="Live: Portugal",Eleven Sports 2 HD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/23320
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="Eleven Sports 3 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports3pl.jpg" group-title="Live: Portugal",Eleven Sports 3 HD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/23321
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="Eleven Sports 4 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elvensports4pl.jpg" group-title="Live: Portugal",Eleven Sports 4 HD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/23322
-#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="Eleven Sports 5 HD PT" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg" group-title="Live: Portugal",Eleven Sports 5 HD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/23323
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg" group-title="Live: Portugal",Eleven Sports 6 FHD PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/23324
-#EXTINF:-1 tvg-id="ABOLATV.pt.pt" tvg-name="A Bola TV PT" tvg-logo="https://picon-13398.kxcdn.com/abolatv.jpg" group-title="Live: Portugal",A Bola TV PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/5540
-#EXTINF:-1 tvg-id="PFC.pt" tvg-name="PFC PT" tvg-logo="https://picon-13398.kxcdn.com/pfcpt.jpg" group-title="Live: Portugal",PFC PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/3248
-#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="Caza y Pesca PT" tvg-logo="https://picon-13398.kxcdn.com/cazaypesca.jpg" group-title="Live: Portugal",Caza y Pesca PT
-http://45.12.1.14:80/Sawyer2023/ftZiK872/19626
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="|.PT.S.| SPORT TV+" tvg-logo="http://one-iptv.com/imageslogo/SportTVPlus.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV+
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58878.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.S.| SPORT TV 1" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 1
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58879.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.S.| SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 1 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/31368.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="|.PT.S.| SPORT TV 2" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 2
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58881.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="|.PT.S.| SPORT TV 2 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 2 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58880.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="|.PT.S.| SPORT TV 3" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 3
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58883.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="|.PT.S.| SPORT TV 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 3 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58882.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="|.PT.S.| SPORT TV 4" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 4
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58885.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="|.PT.S.| SPORT TV 4 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 4 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58884.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="|.PT.S.| SPORT TV 5" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 5
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58887.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="|.PT.S.| SPORT TV 5 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 5 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58886.ts
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports1.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 1 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58888.ts
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports2.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 2 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58889.ts
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports3.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 3 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58890.ts
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 4 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58891.ts
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 5 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58892.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.S.| ELEVEN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 6 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58893.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.S.| BENFICA TV" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",|.PT.S.| BENFICA TV
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58876.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.| BENFICA TV FHD" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",|.PT.| BENFICA TV FHD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/95819.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.S.| A BOLA TV HD" tvg-logo="http://one-iptv.com/imageslogo/ABolaTV.pt.png" group-title="PORTUGAL",|.PT.S.| A BOLA TV HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58869.ts
 
 
 #EXTINF:-1 group-title="TV" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
