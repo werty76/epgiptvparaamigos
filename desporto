@@ -17,6 +17,12 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6334a8e48a7b
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Wired2Fish
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608a2c722957c9002c6a617b/variant.m3u8?url=d8c2b14680535211f4a55d1cd965b40a-6b9b3c205938b2264dcbbe3aabb7c2fb3faa9257bf7afb79294057d04e9b86602e4e3ab4fb7db11b4c5fbd28f29df60af00f4d003a3e8a830f57a86f48e65c29f7482e9a3108959e34f813322c479d4d473ef316dde8b236ce27c811052659e79f25736329cf90a3dfe82e738908d049ce020d3a26db8ee03bb709dbdcc0a7b5837546f571fa5ffb80eb4d73aa976074db5e8c395871ba4215f7f106073fae29bc6a852f1d342b120246d661fe94fcbadf8fc62330f05320613c596f1bfeb98a2a1f72ec7b66d7d82d703cfce8badd60&x-plex-token=4ezzaTzV-efHeAjQSmC5&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691956784
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",The Boat Show
+https://spottvod.akamaized.net/ott/rlaxx/media_team_producciones/CS_PGM_130_T4_premium.mp4/index-v1-a1.m3u8?cid=29842&ecid=2855311&pid=5&dtid=3&sid=142195099417&gc=goY&gsd=4uE&grm=1&content=1553339
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Motor Racing
+https://spottvod.akamaized.net/ott/rlaxx/skuff_tv/435253583_premium.mp4/index-v1-a1.m3u8?cid=29842&ecid=404164&pid=5&dtid=3&sid=514183482131&gc=PCU&gsd=XEI&grm=1&content=153297
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Pro Wrestling TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62b124bb32ebdc6c67a7eea1/variant.m3u8?url=537f8cf97e8342296b85ce6be7c28388-f63ca140e5ae256952e0f42fcfd422a3098d2e5a3b76c40cf9271840e93af4e1b120feb62e7ab1f3ec59e6a8feddc453ea730c11751b8a10b919049a967cdad1d3338b4c8d29b4a32224a4b057c3fe77ee6f229fbfb2665be913dee3d8cd332e&x-plex-token=oUqxyQGhdoYGNVpQuoTL&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691957059
 
