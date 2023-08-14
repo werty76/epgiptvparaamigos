@@ -1,7 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3Cl4IQp" group-title="Jogo Direto", Moreirense vs Porto
-https://ddh2.cdndac.lol/ddh2/premium74/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",SPORT TV 1
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58879.ts
+#EXTINF:-1 tvg-id="SportTV1.pthd" tvg-name="SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",SPORT TV 1 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/31368.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",SPORT TV 2
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58881.ts
+#EXTINF:-1 tvg-id="SportTV2.pthd" tvg-name="SPORT TV 2 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",SPORT TV 2 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58880.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",SPORT TV 3
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58883.ts
+#EXTINF:-1 tvg-id="SportTV3.pthd" tvg-name="SPORT TV 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",SPORT TV 3 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58882.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",SPORT TV 4
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58885.ts
+#EXTINF:-1 tvg-id="SportTV4.pthd" tvg-name="SPORT TV 4 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",SPORT TV 4 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58884.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",SPORT TV 5
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58887.ts
+#EXTINF:-1 tvg-id="SportTV5.pthd" tvg-name="SPORT TV 5 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",SPORT TV 5 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58886.ts
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports1.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58888.ts
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports2.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58889.ts
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports3.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58890.ts
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 4 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58891.ts
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 5 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58892.ts
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 6 HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58893.ts
+#EXTINF:-1 tvg-id="BENFICA.tv" tvg-name="BENFICA TV" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",BENFICA TV
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58876.ts
+#EXTINF:-1 tvg-id="BENFICA.tvfhd" tvg-name="BENFICA TV FHD" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",BENFICA TV FHD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/95819.ts
+#EXTINF:-1 tvg-id="A BOLA.tvhd" tvg-name="A BOLA TV HD" tvg-logo="http://one-iptv.com/imageslogo/ABolaTV.pt.png" group-title="PORTUGAL",A BOLA TV HD
+http://tv.pro-ott.com:25443/live/5035025233/8763454386/58869.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Motorsport.tv
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb/variant.m3u8?url=ea28f8db8c0de9e5f5a8bca51511573a-eaf07d9d5d8dc3661c264915d390e5ec0f9c6943ee499091b99a1112d2f2c30c1edf1101b9c07cc3fdf062f1b162e0d9a733e8a7d360d48b9813b95abd878f72b4b6bddcc4fba319ed94872868f987b9cc27378e88b7e10d180e54a9f3b9540277985b9de74f472d2039101708c822a16c248b1203e05975be01a924f4ea9295f2d2733c03e53277f5d7c789daef6747f3e9f203eb724efc24cd8a37243644bd&x-plex-token=EuMGvvRKMdpiLeufjwVU&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691956431
