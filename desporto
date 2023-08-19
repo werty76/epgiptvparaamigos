@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="The King's Daughter (2022)" tvg-logo="https://bit.ly/3reC3aJ" group-title="VOD",The King's Daughter (2022)
+https://fv9-2.failiem.lv/Files.fm_2022-01-12_file_fz9m9x3kp/The%20King%27s%20Daughter.mp4?PHPSESSID=55dc1ac1ee88a1d110da542d9a3c46b2603af12d
+
+#EXTINF:-1 tvg-id="" tvg-name="Blacklight (2022)" tvg-logo="https://bit.ly/3pYyztm" group-title="SERIES",Blacklight (2022)
+https://fv9-5.failiem.lv/Files.fm_2022-03-12_file_rf24xm5uf/Agente%20das%20Sombras%202022.mp4?PHPSESSID=e85ab674dc953cda50b7eaff19bb85ed30a00d42
+
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",SPORT TV 1
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58879.ts
 #EXTINF:-1 tvg-id="SportTV1.pthd" tvg-name="SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",SPORT TV 1 HD
