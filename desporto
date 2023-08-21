@@ -1,42 +1,42 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",SPORT TV 1
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="DESPORTO",SPORT TV 1
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58879.ts
-#EXTINF:-1 tvg-id="SportTV1.pthd" tvg-name="SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",SPORT TV 1 HD
+#EXTINF:-1 tvg-id="SportTV1.pthd" tvg-name="SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="DESPORTO",SPORT TV 1 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/31368.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",SPORT TV 2
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="DESPORTO",SPORT TV 2
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58881.ts
-#EXTINF:-1 tvg-id="SportTV2.pthd" tvg-name="SPORT TV 2 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",SPORT TV 2 HD
+#EXTINF:-1 tvg-id="SportTV2.pthd" tvg-name="SPORT TV 2 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="DESPORTO",SPORT TV 2 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58880.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",SPORT TV 3
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="DESPORTO",SPORT TV 3
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58883.ts
-#EXTINF:-1 tvg-id="SportTV3.pthd" tvg-name="SPORT TV 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",SPORT TV 3 HD
+#EXTINF:-1 tvg-id="SportTV3.pthd" tvg-name="SPORT TV 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="DESPORTO",SPORT TV 3 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58882.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",SPORT TV 4
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="DESPORTO",SPORT TV 4
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58885.ts
-#EXTINF:-1 tvg-id="SportTV4.pthd" tvg-name="SPORT TV 4 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",SPORT TV 4 HD
+#EXTINF:-1 tvg-id="SportTV4.pthd" tvg-name="SPORT TV 4 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="DESPORTO",SPORT TV 4 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58884.ts
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",SPORT TV 5
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="DESPORTO",SPORT TV 5
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58887.ts
-#EXTINF:-1 tvg-id="SportTV5.pthd" tvg-name="SPORT TV 5 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",SPORT TV 5 HD
+#EXTINF:-1 tvg-id="SportTV5.pthd" tvg-name="SPORT TV 5 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="DESPORTO",SPORT TV 5 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58886.ts
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports1.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports1.pt.png" group-title="DESPORTO",ELEVEN SPORTS 1 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58888.ts
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports2.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports2.pt.png" group-title="DESPORTO",ELEVEN SPORTS 2 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58889.ts
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports3.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports3.pt.png" group-title="DESPORTO",ELEVEN SPORTS 3 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58890.ts
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 4 HD
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="DESPORTO",ELEVEN SPORTS 4 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58891.ts
-#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 5 HD
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="DESPORTO",ELEVEN SPORTS 5 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58892.ts
-#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 6 HD
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="DESPORTO",ELEVEN SPORTS 6 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58893.ts
-#EXTINF:-1 tvg-id="BENFICA.tv" tvg-name="BENFICA TV" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",BENFICA TV
+#EXTINF:-1 tvg-id="BENFICA.tv" tvg-name="BENFICA TV" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="DESPORTO",BENFICA TV
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58876.ts
-#EXTINF:-1 tvg-id="BENFICA.tvfhd" tvg-name="BENFICA TV FHD" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",BENFICA TV FHD
+#EXTINF:-1 tvg-id="BENFICA.tvfhd" tvg-name="BENFICA TV FHD" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="DESPORTO",BENFICA TV FHD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/95819.ts
-#EXTINF:-1 tvg-id="A BOLA.tvhd" tvg-name="A BOLA TV HD" tvg-logo="http://one-iptv.com/imageslogo/ABolaTV.pt.png" group-title="PORTUGAL",A BOLA TV HD
+#EXTINF:-1 tvg-id="A BOLA.tvhd" tvg-name="A BOLA TV HD" tvg-logo="http://one-iptv.com/imageslogo/ABolaTV.pt.png" group-title="DESPORTO",A BOLA TV HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58869.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Motorsport.tv
