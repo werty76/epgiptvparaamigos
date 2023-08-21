@@ -39,49 +39,49 @@ http://tv.pro-ott.com:25443/live/5035025233/8763454386/95819.ts
 #EXTINF:-1 tvg-id="A BOLA.tvhd" tvg-name="A BOLA TV HD" tvg-logo="http://one-iptv.com/imageslogo/ABolaTV.pt.png" group-title="DESPORTO",A BOLA TV HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58869.ts
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Motorsport.tv
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",Motorsport.tv
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb/variant.m3u8?url=ea28f8db8c0de9e5f5a8bca51511573a-eaf07d9d5d8dc3661c264915d390e5ec0f9c6943ee499091b99a1112d2f2c30c1edf1101b9c07cc3fdf062f1b162e0d9a733e8a7d360d48b9813b95abd878f72b4b6bddcc4fba319ed94872868f987b9cc27378e88b7e10d180e54a9f3b9540277985b9de74f472d2039101708c822a16c248b1203e05975be01a924f4ea9295f2d2733c03e53277f5d7c789daef6747f3e9f203eb724efc24cd8a37243644bd&x-plex-token=EuMGvvRKMdpiLeufjwVU&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691956431
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Motorvision TV
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",Motorvision TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4/variant.m3u8?url=25bdcef35ee3177535e8f833b210b7e3-1fe803cbd97820a876132abdf02e7c7de35dfb899f415fcd91233aa63ca63bda760470a79d3861afe20fe928a6cf53dfbc5a8a75ad38104f48e786321d9e31dcba59c83f2ff98ee4c133ccce907b6aa529b1544cd9f167ffccd5a3f99b3bf1e5&x-plex-token=czYfRdiNc6ZDWAY2vJqy&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691956201
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",SPEEDVISION
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",SPEEDVISION
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6349ed0eb1adc4cfa571fd37/variant.m3u8?url=0de8fadcde89ac9e4bf4bf42e2e6f0a8-440a568547e1ba50ddb342f26e2687eac15deb9b17f0fe082fe8f262b67bcf7b6d6d9bf1b4a3beb89fe839f94c0cfafa8352e3661966034314f07de8ec9db420b80ccfb27680cc5b079f05964f9e5790895f410e40ba987929334c443256d7fccc8a1ef42d48462e037f26d4c2859be91a56ee1bc777770095192fd55dd28b0eed72e4a267c4e71d39eb2a7a300638ee0ba37d994424863ede3121a943a45a90&x-plex-token=SF_Ryi13coucpQJauZR7&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691956517
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Billiard TV
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",Billiard TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c/variant.m3u8?url=588a90c7ff456a5664aedcbf2690dcdc-39c7e7771b1b958d3401de71b7d8e73f6d815b69c5fdfc7be1ab08c9b326a6362a6e9637d62bfd731f1459691cac5c7b7f7ba4ab19f3cd4dd31f302700d144128dc99422ed6cb1d47fbbd4838c7840a74ba42a6958befc0bb94b6d51920378ba50747a038da887e44a2c8d7d96c4db0961093c6a3f831443f7610817f2ad4a4e5eb95c2d1f6e52e095d7028a4898aba690fe778746c3df66af0087fb69682fe996c07e1fe1ab48cae54a058e79dae070642c788f0c7d73cbf1e1ee6e5ff86e14d2740eb4739f9c75fa98ca12914dde0f&x-plex-token=y9B5bKY6YK7e_egFQsXj&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691956718
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Wired2Fish
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",Wired2Fish
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608a2c722957c9002c6a617b/variant.m3u8?url=d8c2b14680535211f4a55d1cd965b40a-6b9b3c205938b2264dcbbe3aabb7c2fb3faa9257bf7afb79294057d04e9b86602e4e3ab4fb7db11b4c5fbd28f29df60af00f4d003a3e8a830f57a86f48e65c29f7482e9a3108959e34f813322c479d4d473ef316dde8b236ce27c811052659e79f25736329cf90a3dfe82e738908d049ce020d3a26db8ee03bb709dbdcc0a7b5837546f571fa5ffb80eb4d73aa976074db5e8c395871ba4215f7f106073fae29bc6a852f1d342b120246d661fe94fcbadf8fc62330f05320613c596f1bfeb98a2a1f72ec7b66d7d82d703cfce8badd60&x-plex-token=4ezzaTzV-efHeAjQSmC5&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691956784
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",The Boat Show
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",The Boat Show
 https://spottvod.akamaized.net/ott/rlaxx/media_team_producciones/CS_PGM_130_T4_premium.mp4/index-v1-a1.m3u8?cid=29842&ecid=2855311&pid=5&dtid=3&sid=142195099417&gc=goY&gsd=4uE&grm=1&content=1553339
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Motor Racing
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",Motor Racing
 https://spottvod.akamaized.net/ott/rlaxx/skuff_tv/435253583_premium.mp4/index-v1-a1.m3u8?cid=29842&ecid=404164&pid=5&dtid=3&sid=514183482131&gc=PCU&gsd=XEI&grm=1&content=153297
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Pro Wrestling TV
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",Pro Wrestling TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62b124bb32ebdc6c67a7eea1/variant.m3u8?url=537f8cf97e8342296b85ce6be7c28388-f63ca140e5ae256952e0f42fcfd422a3098d2e5a3b76c40cf9271840e93af4e1b120feb62e7ab1f3ec59e6a8feddc453ea730c11751b8a10b919049a967cdad1d3338b4c8d29b4a32224a4b057c3fe77ee6f229fbfb2665be913dee3d8cd332e&x-plex-token=oUqxyQGhdoYGNVpQuoTL&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691957059
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",MAVTV Motorsports Network
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",MAVTV Motorsports Network
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136/variant.m3u8?url=8d67eb8962a662f5131f894d4a986c0f-3c0d3dd7defef94fc331edeadbb23fb27bd09fff7afce684000b4aababcf3f3d500461515d29f357dabd55c12fcac1e98f00070e6155844bbe6823e343b88aec0112f11422f5a02096eaeb957ca334d3bd26c88ab001ec46fcc4e4b2cfcf4598350ee888b2fe20f718e0baecd0c56c97e14ff935caeab6ccd72131693ce318d9b3583261f898064f95006a9afca293655b6596452719c64b8cae2119f521a85f568f83c7a98f797dff3db976ed5d5b6a63b659362bdc66824a402cfa49046ef27a81d4b6e765aaa0b9879eff6e3afdde&x-plex-token=1wnMgBowP6sWtdezQpt5&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691957365
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",RED BULL TV FHD
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",RED BULL TV FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto", RED BULL TV HD
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO", RED BULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",RED BULL TV
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Strongman Champions
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",Strongman Champions
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403/variant.m3u8?url=e7e1e7eed0a58ce252547e9dc7f0feb2-fc24c7dc23efc7620917625bdc2903736adf8f2d64e2775bfc5bbe178ac0dbf75f66c596dd05dd57fefc323c7821592bf97a99d079ad21b52bdbd372997dc850266e6b10bbc8ba11d6e74d139e4ededec620606e7ad4ec95e67c2ee6e3e73a69d0eec0f81cd55d8543b7edda148a073be80d19bb36e18dacdeab86a981aafc1b9b478353d6477def5f6c0999d8ac78288d44ca748d2e47faab8d1aa5822ec971e35bbf3b7b414046cda47a08af5b52630f088dce3b495d9322efde8769e67d34110b6c6b6dba363e1ac94cf4cb1471bd6ce87d4d384989923a8f5e5382c1aa89&x-plex-token=pjbBSsQxm8d-uxEabpnu&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691957553
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",Hard Knocks
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",Hard Knocks
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820/variant.m3u8?url=c41408d975b39dfc9052f22c7cc57339-d3fbc7f17142ccbd21fe087368a1b1323c2bd5e632de1963b95fd4c55dcfa6a58326848f7de51871f2374e00c41c29f148d19f04c4a69cdb394c4b51952b5d1ec168e9509f0cfbe09f9291234a105f1b9ffbaaedfcb87c8efe3f99b1632621507d36e69aeb6803a9c9e1a2ffe51bb3dc062dcc69e8fbd341c145cab49e4e68f0d5d052ae0168950c6ec3a913182e45077fb0f7ae0dfbfaefd8df970697168676&x-plex-token=FGCeBZZ4c9-K89ecRSgw&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691957116
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="Desporto",IMPACT Wrestling
+#EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO",IMPACT Wrestling
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873/variant.m3u8?url=3b7f6e848adb635475f70e66516abadb-5ed2c75209efead0e2eec49c2dd7f6149e372fdc10046ed5335ade2d36b14370fe30560528e038cd9076a9f7a042b7449bdbbc1d4c7867e81173412df5af43d75c6ea2c073fa735678be0fa114960ef41c631fbb5602df2a7a2ed8fa19c9b8a9&x-plex-token=7PPK85qqxy6-M5qTBGix&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1691957195
 
 
@@ -397,20 +397,4 @@ https://fv9-1.failiem.lv/Files.fm_2022-01-10_file_kza9vqwq3/T2%20EP7%20SEE.mp4?P
 https://fv9-3.failiem.lv/Files.fm_2022-01-10_file_y9ycwqjdu/T2%20EP8%20SEE.mp4?PHPSESSID=4705cf2a783fcc647c742f640ed29ea096f3305c
 
 
-#EXTINF:-1 tvg-logo="https://bit.ly/34dmEQC" group-title="Mundo Jurássico", Mundo Jurássico: Acampamento Cretáceo S01E01
-https://fv2-1.failiem.lv/Files.fm_2022-03-04_file_d7u946jd9/[S01.E01]%20Jurassic%20World%20Camp%20Cretaceous%20-%20Camp%20Cretaceous.mp4?PHPSESSID=829ad57050e54eb3d1cdb7e04c7bdd15d932f1fc
-#EXTINF:-1 tvg-logo="https://bit.ly/34dmEQC" group-title="Mundo Jurássico", Mundo Jurássico: Acampamento Cretáceo S01E02
-https://fv2-4.failiem.lv/Files.fm_2022-03-04_file_q3vmbs3by/[S01.E02]%20Jurassic%20World%20Camp%20Cretaceous%20-%20Secrets.mp4?PHPSESSID=829ad57050e54eb3d1cdb7e04c7bdd15d932f1fc
-#EXTINF:-1 tvg-logo="https://bit.ly/34dmEQC" group-title="Mundo Jurássico", Mundo Jurássico: Acampamento Cretáceo S01E03
-https://fv2-1.failiem.lv/Files.fm_2022-03-04_file_tf8yb8fq9/[S01.E03]%20Jurassic%20World%20Camp%20Cretaceous%20-%20The%20Cattle%20Drive.mp4?PHPSESSID=829ad57050e54eb3d1cdb7e04c7bdd15d932f1fc
-#EXTINF:-1 tvg-logo="https://bit.ly/34dmEQC" group-title="Mundo Jurássico", Mundo Jurássico: Acampamento Cretáceo S01E04
-https://fv2-1.failiem.lv/Files.fm_2022-03-04_file_hhdpuq3m6/[S01.E04]%20Jurassic%20World%20Camp%20Cretaceous%20-%20Things%20Fall%20Apart.mp4?PHPSESSID=829ad57050e54eb3d1cdb7e04c7bdd15d932f1fc
-#EXTINF:-1 tvg-logo="https://bit.ly/34dmEQC" group-title="Mundo Jurássico", Mundo Jurássico: Acampamento Cretáceo S01E05
-https://fv2-5.failiem.lv/Files.fm_2022-03-04_file_pnffx3xvj/[S01.E05]%20Jurassic%20World%20Camp%20Cretaceous%20-%20Happy%20Birthday,%20Eddie!.mp4?PHPSESSID=829ad57050e54eb3d1cdb7e04c7bdd15d932f1fc
-#EXTINF:-1 tvg-logo="https://bit.ly/34dmEQC" group-title="Mundo Jurássico", Mundo Jurássico: Acampamento Cretáceo S01E06
-https://fv2-5.failiem.lv/Files.fm_2022-03-04_file_ee5d35sky/[S01.E06]%20Jurassic%20World%20Camp%20Cretaceous%20-%20Welcome%20to%20Jurassic%20World.mp4?PHPSESSID=829ad57050e54eb3d1cdb7e04c7bdd15d932f1fc
-#EXTINF:-1 tvg-logo="https://bit.ly/34dmEQC" group-title="Mundo Jurássico", Mundo Jurássico: Acampamento Cretáceo S01E07
-https://fv2-4.failiem.lv/Files.fm_2022-03-04_file_af5vbwkg2/[S01.E07]%20Jurassic%20World%20Camp%20Cretaceous%20-%20Last%20Day%20of%20Camp.mp4?PHPSESSID=829ad57050e54eb3d1cdb7e04c7bdd15d932f1fc
-#EXTINF:-1 tvg-logo="https://bit.ly/34dmEQC" group-title="Mundo Jurássico", Mundo Jurássico: Acampamento Cretáceo S01E08
-https://fv2-1.failiem.lv/Files.fm_2022-03-04_file_hhdpuq3m6/[S01.E04]%20Jurassic%20World%20Camp%20Cretaceous%20-%20Things%20Fall%20Apart.mp4?PHPSESSID=829ad57050e54eb3d1cdb7e04c7bdd15d932f1fc
 
