@@ -1,17 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="DESPORTO", SPORT TV 1
-http://iloon.top:8080/live/441692386919104/91692386919/24984.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 2" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="DESPORTO", SPORT TV 2
-http://iloon.top:8080/live/441692386919104/91692386919/24982.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 3" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="DESPORTO", SPORT TV 3
-http://iloon.top:8080/live/441692386919104/91692386919/24980.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 4" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="DESPORTO", SPORT TV 4
-http://iloon.top:8080/live/441692386919104/91692386919/24979.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 5" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="DESPORTO", SPORT TV 5
-http://iloon.top:8080/live/441692386919104/91692386919/24978.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 6" tvg-logo="https://docdog.top/logo/countries/portugal/Sport_tv_6.png" group-title="DESPORTO", SPORT TV 6
-http://iloon.top:8080/live/441692386919104/91692386919/29669.ts
+
 
 #EXTINF:-1 tvg-id="SportTV1.pthd" tvg-name="SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="DESPORTO", SPORT TV 1 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/31368.ts
@@ -52,19 +41,6 @@ http://tv.pro-ott.com:25443/live/5035025233/8763454386/58887.ts
 #EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="|.PT.S.| SPORT TV 5 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="DESPORTO", SPORT TV 5 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58886.ts
 
-#EXTINF:-1 tvg-id="" tvg-name=" ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="DESPORTO", ELEVEN SPORTS 1
-http://iloon.top:8080/live/441692386919104/91692386919/25024.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ELEVEN SPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="DESPORTO", ELEVEN SPORTS 2
-http://iloon.top:8080/live/441692386919104/91692386919/25025.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ELEVEN SPORT 3" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="DESPORTO", ELEVEN SPORTS 3
-http://iloon.top:8080/live/441692386919104/91692386919/25026.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ELEVEN SPORT 4" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport4.png" group-title="DESPORTO", ELEVENS PORTS 4
-http://iloon.top:8080/live/441692386919104/91692386919/25027.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ELEVEN SPORT 5" tvg-logo="https://docdog.top/logo/countries/portugal/Eleven_Sports_5.png" group-title="DESPORTO", ELEVEN SPORTS 5
-http://iloon.top:8080/live/441692386919104/91692386919/25028.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ELEVEN SPORT 6" tvg-logo="https://docdog.top/logo/countries/portugal/elevensports6vip.png" group-title="DESPORTO", ELEVEN SPORTS 6
-http://iloon.top:8080/live/441692386919104/91692386919/24983.ts
-
 #EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports1.pt.png" group-title="DESPORTO",ELEVEN SPORTS 1 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58888.ts
 #EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports2.pt.png" group-title="DESPORTO", ELEVEN SPORTS 2 HD
@@ -102,20 +78,12 @@ http://tv.pro-ott.com:25443/live/5035025233/8763454386/95819.ts
 #EXTINF:-1 tvg-id="A BOLA.tvhd" tvg-name="A BOLA TV HD" tvg-logo="http://one-iptv.com/imageslogo/ABolaTV.pt.png" group-title="DESPORTO", A BOLA TV HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/58869.ts
 
-#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV NBA" tvg-logo="https://docdog.top/logo/countries/portugal/sporttvnba.png" group-title="DESPORTO", SPORT TV NBA
-http://iloon.top:8080/live/441692386919104/91692386919/24981.ts
-#EXTINF:-1 tvg-id="" tvg-name=" A BOLA TV" tvg-logo="https://docdog.top/logo/countries/portugal/abolatv.png" group-title="DESPORTO", A BOLA TV
-http://iloon.top:8080/live/441692386919104/91692386919/24987.ts
-#EXTINF:-1 tvg-id="" tvg-name=" BTV" tvg-logo="https://docdog.top/logo/countries/portugal/btv.png" group-title="DESPORTO", BTV
-http://iloon.top:8080/live/441692386919104/91692386919/25000.ts
-
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO", RED BULL TV FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO", RED BULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3ZjfLp9" group-title="FILMES", Fala comigo (2023)
