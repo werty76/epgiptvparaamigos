@@ -84,6 +84,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://bit.ly/48vAeuW" group-title="FILMES", The Equalizer 3 (2023)
+https://fv5-3.failiem.lv/Files.fm_2023-10-03_file_9uphcp55q5/The.Equalizer.3.mp4?PHPSESSID=7dcddf1dbfff5cfc145fc28d9e92fb94b7c13973
+#EXTINF:-1 tvg-logo="https://bit.ly/3LO2Plv" group-title="FILMES", The Nun II (2023)
+https://fv5-3.failiem.lv/Files.fm_2023-10-03_file_zaqfq35ghc/The.Nun.II.mp4?PHPSESSID=7dcddf1dbfff5cfc145fc28d9e92fb94b7c13973
 #EXTINF:-1 tvg-logo="https://bit.ly/3rxRYVR" group-title="FILMES", Doces ou travessuras Scooby-Doo! 
 https://fv5-2.failiem.lv/Files.fm_2023-10-01_file_ynky4bh588/Doces.ou.travessuras.Scooby-Doo%21.mp4?PHPSESSID=d76f67a6f55b3bc3d3ec10a5083d98fb77d4bbeb
 #EXTINF:-1 tvg-logo="https://bit.ly/48zyXTR" group-title="FILMES", Gran Turismo (2023)
