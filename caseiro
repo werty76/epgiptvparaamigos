@@ -84,6 +84,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3LO7owj" group-title="FILMES", Sound of Freedom(2023)
+https://fv5-2.failiem.lv/thumb_video/9b22jqhy73.mp4?v=1696536871&PHPSESSID=4c69359c87dbcf967f16258e7d587c06063512be
 #EXTINF:-1 tvg-logo="https://bit.ly/48vAeuW" group-title="FILMES", The Equalizer 3 (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-10-03_file_9uphcp55q5/The.Equalizer.3.mp4?PHPSESSID=7dcddf1dbfff5cfc145fc28d9e92fb94b7c13973
 #EXTINF:-1 tvg-logo="https://bit.ly/3LO2Plv" group-title="FILMES", The Nun II (2023)
