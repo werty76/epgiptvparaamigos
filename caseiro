@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
-#EXTINF:-1 tvg-logo="https://bit.ly/46HdF5h" group-title="FILMES", Tartarugas Ninja: Caos Mutante (2023)
-https://fv5-2.failiem.lv/Files.fm_2023-10-25_file_gaubwhhj9w/Tartarugas.Ninja.Caos.Mutante.mp4?PHPSESSID=d3a032dc4b07063e14455330636cfa70f13e9e1d
 #EXTINF:-1 tvg-logo="https://bit.ly/3S8k4SD" group-title="FILMES", The Exorcist: Believer (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-10-25_file_7vhpg9wujn/The.Exorcist.Believer.mp4?PHPSESSID=099f40f6a0522e873015e0c89f1a10108ffea872
 #EXTINF:-1 tvg-logo="https://bit.ly/3M7uvlm" group-title="FILMES", Saw X (2023)
@@ -357,6 +355,8 @@ https://fv2-1.failiem.lv/Files.fm_2022-01-26_file_f2jcf87fj/01.%20Alien.1979.mp4
 https://fv9-4.failiem.lv/Files.fm_2022-01-12_file_bxgues23d/Rocky-%20Um%20Lutador%201976.mp4?PHPSESSID=62bd2f9a2e1526171ceb829289a9d37dc620c027
 
 
+#EXTINF:-1 tvg-logo="https://bit.ly/46HdF5h" group-title="ANIMAÇÃO PT", Tartarugas Ninja: Caos Mutante (2023)
+https://fv5-2.failiem.lv/Files.fm_2023-10-25_file_gaubwhhj9w/Tartarugas.Ninja.Caos.Mutante.mp4?PHPSESSID=d3a032dc4b07063e14455330636cfa70f13e9e1d
 #EXTINF:-1 tvg-logo="https://bit.ly/3MdfD51" group-title="ANIMAÇÃO PT", Happy Halloween, Scooby-Doo!
 https://fv5-3.failiem.lv/Files.fm_2023-10-15_file_acrdc2efcz/Happy+Halloween%2C+Scooby-Doo%21+%282020%29.mp4?PHPSESSID=e8b99baced620203d19aceb9c9e69268c1c7b3b9
 #EXTINF:-1 tvg-logo="https://bit.ly/3Fp7aIm" group-title="ANIMAÇÃO PT", Scooby-Doo- Um novo universo
