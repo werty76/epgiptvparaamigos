@@ -1697,6 +1697,8 @@ https://fv5-3.failiem.lv/Files.fm_2023-09-16_file_9brwvbnjy/WWE+Rivals+2022+S02E
 
 #EXTINF:-1 tvg-logo="https://bit.ly/46KbH40" group-title="RALLY WRC 2023", Central Europe Day 1
 https://rbmn-live.akamaized.net/hls/live/655944/231027WrcFriHiPri/master_6660.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/46KbH40" group-title="RALLY WRC 2023", Central Europe Day 2
+https://rbmn-live.akamaized.net/hls/live/655944/231028WrcSatHiPri/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/45cGViz" group-title="RALLY WRC 2023", Chile 2023 Day 1
 https://rbmn-live.akamaized.net/hls/live/655944/230929WrcFriHiPri/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/45cGViz" group-title="RALLY WRC 2023", Chile 2023 Day 2
