@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3sgzMRd" group-title="FILMES", The Kill Room (2023)
+https://fv5-3.failiem.lv/Files.fm_2023-11-07_file_4bysyx4v97/The.Kill.Room.mp4?PHPSESSID=b061249352eec5d35c80d98ea4be6483e0098518
+#EXTINF:-1 tvg-logo="https://bit.ly/3MxesO2" group-title="FILMES", Sly (2023)
+https://fv5-3.failiem.lv/Files.fm_2023-11-07_file_fe8jbd7rcy/Sly.mp4?PHPSESSID=b061249352eec5d35c80d98ea4be6483e0098518
+#EXTINF:-1 tvg-logo="https://bit.ly/3MzZ4k6" group-title="FILMES", Shrapnel
+https://fv5-2.failiem.lv/Files.fm_2023-11-07_file_nysa5uhmvj/Shrapnel.mp4?PHPSESSID=8747cd4592c81ac9cd34778045780cdf64545750
 #EXTINF:-1 tvg-logo="https://bit.ly/3MucHB7" group-title="FILMES", Deep Fear (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-11-05_file_28dhyk7tp2/Terror.nas.Profundezas.mp4?PHPSESSID=291323d9f5e71ad85ad1a88b1cbaf4ad197169d6
 #EXTINF:-1 tvg-logo="https://bit.ly/3u7DUTS" group-title="FILMES", The Rescue: The Weight of the World (2023)
@@ -33,6 +39,22 @@ https://fv5-2.failiem.lv/Files.fm_2023-10-07_file_3fzg8myvg4/The+Equalizer+-+Sem
 https://fv5-3.failiem.lv/Files.fm_2023-10-26_file_5yac8teua8/57.Seconds.mp4?PHPSESSID=8900dca10e9ad197a9b68a4b96f08b5f9353c0c1
 #EXTINF:-1 tvg-logo="https://bit.ly/3QpWdMW" group-title="FILMES", Os Três Mosqueteiros D’Artagnan (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-10-22_file_2hp4m7x94b/Os.Tr%C3%AAs.Mosqueteiros.D%E2%80%99Artagnan.mp4?PHPSESSID=a58234790856a41a3015500df238b59eb8edda74
+#EXTINF:-1 tvg-logo="https://bit.ly/3SxoItE" group-title="FILMES", Once Upon a Deadpool
+https://fv5-2.failiem.lv/Files.fm_2023-11-06_file_z3azzhnmpe/Once.Upon.a.Deadpool.mp4?PHPSESSID=8747cd4592c81ac9cd34778045780cdf64545750
+#EXTINF:-1 tvg-logo="https://bit.ly/40uuMVr" group-title="FILMES", Deadpool 2
+https://fv5-3.failiem.lv/Files.fm_2023-11-06_file_5cszr6ta84/Deadpool.2.mp4?PHPSESSID=b061249352eec5d35c80d98ea4be6483e0098518
+#EXTINF:-1 tvg-logo="https://bit.ly/3u6R8R1" group-title="FILMES", Deadpool
+https://fv9-6.failiem.lv/Files.fm_2023-11-06_file_59wwhr9c7j/Deadpool.mp4?PHPSESSID=b061249352eec5d35c80d98ea4be6483e0098518
+#EXTINF:-1 tvg-logo="https://bit.ly/3shNvas" group-title="FILMES", Underworld - Guerras de Sangue 
+https://fv20.failiem.lv/Files.fm_2023-11-08_file_9xzp3ybauc/Underworld-+Guerras+de+Sangue+2016.mp4?PHPSESSID=1e96a3c8302e1f0d22b0efebe96bcbcf76540f51
+#EXTINF:-1 tvg-logo="https://bit.ly/47onaX1" group-title="FILMES", Underworld - O Despertar
+https://fv5-3.failiem.lv/Files.fm_2023-11-08_file_3bd8fg8a6d/Underworld-+O+Despertar+2012.mp4?PHPSESSID=1e96a3c8302e1f0d22b0efebe96bcbcf76540f51
+#EXTINF:-1 tvg-logo="https://bit.ly/40vLmo0" group-title="FILMES", Underworld - A Revolta
+https://fv5-3.failiem.lv/Files.fm_2023-11-09_file_wh36gy8dxw/Underworld-+A+Revolta+2009.mp4?PHPSESSID=1e96a3c8302e1f0d22b0efebe96bcbcf76540f51
+#EXTINF:-1 tvg-logo="https://bit.ly/470D4Xz" group-title="FILMES", Underworld - Evolução
+https://fv5-2.failiem.lv/Files.fm_2023-11-01_file_gywc9wtjuq/Underworld-+Evolu%C3%A7%C3%A3o+2006.mp4?PHPSESSID=8747cd4592c81ac9cd34778045780cdf64545750
+#EXTINF:-1 tvg-logo="https://bit.ly/3MA6WC1" group-title="FILMES", Underworld - O Submundo
+https://fv5-2.failiem.lv/Files.fm_2023-11-01_file_zdtqrqqrue/Underworld+-+O+Submundo+2003.mp4?PHPSESSID=8747cd4592c81ac9cd34778045780cdf64545750
 #EXTINF:-1 tvg-logo="https://bit.ly/3DggAn3" group-title="FILMES", The Fast and the Furious 
 https://fv5-2.failiem.lv/Files.fm_2023-11-01_file_e5g57smz8f/Velocidade+Furiosa+2001.mp4?PHPSESSID=a7fe86312d3b6e42846aaf0fbc3da0df43977775
 #EXTINF:-1 tvg-logo="https://bit.ly/3BgLRoj" group-title="FILMES", 2 Fast 2 Furious
