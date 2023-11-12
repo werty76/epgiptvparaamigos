@@ -1,1 +1,36 @@
-#EXTM3U
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AQUI[/COLOR][/B]</name>
+<thumbnail>AQUI</thumbnail>
+<externallink>AQUI</externallink>
+<fanart>AQUI</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AQUI[/COLOR][/B]</name>
+<thumbnail>AQUI</thumbnail>
+<externallink>AQUI</externallink>
+<fanart>AQUI</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AQUI[/COLOR][/B]</name>
+<thumbnail>AQUI</thumbnail>
+<externallink>AQUI</externallink>
+<fanart>AQUI</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AQUI[/COLOR][/B]</name>
+<thumbnail>AQUI</thumbnail>
+<externallink>AQUI</externallink>
+<fanart>AQUI</fanart>
+<info></info>
+</channel>
+
+</channels>
