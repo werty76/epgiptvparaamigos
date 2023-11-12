@@ -26,6 +26,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3FX8tP6</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/kids.xml</externallink>
+<fanart>https://bit.ly/3FX8tP6</fanart>
+<info>As melhores series estão aqui no seu TugaFlix</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Radios[/COLOR][/B]</name>
 <thumbnail>https://img.comunidades.net/rad/radios-online/imagens_radios_online_fone.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/radios</externallink>
