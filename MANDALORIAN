@@ -1,1 +1,28 @@
+<layouttype>thumbnail</layouttype>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN 1º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3EOj0cs</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MANDALORIAN_S01</externallink>
+<fanart>https://bit.ly/3MBMwZx</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN 2º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3OO8nNE</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MANDALORIAN%20_S02</externallink>
+<fanart>https://bit.ly/3SCN30U</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN 3º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3Z02iSQ</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MANDALORIAN_S03</externallink>
+<fanart>https://bit.ly/49rRLF3</fanart>
+<info></info>
+</channel>
+
+</channels>
