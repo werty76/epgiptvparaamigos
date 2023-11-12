@@ -1,0 +1,20 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LOKI 1º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48VMPbh</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Loki%20_S01</externallink>
+<fanart>https://bit.ly/3QRj6Jj</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LOKI 2ª TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3ZIp2av</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Loki_S02</externallink>
+<fanart>https://bit.ly/3u9ZPKi</fanart>
+<info></info>
+</channel>
+
+</channels>
