@@ -1,1 +1,18 @@
+<layouttype>thumbnail</layouttype>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/452W8Ts</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Walking%20Dead</externallink>
+<fanart>https://bit.ly/3smEih3</fanart>
+<info>The Walking Dead: Daryl Dixon é uma série de televisão pós-apocalíptica norte-americana criada por David Zabel para a AMC, baseada no personagem de mesmo nome de The Walking Dead</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead - Dead City[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/46y1Kq8</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Walking%20Dead%20Dead%20City</externallink>
+<fanart>https://bit.ly/40BiwTl</fanart>
+<info>The Walking Dead: Dead City é uma série de televisão norte-americana de drama e terror pós-apocalíptico criada por Eli Jorné para AMC, baseada nos personagens de The Walking Dead, Maggie e Negan</info>
+</channel>
