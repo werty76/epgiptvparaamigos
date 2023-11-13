@@ -1,0 +1,28 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]THE WITCHER 1º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/2Ta8t9</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/THE%20WITCHER_S01</externallink>
+<fanart>https://bit.ly/3MFfasJ</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]THE WITCHER 2º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3R5QU5Q</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/THE%20WITCHER_S02</externallink>
+<fanart>https://bit.ly/49KC9N0</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]THE WITCHER 3º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/44BL4wi</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/THE%20WITCHER_S03</externallink>
+<fanart>https://bit.ly/3ueh3Go</fanart>
+<info></info>
+</channel>
+
+</channels>
