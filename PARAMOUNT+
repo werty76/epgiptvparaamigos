@@ -1,1 +1,20 @@
+<layouttype>thumbnail</layouttype>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]1883[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/47YdweR</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/1883</externallink>
+<fanart>https://bit.ly/3QWODsn</fanart>
+<info>A geração pós-guerra civil da família Dutton viaja para o Texas e se junta a um vagão de trem empreendendo a árdua jornada para o oeste até Oregon, antes de se estabelecer em Montana para estabelecer o que viria a ser o Rancho Yellowstone.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]HALO[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/44vEUOk</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/HALO_S01</externallink>
+<fanart>https://bit.ly/3FYgR0I</fanart>
+<info>Alienígenas ameaçam a existência humana em um confronto épico do século 26.</info>
+</channel>
+
+</channels>
