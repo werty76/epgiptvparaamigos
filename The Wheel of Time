@@ -1,0 +1,20 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]THE WHEEL OF TIME 1º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3sKs9Cg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Wheel%20of%20Time_S01</externallink>
+<fanart>https://bit.ly/3ubvz1E</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]THE WHEEL OF TIME 2º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3raNfcs</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Wheel%20of%20Time_S02</externallink>
+<fanart>https://bit.ly/3MIVQux</fanart>
+<info></info>
+</channel>
+
+</channels>
