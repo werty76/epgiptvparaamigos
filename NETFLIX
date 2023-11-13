@@ -1,1 +1,76 @@
+<layouttype>thumbnail</layouttype>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Beckham[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3Mclzv0</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Beckham</externallink>
+<fanart>https://bit.ly/3sxGu5i</fanart>
+<info>Com imagens nunca antes vistas, esta série documental acompanha a ascensão meteórica de David Beckham, desde as origens humildes até ao estrelato do futebol mundial.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Fall of the House of Usher[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3QhhacH</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Fall%20of%20the%20House%20of%20Usher</externallink>
+<fanart>https://bit.ly/3FU7DCC</fanart>
+<info>Para garantir sua fortuna (e futuro), dois irmãos implacáveis ​​constroem uma dinastia familiar que começa a desmoronar quando seus herdeiros morrem misteriosamente, um por um.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]RABO DE PEIXE[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/45ETxQG</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Rabo%20de%20Peixe</externallink>
+<fanart>https://bit.ly/46fq9jk</fanart>
+<info>Quatro amigos cujas vidas mudaram para sempre com a chegada de uma tonelada de cocaína.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LUPIN[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/46DuTjz</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Lupin</externallink>
+<fanart>https://bit.ly/46c13lA</fanart>
+<info>Inspirado pelas aventuras de Arsène Lupin, o cavalheiro ladrão Assane Diop decide vingar seu pai por uma injustiça infligida por uma família rica.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]THE WITCHER[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/44BL4wi</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/THE%20WITCHER</externallink>
+<fanart>https://bit.ly/3QUJ1Qs</fanart>
+<info>Geralt de Rivia, um caçador de monstros solitário, luta para encontrar seu lugar em um mundo onde as pessoas muitas vezes se mostram mais perversas que as feras.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SQUID GAME[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3E6DhMe</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Squid%20Game</externallink>
+<fanart>https://bit.ly/467oKeQ</fanart>
+<info>Centenas de jogadores sem dinheiro aceitam um estranho convite para competir em jogos infantis. Lá dentro, um prêmio tentador o aguarda com riscos mortais: um jogo de sobrevivência que tem em jogo um prêmio colossal de 45,6 bilhões de won.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]CHOSEN[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3tk7xgZ</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Chosen</externallink>
+<fanart>https://bit.ly/40FqzP8</fanart>
+<info>Uma adolescente vê seu mundo virado de cabeça para baixo quando descobre a verdade perturbadora que se esconde em sua pacata cidade dinamarquesa.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]PANDA DO KUNG FU - O CAVALEIRO DRAGÃO[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3P8BRHo</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Panda%20do%20Kung%20Fu-%20O%20Cavaleiro-Drag%C3%A3o</externallink>
+<fanart>https://bit.ly/3SKrmwh</fanart>
+<info>Siga Po, que faz parceria com um cavaleiro inglês prático chamado Wandering Blade, para encontrar uma coleção de quatro armas poderosas antes que um misterioso par de doninhas o faça e salve o mundo da destruição.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MUNDO JURÁSSICO: ACAMPAMENTO CRETÁCEO[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3hDEhvV</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Mundo%20Jur%C3%A1ssico%3A%20Acampamento%20Cret%C3%A1ceo</externallink>
+<fanart>https://bit.ly/3sw0K7h</fanart>
+<info>Seis adolescentes que frequentam um acampamento de aventura no lado oposto da Ilha Nublar devem se unir para sobreviver quando os dinossauros causam estragos na ilha.</info>
+</channel>
+
+</channels>
