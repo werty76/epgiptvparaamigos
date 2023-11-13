@@ -1,1 +1,28 @@
+<layouttype>thumbnail</layouttype>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]30 Coins[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/47hFOzJ</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/30%20Coins</externallink>
+<fanart>https://bit.ly/3FYJCKC</fanart>
+<info>Um padre exilado tenta escapar dos seus demónios enquanto vive numa aldeia remota em Espanha.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Last of Us[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3Ez8eZF</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Last%20of%20Us</externallink>
+<fanart>https://bit.ly/3u9iDJv</fanart>
+<info>Depois de uma pandemia global destruir a civilização, um sobrevivente endurecido assume o comando de uma menina de 14 anos que pode ser a última esperança da humanidade.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]A Grande Onda da Nazaré[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3PeVuOb</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/A%20Grande%20Onda%20da%20Nazar%C3%A9</externallink>
+<fanart>https://bit.ly/46c8ysL</fanart>
+<info>Segue a odisseia de uma década do pioneiro das ondas grandes Garrett McNamara que, depois de visitar uma pequena vila piscatória em Portugal, ajudou a levar o desporto para além do reino da imaginação.</info>
+</channel>
+
+</channels>
