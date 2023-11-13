@@ -1,0 +1,28 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LUPIN 1º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3LRNiB4</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Lupin_S01</externallink>
+<fanart>https://bit.ly/47gciL5</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LUPIN 2º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/45oXLLg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Lupin_S02</externallink>
+<fanart>https://bit.ly/3ueUhOI</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LUPIN 3º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/46DuTjz</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Lupin_S03</externallink>
+<fanart>https://bit.ly/3svOP9y</fanart>
+<info></info>
+</channel>
+
+</channels>
