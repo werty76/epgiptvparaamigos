@@ -66,6 +66,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SHOWTIME[/COLOR][/B]</name>
+<thumbnail>https://s.sho.com/3N6aaxF</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/showtime</externallink>
+<fanart>https://bit.ly/3SD2tlR</fanart>
+<info>Showtime é uma rede de canais de televisão por assinatura. É uma marca utilizada por um número de canais e de plataformas de todo o mundo. No Brasil, ajudou na implantação da Rede Telecine, em parceria com a Globosat.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SIC OPTO[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3QA9LEx</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SICOPTO</externallink>
