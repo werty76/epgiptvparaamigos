@@ -1,0 +1,36 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]O CLUBE 1º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3rgAY2d</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S01</externallink>
+<fanart>https://bit.ly/49E6pZF</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]O CLUBE 2º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3ImsMEP</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S02</externallink>
+<fanart>https://bit.ly/3udq0Qr</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]O CLUBE 3º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3Fa8zAe</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S03</externallink>
+<fanart>https://bit.ly/3SNm0Qy</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]O CLUBE 4º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3Rz1Qti</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S04</externallink>
+<fanart>https://bit.ly/3svlKLz</fanart>
+<info></info>
+</channel>
+
+</channels>
