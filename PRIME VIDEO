@@ -26,11 +26,11 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]THE TERMINAL LIST[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3QrIaVK</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Terminal%20List</externallink>
-<fanart>https://bit.ly/3QUEwp1</fanart>
-<info>Um ex-oficial da Marinha SEAL investiga por que todo o seu pelotão foi emboscado durante uma missão secreta de alto risco.</info>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]THE LORD OF RINGS THE RINGS OF POWER[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3MHJG58</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/he%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power</externallink>
+<fanart>https://bit.ly/3FZDdPm</fanart>
+<info>O drama épico ambientado milhares de anos antes dos eventos de 'O Hobbit' e 'O Senhor dos Anéis' de JRR Tolkien segue um elenco de personagens, familiares e novos, enquanto eles enfrentam o há muito temido ressurgimento do mal no Médio -terra.</info>
 </channel>
 
 <channel>
@@ -39,6 +39,14 @@
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Wheel%20of%20Time</externallink>
 <fanart>https://bit.ly/3QCdS2L</fanart>
 <info>Situado em um mundo de alta fantasia onde a magia existe, mas apenas alguns podem acessá-la, uma mulher chamada Moiraine cruza o caminho de cinco rapazes e moças. Isso desencadeia uma perigosa jornada mundial. Baseado na série de livros de Robert Jordan.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]THE TERMINAL LIST[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3QrIaVK</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Terminal%20List</externallink>
+<fanart>https://bit.ly/3QUEwp1</fanart>
+<info>Um ex-oficial da Marinha SEAL investiga por que todo o seu pelotão foi emboscado durante uma missão secreta de alto risco.</info>
 </channel>
 
 </channels>
