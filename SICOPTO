@@ -1,1 +1,52 @@
+<layouttype>thumbnail</layouttype>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Paulo Futre - O Primeiro Português[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/45WEkdl</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Paulo%20Futre%20-%20O%20Primeiro%20Portugu%C3%AAs</externallink>
+<fanart>https://bit.ly/3MHJIdm</fanart>
+<info>Uma incursão à trajetória ímpar do futebolista Paulo Futre.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]O CLUBE[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3Rz1Qti</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube</externallink>
+<fanart>https://bit.ly/3sAYdZK</fanart>
+<info>Uma discoteca de luxo trava uma guerra pelo poder na vida nocturna lisboeta. Esta série examina a noite da capital, onde a sensualidade e o sexo se misturam com a política, a segurança, os negócios e o glamour.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]VANDA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/45cJqSZ</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Vanda</externallink>
+<fanart>https://bit.ly/3sxsf0q</fanart>
+<info>Vanda conta a história de uma mulher que não vai parar até superar as dificuldades e problemas que surgem em seu caminho, a qualquer momento, após ser traída emocional e financeiramente pelo marido.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]PRAXX[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/47NaZUO</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Praxx</externallink>
+<fanart>https://bit.ly/3ufAGxN</fanart>
+<info>A diversão se transforma em terror quando um grupo de seis jovens universitários morre afogado em circunstâncias suspeitas. Praxx explora o mundo das partidas universitárias durante todo o ano, uma tradição portuguesa, que pode ir longe demais.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SANTIAGO[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3OPzAiT</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Santiago</externallink>
+<fanart>https://bit.ly/3sxvdBV</fanart>
+<info>A luta de uma família no caminho de Compostela. Enquanto lutam para sobreviver um ao outro, eles precisam escapar de um serial killer.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]TABU[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/47IyJJH</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Tabu</externallink>
+<fanart>https://bit.ly/3R0I4WV</fanart>
+<info>Um programa inspirador que combina emoção e comédia e que prova que o humor é para todos.</info>
+</channel>
+
+</channels>
