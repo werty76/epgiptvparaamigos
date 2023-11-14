@@ -1,1 +1,28 @@
+<layouttype>thumbnail</layouttype>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]UNDERTAKER THE LAST RIDE[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3PCxJiY</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Undertaker%20-%20The%20Last%20Ride</externallink>
+<fanart>https://bit.ly/4691ehy</fanart>
+<info>Este evento de série limitada dá ao Universo WWE uma rara visão interna de Mark Calaway, o homem por trás de The Undertaker, enquanto ele se prepara para o que pode ser o fim de sua carreira lendária.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WWE EVIL[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3PGF4OG</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/WWE%20Evil</externallink>
+<fanart>https://bit.ly/3QYOrK8</fanart>
+<info>Narra as mentes dos antagonistas mais diabólicos da história da WWE e seu impacto na cultura dominante.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WWE RIVALS[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3Lsw8tQ</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/WWE%20Rivals</externallink>
+<fanart>https://bit.ly/469RTpz</fanart>
+<info>Freddie Prinze Jr. lidera uma mesa redonda com luminares da WWE para mergulhar nas histórias e personagens dinâmicos por trás das batalhas épicas que construíram a WWE.</info>
+</channel>
+
+</channels>
