@@ -34,6 +34,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MGM+[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/49ASnbi</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MGM%2B</externallink>
+<fanart>https://bit.ly/469cGd7</fanart>
+<info>MGM+, anteriormente conhecido como Epix, é uma rede de televisão americana a cabo e satélite premium pertencente à Metro-Goldwyn-Mayer. A programação do canal consiste em filmes recentes e antigos lançados no cinema, séries originais, documentários e especiais de música e comédia.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]NETFLIX[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/40x72Ah</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/NETFLIX</externallink>
