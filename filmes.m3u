@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-"<item><title>The Killer</title>
-<link>https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_f9jy7xcem6/The.Killer.mp4?PHPSESSID=4955de4b92592d40c2fab644a7693c9929a7b023<link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page></page></regex>
-</link><thumbnail>https://bit.ly/3u9H2i8"</thumbnail>
+<item>
+<title>[B][COLOR lime]The Killer[/COLOR]/B]</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_f9jy7xcem6/The.Killer.mp4?PHPSESSID=4955de4b92592d40c2fab644a7693c9929a7b023</link>
+<thumbnail>https://bit.ly/3u9H2i8"</thumbnail>
 <fanart>https://bit.ly/3FYVFaC</fanart><info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Reprisal[/B][/COLOR]
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Crime
 [B][COLOR deepskyblue]Realização:[/B][/COLOR] David Fincher
@@ -10,5 +10,4 @@
 [B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
 [B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 2023-11-10
 [B][COLOR deepskyblue]Actores:[/B][/COLOR]  Michael Fassbender, Tilda Swinton, Charls Parnell
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Depois de um quase acidente fatídico, um assassino enfrenta seus empregadores e ele mesmo, em uma caçada humana internacional que ele insiste não ser pessoal.</info></item>"
-
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Depois de um quase acidente fatídico, um assassino enfrenta seus empregadores e ele mesmo, em uma caçada humana internacional que ele insiste não ser pessoal.</info></item>
