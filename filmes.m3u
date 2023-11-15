@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 "<item><title>The Killer</title>
-<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_f9jy7xcem6/The.Killer.mp4?PHPSESSID=4955de4b92592d40c2fab644a7693c9929a7b023</page></regex>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_f9jy7xcem6/The.Killer.mp4?PHPSESSID=4955de4b92592d40c2fab644a7693c9929a7b023<link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page></page></regex>
 </link><thumbnail>https://bit.ly/3u9H2i8"</thumbnail>
 <fanart>https://bit.ly/3FYVFaC</fanart><info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Reprisal[/B][/COLOR]
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Crime
