@@ -15,13 +15,13 @@ import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
  count=re.findall('paginado\'.*(\d)',page_data)[0];pn=1;data=[]
  while pn <= int(count):
-	page='http://netcine.us/page/'+str(pn)+'/?mt'
+	page='https://netcine.rs/page/'+str(pn)+'/?mt'
 	source=requests.get(page).content.decode('ascii','ignore')
 	list=re.findall('<div id="box_movies">(?s)(.*?)<div id="paginador">',source)[0]
 	data +=re.findall('<img src="([^"]+)" alt="([^"]+).*\n.*\n*.*(http[^"]+).*\n.*\n.*grade"></span> (\d[^<]*)',list);pn +=1
  return data
 ]]></expres>
-<page>https://netcine.rs/</page>
+<page>https://netcine.rs/?mt</page>
 <agent>Mozilla/5.0</agent>
 </regex>
  <regex>
