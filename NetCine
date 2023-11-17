@@ -1,43 +1,194 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+<title>The Creator</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-17_file_6qxggpu4jz/The.Creator.mp4?PHPSESSID=c88f3734c1d20708773e2e6ec99feece51488a35</link>
+<thumbnail>https://bit.ly/3SO61lC</thumbnail>
+<fanart>https://bit.ly/40NtlBJ</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]0 Criador[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Drama
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 2h 13m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/12
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 28-09-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Tendo como pano de fundo uma guerra entre humanos e robôs com inteligência artificial, um ex-soldado encontra a arma secreta, um robô na forma de uma criança.</info></item>
 
 <item>
-<title>[COLOR deepskyblue]FILMES NETCINE (Escolhe o que queres ver)[/COLOR]</title>  
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[makelist.param2]  [COLOR gold]*[makelist.param4]/10*[/COLOR]</title>
-    <link>$doregex[hd]</link>
-    <thumbnail>[makelist.param1]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):
- count=re.findall('paginado\'.*(\d)',page_data)[0];pn=1;data=[]
- while pn <= int(count):
-	page='https://netcine.rs/page/'+str(pn)+'/?mt'
-	source=requests.get(page).content.decode('ascii','ignore')
-	list=re.findall('<div id="box_movies">(?s)(.*?)<div id="paginador">',source)[0]
-	data +=re.findall('<img src="([^"]+)" alt="([^"]+).*\n.*\n*.*(http[^"]+).*\n.*\n.*grade"></span> (\d[^<]*)',list);pn +=1
- return data
-]]></expres>
-<page>https://netcine.rs/?mt</page>
-<agent>Mozilla/5.0</agent>
-</regex>
- <regex>
-<name>hd</name>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#Pustule
- url1 = re.findall('iframe src="([^"]+)',page_data)[0]
- r = requests.get(url1).content.decode('ascii','ignore') 
- url2= re.findall('src="([^"]+)',r)[0]
- r = requests.get(url2).content.decode('ascii','ignore')
- url3= re.findall('\n<a href ="(http[^"]+)',r)[0]
- r = requests.get(url3).content.decode('ascii','ignore')
- return re.findall('file: "([^"]+)',r)[-1]
-]]></expres>
-<page>[makelist.param3]</page>
-<agent>Mozilla/5.0</agent>
-</regex>
-</item>
+<title>The Killer</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_f9jy7xcem6/The.Killer.mp4?PHPSESSID=4955de4b92592d40c2fab644a7693c9929a7b023</link>
+<thumbnail>https://bit.ly/3u9H2i8</thumbnail>
+<fanart>https://bit.ly/3FYVFaC</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]O Assassino[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Crime, Thriller
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 58m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/12
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 26-10-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Depois de um quase acidente fatídico, um assassino enfrenta seus empregadores e ele mesmo, em uma caçada humana internacional que ele insiste não ser pessoal.</info></item>
+
+<item>
+<title>Pôr do Sol - O Mistério do Colar de São Cajó</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-10_file_a8t3xeysb7/P%C3%B4r+do+Sol+-+O+Mist%C3%A9rio+do+Colar+de+S%C3%A3o+Caj%C3%B3.mp4?PHPSESSID=821bc699856f4ca9dd59fd2e954c20bf9efceae8</link>
+<thumbnail>https://bit.ly/3Qx4v4r</thumbnail>
+<fanart>https://bit.ly/49ICrny</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Pôr do Sol - O Mistério do Colar de São Cajó[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Comédia,Mistério
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 52m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/12
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 03-08-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] A saga da família Bourbon de Linhaça e do seu bem mais valioso: o Colar de São Cajó, que está na família há mais de 3500 anos, e esconde segredos, maldições e uma lendária receita de bacalhau.</info></item>
+
+<item>
+<title>Oppenheimer</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-10_file_ru56djqnsh/Oppenheimer.mp4?PHPSESSID=fda43f2b040e8059729311fb1701ad51a7b216ef</link>
+<thumbnail>https://bit.ly/3sBDJ2K</thumbnail>
+<fanart>https://bit.ly/3SISZFJ</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Oppenheimer[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, História
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 3h
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/14
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 20-07-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] A história do envolvimento de J. Robert Oppenheimer na criação da bomba atómica durante a Segunda Guerra Mundial.</info></item>
+
+<item>
+<title>The Kill Room</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-07_file_4bysyx4v97/The.Kill.Room.mp4?PHPSESSID=b061249352eec5d35c80d98ea4be6483e0098518</link>
+<thumbnail>https://bit.ly/3sgzMRd</thumbnail>
+<fanart>https://bit.ly/3R24Sp9</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]The Kill Room[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Crime, Thriller
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 38m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] R
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 28-09-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Um esquema de lavagem de dinheiro transforma acidentalmente um assassino numa estrela do mundo das artes</info></item>
+
+<item>
+<title>Sly</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-07_file_fe8jbd7rcy/Sly.mp4?PHPSESSID=b061249352eec5d35c80d98ea4be6483e0098518</link>
+<thumbnail>https://bit.ly/3MxesO2</thumbnail>
+<fanart>https://bit.ly/3SOxp2G</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Sly[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Documentário
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 37m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] R
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 03-11-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Tornou-se cinéfilo para fugir a uma infância problemática e, contra todas as probabilidades, ascendeu ao Olimpo de Hollywood. Stallone conta tudo neste documentário.</info></item>
+
+<item>
+<title>Shrapnel</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-07_file_nysa5uhmvj/Shrapnel.mp4?PHPSESSID=8747cd4592c81ac9cd34778045780cdf64545750</link>
+<thumbnail>https://bit.ly/3MzZ4k6</thumbnail>
+<fanart>https://bit.ly/3G56Xu9</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Shrapnel[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Thriller, Drama
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 29m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] R
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 28-07-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Um ex-fuzileiro naval e seu antigo companheiro de guerra enfrentam o cartel mexicano por trás do desaparecimento de sua filha.</info></item>
+
+<item>
+<title>Deep Fear</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-11-05_file_28dhyk7tp2/Terror.nas.Profundezas.mp4?PHPSESSID=291323d9f5e71ad85ad1a88b1cbaf4ad197169d6</link>
+<thumbnail>https://bit.ly/3MucHB7</thumbnail>
+<fanart>https://bit.ly/47ELGmC</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Deep Fear[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Terror, Thriller
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 24m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/15
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 27-10-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Uma viagem solo a bordo de um iate toma um rumo assustador quando uma mulher encontra três traficantes de drogas agarrados aos restos de um barco. Eles logo a forçam a mergulhar em águas infestadas de tubarões para recuperar quilos de cocaína dos destroços afundados.</info></item>
+
+<item>
+<title>The Rescue: The Weight of the World</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-05_file_r4y6hh8kew/O.Sequestro.mp4?PHPSESSID=291323d9f5e71ad85ad1a88b1cbaf4ad197169d6</link>
+<thumbnail>https://bit.ly/3u7DUTS</thumbnail>
+<fanart>https://bit.ly/3uiRjsp</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]The Rescue: The Weight of the World[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Thriller
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 35m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] R
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 26-10-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Julio retorna com sua família para a Argentina após a queda da ditadura brutal que dominou a democracia de longa data. As coisas logo ficam feias quando seu irmão é sequestrado e Julio se torna o principal negociador com os criminosos.</info></item>
+
+<item>
+<title>After: Para Sempre</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-11-03_file_zedaf8sx3j/After.Para.Sempre.mp4?PHPSESSID=6b99a2759cca673cba3a7eb6f8d1c4a0ec2e17e4</link>
+<thumbnail>https://bit.ly/47eFykY</thumbnail>
+<fanart>https://bit.ly/3SGUBQs</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]After: Para Sempre[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Romance
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 33m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/16
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 13-09-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Tessa e Hardin vivem separados após Hardin ter publicado o seu livro revelador sem o conhecimento dela. Sozinho em Inglaterra, Hardin refugia-se na bebida e noutros hábitos nocivos. Para piorar as coisas, sofre de um bloqueio de escritor e poderá ter de devolver a quantia considerável que recebeu como adiantamento da editora se não terminar um novo manuscrito em breve.</info></item>
+
+<item>
+<title>Mistério em Veneza</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-10-31_file_s6abbr39eh/A.Haunting.in.Venice.mp4?PHPSESSID=79611e9932affd2ea719542b2bbbd8ca2bce8488</link>
+<thumbnail>https://bit.ly/45PpiG9</thumbnail>
+<fanart>https://bit.ly/3un1uMN</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Mistério em Veneza[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Crime, Mistério, Thriller
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 43m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR]M/12
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 14-09-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Na véspera do dia de Todos os Santos, o célebre Hercule Poirot, reformado e a viver um exílio autoimposto em Veneza, assiste relutantemente a uma sessão espírita num palazzo decadente. A súbita morte de um dos convidados empurra o detetive para um mundo de fantasmas e segredos.</info></item>
+
+<item>
+<title>Five Nights at Freddy's</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-10-28_file_jusxbj94ba/Five+Nights+at+Freddy%27s.mp4?PHPSESSID=4bf8743a6bc83cab1e72000e78a1071d8b2c6fe3</link>
+<thumbnail>https://bit.ly/3scjxV3</thumbnail>
+<fanart>https://bit.ly/3SMCf0h</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Five Nights at Freddy's[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Mistério, Terror
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 50m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/14
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 01-11-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Um segurança perturbado começa a trabalhar no Freddy Fazbear's Pizza. Na sua estreia no trabalho, apercebe-se de que o turno da noite no Freddy's não vai ser uma tarefa fácil.</info></item>
+
+<item>
+<title>The Exorcist: Believer</title>
+<link>https://fv5-3.failiem.lv/Files.fm_2023-10-25_file_7vhpg9wujn/The.Exorcist.Believer.mp4?PHPSESSID=099f40f6a0522e873015e0c89f1a10108ffea872</link>
+<thumbnail>https://bit.ly/3S8k4SD</thumbnail>
+<fanart>https://bit.ly/40NBHt5</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]The Exorcist: Believer[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Terror
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 51m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/16
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 12-10-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Ao notar que sua filha Angela, e sua amiga, Katherine, mostram sinais de possessão demoníaca, Victor Fielding decide confrontar o mal.</info></item>
+
+<item>
+<title>Saw X</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-10-20_file_x24v2wvxnp/Jogos.Mortais.X.mp4?PHPSESSID=45c135951fe7cb549d8f31b096d36097b61ebbb</link>
+<thumbnail>https://bit.ly/3M7uvlm</thumbnail>
+<fanart>https://bit.ly/3SHPSxZ</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Saw X[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Terror, Thriller
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 58m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] M/18
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 26-10-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] John, doente e desesperado, viaja para o México para um procedimento médico experimental e arriscado, na esperança de uma cura milagrosa para seu câncer, apenas para descobrir que toda a operação é uma farsa para fraudar os mais vulneráveis.</info></item>
+
+<item>
+<title>Os Mercenarios 4</title>
+<link>https://fv5-2.failiem.lv/Files.fm_2023-10-14_file_5we8nu6e6h/Expend4bles.mp4?PHPSESSID=7057caa50a8068b41f98d126a8689c8b9c2baaab</link>
+<thumbnail>https://bit.ly/3ZT5kZu</thumbnail>
+<fanart>https://bit.ly/3sDI8Cq</fanart>
+<info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]Os Mercenarios 4[/B][/COLOR]
+[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Thriller
+[B][COLOR deepskyblue]Duração:[/B][/COLOR] 1h 43m
+[B][COLOR deepskyblue]Class.Etária:[/B][/COLOR] R
+[B][COLOR deepskyblue]Data Lançamento:[/B][/COLOR] 21-09-2023
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Os Mercenários enfrentam um traficante de armas que comanda o poder de um enorme exército privado.</info></item>
