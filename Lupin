@@ -2,27 +2,33 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]LUPIN 1º TEMPORADA[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LUPIN 1º TEMPORADA PARTE 1[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3LRNiB4</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Lupin_S01</externallink>
 <fanart>https://bit.ly/47gciL5</fanart>
-<info></info>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2021
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Crime, Drama, Mistério
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LUPIN 1º TEMPORADA PARTE 2[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/45oXLLg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Lupin_S02</externallink>
+<fanart>https://bit.ly/3ueUhOI</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2021
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Crime, Drama, Mistério
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastad</info>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]LUPIN 2º TEMPORADA[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/45oXLLg</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Lupin_S02</externallink>
-<fanart>https://bit.ly/3ueUhOI</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]LUPIN 3º TEMPORADA[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/46DuTjz</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Lupin_S03</externallink>
 <fanart>https://bit.ly/3svOP9y</fanart>
-<info></info>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Crime, Drama, Mistério
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Agora escondido, Assane deve aprender a viver longe da esposa e do filho. Com o sofrimento que suportam por sua causa, Assane não aguenta mais e decide voltar a Paris para lhes fazer uma proposta maluca: deixar a França e começar uma nova vida em outro lugar. Mas os fantasmas do passado nunca estão longe e um regresso inesperado irá virar os seus planos de cabeça para baixo.</info>
 </channel>
 
 </channels>
