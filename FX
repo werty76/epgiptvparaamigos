@@ -1,1 +1,14 @@
+<layouttype>thumbnail</layouttype>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]A Murder at the End of the World[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3uv7Byn</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/A%20Murder%20at%20the%20End%20of%20the%20World</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/5caSC8v35IwURAByAh7WmXXEDSF.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Crime, Drama, Mistério
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] A detetive amadora e hacker experiente em tecnologia, Darby Hart, e mais oito pessoas são convidadas por um bilionário recluso para participar de um retiro num local remoto. Quando um dos convidados é encontrado morto, Darby vai precisar de usar as suas habilidades para provar que foi homicídio antes que o assassino volte a atacar.</info>
+</channel>
+
+</channels>
