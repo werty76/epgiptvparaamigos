@@ -7,6 +7,13 @@ https://rbmn-live.akamaized.net/hls/live/655944/231118WrcSatHiPri/master_3360.m3
 #EXTINF:-1 tvg-logo="https://bit.ly/3QMRFPD" tvg-id="RALLY WRC 2023", Rally Japão 2023 Day 3
 https://rbmn-live.akamaized.net/hls/live/655944/231119WrcSunHiPri/master_3360.m3u8
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3uwCqmg" tvg-id="RALLY WRC 2023", Rally Europa Central Day 1
+https://rbmn-live.akamaized.net/hls/live/655944/231027WrcFriHiPri/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3uwCqmg" tvg-id="RALLY WRC 2023", Rally Europa Central Day 2
+https://rbmn-live.akamaized.net/hls/live/655944/231028WrcSatHiPri/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3uwCqmg" tvg-id="RALLY WRC 2023", Rally Europa Central Day 3
+https://rbmn-live.akamaized.net/hls/live/655944/231029WrcSunHiPri/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="bit.ly/3OVvtTU" tvg-id="RALLY WRC 2023", Rally Finlandia 2023 Day 1
 https://rbmn-live.akamaized.net/hls/live/655944/230804WrcFriHiPri/master_3360.m3u8
 #EXTINF:-1 tvg-logo="bit.ly/3OVvtTU" tvg-id="RALLY WRC 2023", Rally Finlandia 2023 Day 2
