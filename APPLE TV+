@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Lessons in Chemistry[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3MLNSRh</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Lessons%20in%20Chemistry</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/9eqZOtJ4sOyB2lmmImaWL4E1EfZ.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Nos anos 50, o sonho de Elizabeth Zott de ser cientista é desafiado por uma sociedade que diz que as mulheres pertencem à vida doméstica. Ela aceita um emprego num programa televisivo de culinária e decide ensinar a uma nação de donas de casa negligenciadas muito mais do que receitas.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SEE[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3EjQq4x</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SEE</externallink>
