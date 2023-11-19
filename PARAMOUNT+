@@ -2,11 +2,13 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]1883[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/47YdweR</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/1883</externallink>
-<fanart>https://bit.ly/3QWODsn</fanart>
-<info>A geração pós-guerra civil da família Dutton viaja para o Texas e se junta a um vagão de trem empreendendo a árdua jornada para o oeste até Oregon, antes de se estabelecer em Montana para estabelecer o que viria a ser o Rancho Yellowstone.</info>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Lawmen: Bass Reeves[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3SOh2Dj</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Lawmen%20Bass%20Reeves</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xmQMrlYc3IlzpDMPKtfl9sVf7mw.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Faroeste
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Sobre o lendário homem da lei Bass Reeves, um dos maiores heróis da fronteira e um dos primeiros marechais negros dos EUA a oeste do rio Mississippi.</info>
 </channel>
 
 <channel>
@@ -14,7 +16,19 @@
 <thumbnail>https://bit.ly/44vEUOk</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/HALO_S01</externallink>
 <fanart>https://bit.ly/3FYgR0I</fanart>
-<info>Alienígenas ameaçam a existência humana em um confronto épico do século 26.</info>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2022
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Ficção científica, Fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Alienígenas ameaçam a existência humana em um confronto épico do século 26</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]1883[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/47YdweR</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/1883</externallink>
+<fanart>https://bit.ly/3QWODsn</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2021
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Faroeste
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] A geração pós-guerra civil da família Dutton viaja para o Texas e se junta a um vagão de trem empreendendo a árdua jornada para o oeste até Oregon, antes de se estabelecer em Montana para estabelecer o que viria a ser o Rancho Yellowstone.</info>
 </channel>
 
 </channels>
