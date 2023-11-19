@@ -2,27 +2,13 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]SEE 1ª TEMPORADA[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3za5Kf2</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SEE%20S01</externallink>
-<fanart>https://bit.ly/47b3J44</fanart>
-<info>Num futuro distópico, a raça humana perdeu o sentido da visão e a sociedade teve de encontrar novas formas de interagir, construir, caçar e sobreviver. Tudo isso é desafiado quando um casal de gêmeos nasce com visão.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]SEE 2ª TEMPORADA[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3k5xflQ</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SEE_S02</externallink>
-<fanart>https://bit.ly/3uiuiWs</fanart>
-<info>Num futuro distópico, a raça humana perdeu o sentido da visão e a sociedade teve de encontrar novas formas de interagir, construir, caçar e sobreviver. Tudo isso é desafiado quando um casal de gêmeos nasce com visão.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]SEE 3ª TEMPORADA[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SEE[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3EjQq4x</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SEE_S03</externallink>
-<fanart>https://bit.ly/477bwQp</fanart>
-<info>Num futuro distópico, a raça humana perdeu o sentido da visão e a sociedade teve de encontrar novas formas de interagir, construir, caçar e sobreviver. Tudo isso é desafiado quando um casal de gêmeos nasce com visão.</info>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SEE</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/pignUs58QyC1AQ4xPPjGqT10Wqj.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2019 - 2022
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Drama , Ficção Científica, Fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Num futuro distante, um vírus dizimou a humanidade e deixou todos os sobreviventes cegos. Baba Voss, o pai dos gémeos que nasceram com a capacidade mítica de ver, tem de proteger a sua tribo de uma rainha sedenta de poder que os quer destruir.</info>
 </channel>
 
 </channels>
