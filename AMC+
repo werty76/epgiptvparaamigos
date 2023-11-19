@@ -2,19 +2,34 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Vanishing Triangle[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/47Dvpi6</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/The%20Vanishing%20Triangle</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/4z6FpdFickV6fcowqdNtrDfrrr0.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Crime, Mistério
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Depois que a jornalista investigativa Lisa Wallace publica um artigo sobre o assassinato de sua mãe, outras meninas começam a desaparecer; ela e o detetive David Burkely investigam toda a Irlanda, em busca das meninas desaparecidas enquanto o assassino provoca Lisa. Inspirado em fatos reais.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead: Daryl Dixon[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/452W8Ts</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Walking%20Dead</externallink>
 <fanart>https://bit.ly/3smEih3</fanart>
-<info>The Walking Dead: Daryl Dixon é uma série de televisão pós-apocalíptica norte-americana criada por David Zabel para a AMC, baseada no personagem de mesmo nome de The Walking Dead</info>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] AÇão, Aventura, Drama, Fantasia, Ficção Científica
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] The Walking Dead: Daryl Dixon é uma série de televisão pós-apocalíptica norte-americana criada por David Zabel para a AMC, baseada no personagem de mesmo nome de The Walking Dead.</info>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead - Dead City[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/46y1Kq8</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Walking%20Dead%20Dead%20City</externallink>
-<fanart>https://bit.ly/40BiwTl</fanart>
-<info>The Walking Dead: Dead City é uma série de televisão norte-americana de drama e terror pós-apocalíptico criada por Eli Jorné para AMC, baseada nos personagens de The Walking Dead, Maggie e Negan</info>
+<fanart>https://www.themoviedb.org/t/p/original/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR]  AÇão, Aventura, Drama, Fantasia, Ficção Científica
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] The Walking Dead: Dead City é uma série de televisão norte-americana de drama e terror pós-apocalíptico criada por Eli Jorné para AMC, baseada nos personagens de The Walking Dead, Maggie e Negan.</info>
+<info></info>
 </channel>
 
 </channels>
