@@ -1,13 +1,57 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead S01E01
-https://fv5-3.failiem.lv/Files.fm_2023-09-23_file_njyu6wp7q/The.Walking.Dead.Daryl.Dixon.S01E01.mp4?PHPSESSID=34b9f78ed4dfd4b27635774f8a6a2923bbbc39c2
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead S01E02
-https://fv5-3.failiem.lv/Files.fm_2023-09-23_file_zv4wtpa5a/The.Walking.Dead.Daryl.Dixon.S01E02.mp4?PHPSESSID=34b9f78ed4dfd4b27635774f8a6a2923bbbc39c2
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead S01E03
-https://fv5-2.failiem.lv/Files.fm_2023-09-26_file_utkyf55t2f/The.Walking.Dead.Daryl.Dixon.S01E03.mp4?PHPSESSID=dcc1e4c858f045b78fa632cbafa05b76276f4f5f
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead S01E04
-https://fv5-2.failiem.lv/Files.fm_2023-10-02_file_et2j885hpv/The.Walking.Dead.Daryl.Dixon.S01E04.mp4?PHPSESSID=ec0fe491833c9daacdd06276c3e08bfef730d0fb
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead S01E05
-https://fv5-2.failiem.lv/Files.fm_2023-10-10_file_bta3rsjcfq/The.Walking.Dead.Daryl.Dixon.S01E05.mp4?PHPSESSID=2f1df86367c01a7915f7e8f264874f3544b2608d
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead S01E06
-https://fv2-8.failiem.lv/Files.fm_2023-10-16_file_b38taak4gc/The.Walking.Dead.Daryl.Dixon.S01E06.mp4?PHPSESSID=80127fdbf33f3060eef7029a895114ad0d274048
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead: Daryl Dixon S01E01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/452W8Ts</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-23_file_njyu6wp7q/The.Walking.Dead.Daryl.Dixon.S01E01.mp4?PHPSESSID=34b9f78ed4dfd4b27635774f8a6a2923bbbc39c2</externallink>
+<fanart>40</fanart>
+<info>A chegada de Daryl Dixon à França coloca em perigo um menino sob os cuidados de freiras.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead: Daryl Dixon S01E02[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/452W8Ts</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-23_file_zv4wtpa5a/The.Walking.Dead.Daryl.Dixon.S01E02.mp4?PHPSESSID=34b9f78ed4dfd4b27635774f8a6a2923bbbc39c2</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/aWxZnPDG3ox5H2U5x7I97ZQPJlB.jpg</fanart>
+<info>Daryl, Isabelle, Laurent e Sylvie enfrentam problemas na estrada. Isabelle se lembra do dia em que apareceram os famintos. Laurent luta para se encaixar.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead: Daryl Dixon S01E03[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/452W8Ts</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-09-26_file_utkyf55t2f/The.Walking.Dead.Daryl.Dixon.S01E03.mp4?PHPSESSID=dcc1e4c858f045b78fa632cbafa05b76276f4f5f</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/aWxZnPDG3ox5H2U5x7I97ZQPJlB.jpg</fanart>
+<info>O grupo chega a Paris, onde Isabelle confronta seu passado enquanto se aproxima de Daryl. Codron procura a ajuda do líder de um movimento nacionalista crescente chamado Pouvoir, colocando a União da Esperança e Laurent sob um perigoso escrutínio.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead: Daryl Dixon S01E04[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/452W8Ts</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-10-02_file_et2j885hpv/The.Walking.Dead.Daryl.Dixon.S01E04.mp4?PHPSESSID=ec0fe491833c9daacdd06276c3e08bfef730d0fb</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/aWxZnPDG3ox5H2U5x7I97ZQPJlB.jpg</fanart>
+<info>Daryl e Isabelle devem negociar com Quinn, o proprietário do clube underground Demimonde – o último vestígio de arte e expressão em Paris.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead: Daryl Dixon S01E05[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/452W8Ts</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-10-10_file_bta3rsjcfq/The.Walking.Dead.Daryl.Dixon.S01E05.mp4?PHPSESSID=2f1df86367c01a7915f7e8f264874f3544b2608d</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/aWxZnPDG3ox5H2U5x7I97ZQPJlB.jpg</fanart>
+<info>Daryl enfrenta velhos demônios, relembrando as circunstâncias que o levaram à França. O sacrifício de Isabelle obriga-a a considerar medidas drásticas. Genet inicia uma celebração para o povo de Paris.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Walking Dead: Daryl Dixon S01E06[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/452W8Ts</thumbnail>
+<externallink>https://fv2-8.failiem.lv/Files.fm_2023-10-16_file_b38taak4gc/The.Walking.Dead.Daryl.Dixon.S01E06.mp4?PHPSESSID=80127fdbf33f3060eef7029a895114ad0d274048</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/aWxZnPDG3ox5H2U5x7I97ZQPJlB.jpg</fanart>
+<info>Genet solidifica sua base de poder. Antes que Daryl possa retornar para a América, ele tem um trabalho a fazer.</info>
+</channel>
+
+</channels>
