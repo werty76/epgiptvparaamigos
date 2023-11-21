@@ -42,6 +42,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AQUI[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3MRFq2Y</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/hulu</externallink>
+<fanart>https://bit.ly/3MTvLZL</fanart>
+<info>Hulu é uma empresa de entretenimento americana que fornece serviços de vídeo sob demanda que também oferece serviços de hospedagem de arquivos de propriedade da Hulu, LLC, uma empresa com controle majoritário e totalmente controlada pela The Walt Disney Company, com participação minoritária da Comcast. </info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]MGM+[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/49ASnbi</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MGM%2B</externallink>
