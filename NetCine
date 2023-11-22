@@ -3,7 +3,7 @@
 
 <item>
 <title>Leo</title>
-<link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>https://vidoza.net/embed-0zr8d24c5di4.html</page></regex></link>
+<link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>https://streamtape.com/e/rk2PRXw1WjH81Z</page></regex></link>
 <thumbnail>+</thumbnail>
 <fanart>+</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR orange]Leo[/B][/COLOR]
