@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 "<item><title>INTRUDUÇÃO</title>
-<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>https://vidoza.net/embed-0zr8d24c5di4.html</page></regex></link>
+<link><link>$doregex[POINT242]</link><regex><name>POINT242</name><expres>source src="(.*mp4.*?)" type="</expres><page>https://tapenoads.com/e/gPMZ3v7gBzIxYo</page></regex></link>
 <thumbnail>https://filmspot.com.pt/images/filmes/posters/big/531593.jpg</thumbnail><fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
 <info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]INTRUDUÇÃO[/B][/COLOR]
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Ação
@@ -13,7 +13,7 @@
 [B][COLOR deepskyblue]Sinopse:[/B][/COLOR] </info></item>"
 
 "<item><title>INTRUDUÇÃO 2</title>
-<urlsolvehttps://vidoza.net/embed-0zr8d24c5di4.html</urlsolve>
+<urlsolve>https://tapenoads.com/e/gPMZ3v7gBzIxYo</urlsolve>
 <thumbnail>https://filmspot.com.pt/images/filmes/posters/big/345940_pt.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart><info>[B][COLOR deepskyblue]Título Original:[/B][/COLOR] [B][COLOR red]The Meg[/B][/COLOR]
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Thriller, Ficção Científica
