@@ -1,25 +1,111 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E01	
-https://fv5-2.failiem.lv/Files.fm_2023-09-09_file_xh7q9vjd4/Andor+S01E01.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E02
-https://fv5-2.failiem.lv/Files.fm_2023-09-09_file_dquwcavtu/Andor+S01E02.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E03
-https://fv5-2.failiem.lv/Files.fm_2023-09-10_file_dyr9gzp2g/Andor+S01E03.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E04
-https://fv5-2.failiem.lv/Files.fm_2023-09-10_file_rxyqbe5d7/Andor+S01E04.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E05
-https://fv5-2.failiem.lv/Files.fm_2023-09-10_file_br3gyn44r/Andor+S01E05.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E06
-https://fv5-2.failiem.lv/Files.fm_2023-09-10_file_bg2eq2dvq/Andor+S01E06.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E07
-https://fv5-2.failiem.lv/Files.fm_2023-09-10_file_66xsf3b6a/Andor+S01E07.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E08
-https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_f9xqgszqc/Andor+S01E08.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E09
-https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_8a7t44h5t/Andor+S01E09.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E10
-https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_zudarqnt3/Andor+S01E10.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E11
-https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_rw3zxg594/Andor+S01E11.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" group-title="DISNEYPLUS", Andor S01E12
-https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_vyjt479nn/Andor+S01E12.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-09-09_file_xh7q9vjd4/Andor+S01E01.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>A busca imprudente de Cassian Andor por respostas sobre seu passado faz dele um homem procurado.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E02[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-09-09_file_dquwcavtu/Andor+S01E02.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>Cassian tenta atacar Ferrix enquanto os agentes da lei se aproximam.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E03[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-09-10_file_dyr9gzp2g/Andor+S01E03.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>O desespero de Cassiano para evitar a prisão o leva a um homem misterioso com conexões desconhecidas.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E04[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-09-10_file_rxyqbe5d7/Andor+S01E04.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>Sem opções, Cassiano é recrutado para uma perigosa missão de se infiltrar em uma guarnição imperial.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E05[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-09-10_file_br3gyn44r/Andor+S01E05.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>Cassian deve navegar cuidadosamente pela desconfiança inerente a ser o novo membro de uma operação secreta.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E06[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-09-10_file_bg2eq2dvq/Andor+S01E06.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>Com a cobertura de um espetacular festival local, a missão Aldhani chega a um ponto sem volta.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E07[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-09-10_file_66xsf3b6a/Andor+S01E07.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>As repercussões do assalto a Aldhani chegam até Coruscant, enquanto Cassian volta para casa.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E08[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_f9xqgszqc/Andor+S01E08.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>O Império alcança Cassiano, mas ainda não tem conhecimento de sua identidade e passado.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E09[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_8a7t44h5t/Andor+S01E09.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>Sob intenso escrutínio enquanto está preso, Cassiano faz aliados para planejar uma fuga impossível.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E10[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_zudarqnt3/Andor+S01E10.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>Uma rara oportunidade se abre e a hora de Cassiano e seus companheiros de prisão agirem é agora.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E11[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_rw3zxg594/Andor+S01E11.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>Fugitivo mais uma vez, Cassiano deve dar o próximo passo antes que seja tarde demais.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Andor S01E12[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_vyjt479nn/Andor+S01E12.mp4?PHPSESSID=66edad78a0f5c675502849b23a1f13a468f504dc</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/xe9fMR3tdcaKOVnaVCnPKIZK3vo.jpg</fanart>
+<info>Cassian volta para casa, para Ferrix, um barril de pólvora que está passando por uma centelha de rebelião.</info>
+</channel>
+
+</channels>
