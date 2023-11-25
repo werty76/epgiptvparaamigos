@@ -1,14 +1,5 @@
 <layouttype>thumbnail</layouttype>
 
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/desporto</externallink>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</fanart>
-<info>Desporto no TugaFlix</info>
-</channel>
-
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
@@ -31,6 +22,15 @@
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/kids.xml</externallink>
 <fanart>https://bit.ly/3FX8tP6</fanart>
 <info>As melhores animações estão aqui no seu TugaFlix</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/desporto</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</fanart>
+<info>Desporto no TugaFlix</info>
 </channel>
 
 <channel>
