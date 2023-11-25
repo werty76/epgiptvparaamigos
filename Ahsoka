@@ -1,17 +1,75 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/3YQL8XL" group-title="DISNEYPLUS", Ahsoka S01E01
-https://fv5-2.failiem.lv/Files.fm_2023-08-24_file_kzktr2n5u/Aka+S01E01.mp4?PHPSESSID=44f7bed7b7fec7375fbb016b9fc033945c1c4897
-#EXTINF:-1 tvg-logo="https://bit.ly/3YQL8XL" group-title="DISNEYPLUS", Ahsoka S01E02
-https://fv5-2.failiem.lv/Files.fm_2023-08-24_file_katbtrtq4/Aka+S01E02.mp4?PHPSESSID=44f7bed7b7fec7375fbb016b9fc033945c1c4897
-#EXTINF:-1 tvg-logo="https://bit.ly/3YQL8XL" group-title="DISNEYPLUS", Ahsoka S01E03
-https://fv5-2.failiem.lv/Files.fm_2023-08-30_file_h7zs8cp2r/Aka+S01E03.mp4?PHPSESSID=44f7bed7b7fec7375fbb016b9fc033945c1c4897
-#EXTINF:-1 tvg-logo="https://bit.ly/3YQL8XL" group-title="DISNEYPLUS", Ahsoka S01E04
-https://fv5-2.failiem.lv/Files.fm_2023-09-06_file_nv2ad739d/Aka+S01E04.mp4?PHPSESSID=be79d2d76bd86b95f2fbc32f4ebd05fbdd8486cb
-#EXTINF:-1 tvg-logo="https://bit.ly/3YQL8XL" group-title="DISNEYPLUS", Ahsoka S01E05
-https://fv5-2.failiem.lv/Files.fm_2023-09-13_file_r2jzdn5nq/Aka+S01E05.mp4?PHPSESSID=fc611b13f53c7e9e61be0861e0ebc28fa9bac775
-#EXTINF:-1 tvg-logo="https://bit.ly/3YQL8XL" group-title="DISNEYPLUS", Ahsoka S01E06
-https://fv9-5.failiem.lv/Files.fm_2023-09-21_file_c5x7gwmm8/Aka+S01E06.mp4?PHPSESSID=265f067895cc8c5b8a264e95c9de77fb41000cf9
-#EXTINF:-1 tvg-logo="https://bit.ly/3YQL8XL" group-title="DISNEYPLUS", Ahsoka S01E07
-https://fv5-2.failiem.lv/Files.fm_2023-09-27_file_vzgr89xy5c/Aka+S01E07.mp4?PHPSESSID=c069f4260a3b07d59585109a2ca180a416c1f171
-#EXTINF:-1 tvg-logo="https://bit.ly/3YQL8XL" group-title="DISNEYPLUS", Ahsoka S01E08
-https://fv5-2.failiem.lv/Files.fm_2023-10-05_file_44e3tfc4am/Aka+S01E08.mp4?PHPSESSID=65b2d91af3eba4f802b5efe92b88aa67fe6d5a89
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Ahsoka S01E01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3YQL8XL</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-08-24_file_kzktr2n5u/Aka+S01E01.mp4?PHPSESSID=44f7bed7b7fec7375fbb016b9fc033945c1c4897</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/31GIcUUcdQPRkVtmdqgQWJMhXj1.jpg</fanart>
+<info>Um prisioneiro valioso escapa da custódia da Nova República; uma busca por respostas reúne dois velhos amigos.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Ahsoka S01E02[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3YQL8XL</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-08-24_file_katbtrtq4/Aka+S01E02.mp4?PHPSESSID=44f7bed7b7fec7375fbb016b9fc033945c1c4897</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/31GIcUUcdQPRkVtmdqgQWJMhXj1.jpg</fanart>
+<info>Ahsoka e a General Hera Syndulla viajam para os estaleiros da Nova República e fazem uma descoberta inesperada.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Ahsoka S01E03[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3YQL8XL</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-08-30_file_h7zs8cp2r/Aka+S01E03.mp4?PHPSESSID=44f7bed7b7fec7375fbb016b9fc033945c1c4897</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/31GIcUUcdQPRkVtmdqgQWJMhXj1.jpg</fanart>
+<info>Hera se envolve com a política da Nova República enquanto Ahsoka e Sabine Wren viajam para um planeta distante.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Ahsoka S01E04[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3YQL8XL</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-09-06_file_nv2ad739d/Aka+S01E04.mp4?PHPSESSID=be79d2d76bd86b95f2fbc32f4ebd05fbdd8486cb</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/31GIcUUcdQPRkVtmdqgQWJMhXj1.jpg</fanart>
+<info>Hera arrisca sua carreira para ajudar seus amigos enquanto Ahsoka e Sabine enfrentam inimigos.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Ahsoka S01E05[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3YQL8XL</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-09-13_file_r2jzdn5nq/Aka+S01E05.mp4?PHPSESSID=fc611b13f53c7e9e61be0861e0ebc28fa9bac775</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/31GIcUUcdQPRkVtmdqgQWJMhXj1.jpg</fanart>
+<info>Ahsoka confronta seu passado, enquanto Hera e seus aliados realizam uma missão de resgate.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Ahsoka S01E06[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3YQL8XL</thumbnail>
+<externallink>https://fv9-5.failiem.lv/Files.fm_2023-09-21_file_c5x7gwmm8/Aka+S01E06.mp4?PHPSESSID=265f067895cc8c5b8a264e95c9de77fb41000cf9</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/31GIcUUcdQPRkVtmdqgQWJMhXj1.jpg</fanart>
+<info>A busca pelo Grande Almirante Thrawn vai além dos limites da galáxia.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Ahsoka S01E07[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3YQL8XL</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-09-27_file_vzgr89xy5c/Aka+S01E07.mp4?PHPSESSID=c069f4260a3b07d59585109a2ca180a416c1f171</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/31GIcUUcdQPRkVtmdqgQWJMhXj1.jpg</fanart>
+<info>Hera deve responder à Nova República, enquanto muito, muito longe, ocorre um reencontro.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Ahsoka S01E08[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3YQL8XL</thumbnail>
+<externallink>https://fv5-2.failiem.lv/Files.fm_2023-10-05_file_44e3tfc4am/Aka+S01E08.mp4?PHPSESSID=65b2d91af3eba4f802b5efe92b88aa67fe6d5a89</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/31GIcUUcdQPRkVtmdqgQWJMhXj1.jpg</fanart>
+<info>Os heróis correm para impedir a fuga do Grande Almirante Thrawn.</info>
+</channel>
+
+</channels>
