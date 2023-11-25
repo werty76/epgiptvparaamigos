@@ -1,13 +1,57 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/3PvZutv" group-title="DISNEYPLUS", Hawkeye S01E01
-https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_328pjcuug/Hawkeye+S01E01.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a
-#EXTINF:-1 tvg-logo="https://bit.ly/3PvZutv" group-title="DISNEYPLUS",Hawkeye S01E02
-https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_759fq2qtj/Hawkeye+S01E02.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a
-#EXTINF:-1 tvg-logo="https://bit.ly/3PvZutv" group-title="DISNEYPLUS",Hawkeye S01E03
-https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_8utpesxk/Hawkeye+S01E03.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a
-#EXTINF:-1 tvg-logo="https://bit.ly/3PvZutv" group-title="DISNEYPLUS",Hawkeye S01E04
-https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_uwn9hp6hh/Hawkeye+S01E04.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a
-#EXTINF:-1 tvg-logo="https://bit.ly/3PvZutv" group-title="DISNEYPLUS",Hawkeye S01E05
-https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_w35vz8bm8/Hawkeye+S01E05.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a
-#EXTINF:-1 tvg-logo="https://bit.ly/3PvZutv" group-title="DISNEYPLUS",Hawkeye S01E06
-https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_y348xuqmv/Hawkeye+S01E06.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Hawkeye S01E01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3PvZutv</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_328pjcuug/Hawkeye+S01E01.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/iXCuYBDEMX22Wpwx3whhOidLfJI.jpg</fanart>
+<info>Kate Bishop acaba no meio de uma conspiração e obriga o Gavião Arqueiro a sair da reforma.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Hawkeye S01E02[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3PvZutv</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_759fq2qtj/Hawkeye+S01E02.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/iXCuYBDEMX22Wpwx3whhOidLfJI.jpg</fanart>
+<info>Clint ajuda Kate a livrar-se da Máfia dos Fatos de Treino e a resolver um homicídio.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Hawkeye S01E03[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3PvZutv</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_8utpesxk/Hawkeye+S01E03.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/iXCuYBDEMX22Wpwx3whhOidLfJI.jpg</fanart>
+<info>Após escaparem por pouco à Máfia dos Fatos de Treino, Clint e Kate trabalham em conjunto em busca de respostas, vendo-se cada vez mais envolvidos numa crescente conspiração terrorista.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Hawkeye S01E04[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3PvZutv</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_uwn9hp6hh/Hawkeye+S01E04.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/iXCuYBDEMX22Wpwx3whhOidLfJI.jpg</fanart>
+<info>Revelam-se segredos e surgem verdades difíceis, culminando numa batalha contra duas forças opostas.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Hawkeye S01E05[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3PvZutv</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_w35vz8bm8/Hawkeye+S01E05.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/iXCuYBDEMX22Wpwx3whhOidLfJI.jpg</fanart>
+<info>Uma discussão quase acaba com a parceria, mas Kate descobre algo que muda tudo.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Hawkeye S01E06[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3PvZutv</thumbnail>
+<externallink>https://fv5-3.failiem.lv/Files.fm_2023-09-09_file_y348xuqmv/Hawkeye+S01E06.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/iXCuYBDEMX22Wpwx3whhOidLfJI.jpg</fanart>
+<info>A parceria de Clint e Kate é posta à prova ao enfrentarem as consequências de expor a conspiração.</info>
+</channel>
+
+</channels>
