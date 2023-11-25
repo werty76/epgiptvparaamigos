@@ -1,17 +1,75 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/3EOj0cs" group-title="DISNEYPLUS", MANDALORIAN S01E01
-https://fv9-3.failiem.lv/Files.fm__2021-07-27_file_ejkjcpuwb/1-BAIXO.mp4?v=1692826189&PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0
-#EXTINF:-1 tvg-logo="https://bit.ly/3EOj0cs" group-title="DISNEYPLUS", MANDALORIAN S01E02
-https://fv2-1.failiem.lv/Files.fm_2021-07-27_file_dh2q7yga8/2-BAIXO.mp4?PHPSESSID=181345159e27278d021239e08f563c01b2197a00
-#EXTINF:-1 tvg-logo="https://bit.ly/3EOj0cs" group-title="DISNEYPLUS", MANDALORIAN S01E03
-https://fv9-3.failiem.lv/Files.fm_2021-07-27_file_pp7ad4a6k/3-BAIXO.mp4?PHPSESSID=87999964f7d14f1c91bab956e235b4a5f54c7773
-#EXTINF:-1 tvg-logo="https://bit.ly/3EOj0cs" group-title="DISNEYPLUS", MANDALORIAN S01E04
-https://fv9-3.failiem.lv/Files.fm_2021-07-27_file_rddmmfz9d/4-BAIXO.mp4?PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0
-#EXTINF:-1 tvg-logo="https://bit.ly/3EOj0cs" group-title="DISNEYPLUS", MANDALORIAN S01E05
-https://fv9-1.failiem.lv/Files.fm_2021-07-27_file_9t6gwq84t/5-BAIXO.mp4?PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0
-#EXTINF:-1 tvg-logo="https://bit.ly/3EOj0cs" group-title="DISNEYPLUS", MANDALORIAN S01E06
-https://fv9-1.failiem.lv/Files.fm_2021-07-27_file_5cashka9m/6-BAIXO.mp4?PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0
-#EXTINF:-1 tvg-logo="https://bit.ly/3EOj0cs" group-title="DISNEYPLUS", MANDALORIAN S01E07
-https://fv9-3.failiem.lv/Files.fm_2021-07-27_file_7t3bbq8qn/7-BAIXO.mp4?PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0
-#EXTINF:-1 tvg-logo="https://bit.ly/3EOj0cs" group-title="DISNEYPLUS", MANDALORIAN S01E08
-https://fv9-1.failiem.lv/Files.fm_2021-07-27_file_bsw25839d/8-BAIXO.mp4?PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S01E01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3EOj0cs</thumbnail>
+<externallink>https://fv9-3.failiem.lv/Files.fm__2021-07-27_file_ejkjcpuwb/1-BAIXO.mp4?v=1692826189&PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/meybgRNBWAX6u7obnWbidMeBzMe.jpg</fanart>
+<info>Um caçador de recompensas Mandaloriano persegue um alvo para um cliente misterioso que paga bem.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S01E02[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3EOj0cs</thumbnail>
+<externallink>https://fv2-1.failiem.lv/Files.fm_2021-07-27_file_dh2q7yga8/2-BAIXO.mp4?PHPSESSID=181345159e27278d021239e08f563c01b2197a00</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/meybgRNBWAX6u7obnWbidMeBzMe.jpg</fanart>
+<info>Com uma presa valiosa localizada, o Mandaloriano tem de lutar agora contra os bandidos.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S01E03[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3EOj0cs</thumbnail>
+<externallink>https://fv9-3.failiem.lv/Files.fm_2021-07-27_file_pp7ad4a6k/3-BAIXO.mp4?PHPSESSID=87999964f7d14f1c91bab956e235b4a5f54c7773</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/meybgRNBWAX6u7obnWbidMeBzMe.jpg</fanart>
+<info>O Mandaloriano vai reclamar a recompensa junto do cliente, mas há negócios que não acabam bem.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S01E04[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3EOj0cs</thumbnail>
+<externallink>https://fv9-3.failiem.lv/Files.fm_2021-07-27_file_rddmmfz9d/4-BAIXO.mp4?PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/meybgRNBWAX6u7obnWbidMeBzMe.jpg</fanart>
+<info>O Mandaloriano junta-se a um ex-soldado para proteger uma aldeia de agricultores dos Nómadas.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S01E05[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3EOj0cs</thumbnail>
+<externallink>https://fv9-1.failiem.lv/Files.fm_2021-07-27_file_9t6gwq84t/5-BAIXO.mp4?PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/meybgRNBWAX6u7obnWbidMeBzMe.jpg</fanart>
+<info>Num planeta deserto, o Mandaloriano ajuda um caçador de recompensas novato que está aflito.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S01E06[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3EOj0cs</thumbnail>
+<externallink>https://fv9-1.failiem.lv/Files.fm_2021-07-27_file_5cashka9m/6-BAIXO.mp4?PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/meybgRNBWAX6u7obnWbidMeBzMe.jpg</fanart>
+<info>O Mandaloriano junta-se a mercenários para ajudar a evadir um condenado de um navio prisão.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S01E07[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3EOj0cs</thumbnail>
+<externallink>https://fv9-3.failiem.lv/Files.fm_2021-07-27_file_7t3bbq8qn/7-BAIXO.mp4?PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/meybgRNBWAX6u7obnWbidMeBzMe.jpg</fanart>
+<info>Um contacto antigo endereça um convite ao Mandaloriano para fazer as pazes com os seus inimigos.</info>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S01E08[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3EOj0cs</thumbnail>
+<externallink>https://fv9-1.failiem.lv/Files.fm_2021-07-27_file_bsw25839d/8-BAIXO.mp4?PHPSESSID=7baa10c017cec51d40faca21a40cfd700933a4a0</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/meybgRNBWAX6u7obnWbidMeBzMe.jpg</fanart>
+<info>O Mandaloriano e os seus aliados conhecem o seu verdadeiro inimigo, que sabe muito sobre eles.</info>
+</channel>
+
+</channels>
