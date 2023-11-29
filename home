@@ -4,15 +4,23 @@
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/filmes.m3u</externallink>
-<fanart>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</fanart>
+<fanart>https://bit.ly/47SZj1V</fanart>
 <info>Os melhores filmes estão aqui no seu TugaFlix</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]COLEÇÕES[/COLOR][/B]</name>
+<thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/cole-o/main/COLECAO</externallink>
+<fanart>https://bit.ly/47SZj1V</fanart>
+<info>Os melhores coleções de filmes estão aqui no seu TugaFlix</info>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
 <thumbnail>https://cdn.e-konomista.pt/uploads/2019/07/106182-netflix_1541693766.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/series.home</externallink>
-<fanart>https://cdn.e-konomista.pt/uploads/2019/07/106182-netflix_1541693766.png</fanart>
+<fanart>https://bit.ly/47SZj1V</fanart>
 <info>As melhores series estão aqui no seu TugaFlix</info>
 </channel>
 
@@ -20,7 +28,7 @@
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3FX8tP6</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/kids.xml</externallink>
-<fanart>https://bit.ly/3FX8tP6</fanart>
+<fanart>https://bit.ly/47SZj1V</fanart>
 <info>As melhores animações estão aqui no seu TugaFlix</info>
 </channel>
 
@@ -29,7 +37,7 @@
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/desporto</externallink>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</fanart>
+<fanart>https://bit.ly/3Rm5apZ</fanart>
 <info>Desporto no TugaFlix</info>
 </channel>
 
