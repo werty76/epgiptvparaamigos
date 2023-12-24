@@ -1,0 +1,21 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Praxx 1º Temporada[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/47NaZUO</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/PraxxS01</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/qwScnjd1JyqewEamSVLpM6wbHgS.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Praxx 2º Temporada[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/lzBH3HCdn7YPpDmhwIQlE6GiFyP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/PraxxS02</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/stdqyUxXGZgVD8VdgWq3WWOELMJ.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>
