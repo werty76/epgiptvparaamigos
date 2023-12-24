@@ -1,4 +1,11 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3RC6m8r" group-title="FILMES", The Hunger Games The Ballad of Songbirds & Snakes
+https://bit.ly/41C9FB9
+#EXTINF:-1 tvg-logo="https://bit.ly/3GRycsF" group-title="FILMES", Rebel Moon Part One A Child of Fire
+https://bit.ly/3TCQcOR
+#EXTINF:-1 tvg-logo="https://bit.ly/489WQkc" group-title="FILMES", Freelance
+https://bit.ly/3RVwkp6
 #EXTINF:-1 tvg-logo="https://bit.ly/3RwLPSP" group-title="FILMES", Plano de Família (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-12-20_file_2xrnpryke4/The.Family.Plan.2023.mp4?PHPSESSID=0450f4c21bdf3ebeae2a6486d70d28204363a3fd
 #EXTINF:-1 tvg-logo="https://bit.ly/4abvSdl" group-title="FILMES", Leave the World Behind (2023)
