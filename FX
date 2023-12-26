@@ -11,4 +11,14 @@
 [B][COLOR deepskyblue]Sinopse:[/B][/COLOR] A detetive amadora e hacker experiente em tecnologia, Darby Hart, e mais oito pessoas são convidadas por um bilionário recluso para participar de um retiro num local remoto. Quando um dos convidados é encontrado morto, Darby vai precisar de usar as suas habilidades para provar que foi homicídio antes que o assassino volte a atacar.</info>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Justified City Primeval[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/mEqRQ7HeraCuC69cmcBWZQi6xBJ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Justified%20City%20Primeval</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/1P1S1p1pYI8FGUYMeQAWA4nNBDQ.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Crime, Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Raylan Givens deixou as montanhas de Kentucky e equilibra a sua vida como U. S. Marshal e pai em part-time. Um encontro casual envia-o para Detroit e para uma rota de colisão com um sociopata violento e uma temível advogada de defesa.</info>
+</channel>
+
 </channels>
