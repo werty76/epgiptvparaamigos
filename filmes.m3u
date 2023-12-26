@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://bit.ly/41yXYeL" group-title="FILMES", Thanksgiving (2023)
+https://cld.pt/dl/download/a3d4b63e-47a7-448c-b587-9da336539e86/Thanksgiving.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3RC6m8r" group-title="FILMES", The Hunger Games The Ballad of Songbirds & Snakes (2023)
 https://cld.pt/dl/download/e388fe4f-e598-47a2-9382-1b8c8cf4c64e/The.Hunger.Games.The.Ballad.of.Songbirds.%26.Snakes.2023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3GRycsF" group-title="FILMES", Rebel Moon Part One A Child of Fire (2023)
