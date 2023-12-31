@@ -1,6 +1,17 @@
 <layouttype>thumbnail</layouttype>
 
 <channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]La Casa de Papel Berlim[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/u3bRJV7DEDQJEwQyxsA0s7vBSe4.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/La%20Casa%20de%20Papel%20Berlim</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/179sUCj5AcFKdQpvDhkIX15NRgy.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR]  Ação, Aventura, Crime, Drama 
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Nos seus tempos áureos, Berlim juntou-se a um bando em Paris para realizar um dos seus planos mais arrojados: roubar 44 milhões de euros em joias numa só noite.</info>
+</channel>
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Beckham[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3Mclzv0</thumbnail>
