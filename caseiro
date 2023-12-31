@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3RKnAkp" group-title="FILMES", Kho Gaye Hum Kahan
+https://cld.pt/dl/download/0cebaeca-14d9-4628-8163-910bd06ca515/Kho%20Gaye%20Hum%20Kahan.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/41yXYeL" group-title="FILMES", Thanksgiving (2023)
 https://cld.pt/dl/download/a3d4b63e-47a7-448c-b587-9da336539e86/Thanksgiving.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3RC6m8r" group-title="FILMES", The Hunger Games The Ballad of Songbirds & Snakes (2023)
