@@ -2143,5 +2143,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3gPEKvg" group-title="DESPORTO", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
+#EXTINF:-1 tvg-logo="https://opto.sic.pt/logos/opto-logo.png group-title="SIC OPTO", SIC OPTO
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/OPTO
 
 
