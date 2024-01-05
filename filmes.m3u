@@ -1,6 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3RKnAkp" group-title="FILMES", Kho Gaye Hum Kahan
+#EXTINF:-1 tvg-logo="https://bit.ly/3RHQSzY" group-title="FILMES", The Keeper (2009)
+https://cld.pt/dl/download/3dfe5603-fd13-48a6-b4c8-4e654d7276a4/The%20Keeper%202009.mp4  
+#EXTINF:-1 tvg-logo="https://bit.ly/3vsw8Vt" group-title="FILMES", The Last Samurai (2003)
+https://cld.pt/dl/download/fdb8c9ee-f997-4e4a-bfa8-5491b2ea3997/The%20Last%20Samurai%202003.mp4  
+#EXTINF:-1 tvg-logo="https://bit.ly/3RKnAkp" group-title="FILMES", Kho Gaye Hum Kahan (2023)
 https://cld.pt/dl/download/0cebaeca-14d9-4628-8163-910bd06ca515/Kho%20Gaye%20Hum%20Kahan.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/41yXYeL" group-title="FILMES", Thanksgiving (2023)
 https://cld.pt/dl/download/a3d4b63e-47a7-448c-b587-9da336539e86/Thanksgiving.mp4
