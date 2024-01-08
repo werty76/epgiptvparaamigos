@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/48oRu4t" group-title="FILMES", Silent Night: Vingança Silenciosa (2023)
+https://cld.pt/dl/download/69c0bb3a-f345-4367-9b4c-7a55ffb985fb/Silent%20Night%202023.mp4 
 #EXTINF:-1 tvg-logo="https://bit.ly/3tyQf3T" group-title="FILMES", Good Grief (2024)
 https://cld.pt/dl/download/befe3599-30c4-41a5-92b2-132d3bd00241/Good%20Grief%202024.mp4  
 #EXTINF:-1 tvg-logo="https://bit.ly/3RHQSzY" group-title="FILMES", The Keeper (2009)
