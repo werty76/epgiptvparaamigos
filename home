@@ -32,13 +32,20 @@
 <info>As melhores animações estão aqui no seu TugaFlix</info>
 </channel>
 
-<channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DESPORTO[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48tcWFK</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/desporto</externallink>
 <fanart>https://bit.ly/3Rm5apZ</fanart>
 <info>Desporto no TugaFlix</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u</externallink>
+<fanart>https://wallpapercave.com/wp/wp1848658.jpg</fanart>
+<info>Live TV no TugaFlix</info>
 </channel>
 
 <channel>
