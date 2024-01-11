@@ -2,16 +2,6 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Goosebumps[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/46T7ydV</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Goosebumps</externallink>
-<fanart>https://bit.ly/3ubSaLz</fanart>
-<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
-[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Comédia, Fantasia, Ficção cientifica
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Um grupo de cinco estudantes do ensino médio libera forças sobrenaturais em sua cidade. Agora, eles devem trabalhar juntos para salvá-lo.</info>
-</channel>
-
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Ahsoka[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3YQL8XL</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Ahsoka</externallink>
@@ -19,26 +9,6 @@
 <info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Fantasia, Ficção cientifica
 [B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Após a queda do Império Galáctico, a ex-Cavaleira Jedi Ahsoka Tano investiga uma ameaça emergente a uma galáxia vulnerável.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]LOKI[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3QUBEbx</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/LOKI_S01_S02</externallink>
-<fanart>https://bit.ly/3Szk5PL</fanart>
-<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2021 - 2023
-[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Fantasia, Ficção cientifica
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] O vilão Loki retoma seu papel como o Deus da Travessura em uma nova série que se passa após os eventos de “Vingadores: Ultimato”.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Moon Knight[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3EyggSD</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Moon%20Knight</externallink>
-<fanart>https://bit.ly/3QBOYAl</fanart>
-<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2022
-[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Fantasia, Ficção cientifica, Mistério
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Steven Grant descobre que recebeu os poderes de um deus egípcio da lua. Mas ele logo descobre que esses novos poderes podem ser uma bênção e uma maldição para sua vida conturbada.</info>
 </channel>
 
 <channel>
@@ -52,6 +22,26 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Eco[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/qBslfbXIEGwMpwxvdvxQJXmHrgO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Eco</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/u3ySnWqSjM3jedYgJZTR7RWRDDm.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama,  Crime, Ação e Aventura
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Perseguida pelo império de Fisk, Maya volta a casa onde enfrenta a própria família e o seu legado.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Goosebumps[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/46T7ydV</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Goosebumps</externallink>
+<fanart>https://bit.ly/3ubSaLz</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Comédia, Fantasia, Ficção cientifica
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Um grupo de cinco estudantes do ensino médio libera forças sobrenaturais em sua cidade. Agora, eles devem trabalhar juntos para salvá-lo.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Hawkeye[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3PvZutv</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Hawkeye</externallink>
@@ -62,13 +52,23 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Secret Invasion[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3YTNbKz</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Secret%20Invasion</externallink>
-<fanart>https://bit.ly/3QWXawC</fanart>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Jackson and the Olympians[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Percy%20Jackson%20and%20the%20Olympians%20S01</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/g1VFcysu9HREav2gjEBJcsTd5QF.jpg</fanart>
 <info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
-[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Drama, Fantasia, Ficção cientifica 
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Fury e Talos tentam deter os Skrulls que se infiltraram nas esferas mais altas do Universo Marvel.</info>
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Drama, Fantasia, Ficção cientifica  
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Percy Jackson está numa missão perigosa. Tendo de fugir de monstros e de ser mais esperto que os deuses, ele tem de viajar pelos EUA para devolver o Raio de Zeus e impedir a guerra. Com a ajuda dos seus companheiros de missão, Annabeth e Grover, a jornada de Percy irá aproximá-lo das respostas que procura: Como se integrar num mundo em que se sente deslocado? Conseguirá, um dia, descobrir quem está destinado a ser?</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LOKI[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3QUBEbx</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/LOKI_S01_S02</externallink>
+<fanart>https://bit.ly/3Szk5PL</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2021 - 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Fantasia, Ficção cientifica
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] O vilão Loki retoma seu papel como o Deus da Travessura em uma nova série que se passa após os eventos de “Vingadores: Ultimato”.</info>
 </channel>
 
 <channel>
@@ -82,13 +82,23 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Jackson and the Olympians[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Percy%20Jackson%20and%20the%20Olympians%20S01</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/g1VFcysu9HREav2gjEBJcsTd5QF.jpg</fanart>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Moon Knight[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3EyggSD</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Moon%20Knight</externallink>
+<fanart>https://bit.ly/3QBOYAl</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2022
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Fantasia, Ficção cientifica, Mistério
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Steven Grant descobre que recebeu os poderes de um deus egípcio da lua. Mas ele logo descobre que esses novos poderes podem ser uma bênção e uma maldição para sua vida conturbada.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Secret Invasion[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3YTNbKz</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Secret%20Invasion</externallink>
+<fanart>https://bit.ly/3QWXawC</fanart>
 <info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
-[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Drama, Fantasia, Ficção cientifica  
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Percy Jackson está numa missão perigosa. Tendo de fugir de monstros e de ser mais esperto que os deuses, ele tem de viajar pelos EUA para devolver o Raio de Zeus e impedir a guerra. Com a ajuda dos seus companheiros de missão, Annabeth e Grover, a jornada de Percy irá aproximá-lo das respostas que procura: Como se integrar num mundo em que se sente deslocado? Conseguirá, um dia, descobrir quem está destinado a ser?</info>
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Drama, Fantasia, Ficção cientifica 
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Fury e Talos tentam deter os Skrulls que se infiltraram nas esferas mais altas do Universo Marvel.</info>
 </channel>
 
 </channels>
