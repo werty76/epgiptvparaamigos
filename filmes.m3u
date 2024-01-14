@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3O220Xu" group-title="FILMES", Fast Charlie (2023)
+https://cld.pt/dl/download/f6a039e0-71e4-4570-a17c-179691192ea8/Fast%20Charlie%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/48yRD5J" group-title="FILMES", Lift- Roubo nas Alturas (2024)
 https://cld.pt/dl/download/f0eba762-04c8-42ec-8bfd-cd2631027ca9/Lift-%20Roubo%20nas%20Alturas%202024.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/4aXFIju" group-title="FILMES", Role Play (2024)
