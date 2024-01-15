@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://bit.ly/3MPgDg6" type="playlist" group-title="APPLE TV+", Monarch Legacy of Monsters
+https://raw.githubusercontent.com/werty76/famaseries/main/Monarch%20Legacy%20of%20Monsters
+#EXTINF:-1 tvg-logo="https://bit.ly/3MLNSRh" type="playlist" group-title="APPLE TV+", Lessons in Chemistry
+https://raw.githubusercontent.com/werty76/famaseries/main/Lessons%20in%20Chemistry
+#EXTINF:-1 tvg-logo="https://bit.ly/3za5Kf2" type="playlist" group-title="APPLE TV+", SEE S01
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SEE%20S01
+#EXTINF:-1 tvg-logo="https://bit.ly/3k5xflQ" type="playlist" group-title="APPLE TV+", SEE S02
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SEE_S02
+#EXTINF:-1 tvg-logo="https://bit.ly/3EjQq4x" type="playlist" group-title="APPLE TV+", SEE S03
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SEE_S03
