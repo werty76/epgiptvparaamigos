@@ -1,48 +1,42 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://goo.gl/34C5ic" group-title="RADIO",ELECTRONIC DANCE RADIO
+#EXTINF:-1 tvg-logo="https://bit.ly/3Hrcuf3" group-title="RADIO", ELECTRONIC DANCE RADIO
 http://sc-atr.1.fm:7700/
  
-#EXTINF:-1 tvg-logo="https://goo.gl/oDjsfS" group-title="RADIO",CIDADE FM
+#EXTINF:-1 tvg-logo="https://bit.ly/3TUAK0O" group-title="RADIO", CIDADE FM
 https://stream-icy.bauermedia.pt/cidade.mp3
  
-#EXTINF:-1 tvg-logo="https://goo.gl/QzumzF" group-title="RADIO",MEGA HITS
+#EXTINF:-1 tvg-logo="https://bit.ly/3U1Gohv" group-title="RADIO", MEGA HITS
 http://radiotrucker.com/pt/play/41316/mega-hits-fm
  
-#EXTINF:-1 tvg-logo="https://goo.gl/1koNU4" group-title="RADIO",Radio Nove3cinco
+#EXTINF:-1 tvg-logo="https://bit.ly/3U0C8iw" group-title="RADIO", Radio Nove3cinco
 http://centova.radios.pt:9522/stream/1/
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3entkgu" group-title="RADIO",Radio M80
+#EXTINF:-1 tvg-logo="https://bit.ly/3entkgu" group-title="RADIO", Radio M80
 http://radiotrucker.com/pt/play/41316/radio-m80
  
-#EXTINF:-1 tvg-logo="https://goo.gl/eZy3qG" group-title="RADIO",NOVA ERA
+#EXTINF:-1 tvg-logo="https://bit.ly/48P9y7M" group-title="RADIO", NOVA ERA
 http://centova.radios.pt:9478/stream/1/
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3sFA0iB" group-title="RADIO",Vodafone FM
-http://radiotrucker.com/pt/play/41316/vodafone-fm|Vodafone FM
  
-#EXTINF:-1 tvg-logo="https://goo.gl/R2ThTD" group-title="RADIO",ORBITAL
+#EXTINF:-1 tvg-logo="https://bit.ly/41WAMHv" group-title="RADIO", ORBITAL
 http://195.23.85.126:8401/stream/1/
  
-#EXTINF:-1 tvg-logo="https://goo.gl/vRqX8U" group-title="RADIO",RADIO COMERCIAL
+#EXTINF:-1 tvg-logo="https://bit.ly/3SiHyUz" group-title="RADIO", RADIO COMERCIAL
 https://stream-icy.bauermedia.pt/comercial.mp3
  
-#EXTINF:-1 tvg-logo="https://goo.gl/mhm8ny" group-title="RADIO",RADIO ONDA VIVA
+#EXTINF:-1 tvg-logo="https://bit.ly/3vBRGyW" group-title="RADIO", RADIO ONDA VIVA
 http://centova.radios.pt:9524/stream
  
-#EXTINF:-1 tvg-logo="https://goo.gl/uq5Ym5" group-title="RADIO",RFM
+#EXTINF:-1 tvg-logo="https://bit.ly/3O6338O" group-title="RADIO", RFM
 https://23623.live.streamtheworld.com/RFM_SC
  
-#EXTINF:-1 tvg-logo="https://goo.gl/7cuinU" group-title="RADIO",RFM 80
-https://22673.live.streamtheworld.com/GR80SRFM_SC
-
-#EXTINF:-1 tvg-logo="https://goo.gl/BsUHpG" group-title="RADIO",RFM ON THE ROCK
+#EXTINF:-1 tvg-logo="https://bit.ly/3tSGwWa" group-title="RADIO", RFM ON THE ROCK
 https://27793.live.streamtheworld.com/RFMONTHEROCKAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15
  
-#EXTINF:-1 tvg-logo="https://goo.gl/UoSBMq" group-title="RADIO",RFM DANCE IT
+#EXTINF:-1 tvg-logo="https://bit.ly/3S3asGS" group-title="RADIO", RFM DANCE IT
 https://25543.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15
  
-#EXTINF:-1 tvg-logo="https://goo.gl/gwuYAg" group-title="RADIO",RFM OCEANO PACÍFICO
+#EXTINF:-1 tvg-logo="https://bit.ly/3U3p38c" group-title="RADIO", RFM OCEANO PACÍFICO
 https://27823.live.streamtheworld.com/OCEANPACIFICAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3Sk4ItO" group-title="RADIO", RFM NOVAS
@@ -66,11 +60,11 @@ https://27913.live.streamtheworld.com/RFM_PORTUGALAAC.aac?dist=triton-widget&tds
 #EXTINF:-1 tvg-logo="https://bit.ly/48w9eLF" group-title="RADIO", RADIO MEO SUDOESTE
 https://centova.radios.pt/proxy/495?mp=/stream/1/
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TC8hL4" group-title="RADIO",DIGITAL FM
+#EXTINF:-1 tvg-logo="https://bit.ly/3tWh424" group-title="RADIO", FAMA RADIO
 http://digitalfm.dynu.com:8000/digitalfm64
  
-#EXTINF:-1 tvg-logo="https://goo.gl/JunjC2" group-title="RADIO",CIDADE HOJE
+#EXTINF:-1 tvg-logo="https://bit.ly/3tTmZEU" group-title="RADIO", CIDADE HOJE
 http://centova.radios.pt:8119/stream/1/
  
-#EXTINF:-1 tvg-logo="https://goo.gl/mUW8nj" group-title="RADIO",RADIO JORNAL
-http://213.136.92.8:8006/;
+#EXTINF:-1 tvg-logo="https://bit.ly/48OKQoJ" group-title="RADIO", RADIO JORNAL
+https://radios.justweb.pt/8032/stream
