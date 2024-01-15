@@ -1,7 +1,7 @@
 #EXTM3U size="medium"
 
 #EXTINF:0 tvg-logo="https://bit.ly/49AKnXG" type="playlist", AMC+
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/AMC%2B
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/AMC%2B%20SSIPTV.m3u
 #EXTINF:0 tvg-logo="https://apple.co/49vDM0R" type="playlist", APPLE TV+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/APPLE%20TV%2B
 #EXTINF:0 tvg-logo="https://bit.ly/3MEvAS2" type="playlist", DISNEYPLUS
