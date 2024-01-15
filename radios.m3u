@@ -1,12 +1,10 @@
-
-#EXTM3U
+#EXTM3U size="medium"
 
 #EXTINF:-1 tvg-logo="https://goo.gl/34C5ic" group-title="RADIO",ELECTRONIC DANCE RADIO
 http://sc-atr.1.fm:7700/
  
- 
 #EXTINF:-1 tvg-logo="https://goo.gl/oDjsfS" group-title="RADIO",CIDADE FM
-http://mcrscast.mcr.iol.pt/cidadefm
+https://stream-icy.bauermedia.pt/cidade.mp3
  
 #EXTINF:-1 tvg-logo="https://goo.gl/QzumzF" group-title="RADIO",MEGA HITS
 http://radiotrucker.com/pt/play/41316/mega-hits-fm
@@ -27,29 +25,47 @@ http://radiotrucker.com/pt/play/41316/vodafone-fm|Vodafone FM
 http://195.23.85.126:8401/stream/1/
  
 #EXTINF:-1 tvg-logo="https://goo.gl/vRqX8U" group-title="RADIO",RADIO COMERCIAL
-http://mcrscast.mcr.iol.pt/comercial.mp3
+https://stream-icy.bauermedia.pt/comercial.mp3
  
 #EXTINF:-1 tvg-logo="https://goo.gl/mhm8ny" group-title="RADIO",RADIO ONDA VIVA
 http://centova.radios.pt:9524/stream
  
 #EXTINF:-1 tvg-logo="https://goo.gl/uq5Ym5" group-title="RADIO",RFM
-https://23563.live.streamtheworld.com/RFMAAC.aac
+https://23623.live.streamtheworld.com/RFM_SC
  
 #EXTINF:-1 tvg-logo="https://goo.gl/7cuinU" group-title="RADIO",RFM 80
-https://20863.live.streamtheworld.com/GR80SRFMAAC.aac
+https://22673.live.streamtheworld.com/GR80SRFM_SC
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BsUHpG" group-title="RADIO",RFM ON THE ROCK
-https://22533.live.streamtheworld.com/RFMONTHEROCKAAC.aac
+https://27793.live.streamtheworld.com/RFMONTHEROCKAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15
  
-#EXTINF:-1 tvg-logo="https://goo.gl/UoSBMq" group-title="RADIO",RFM DANCEFLOOR
-https://22533.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
+#EXTINF:-1 tvg-logo="https://goo.gl/UoSBMq" group-title="RADIO",RFM DANCE IT
+https://25543.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15
  
 #EXTINF:-1 tvg-logo="https://goo.gl/gwuYAg" group-title="RADIO",RFM OCEANO PACÍFICO
-https://20723.live.streamtheworld.com/OCEANPACIFICAAC.aac
+https://27823.live.streamtheworld.com/OCEANPACIFICAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3z3r47Q" group-title="RADIO",NATAL RFM
-https://20863.live.streamtheworld.com/LIVESTREAMAAC.aac
- 
+#EXTINF:-1 tvg-logo="https://bit.ly/3Sk4ItO" group-title="RADIO", RFM NOVAS
+https://27913.live.streamtheworld.com/RFM_FRESCASAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=787a78b5-8427-4c26-ddb3-7e264535f325
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3Hnwyzb" group-title="RADIO", 80´S RFM
+https://22533.live.streamtheworld.com/GR80SRFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3SiG90f" group-title="RADIO", 90´S RFM
+https://22533.live.streamtheworld.com/RFM_90SAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=89eae8b7-339b-463e-c0c3-8cfdc510d8b1
+
+#EXTINF:-1 tvg-logo="https://bit.ly/48qjHYR" group-title="RADIO", 00´S RFM
+https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3SnjU9O" group-title="RADIO", RFM LATINAS
+https://25443.live.streamtheworld.com/RFM_LATINASAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9ae3434e-0139-4821-d99b-ef6bc9facc68
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3vEQlrd" group-title="RADIO", RFM TOCA PORTUGAL
+https://27913.live.streamtheworld.com/RFM_PORTUGALAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=f784e9d8-afd1-4a6d-ba28-a4bb5a528036
+
+#EXTINF:-1 tvg-logo="https://bit.ly/48w9eLF" group-title="RADIO", RADIO MEO SUDOESTE
+https://centova.radios.pt/proxy/495?mp=/stream/1/
+
 #EXTINF:-1 tvg-logo="https://goo.gl/TC8hL4" group-title="RADIO",DIGITAL FM
 http://digitalfm.dynu.com:8000/digitalfm64
  
