@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U size="medium"
 
 #EXTINF:-1 tvg-id="SportTV1.pthd" tvg-name="SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="DESPORTO", SPORT TV 1 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/31368.ts
