@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/FX%20SSIPTV.m
 #EXTINF:0 tvg-logo="https://bit.ly/40zpmbS" type="playlist", HBO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/HBO%20SSIPTV.m3u
 #EXTINF:0 tvg-logo="https://bit.ly/3MRFq2Y" type="playlist",hulu
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/hulu
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/hulu%20SSIPTV.m3u
 #EXTINF:0 tvg-logo="https://bit.ly/49ASnbi" type="playlist", MGM+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MGM%2B
 #EXTINF:0 tvg-logo="https://bit.ly/40x72Ah" type="playlist",NETFLIX
