@@ -1,63 +1,19 @@
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S03E01[/COLOR][/B]</title>
-<thumbnail>https://bit.ly/3Z02iSQ</thumbnail>
-<link>https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_eaw86vd26e/The.Mandalorian.S03E01.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119</link>
-<fanart>https://www.themoviedb.org/t/p/original/qruRhG6jE5M8lWnW1AGOBxtdmCO.jpg</fanart>
-<info>O Mandaloriano inicia uma viagem importante.</info>
-</item>
+#EXTM3U size="medium"
 
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S03E02[/COLOR][/B]</title>
-<thumbnail>https://bit.ly/3Z02iSQ</thumbnail>
-<link>https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_4ts7nnpa3p/The.Mandalorian.S03E02.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119</link>
-<fanart>https://www.themoviedb.org/t/p/original/qruRhG6jE5M8lWnW1AGOBxtdmCO.jpg</fanart>
-<info>O Mandaloriano e Grogu exploram as ruínas de um planeta destruído.</info>
-</item>
+#EXTINF:-1 tvg-logo="https://bit.ly/3Z02iSQ" type="playlist" group-title="DISNEYPLUS", MANDALORIAN S03E01
+https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_eaw86vd26e/The.Mandalorian.S03E01.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119
+#EXTINF:-1 tvg-logo="https://bit.ly/3Z02iSQ" type="playlist" group-title="DISNEYPLUS", MANDALORIAN S03E02
+https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_4ts7nnpa3p/The.Mandalorian.S03E02.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119
+#EXTINF:-1 tvg-logo="https://bit.ly/3Z02iSQ" type="playlist" group-title="DISNEYPLUS", MANDALORIAN S03E03
+https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_3sqc8tgbpe/The.Mandalorian.S03E03.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119
+#EXTINF:-1 tvg-logo="https://bit.ly/3Z02iSQ" type="playlist" group-title="DISNEYPLUS", MANDALORIAN S03E04
+https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_cxxr378chd/The.Mandalorian.S03E04.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119
+#EXTINF:-1 tvg-logo="https://bit.ly/3Z02iSQ" type="playlist" group-title="DISNEYPLUS", MANDALORIAN S03E05
+https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_dd3vx9w4rb/The.Mandalorian.S03E05.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119
+#EXTINF:-1 tvg-logo="https://bit.ly/3Z02iSQ" type="playlist" group-title="DISNEYPLUS", MANDALORIAN S03E06
+https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_cs9hqzve9x/The.Mandalorian.S03E06.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119
+#EXTINF:-1 tvg-logo="https://bit.ly/3Z02iSQ" type="playlist" group-title="DISNEYPLUS", MANDALORIAN S03E07
+https://fv5-2.failiem.lv/Files.fm_2023-12-01_file_pu9sjjsqda/The.Mandalorian.S03E07.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119
+#EXTINF:-1 tvg-logo="https://bit.ly/3Z02iSQ" type="playlist" group-title="DISNEYPLUS", MANDALORIAN S03E08
+https://fv5-2.failiem.lv/Files.fm_2023-12-01_file_fm4cv4yueu/The.Mandalorian.S03E08.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119
 
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S03E03[/COLOR][/B]</title>
-<thumbnail>https://bit.ly/3Z02iSQ</thumbnail>
-<link>https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_3sqc8tgbpe/The.Mandalorian.S03E03.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119</link>
-<fanart>https://www.themoviedb.org/t/p/original/qruRhG6jE5M8lWnW1AGOBxtdmCO.jpg</fanart>
-<info>Em Coruscant, ex-imperiais são amnistiados pela Nova República.</info>
-</item>
-
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S03E04[/COLOR][/B]</title>
-<thumbnail>https://bit.ly/3Z02iSQ</thumbnail>
-<link>https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_cxxr378chd/The.Mandalorian.S03E04.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119</link>
-<fanart>https://www.themoviedb.org/t/p/original/qruRhG6jE5M8lWnW1AGOBxtdmCO.jpg</fanart>
-<info>Din Djarin retorna ao esconderijo Mandaloriano oculto.</info>
-</item>
-
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S03E05[/COLOR][/B]</title>
-<thumbnail>https://bit.ly/3Z02iSQ</thumbnail>
-<link>https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_dd3vx9w4rb/The.Mandalorian.S03E05.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119</link>
-<fanart>https://www.themoviedb.org/t/p/original/qruRhG6jE5M8lWnW1AGOBxtdmCO.jpg</fanart>
-<info>O povo de Nevarro precisa de proteção contra ataques desenfreados de piratas.</info>
-</item>
-
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S03E06[/COLOR][/B]</title>
-<thumbnail>https://bit.ly/3Z02iSQ</thumbnail>
-<link>https://fv5-3.failiem.lv/Files.fm_2023-12-01_file_cs9hqzve9x/The.Mandalorian.S03E06.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119</link>
-<fanart>https://www.themoviedb.org/t/p/original/qruRhG6jE5M8lWnW1AGOBxtdmCO.jpg</fanart>
-<info>O Mandaloriano visita um mundo opulento.</info>
-</item>
-
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S03E07[/COLOR][/B]</title>
-<thumbnail>https://bit.ly/3Z02iSQ</thumbnail>
-<link>https://fv5-2.failiem.lv/Files.fm_2023-12-01_file_pu9sjjsqda/The.Mandalorian.S03E07.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119</link>
-<fanart>https://www.themoviedb.org/t/p/original/qruRhG6jE5M8lWnW1AGOBxtdmCO.jpg</fanart>
-<info>Os sobreviventes saem do esconderijo.</info>
-</item>
-
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]MANDALORIAN S03E08[/COLOR][/B]</title>
-<thumbnail>https://bit.ly/3Z02iSQ</thumbnail>
-<link>https://fv5-2.failiem.lv/Files.fm_2023-12-01_file_fm4cv4yueu/The.Mandalorian.S03E08.mp4?PHPSESSID=e9ec3ca0574b6184805a9571c16ccdbcc6a66119</link>
-<fanart>https://www.themoviedb.org/t/p/original/qruRhG6jE5M8lWnW1AGOBxtdmCO.jpg</fanart>
-<info>O Mandaloriano e seus aliados enfrentam seus inimigos.</info>
-</item>
