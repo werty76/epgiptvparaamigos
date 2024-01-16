@@ -1,47 +1,14 @@
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]A Grande Onda da Nazaré S01E01[/COLOR][/B]</title>
-<link>https://fv9-4.failiem.lv/Files.fm_2022-01-16_file_sfb6xznkp/A%20Grande%20Onda%20da%20Nazar%C3%A9%201.mp4?PHPSESSID=e4ea253a93063760eb4be870fea47effe08439dc</link>
-<thumbnail>https://bit.ly/3PeVuOb</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jPiYqgBEquMh4RSIut1KR8Ey6zu.jpg</fanart>
-<info>Depois de descobrir as grandes ondas monstruosas da Nazaré, em Portugal, o surfista profissional Garrett McNamara tenta alcançar o seu sonho de surfar uma onda de 30 metros.</info>
-</item>
+#EXTM3U size="medium"
 
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]A Grande Onda da Nazaré S01E02[/COLOR][/B]</title>
-<link>https://fv9-4.failiem.lv/Files.fm_2022-01-16_file_39hex7xrn/A%20Grande%20Onda%20da%20Nazar%C3%A9%202.mp4?PHPSESSID=e4ea253a93063760eb4be870fea47effe08439dc</link>
-<thumbnail>https://bit.ly/3PeVuOb</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jPiYqgBEquMh4RSIut1KR8Ey6zu.jpg</fanart>
-<info>Apesar das contrariedades inesperadas durante a sua segunda temporada na Nazaré, Garrett apanha uma onda que muda tudo.</info>
-</item>
-
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]A Grande Onda da Nazaré S01E03[/COLOR][/B]</title>
-<link>https://fv9-3.failiem.lv/Files.fm_2022-01-16_file_zd6q9kj75/A%20Grande%20Onda%20da%20Nazar%C3%A9%203.mp4?PHPSESSID=e4ea253a93063760eb4be870fea47effe08439dc</link>
-<thumbnail>https://bit.ly/3PeVuOb</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jPiYqgBEquMh4RSIut1KR8Ey6zu.jpg</fanart>
-<info>Surfistas brasileiros novos na Nazaré não acatam os conselhos de segurança, enquanto a comparência de Garrett numa grande competição de surf tem uma reviravolta inesperada.</info>
-</item>
-
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]A Grande Onda da Nazaré S01E04[/COLOR][/B]</title>
-<link>https://fv9-3.failiem.lv/Files.fm_2022-01-16_file_2btrgsbab/A%20Grande%20Onda%20da%20Nazar%C3%A9%204.mp4?PHPSESSID=e4ea253a93063760eb4be870fea47effe08439dc</link>
-<thumbnail>https://bit.ly/3PeVuOb</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jPiYqgBEquMh4RSIut1KR8Ey6zu.jpg</fanart>
-<info>Em 2017, a maior onda até à data na Nazaré abre o caminho para um recorde ultrapassado – e umas costas lesionadas.</info>
-</item>
-
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]A Grande Onda da Nazaré S01E05[/COLOR][/B]</title>
-<link>https://fv9-4.failiem.lv/Files.fm_2022-01-16_file_rswx22jfs/A%20Grande%20Onda%20da%20Nazar%C3%A9%205.mp4?PHPSESSID=e4ea253a93063760eb4be870fea47effe08439dc</link>
-<thumbnail>https://bit.ly/3PeVuOb</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jPiYqgBEquMh4RSIut1KR8Ey6zu.jpg</fanart>
-<info>Enquanto os maiores surfistas do mundo chegam à Nazaré para o Desafio WSL de Surf com Reboque, Garrett fica preocupado com as medidas de segurança propostas.</info>
-</item>
-
-<item>
-<title>[B][COLOR lime]●[/COLOR] [COLOR white]A Grande Onda da Nazaré S01E06[/COLOR][/B]</title>
-<link>https://fv9-4.failiem.lv/Files.fm_2022-01-11_file_379aq3zkm/A%20Grande%20Onda%20da%20Nazar%C3%A9%206.mp4?PHPSESSID=baf480ca1214e04be76fe1a01f9cec2fe331bf06</link>
-<thumbnail>https://bit.ly/3PeVuOb</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jPiYqgBEquMh4RSIut1KR8Ey6zu.jpg</fanart>
-<info>Após a competição WSL ser abruptamente interrompida, os atletas refletem sobre a sua adorada e imprevisível modalidade. Mais tarde, Garrett tenta surfar outra vez.</info>
-</item>
+#EXTINF:-1 tvg-logo="https://bit.ly/3PeVuOb" group-title="HBO", A Grande Onda da Nazaré S01E01
+https://fv9-4.failiem.lv/Files.fm_2022-01-16_file_sfb6xznkp/A%20Grande%20Onda%20da%20Nazar%C3%A9%201.mp4?PHPSESSID=e4ea253a93063760eb4be870fea47effe08439dc
+#EXTINF:-1 tvg-logo="https://bit.ly/3PeVuOb" group-title="HBO", A Grande Onda da Nazaré S01E02
+https://fv9-4.failiem.lv/Files.fm_2022-01-16_file_39hex7xrn/A%20Grande%20Onda%20da%20Nazar%C3%A9%202.mp4?PHPSESSID=e4ea253a93063760eb4be870fea47effe08439dc
+#EXTINF:-1 tvg-logo="https://bit.ly/3PeVuOb" group-title="HBO", A Grande Onda da Nazaré S01E03
+https://fv9-3.failiem.lv/Files.fm_2022-01-16_file_zd6q9kj75/A%20Grande%20Onda%20da%20Nazar%C3%A9%203.mp4?PHPSESSID=e4ea253a93063760eb4be870fea47effe08439dc
+#EXTINF:-1 tvg-logo="https://bit.ly/3PeVuOb" group-title="HBO", A Grande Onda da Nazaré S01E04
+https://fv9-3.failiem.lv/Files.fm_2022-01-16_file_2btrgsbab/A%20Grande%20Onda%20da%20Nazar%C3%A9%204.mp4?PHPSESSID=e4ea253a93063760eb4be870fea47effe08439dc
+#EXTINF:-1 tvg-logo="https://bit.ly/3PeVuOb" group-title="HBO", A Grande Onda da Nazaré S01E05
+https://fv9-4.failiem.lv/Files.fm_2022-01-16_file_rswx22jfs/A%20Grande%20Onda%20da%20Nazar%C3%A9%205.mp4?PHPSESSID=e4ea253a93063760eb4be870fea47effe08439dc
+#EXTINF:-1 tvg-logo="https://bit.ly/3PeVuOb" group-title="HBO", A Grande Onda da Nazaré S01E06
+https://fv9-4.failiem.lv/Files.fm_2022-01-11_file_379aq3zkm/A%20Grande%20Onda%20da%20Nazar%C3%A9%206.mp4?PHPSESSID=baf480ca1214e04be76fe1a01f9cec2fe331bf06
