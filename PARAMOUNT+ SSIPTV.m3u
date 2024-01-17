@@ -1,0 +1,11 @@
+#EXTM3U size="medium"
+
+#EXTINF:-1 tvg-logo="https://bit.ly/47YdweR" type="playlist" group-title="PARAMOUNT+", 1883 S01
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/1883
+#EXTINF:-1 tvg-logo="https://bit.ly/44vEUOk" type="playlist" group-title="PARAMOUNT+", Halo S01
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/HALO_S01
+#EXTINF:-1 tvg-logo="https://bit.ly/47HCldz" type="playlist" group-title="PARAMOUNT+", Lawmen: Bass Reeves S01
+https://raw.githubusercontent.com/werty76/famaseries/main/Lawmen%20Bass%20Reeves
+#EXTINF:-1 tvg-logo="https://bit.ly/3RX0LLB" type="playlist" group-title="PARAMOUNT+", Special Ops Lioness S01
+https://raw.githubusercontent.com/werty76/famaseries/main/Special%20Ops%20Lioness
+
