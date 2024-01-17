@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U size="medium"
+
 #EXTINF:-1 tvg-logo="https://bit.ly/45ETxQG" type="video" group-title="NETFLIX", Rabo de Peixe S01E01
 https://fv5-4.failiem.lv/Files.fm_2024-01-06_file_n7hd4f9mgd/Rabo+de+Peixe+S01E01.mp4?PHPSESSID=cfa5ce595765f007bc84fd516cd91c6c3f253a68
 #EXTINF:-1 tvg-logo="https://bit.ly/45ETxQG" type="video" group-title="NETFLIX", Rabo de Peixe S01E02
