@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Os Eleitos[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48YZxVz</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Os%20Eleitos.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/16rBJUcrrrW0A2mApiKmw7QY9CG.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR]Em Monsanto, despontam as mais jovens promessas do desporto. Um centro de alto rendimento considerado uma autêntica fábrica de campeões, onde um grupo de jovens atletas partilha o mesmo objectivo: tornarem-se os melhores do mundo na sua modalidade. Mas em tudo o resto são diferentes, incluindo nos sacrifícios que estão obrigados a fazer para realizarem o sonho de uma medalha de ouro.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Paulo Futre - O Primeiro Português[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/45WEkdl</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Paulo%20Futre%20-%20O%20Primeiro%20Portugu%C3%AAs</externallink>
