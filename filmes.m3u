@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://bit.ly/4b1SKwm" group-title="FILMES", Wonka (2023)
+https://cld.pt/dl/download/487f6966-f63a-4acf-b4e6-6d9b27249518/Wonka%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/4ba4Q6K" group-title="FILMES", The Marvels (2023)
 https://cld.pt/dl/download/44b26f6b-ed99-4345-81a3-6bfaffc75b60/The%20Marvels%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3O220Xu" group-title="FILMES", Fast Charlie (2023)
