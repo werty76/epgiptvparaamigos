@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://bit.ly/4b1SKwm" group-title="FILMES", Wonka PT (2023)
+https://cld.pt/dl/download/9ddc8326-40be-420d-8959-966a07e75855/Wonka%20PT%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3Sv1kMY" group-title="FILMES", Aquaman e o Reino Perdido
 https://cld.pt/dl/download/5e38765b-1675-457a-beee-0046ca8c5f42/Aquaman%20and%20the%20Lost%20Kingdom%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/4b1SKwm" group-title="FILMES", Wonka (2023)
