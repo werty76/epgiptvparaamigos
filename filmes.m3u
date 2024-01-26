@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3vU8MZ5" group-title="FILMES", Ferrari (2023)
+https://cld.pt/dl/download/7dcfe01b-57d9-4de2-aa45-7c39197fe472/Ferrari%202023.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3SxEBzA" group-title="FILMES", Ride On (2023)
+https://cld.pt/dl/download/d303d896-4e7a-459b-91b1-c67874e5173a/Ride%20On%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/4b1SKwm" group-title="FILMES", Wonka PT (2023)
 https://cld.pt/dl/download/9ddc8326-40be-420d-8959-966a07e75855/Wonka%20PT%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3Sv1kMY" group-title="FILMES", Aquaman e o Reino Perdido
