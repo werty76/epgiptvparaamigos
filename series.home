@@ -18,14 +18,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]RALLY WRC 2024[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3MEWzgd</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/wrc2024</externallink>
-<fanart>https://bit.ly/3QDOB8v</fanart>
-<info></info>
-</channel>
-
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]DISNEYPLUS[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3MEvAS2</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DISNEYPLUS</externallink>
@@ -143,6 +135,14 @@
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/wwe</externallink>
 <fanart>https://bit.ly/3QWJamy</fanart>
 <info>World Wrestling Entertainment, Inc., fazendo negócios como WWE, é uma promoção americana de luta profissional. Uma empresa global integrada de mídia e entretenimento, a WWE também se ramificou em outros campos, incluindo cinema, futebol americano e vários outros empreendimentos comerciais</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]RALLY WRC 2024[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3MEWzgd</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/wrc2024</externallink>
+<fanart>https://bit.ly/3QDOB8v</fanart>
+<info></info>
 </channel>
 
 <channel>
