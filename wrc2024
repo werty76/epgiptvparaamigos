@@ -4,3 +4,5 @@
 https://rbmn-live.akamaized.net/hls/live/655944/240126WrcFriHiPri/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/48W0YVu" tvg-id="RALLY WRC 2024", Rally Monte Carlo 2024 Day 2
 https://rbmn-live.akamaized.net/hls/live/655944/240127WrcSatHiPri/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/48W0YVu" tvg-id="RALLY WRC 2024", Rally Monte Carlo 2024 Day 3
+https://rbmn-live.akamaized.net/hls/live/655944/240128WrcSunHiPri/master_3360.m3u8
