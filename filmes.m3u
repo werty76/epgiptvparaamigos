@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3SNzzPX" group-title="FILMES", Asedio (2023)
+https://cld.pt/dl/download/06574275-ab77-4196-b1be-1b798fa1d8f8/Asedio%202023.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3HDMLAh" group-title="FILMES", Muzzle (2023)
+https://cld.pt/dl/download/78185d0f-1ce3-41a7-96e1-d221aa9d0e3d/Muzzle%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3HyqvYL" group-title="FILMES", Em Ruínas (2024)
 https://cld.pt/dl/download/9b2cc472-0848-46ea-8d65-e33d4dbadf79/Em%20Ru%C3%ADnas%202024.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3vU8MZ5" group-title="FILMES", Ferrari (2023)
