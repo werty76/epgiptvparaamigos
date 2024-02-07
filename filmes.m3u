@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://bit.ly/4btXN8P" group-title="FILMES", Dumb Money (2023)
+https://cld.pt/dl/download/2335f6cd-2b1a-428a-b219-32c064b2c10c/Dumb%20Money%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3HOHdDl" group-title="FILMES", Over The Top (1987)
 https://cld.pt/dl/download/d1842665-9ea5-4c64-b586-f2a1213cd3de/Over%20the%20Top%201987.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/48dKAhX" group-title="FILMES", One More Shot (2024)
