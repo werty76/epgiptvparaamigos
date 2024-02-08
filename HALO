@@ -1,1 +1,24 @@
+<layouttype>thumbnail</layouttype>
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Halo 1º TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/44vEUOk</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/HALO_S01</externallink>
+<fanart>https://image.tmdb.org/t/p/original/1qpUk27LVI9UoTS7S0EixUBj5aR.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2022
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação e aventura ,  ficção científica e fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Com a galáxia à beira da destruição, Master Chief John-117 lidera sua equipe de Spartans contra a ameaça alienígena conhecida como Covenant.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Halo 2ª TEMPORADA[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/495XuzK</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/HALO_S02</externallink>
+<fanart>https://image.tmdb.org/t/p/original/flFggscMhUyA9p7P8SbFyn6HPN1.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação e aventura ,  ficção científica e fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Retratando um conflito épico do século 26 entre a humanidade e uma ameaça alienígena conhecida como Covenant, a série tece histórias pessoais profundamente elaboradas com ação, aventura e uma visão do futuro ricamente imaginada.</info>
+</channel>
+
+</channels>
