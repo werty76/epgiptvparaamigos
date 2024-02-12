@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eYsdP5QffklSZMXJMy295xTHKmt.jpg" group-title="FILMES", Upgraded (2024)
+https://cld.pt/dl/download/2d46f3b5-e4fc-4ee1-8c6f-7c02caa21d67/Upgraded%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jSR06FpV1H36OmW0jfEmvG73l2r.jpg" group-title="FILMES", Cult Killer (2024)
 https://cld.pt/dl/download/659adbae-19d0-4807-b463-185b6c838cf3/Cult%20Killer%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg" group-title="FILMES", Night Swim (2024)
