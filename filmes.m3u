@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nfs7DCYhgrEIgxKYbITHTzKsggf.jpg" group-title="FILMES", The Iron Claw (2023)
+https://cld.pt/dl/download/53b50531-bb07-4a3d-b762-3ab32dab3af9/The%20Iron%20Claw%202023.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eYsdP5QffklSZMXJMy295xTHKmt.jpg" group-title="FILMES", Upgraded (2024)
 https://cld.pt/dl/download/2d46f3b5-e4fc-4ee1-8c6f-7c02caa21d67/Upgraded%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jSR06FpV1H36OmW0jfEmvG73l2r.jpg" group-title="FILMES", Cult Killer (2024)
