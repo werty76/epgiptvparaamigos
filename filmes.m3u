@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wShcJSKMFg1Dy1yq7kEZuay6pLS.jpg" group-title="FILMES", Sri Asih (2022)
+https://cld.pt/dl/download/ca210df8-62ee-4c6a-bf31-c162260e8e19/Sri%20Asih%202022.mp4?
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rEAdVptKD7SuF7cJ7AqMIsWpOdI.jpg" group-title="FILMES", No Way Up - Sem Saída (2024)
+https://cld.pt/dl/download/6c60b879-7f9c-4568-afd0-ddf941101123/No%20Way%20Up%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg" group-title="FILMES", Land of Bad (2024)
 https://cld.pt/dl/download/98aede9f-a012-4ce4-b7c9-1bc2391418f5/Land%20of%20Bad%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/voLxg0emuu862JAgFwM4yTH3eGj.jpg" group-title="FILMES", The Shift (2023)
