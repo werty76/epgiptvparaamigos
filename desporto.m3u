@@ -1,7 +1,5 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3T0yuq3lH2xbnA1Ur8DIcXYuduf.jpg" group-title="FILMES", As curvas da Vida (2012)
-https://cld.pt/dl/download/0e2a66b4-7444-41ef-8a78-e94ee3cec561/Curvas%20da%20Vida%202012.mp4
 #EXTINF:-1 tvg-id="SportTV1.pthd" tvg-name="SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="DESPORTO", SPORT TV 1 HD
 http://tv.pro-ott.com:25443/live/5035025233/8763454386/31368.ts
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="DESPORTO",SPORT TV 2
