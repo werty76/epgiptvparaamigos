@@ -3,6 +3,11 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/toSI71gFF11VnLfz2uiNx6jjNUF.jpg" group-title="FILMES", Vidas Passadas (2023)
+https://cld.pt/dl/download/4516d166-c05a-4298-83cf-7a2d2af93102/Vidas%20Passadas%202023.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg" group-title="FILMES", Anatomia de Uma Queda (2023)
+https://cld.pt/dl/download/e81b70c2-937c-41b9-b750-fed0d3c295ee/Anatomia%20de%20Uma%20Queda%202023.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg" group-title="FILMES", Madame Web (2024)
 https://cld.pt/dl/download/69413890-cc03-49da-a95d-e962dc076488/Madame%20Web%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sMp34cNKjIb18UBOCoAv4DpCxwY.jpg" group-title="FILMES", Damsel (2024)
