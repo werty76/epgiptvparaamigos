@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mKWalirPreEdCKDJjc5TKeOP2xi.jpg" group-title="FILMES", Bob Marley - One Love (2024)
+https://cld.pt/dl/download/d4cdbd82-d9f0-425d-9a98-93afc6f76f5a/Bob%20Marley%20-%20One%20Love%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/toSI71gFF11VnLfz2uiNx6jjNUF.jpg" group-title="FILMES", Vidas Passadas (2023)
 https://cld.pt/dl/download/4516d166-c05a-4298-83cf-7a2d2af93102/Vidas%20Passadas%202023.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg" group-title="FILMES", Anatomia de Uma Queda (2023)
