@@ -1,30 +1,30 @@
 #EXTM3U size="medium"
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/Y83D2CV/take-filmes.png" type="playlist" group-title="filmes", FILMES
 #EXTBG: #11609e
+#EXTINF:0 tvg-logo="https://i.ibb.co/Y83D2CV/take-filmes.png" type="playlist" group-title="filmes", FILMES
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/filmes.m3u
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/89zvGQ5/take-series.png" type="playlist" group-title="series", SERIES
 #EXTBG: #11609e
+#EXTINF:0 tvg-logo="https://i.ibb.co/89zvGQ5/take-series.png" type="playlist" group-title="series", SERIES
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SERIES%20SSIPTV.m3u
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/4RdFq35/take-cole-oes.png" type="playlist" group-title="coleções", COLEÇÕES
 #EXTBG: #11609e
+#EXTINF:0 tvg-logo="https://i.ibb.co/4RdFq35/take-cole-oes.png" type="playlist" group-title="coleções", COLEÇÕES
 https://raw.githubusercontent.com/werty76/cole-o/main/COLECAO.SSIPTV.m3u
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/VqqCpNv/take-anima-ao.png" type="playlist" group-title="animação", ANIMAÇÃO
 #EXTBG: #11609e
+#EXTINF:0 tvg-logo="https://i.ibb.co/VqqCpNv/take-anima-ao.png" type="playlist" group-title="animação", ANIMAÇÃO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/kids.m3u
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/SJ2XfDY/take-live-tv.png" type="playlist" group-title="tv", LIVE TV
 #EXTBG: #11609e
+#EXTINF:0 tvg-logo="https://i.ibb.co/SJ2XfDY/take-live-tv.png" type="playlist" group-title="tv", LIVE TV
 https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/JvY0Ss5/take-desporto.png" type="playlist" group-title="desporto", DESPORTO
 #EXTBG: #11609e
+#EXTINF:0 tvg-logo="https://i.ibb.co/JvY0Ss5/take-desporto.png" type="playlist" group-title="desporto", DESPORTO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/desporto.m3u
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/FYDGKGk/take-radios.png" type="playlist" group-title="radios", RADIOS
 #EXTBG: #11609e
+#EXTINF:0 tvg-logo="https://i.ibb.co/FYDGKGk/take-radios.png" type="playlist" group-title="radios", RADIOS
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/radios.m3u
 
