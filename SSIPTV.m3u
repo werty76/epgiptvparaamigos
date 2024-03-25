@@ -6,8 +6,9 @@
 #EXTBG:https://i.ibb.co/BGdxPSw/filmes.jpg
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/filmes.m3u
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/7RFR9Xd/SERIES.png" type="playlist", SERIES
+#EXTINF:1 description="", SERIES
 #EXTSIZE: big
+#EXTBG:https://i.ibb.co/cNv6RJh/Series.jpg
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SERIES%20SSIPTV.m3u
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Sn0HKBP/COLE-ES.png" type="playlist", COLEÇÕES
