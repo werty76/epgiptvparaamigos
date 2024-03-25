@@ -3,7 +3,7 @@
 
 #EXTINF:1 description="", FILMES
 #EXTSIZE: big
-#EXTBG:https://i.ibb.co/ZMv1b6W/filmes.jpg
+#EXTBG:https://i.ibb.co/BGdxPSw/filmes.jpg
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/filmes.m3u
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/7RFR9Xd/SERIES.png" type="playlist", SERIES
