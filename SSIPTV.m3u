@@ -1,7 +1,7 @@
 #EXTM3U size="big"
 
 
-#EXTINF:0 tvg-logo="" type="playlist", 
+#EXTINF:1 description="", FILMES
 #EXTSIZE: big
 #EXTBG:https://i.ibb.co/ZMv1b6W/filmes.jpg
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/filmes.m3u
