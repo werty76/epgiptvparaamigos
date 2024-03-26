@@ -1,8 +1,6 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", Bob Marley - One Love (2024)
-#EXTSIZE: medium
-#EXTBG:https://image.tmdb.org/t/p/original/mKWalirPreEdCKDJjc5TKeOP2xi.jpg
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mKWalirPreEdCKDJjc5TKeOP2xi.jpg" group-title="FILMES", Bob Marley - One Love (2024)
 https://cld.pt/dl/download/d4cdbd82-d9f0-425d-9a98-93afc6f76f5a/Bob%20Marley%20-%20One%20Love%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/toSI71gFF11VnLfz2uiNx6jjNUF.jpg" group-title="FILMES", Vidas Passadas (2023)
 https://cld.pt/dl/download/4516d166-c05a-4298-83cf-7a2d2af93102/Vidas%20Passadas%202023.mp4
