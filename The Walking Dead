@@ -1,15 +1,15 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead: Daryl Dixon S01E01
+#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" type="VIDEO" group-title="AMC+", The Walking Dead: Daryl Dixon S01E01
 https://fv5-3.failiem.lv/Files.fm_2023-09-23_file_njyu6wp7q/The.Walking.Dead.Daryl.Dixon.S01E01.mp4?PHPSESSID=34b9f78ed4dfd4b27635774f8a6a2923bbbc39c2
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead: Daryl Dixon S01E02
+#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" type="VIDEO" group-title="AMC+", The Walking Dead: Daryl Dixon S01E02
 https://fv5-3.failiem.lv/Files.fm_2023-09-23_file_zv4wtpa5a/The.Walking.Dead.Daryl.Dixon.S01E02.mp4?PHPSESSID=34b9f78ed4dfd4b27635774f8a6a2923bbbc39c2
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead: Daryl Dixon S01E03
+#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" type="VIDEO" group-title="AMC+", The Walking Dead: Daryl Dixon S01E03
 https://fv5-2.failiem.lv/Files.fm_2023-09-26_file_utkyf55t2f/The.Walking.Dead.Daryl.Dixon.S01E03.mp4?PHPSESSID=dcc1e4c858f045b78fa632cbafa05b76276f4f5f
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead: Daryl Dixon S01E04
+#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" type="VIDEO" group-title="AMC+", The Walking Dead: Daryl Dixon S01E04
 https://fv5-2.failiem.lv/Files.fm_2023-10-02_file_et2j885hpv/The.Walking.Dead.Daryl.Dixon.S01E04.mp4?PHPSESSID=ec0fe491833c9daacdd06276c3e08bfef730d0fb
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead: Daryl Dixon S01E05
+#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" type="VIDEO" group-title="AMC+", The Walking Dead: Daryl Dixon S01E05
 https://fv5-2.failiem.lv/Files.fm_2023-10-10_file_bta3rsjcfq/The.Walking.Dead.Daryl.Dixon.S01E05.mp4?PHPSESSID=2f1df86367c01a7915f7e8f264874f3544b2608d
-#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" group-title="AMC+", The Walking Dead: Daryl Dixon S01E06
+#EXTINF:-1 tvg-logo="https://bit.ly/452W8Ts" type="VIDEO" group-title="AMC+", The Walking Dead: Daryl Dixon S01E06
 https://fv2-8.failiem.lv/Files.fm_2023-10-16_file_b38taak4gc/The.Walking.Dead.Daryl.Dixon.S01E06.mp4?PHPSESSID=80127fdbf33f3060eef7029a895114ad0d274048
 
