@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cUHR7i0YeOulnl2HBVNV5H1z1sZ.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Johnny Puff- Missão Secreta (2024)
+https://cld.pt/dl/download/59236a6f-0d1c-40cc-a450-0f96fcac83a5/Johnny%20Puff-%20Miss%C3%A3o%20Secreta%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Os Casagrandes - O Filme (2024)
 https://cld.pt/dl/download/f03a12df-ac40-4bdf-90ea-b05c06da8f1c/Os%20Casagrandes%20-%20O%20Filme%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7ItqIoQl7Qk86e1ggJESBrDV6nl.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Barbie e Stacie ao Salvamento (2024)
