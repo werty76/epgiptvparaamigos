@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:1 description="https://i.ibb.co/BGdxPSw/filmes.jpg", FILMES
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/filmes.m3u
+
+#EXTINF:1 description="https://i.ibb.co/cNv6RJh/Series.jpg", SERIES
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SERIES%20SSIPTV.m3u
+
+#EXTINF:1 description="https://i.ibb.co/Fzf6vwB/cole-o.jpg", COLEÇÕES
+https://raw.githubusercontent.com/werty76/cole-o/main/COLECAO.SSIPTV.m3u
+
+#EXTINF:1 description="https://i.ibb.co/fSQYPV6/anima-o.jpg", ANIMAÇÃO
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/kids.m3u
+
+#EXTINF:1 description="https://i.ibb.co/XyKMrjg/live-tv.jpg", LIVE TV
+https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
+
+#EXTINF:1 description="https://i.ibb.co/NxpV6tf/desporto.jpg", DESPORTO
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/desporto.m3u
+
+#EXTINF:1 description="https://i.ibb.co/fkqxrsj/radios.jpg", RADIOS
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/radios.m3u
