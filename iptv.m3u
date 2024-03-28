@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:1 description="https://i.ibb.co/BGdxPSw/filmes.jpg", FILMES
+#EXTINF:1 tvg-logo="https://i.ibb.co/BGdxPSw/filmes.jpg" type="playlist", FILMES
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/filmes.m3u
 
-#EXTINF:1 description="https://i.ibb.co/cNv6RJh/Series.jpg", SERIES
+#EXTINF:1 tvg-logo="https://i.ibb.co/cNv6RJh/Series.jpg" type="playlist", SERIES
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SERIES%20SSIPTV.m3u
 
-#EXTINF:1 description="https://i.ibb.co/Fzf6vwB/cole-o.jpg", COLEÇÕES
+#EXTINF:1 tvg-logo="https://i.ibb.co/Fzf6vwB/cole-o.jpg" type="playlist", COLEÇÕES
 https://raw.githubusercontent.com/werty76/cole-o/main/COLECAO.SSIPTV.m3u
 
-#EXTINF:1 description="https://i.ibb.co/fSQYPV6/anima-o.jpg", ANIMAÇÃO
+#EXTINF:1 tvg-logo="https://i.ibb.co/fSQYPV6/anima-o.jpg" type="playlist", ANIMAÇÃO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/kids.m3u
 
-#EXTINF:1 description="https://i.ibb.co/XyKMrjg/live-tv.jpg", LIVE TV
+#EXTINF:1 tvg-logo="https://i.ibb.co/XyKMrjg/live-tv.jpg" type="playlist", LIVE TV
 https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 
-#EXTINF:1 description="https://i.ibb.co/NxpV6tf/desporto.jpg", DESPORTO
+#EXTINF:1 tvg-logo="https://i.ibb.co/NxpV6tf/desporto.jpg" type="playlist", DESPORTO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/desporto.m3u
 
-#EXTINF:1 description="https://i.ibb.co/fkqxrsj/radios.jpg", RADIOS
+#EXTINF:1 tvg-logo="https://i.ibb.co/fkqxrsj/radios.jpg" type="playlist", RADIOS
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/radios.m3u
