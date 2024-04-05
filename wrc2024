@@ -1,5 +1,12 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Safari_Rally_2024.png" tvg-id="RALLY WRC 2024", Safari Rally Kenya 2024 Day 1
+https://rbmn-live.akamaized.net/hls/live/655944/240329WrcFriHiPri/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Safari_Rally_2024.png" tvg-id="RALLY WRC 2024", Safari Rally Kenya 2024 Day 2
+https://rbmn-live.akamaized.net/hls/live/655944/240330WrcSatHiPri/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Safari_Rally_2024.png" tvg-id="RALLY WRC 2024", Safari Rally Kenya 2024 Day 3
+https://rbmn-live.akamaized.net/hls/live/655944/240331WrcSunHiPri/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/RallySweden.png" tvg-id="RALLY WRC 2024", Rally Sweden  2024 Day 1
 https://rbmn-live.akamaized.net/hls/live/655944/240216WrcFriHiPri/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/RallySweden.png" tvg-id="RALLY WRC 2024", Rally Sweden  2024 Day 2
