@@ -1,6 +1,6 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/4cNNXiW" type="playlist" group-title="WWE", WrestleMania XL 2024 Day 1
+#EXTINF:-1 tvg-logo="https://bit.ly/4cNNXiW" type="VIDEO" group-title="WWE", WrestleMania XL 2024 Day 1
 https://cld.pt/dl/download/40c36ffc-ee96-4962-813a-0e215f65bf07/WWE_WrestleMania_April_6th_2024_SD.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/43QsqSu" type="playlist" group-title="WWE", WrestleMania XL 2024 Day 2
+#EXTINF:-1 tvg-logo="https://bit.ly/43QsqSu" type="VIDEO" group-title="WWE", WrestleMania XL 2024 Day 2
 https://cld.pt/dl/download/91c45104-8f61-4c98-8263-708c71f62b09/WWE_Wrestlemania_2024_Day_2_SD.mp4
