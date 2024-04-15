@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3w01000" type="VIDEO" group-title="FILMES", Os Três Mosqueteiros: Milady (2023)
+https://cld.pt/dl/download/98ccdb88-f63c-43dc-9b49-ce2b8177efc1/Palmer.2021.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3xEMcog" type="VIDEO" group-title="FILMES", Palmer (2021)
 https://cld.pt/dl/download/98ccdb88-f63c-43dc-9b49-ce2b8177efc1/Palmer.2021.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/4ajfWW2" type="VIDEO" group-title="FILMES", Duna: Parte 2 (2024)
