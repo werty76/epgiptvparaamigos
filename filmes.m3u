@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" type="VIDEO" group-title="FILMES", City Hunter (2024)
+https://cld.pt/dl/download/494f5ceb-b8b6-4756-b8b5-76b595567f0e/City%20Hunter%202024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg" type="VIDEO" group-title="FILMES", Monkey Man (2024)
+https://cld.pt/dl/download/819c28bf-e80a-451b-87da-dc0c10f6af37/Monkey%20Man%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7vBXZz3HwaXby1ccYmVfp33zdEo.jpg" type="VIDEO" group-title="FILMES", Rebel Moon - Part Two The Scargiver 2024
 https://cld.pt/dl/download/16e9c638-bd0e-4523-9932-0408cbc6c89a/Rebel%20Moon%20-%20Part%20Two%20The%20Scargiver%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" type="VIDEO" group-title="FILMES", Lisa Frankenstein (2024)
