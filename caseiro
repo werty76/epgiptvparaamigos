@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg" type="VIDEO" group-title="FILMES", Godzilla Minus One (2024)
+https://cld.pt/dl/download/a0f1e72a-1f37-4939-b488-e5e6b36f6120/Godzilla%20Minus%20One%202024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yuaYyJgZAS48neZKXfqDkue7DQ.jpg" type="VIDEO" group-title="FILMES", Capitão Falcão (2015)
+https://cld.pt/dl/download/fc64c76e-ad12-4b85-967c-8587a90b5b59/Capit%C3%A3o%20Falc%C3%A3o%202015.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ky10P5HLOQgyuYyO0uojTDyYCNA.jpg" type="VIDEO" group-title="FILMES", Quero-te Tanto! (2019)
 https://cld.pt/dl/download/c3b8fddc-8fbf-4380-8af9-b9573edc8d6e/Quero-te%20Tanto%21%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pMqqyqqb29ZSCIZ7lykeCHfV3RG.jpg" type="VIDEO" group-title="FILMES", Soldado Milhões (2018)
