@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1blZfK6KtBkCGWeo7iIPlLAzzqr.jpg" type="VIDEO" group-title="FILMES", Arcadian (2024)
+https://cld.pt/dl/download/923e0144-f247-4c97-aa62-238a55643516/Arcadian%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg" type="VIDEO" group-title="FILMES", Godzilla Minus One (2024)
 https://cld.pt/dl/download/a0f1e72a-1f37-4939-b488-e5e6b36f6120/Godzilla%20Minus%20One%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yuaYyJgZAS48neZKXfqDkue7DQ.jpg" type="VIDEO" group-title="FILMES", Capitão Falcão (2015)
