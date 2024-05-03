@@ -4,6 +4,8 @@
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/AMC%2B%20SSIPTV.m3u
 #EXTINF:0 tvg-logo="https://apple.co/49vDM0R" type="playlist", APPLE TV+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/APPLE%20TV%2B%20SSIPTV.m3u
+#EXTINF:0 tvg-logo="https://bit.ly/3wip52s" type="playlist", Cinemax
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Cinemax.SSIPTV.m3u
 #EXTINF:0 tvg-logo="https://bit.ly/3MEvAS2" type="playlist", DISNEYPLUS 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DISNEYPLUS%20SSIPTV.m3u
 #EXTINF:0 tvg-logo="https://bit.ly/47v4DIC" type="playlist", FX
