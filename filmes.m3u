@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg" type="VIDEO" group-title="FILMES", Tropa de Elite (2007)
+https://cld.pt/dl/download/fc046619-ebb6-4391-96ba-7ce57c3bb617/Tropa%20de%20Elite%202007.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v39TyEFfzPUaj7uZlV6Xr5HD9tu.jpg" type="VIDEO" group-title="FILMES", Tropa de Elite 2 (2010)
+https://cld.pt/dl/download/f29a8281-e5c1-4ae3-90fe-f43d1805f200/Tropa%20de%20Elite%202.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1blZfK6KtBkCGWeo7iIPlLAzzqr.jpg" type="VIDEO" group-title="FILMES", Arcadian (2024)
 https://cld.pt/dl/download/923e0144-f247-4c97-aa62-238a55643516/Arcadian%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg" type="VIDEO" group-title="FILMES", Godzilla Minus One (2024)
