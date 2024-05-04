@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg" type="VIDEO" group-title="FILMES", The Idea of You (2024)
+https://cld.pt/dl/download/a7447f39-b60e-44e0-bea3-a9fc20a6046b/The%20Idea%20of%20You%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg" type="VIDEO" group-title="FILMES", Tropa de Elite (2007)
 https://cld.pt/dl/download/fc046619-ebb6-4391-96ba-7ce57c3bb617/Tropa%20de%20Elite%202007.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v39TyEFfzPUaj7uZlV6Xr5HD9tu.jpg" type="VIDEO" group-title="FILMES", Tropa de Elite 2 (2010)
