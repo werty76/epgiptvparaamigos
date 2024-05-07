@@ -4,6 +4,8 @@
 https://raw.githubusercontent.com/werty76/famaseries/main/Smackdown.m3u
 #EXTINF:-1 tvg-logo="https://encurtador.com.br/ACM14" type="playlist" group-title="WWE", RAW
 https://raw.githubusercontent.com/werty76/famaseries/main/Raw.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8BH27mY/Watch-WWE-Backlash-France-2024-PPV.jpg" type="playlist" group-title="WWE", WWE Backlash 2024
+https://raw.githubusercontent.com/werty76/famaseries/main/Backlash.2024
 #EXTINF:-1 tvg-logo="https://bit.ly/4cPHkwq" type="playlist" group-title="WWE", WrestleMania XL 2024
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/WWE%20WrestleMania%20XL%202024.m3u
 #EXTINF:-1 tvg-logo="https://bit.ly/3PCxJiY" type="playlist" group-title="WWE", Undertaker - The Last Ride S01
