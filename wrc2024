@@ -1,5 +1,8 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3y9YdSG" tvg-id="RALLY WRC 2024", 2024 Day 1
+https://rbmn-live.akamaized.net/hls/live/655944/240510WrcFriHiPri/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/4aIqGxt" tvg-id="RALLY WRC 2024", Rally Croatia 2024 Day 1
 https://rbmn-live.akamaized.net/hls/live/655944/240419WrcFriHiPri/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/4aIqGxt" tvg-id="RALLY WRC 2024", Rally Croatia 2024 Day 2
