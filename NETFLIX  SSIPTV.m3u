@@ -1,7 +1,7 @@
 #EXTM3U size="medium"
 
 #EXTINF:-1 tvg-logo="https://bit.ly/43C7oqF" type="playlist" group-title="NETFLIX", Avatar: O Último Mestre do Ar
-https://raw.githubusercontent.com/werty76/famaseries/main/Avatar.O.Ultimo.Mestre.do.Ar
+https://raw.githubusercontent.com/werty76/famaseries/main/Avatar%20O%20Ultimo%20Mestre%20do%20Ar
 #EXTINF:-1 tvg-logo="https://bit.ly/4azssQU" type="playlist" group-title="NETFLIX", Delicious in Dungeon
 https://raw.githubusercontent.com/werty76/famaseries/main/Delicious%20in%20Dungeon.m3u
 #EXTINF:-1 tvg-logo="https://bit.ly/3u2kNey" type="playlist" group-title="NETFLIX", Fool Me Once S01
