@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5xSRsbCvqIpCxwWOljOszTmRc1i.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Baby Shark - O Grande Filme (2024)
+https://cld.pt/dl/download/fba851cc-809f-4fd4-9379-9cf02f0a4e81/Baby%20Shark%27s%20Big%20Movie%21%202023.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6VqIp2P34qVkdrr82hP1Pmo5pO4.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Uma Aventura no Expresso Cattle Hill (2023)
+https://cld.pt/dl/download/c6c0bf0a-65c6-4f93-9292-1a5521bd21bf/Uma%20Aventura%20no%20Expresso%20Cattle%20Hill%202023.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sMGjH8xKhdr8vfqb4xq05iaSOdF.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Inseparáveis (2023)
 https://cld.pt/dl/download/23643218-b4b6-4251-983d-ee3241be7586/Insepar%C3%A1veis%202023.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vL5xYxFWc1XUWfVF5Rv1mljTMSq.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", O Meu Amigo é Ninja 2 (2021)
