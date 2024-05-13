@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qPLQIVTVkhSm0tmhPMX0OeEuG0P.jpg" type="VIDEO" group-title="FILMES", Godzilla x Kong: O Novo Império (2024)
+https://cld.pt/dl/download/d0f05b67-992c-4b5f-91ef-c9a0f8494a12/Assistir%20Godzilla%20e%20Kong-%20O%20Novo%20Imp%C3%A9rio%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d5Z8cj0dyKzT7PrVvneknsm0X41.jpg" type="VIDEO" group-title="FILMES", O Entregador (2024)
 https://cld.pt/dl/download/42583719-6735-4035-98e0-325b14fc17c5/O%20Entregador%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ovoybG8mCn6nQ6i5WoC8DdR08c2.jpg" type="VIDEO" group-title="FILMES", Corrida para a Glória (2024)
