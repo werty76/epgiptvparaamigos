@@ -1,5 +1,15 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bLfkXihwzoRrkhlqNs1zcMZsZem.jpg" type="VIDEO" group-title="FILMES", Sleeping Dogs (2024)
+https://cld.pt/dl/download/06d484a2-99c5-45b5-a330-7a3eacc68281/Sleeping%20Dogs%202024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7GC0TEOQ1ljAhtvcwdthAbb5D3h.jpg" type="VIDEO" group-title="FILMES", Kali: Avenging Angel (2024)
+https://cld.pt/dl/download/5dc9de26-27a9-4632-979c-319335b43a63/Kali%20Anjo%20Vingador%202024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hY3u7BQQxJxO1ypAzI6HoIcoxYi.jpg" type="VIDEO" group-title="FILMES", Die Hart 2: Die Harter (2024)
+https://cld.pt/dl/download/aad92376-134b-4d69-87f3-03a9dd10da93/Die%20Hart%20Die%20Harter%202024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/25JskXmchcYwj3jHRmcPm738MpB.jpg" type="VIDEO" group-title="FILMES", Boy Kills World (2024)
+https://cld.pt/dl/download/b9e8bf1b-b94f-4e22-aa95-1975a91196e6/Boy%20Kills%20World%202024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg" type="VIDEO" group-title="FILMES", The First Omen (2024)
+https://cld.pt/dl/download/c95fc61f-3f32-421a-92b3-d99521b16c39/The%20First%20Omen%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg" type="VIDEO" group-title="FILMES", Guerra Civil (2024)
 https://cld.pt/dl/download/214e387f-b6df-480a-a3b4-483dce95915a/Guerra%20Civil%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tSz1qsmSJon0rqjHBxXZmrotuse.jpg" type="VIDEO" group-title="FILMES", The Fall Guy (2024)
