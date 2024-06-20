@@ -144,9 +144,10 @@ https://cld.pt/dl/download/9b2cc472-0848-46ea-8d65-e33d4dbadf79/Em%20Ru%C3%ADnas
 #EXTINF:-1 tvg-logo="https://bit.ly/3vU8MZ5" type="VIDEO" group-title="FILMES", Ferrari (2023)
 https://cld.pt/dl/download/7dcfe01b-57d9-4de2-aa45-7c39197fe472/Ferrari%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3SxEBzA" type="VIDEO" group-title="FILMES", Ride On (2023)
+https://cld.pt/dl/download/d303d896-4e7a-459b-91b1-c67874e5173a/Ride%20On%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/4b1SKwm" type="VIDEO" group-title="FILMES", Wonka PT (2023)
 https://cld.pt/dl/download/9ddc8326-40be-420d-8959-966a07e75855/Wonka%20PT%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3Sv1kMY" type="VIDEO" group-title="FILMES", Aquaman e o Reino Perdido (2023)
+#EXTINF:-1 tvg-logo="https://bit.ly/3Sv1kMY" type="VIDEO" group-title="FILMES", Aquaman e o Reino Perdido
 https://cld.pt/dl/download/5e38765b-1675-457a-beee-0046ca8c5f42/Aquaman%20and%20the%20Lost%20Kingdom%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/4b1SKwm" type="VIDEO" group-title="FILMES", Wonka (2023)
 https://cld.pt/dl/download/487f6966-f63a-4acf-b4e6-6d9b27249518/Wonka%202023.mp4
@@ -163,7 +164,6 @@ https://cld.pt/dl/download/58e3b590-c1bd-41a0-9cb6-b446b9266a79/How%20to%20Have%
 #EXTINF:-1 tvg-logo="https://bit.ly/3NY2JsC" type="VIDEO" group-title="FILMES", A Sociedade da Neve (2023)
 https://cld.pt/dl/download/5b4270db-60c0-49a0-b9bf-c509065f9f53/Society%20of%20the%20Snow%202024.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3TS0afx" type="VIDEO" group-title="FILMES", Van Helsing – O Caçador de Monstros (2004)
-https://cld.pt/dl/download/b88730a3-ff09-47c9-8aa8-a89200b7f79e/Van%20Helsing%202004.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3RTerpu" type="VIDEO" group-title="FILMES", Napoleão (2023)
 https://cld.pt/dl/download/b0a1775f-ba39-4ba5-b56c-e9b5b1cbf974/Napoleon%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/48oRu4t" type="VIDEO" group-title="FILMES", Silent Night: Vingança Silenciosa (2023)
@@ -204,8 +204,6 @@ https://fv5-4.failiem.lv/Files.fm_2023-11-30_file_jdchn5ax5x/Raw.Deal.1986.mp4?P
 https://fv5-3.failiem.lv/Files.fm_2023-11-25_file_mg4xpq3jrk/Elf.Me.mp4?PHPSESSID=beb3c4e32fdfa0a8c20662c899d90c69790b88f0
 #EXTINF:-1 tvg-logo="https://bit.ly/3sMTzrD" type="VIDEO" group-title="FILMES", The Marsh King's Daughter (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-11-25_file_r6yremq2uu/The.Marsh.King%27s.Daughter.mp4?PHPSESSID=beb3c4e32fdfa0a8c20662c899d90c69790b88f0
-#EXTINF:-1 tvg-logo="https://bit.ly/3SO61lC" type="VIDEO" group-title="FILMES", The Creator (2023)
-https://fv5-2.failiem.lv/Files.fm_2023-11-17_file_6qxggpu4jz/The.Creator.mp4?PHPSESSID=c88f3734c1d20708773e2e6ec99feece51488a35
 #EXTINF:-1 tvg-logo="https://bit.ly/3u9H2i8" type="VIDEO" group-title="FILMES", The Killer (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_f9jy7xcem6/The.Killer.mp4?PHPSESSID=4955de4b92592d40c2fab644a7693c9929a7b023
 #EXTINF:-1 tvg-logo="https://bit.ly/3Qx4v4r" type="VIDEO" group-title="FILMES", Pôr do Sol - O Mistério do Colar de São Cajó (2023)
@@ -226,86 +224,22 @@ https://fv5-2.failiem.lv/Files.fm_2023-11-05_file_r4y6hh8kew/O.Sequestro.mp4?PHP
 https://fv5-2.failiem.lv/Files.fm_2023-11-03_file_zedaf8sx3j/After.Para.Sempre.mp4?PHPSESSID=6b99a2759cca673cba3a7eb6f8d1c4a0ec2e17e4
 #EXTINF:-1 tvg-logo="https://bit.ly/45PpiG9" type="VIDEO" group-title="FILMES", Mistério em Veneza (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-10-31_file_s6abbr39eh/A.Haunting.in.Venice.mp4?PHPSESSID=79611e9932affd2ea719542b2bbbd8ca2bce8488
-#EXTINF:-1 tvg-logo="https://bit.ly/3scjxV3" type="VIDEO" group-title="FILMES", Five Nights at Freddy's (2023)
+#EXTINF:-1 tvg-logo="https://bit.ly/3scjxV3" type="VIDEO" group-title="FILMES", Five Nights at Freddy's (2023
 https://fv5-2.failiem.lv/Files.fm_2023-10-28_file_jusxbj94ba/Five+Nights+at+Freddy%27s.mp4?PHPSESSID=4bf8743a6bc83cab1e72000e78a1071d8b2c6fe3
 #EXTINF:-1 tvg-logo="https://bit.ly/3S8k4SD" type="VIDEO" group-title="FILMES", The Exorcist: Believer (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-10-25_file_7vhpg9wujn/The.Exorcist.Believer.mp4?PHPSESSID=099f40f6a0522e873015e0c89f1a10108ffea872
-#EXTINF:-1 tvg-logo="https://bit.ly/3M7uvlm" type="VIDEO" group-title="FILMES", Saw X (2023)
-https://fv5-2.failiem.lv/Files.fm_2023-10-20_file_x24v2wvxnp/Jogos.Mortais.X.mp4?PHPSESSID=45c135951fe7cb549d8f31b096d36097b61ebbbd
-#EXTINF:-1 tvg-logo="https://bit.ly/3ZT5kZu" type="VIDEO" group-title="FILMES", Os Mercenarios 4 (2023)
-https://fv5-2.failiem.lv/Files.fm_2023-10-14_file_5we8nu6e6h/Expend4bles.mp4?PHPSESSID=7057caa50a8068b41f98d126a8689c8b9c2baaab
-#EXTINF:-1 tvg-logo="https://bit.ly/3LWNv6h" type="VIDEO" group-title="FILMES", Missão Impossivel (2023)
-https://fv5-3.failiem.lv/Files.fm_2023-10-07_file_vszfpjbvxc/Mission.Impossible.Dead+Reckoning.Part.One.mp4?PHPSESSID=f073114eb39c922085b9eb781d71a9b9fc7abe69
 #EXTINF:-1 tvg-logo="https://bit.ly/3LO2Plv" type="VIDEO" group-title="FILMES", The Nun II (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-10-03_file_zaqfq35ghc/The.Nun.II.mp4?PHPSESSID=7dcddf1dbfff5cfc145fc28d9e92fb94b7c13973
-#EXTINF:-1 tvg-logo="https://bit.ly/48vAeuW" type="VIDEO" group-title="FILMES", The Equalizer 3 (2023)
-https://fv5-3.failiem.lv/Files.fm_2023-10-03_file_9uphcp55q5/The.Equalizer.3.mp4?PHPSESSID=7dcddf1dbfff5cfc145fc28d9e92fb94b7c13973
-#EXTINF:-1 tvg-logo="https://bit.ly/3RQvXMP" type="VIDEO" group-title="FILMES", The Equalizer 2 (2018)
-https://fv5-2.failiem.lv/Files.fm_2023-10-07_file_4jzmjty9ja/The+Equalizer+2+-+A+Vingan%C3%A7a.mkv.mp4?PHPSESSID=1ccfc23d55cc7d38c12a13df6b5504dde1335853
-#EXTINF:-1 tvg-logo="https://bit.ly/3ZPQmn5" type="VIDEO" group-title="FILMES", The Equalizer (2014)
-https://fv5-2.failiem.lv/Files.fm_2023-10-07_file_3fzg8myvg4/The+Equalizer+-+Sem+Miseric%C3%B3rdia.mkv.mp4?PHPSESSID=1ccfc23d55cc7d38c12a13df6b5504dde1335853
 #EXTINF:-1 tvg-logo="https://bit.ly/45nSSCa" type="VIDEO" group-title="FILMES",57 Seconds (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-10-26_file_5yac8teua8/57.Seconds.mp4?PHPSESSID=8900dca10e9ad197a9b68a4b96f08b5f9353c0c1
 #EXTINF:-1 tvg-logo="https://bit.ly/3QpWdMW" type="VIDEO" group-title="FILMES", Os Três Mosqueteiros D’Artagnan (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-10-22_file_2hp4m7x94b/Os.Tr%C3%AAs.Mosqueteiros.D%E2%80%99Artagnan.mp4?PHPSESSID=a58234790856a41a3015500df238b59eb8edda74
-#EXTINF:-1 tvg-logo="https://bit.ly/3SxoItE" type="VIDEO" group-title="FILMES", Once Upon a Deadpool
-https://fv5-2.failiem.lv/Files.fm_2023-11-06_file_z3azzhnmpe/Once.Upon.a.Deadpool.mp4?PHPSESSID=8747cd4592c81ac9cd34778045780cdf64545750
-#EXTINF:-1 tvg-logo="https://bit.ly/40uuMVr" type="VIDEO" group-title="FILMES", Deadpool 2
-https://fv5-3.failiem.lv/Files.fm_2023-11-06_file_5cszr6ta84/Deadpool.2.mp4?PHPSESSID=b061249352eec5d35c80d98ea4be6483e0098518
-#EXTINF:-1 tvg-logo="https://bit.ly/3u6R8R1" type="VIDEO" group-title="FILMES", Deadpool
-https://fv9-6.failiem.lv/Files.fm_2023-11-06_file_59wwhr9c7j/Deadpool.mp4?PHPSESSID=b061249352eec5d35c80d98ea4be6483e0098518
-#EXTINF:-1 tvg-logo="https://bit.ly/3shNvas" type="VIDEO" group-title="FILMES", Underworld - Guerras de Sangue 
-https://fv20.failiem.lv/Files.fm_2023-11-08_file_9xzp3ybauc/Underworld-+Guerras+de+Sangue+2016.mp4?PHPSESSID=1e96a3c8302e1f0d22b0efebe96bcbcf76540f51
-#EXTINF:-1 tvg-logo="https://bit.ly/47onaX1" type="VIDEO" group-title="FILMES", Underworld - O Despertar
-https://fv5-3.failiem.lv/Files.fm_2023-11-08_file_3bd8fg8a6d/Underworld-+O+Despertar+2012.mp4?PHPSESSID=1e96a3c8302e1f0d22b0efebe96bcbcf76540f51
-#EXTINF:-1 tvg-logo="https://bit.ly/40vLmo0" type="VIDEO" group-title="FILMES", Underworld - A Revolta
-https://fv5-3.failiem.lv/Files.fm_2023-11-09_file_wh36gy8dxw/Underworld-+A+Revolta+2009.mp4?PHPSESSID=1e96a3c8302e1f0d22b0efebe96bcbcf76540f51
-#EXTINF:-1 tvg-logo="https://bit.ly/470D4Xz" type="VIDEO" group-title="FILMES", Underworld - Evolução
-https://fv5-2.failiem.lv/Files.fm_2023-11-01_file_gywc9wtjuq/Underworld-+Evolu%C3%A7%C3%A3o+2006.mp4?PHPSESSID=8747cd4592c81ac9cd34778045780cdf64545750
-#EXTINF:-1 tvg-logo="https://bit.ly/3MA6WC1" type="VIDEO" group-title="FILMES", Underworld - O Submundo
-https://fv5-2.failiem.lv/Files.fm_2023-11-01_file_zdtqrqqrue/Underworld+-+O+Submundo+2003.mp4?PHPSESSID=8747cd4592c81ac9cd34778045780cdf64545750
-#EXTINF:-1 tvg-logo="https://bit.ly/3DggAn3" type="VIDEO" group-title="FILMES", The Fast and the Furious 
-https://fv5-2.failiem.lv/Files.fm_2023-11-01_file_e5g57smz8f/Velocidade+Furiosa+2001.mp4?PHPSESSID=a7fe86312d3b6e42846aaf0fbc3da0df43977775
-#EXTINF:-1 tvg-logo="https://bit.ly/3BgLRoj" type="VIDEO" group-title="FILMES", 2 Fast 2 Furious
-https://fv5-2.failiem.lv/Files.fm_2023-11-01_file_eadwn2sywe/2+Fast+2+Furious+2003.mp4?PHPSESSID=a7fe86312d3b6e42846aaf0fbc3da0df43977775
-#EXTINF:-1 tvg-logo="https://bit.ly/2WqS2XK" type="VIDEO" group-title="FILMES", The Fast and the Furious: Tokyo Drift
-https://fv5-2.failiem.lv/Files.fm_2023-11-01_file_w3dbtg9zxx/Velocidade+Furiosa+-+Liga%C3%A7%C3%A3o+T%C3%B3quio+2006.mp4?PHPSESSID=a7fe86312d3b6e42846aaf0fbc3da0df43977775
-#EXTINF:-1 tvg-logo="https://bit.ly/3zlYPQQ" type="VIDEO" group-title="FILMES", Fast & Furious
-https://fv5-2.failiem.lv/Files.fm_2023-11-01_file_nnt3wf88s6/Fast+%26+Furious+2009.mp4?PHPSESSID=97809107f2bef13569294bc285de376ed1f85836
-#EXTINF:-1 tvg-logo="https://bit.ly/3ksbJXg" type="VIDEO" group-title="FILMES", Fast Five
-https://fv5-2.failiem.lv/Files.fm_2023-11-03_file_r4v245u5nq/Fast+Five+2011.mp4?PHPSESSID=97809107f2bef13569294bc285de376ed1f85836
-#EXTINF:-1 tvg-logo="https://bit.ly/3zkdPPp" type="VIDEO" group-title="FILMES", Fast & Furious 6
-https://fv5-3.failiem.lv/Files.fm_2023-11-02_file_vqm4jwjn5y/Velocidade+Furiosa+6+2013.mp4?PHPSESSID=3ecb059e8a31572c2c9fb281cdc1677d6b30fcdc
-#EXTINF:-1 tvg-logo="https://bit.ly/3DebfwN" type="VIDEO" group-title="FILMES", Furious 7
-https://fv5-2.failiem.lv/Files.fm_2023-11-03_file_7ns5x6vsag/Velozes.Furiosos.7.2015.mp4?PHPSESSID=97809107f2bef13569294bc285de376ed1f85836
-#EXTINF:-1 tvg-logo="https://bit.ly/3DidEGF" type="VIDEO" group-title="FILMES", The Fate of the Furious
-https://fv5-3.failiem.lv/Files.fm_2023-11-02_file_m8kxpa6cnv/Velocidade+Furiosa+8+2017.mp4?PHPSESSID=3ecb059e8a31572c2c9fb281cdc1677d6b30fcdc
-#EXTINF:-1 tvg-logo="https://bit.ly/3DlAvks" type="VIDEO" group-title="FILMES", Fast & Furious Presents: Hobbs & Shaw
-https://fv5-2.failiem.lv/Files.fm_2023-11-02_file_7enmkma6dt/Velocidade+Furiosa-+Hobbs+%26+Shaw+2019.mp4?PHPSESSID=85cbaf7cadedaafc6f359607e444de8e980340c6
-#EXTINF:-1 tvg-logo="https://bit.ly/3j4INEh" type="VIDEO" group-title="FILMES", Fast & Furious 9 
-https://fv5-2.failiem.lv/Files.fm_2022-04-02_file_mhdqfwsv3k/velocidade+furiosa+9+2021.mp4?PHPSESSID=85cbaf7cadedaafc6f359607e444de8e980340c6
-#EXTINF:-1 tvg-logo="https://bit.ly/4857JUV" type="VIDEO" group-title="FILMES", Fast X (2023)
-https://fv5-3.failiem.lv/Files.fm_2023-09-24_file_vesrm8q2w/Velozes+%26+Furiosos+10+%282023%29.mp4?PHPSESSID=d0e7132244fc1a5d8621c594df48a06dbb4cfa4c
 #EXTINF:-1 tvg-logo="https://bit.ly/3tX40sP" type="VIDEO" group-title="FILMES", Hachiko A Dog's Story
 https://fv5-3.failiem.lv/Files.fm_2023-10-29_file_f6cegcdjr7/Hachiko.A.Dog%27s.Story.mp4?PHPSESSID=8b3cd25772e5aac2d1c034b08a75a0110d61aa49
 #EXTINF:-1 tvg-logo="https://bit.ly/3Sp9bvX" type="VIDEO" group-title="FILMES", O Legionário (1990)
 https://fv5-2.failiem.lv/Files.fm_2023-10-29_file_rkz7f5xjqf/O+Legion%C3%A1rio.mp4?PHPSESSID=80aef8e2d9767d122cd98c29338527bd57339699
-#EXTINF:-1 tvg-logo="https://bit.ly/49dqjdW" type="VIDEO" group-title="FILMES", Regresso ao Futuro III
-https://fv5-2.failiem.lv/Files.fm_2023-10-30_file_7vawg27mkx/Regresso.ao.Futuro+III.mp4?PHPSESSID=8b3cd25772e5aac2d1c034b08a75a0110d61aa49
-#EXTINF:-1 tvg-logo="https://bit.ly/46Shapp" type="VIDEO" group-title="FILMES", Regresso ao Futuro II
-https://fv5-2.failiem.lv/Files.fm_2023-10-30_file_brw3fr2aan/Regresso.ao.Futuro+II.mp4?PHPSESSID=8b3cd25772e5aac2d1c034b08a75a0110d61aa49
-#EXTINF:-1 tvg-logo="https://bit.ly/40g3Bxw" type="VIDEO" group-title="FILMES", Regresso ao Futuro
-https://fv5-2.failiem.lv/Files.fm_2023-10-29_file_38frsj2x53/Regresso.a.Futuro.mp4?PHPSESSID=8b3cd25772e5aac2d1c034b08a75a0110d61aa49
 #EXTINF:-1 tvg-logo="https://bit.ly/3FAK8OD" type="VIDEO" group-title="FILMES", O Exorcista (1973)
 https://fv2-3.failiem.lv/Files.fm_2023-10-29_file_astevpvhxx/O+Exorcista.1973.mp4?PHPSESSID=80aef8e2d9767d122cd98c29338527bd57339699
-#EXTINF:-1 tvg-logo="https://bit.ly/3QgF3zZ" type="VIDEO" group-title="FILMES", Mad Max Fury Road (2015)
-https://fv5-3.failiem.lv/Files.fm_2023-10-29_file_bnw4vdtx2k/Mad.Max.Fury.Road.mp4?PHPSESSID=5645a4dfcb95c0a746919892fc311b5367c45d8f
-#EXTINF:-1 tvg-logo="https://bit.ly/3Mllt4G" type="VIDEO" group-title="FILMES", Mad Max Beyond Thunderdome (1985)
-https://fv5-3.failiem.lv/Files.fm_2023-10-29_file_89bgury69p/Mad.Max.Beyond.Thunderdome.mp4?PHPSESSID=5645a4dfcb95c0a746919892fc311b5367c45d8f
-#EXTINF:-1 tvg-logo="https://bit.ly/3saD7B0" type="VIDEO" group-title="FILMES", Mad Max 2 (1981)
-https://fv5-3.failiem.lv/Files.fm_2023-10-29_file_vscen2p84q/Mad.Max.2.mp4?PHPSESSID=5645a4dfcb95c0a746919892fc311b5367c45d8f
-#EXTINF:-1 tvg-logo="https://bit.ly/3sf2NMX" type="VIDEO" group-title="FILMES", Mad Max (1979)
-https://fv5-2.failiem.lv/Files.fm_2023-10-29_file_tqmupty85j/Mad.Max.mp4?PHPSESSID=5645a4dfcb95c0a746919892fc311b5367c45d8f
 #EXTINF:-1 tvg-logo="https://bit.ly/3Qa8q79" type="VIDEO" group-title="FILMES", Joker (2019)
 https://fv5-3.failiem.lv/Files.fm_2023-10-22_file_xyr8uszrm8/Joker.2019.mp4?PHPSESSID=abf3dbb74af8c749f7b09961bbfc27aa1496a3d9
 #EXTINF:-1 tvg-logo="https://bit.ly/3s585KQ" type="VIDEO" group-title="FILMES", Broken Arrow
@@ -322,16 +256,6 @@ https://fv2-3.failiem.lv/Files.fm_2021-07-20_file_8q6wsu4h3/Resgate.mp4?PHPSESSI
 https://fv2-3.failiem.lv/Files.fm_2021-07-20_file_8bx4vv7rc/CharmCityKings.mp4?PHPSESSID=999e8d386f0cc0cd439bd989a57ba5e33d2bd4a1
 #EXTINF:-1 tvg-logo="https://bit.ly/3MaZtZY" type="VIDEO" group-title="FILMES", Kong: Ilha da Caveira (2017)
 https://fv2-3.failiem.lv/Files.fm_2021-07-19_file_897hcrmpws/godkong.mp4?PHPSESSID=999e8d386f0cc0cd439bd989a57ba5e33d2bd4a1
-#EXTINF:-1 tvg-logo="https://bit.ly/3tDe1uV" type="VIDEO" group-title="FILMES", Táxi
-https://fv9-3.failiem.lv/Files.fm_2023-01-11_file_gf5ad5db6/T%C3%A1xi+-+Uma+Viagem+Alucinante.mp4?PHPSESSID=64610311d8b21675dc00627de080378b15dd5e78
-#EXTINF:-1 tvg-logo="https://bit.ly/3QshgP1" type="VIDEO" group-title="FILMES", Táxi 2
-https://fv9-3.failiem.lv/Files.fm_2023-01-11_file_763c8wvau/T%C3%A1xi+-+Brigada+Anti-Gang.mp4?PHPSESSID=64610311d8b21675dc00627de080378b15dd5e78
-#EXTINF:-1 tvg-logo="https://bit.ly/40753lZ" type="VIDEO" group-title="FILMES", Táxi 3
-https://fv9-2.failiem.lv/Files.fm_2023-01-11_file_a96wbbzjc/T%C3%A1xi+3+-+Inferno+no+Asfalto.mp4?PHPSESSID=64610311d8b21675dc00627de080378b15dd5e78
-#EXTINF:-1 tvg-logo="https://bit.ly/3Q2EhXn" type="VIDEO" group-title="FILMES", Táxi 4
-https://fv9-5.failiem.lv/Files.fm_2023-01-11_file_5fq5phpnv/T4xi.mp4?PHPSESSID=64610311d8b21675dc00627de080378b15dd5e78
-#EXTINF:-1 tvg-logo="https://bit.ly/3MbCDBx" type="VIDEO" group-title="FILMES", Táxi 5
-https://fv9-6.failiem.lv/Files.fm_2023-01-11_file_8h9ekawcf/T%C3%A1xi+5.mp4?PHPSESSID=64610311d8b21675dc00627de080378b15dd5e78
 #EXTINF:-1 tvg-logo="https://bit.ly/45W5iBP" type="VIDEO" group-title="FILMES", Awareness (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-10-21_file_7ptkc5k388/Awareness-+A+Realidade+%C3%A9+Uma+Ilus%C3%A3o.mp4?PHPSESSID=96962f43092f4a35fb4fa2b7f7ecefb4cd8ff5dc
 #EXTINF:-1 tvg-logo="https://bit.ly/3tNFzxH" type="VIDEO" group-title="FILMES", Cobweb - Segredo Maldito (2023)
@@ -351,7 +275,7 @@ https://fv5-3.failiem.lv/Files.fm_2023-10-07_file_a82wzb379e/Blue.Beetle.mp4?PHP
 #EXTINF:-1 tvg-logo="https://bit.ly/3ttwolT" type="VIDEO" group-title="FILMES", Nowhere (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-10-07_file_q8wdn578mm/Nowhere.mp4?PHPSESSID=c502d8f380cab3435369a58dfb312b4fd2cafe8c
 #EXTINF:-1 tvg-logo="https://bit.ly/3LO7owj" type="VIDEO" group-title="FILMES", Sound of Freedom(2023)
-https://fv5-2.failiem.lv/Files.fm_2023-10-05_file_9b22jqhy73/Sound.of.Freedom.mkv.mp4?PHPSESSID=4c69359c87dbcf967f16258e7d587c06063512be
+https://cld.pt/dl/download/5aadf82f-7892-4651-9d20-c4025d595be5/Sound%20of%20Freedom%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/48zyXTR" type="VIDEO" group-title="FILMES", Gran Turismo (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-09-27_file_cxm9j7szax/Gran.Turismo.mp4?PHPSESSID=eb88b1eb8d8fc15b9091b3f50b7e6a5e4f38d556
 #EXTINF:-1 tvg-logo="https://bit.ly/3EOu6jS" type="VIDEO" group-title="FILMES", Spy Kids- Apocalipse (2023)
@@ -362,8 +286,8 @@ https://fv5-3.failiem.lv/Files.fm_2023-09-25_file_cy5fpnr4sg/The.Gangster.the+Co
 https://fv5-2.failiem.lv/Files.fm_2023-09-17_file_b2xjaqfak/Fala.Comigo.%282023%29.mp4?PHPSESSID=8ca14a6c9b0a04445c3aa4f0d464e61f4d6ceb11
 #EXTINF:-1 tvg-logo="https://bit.ly/48etdP9" type="VIDEO" group-title="FILMES", Retaliação (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-09-16_file_m2sxckw63/Retribution%282023%29.mp4?PHPSESSID=c2d712003af04c74834e05a93613ded5eab6b564
-#EXTINF:-1 tvg-logo="https://bit.ly/44MsAt8" type="VIDEO" group-title="FILMES", Creed III (2023)
-https://fv5-3.failiem.lv/Files.fm_2023-09-11_file_xrjfnyzqw/Creed+III+%282023%29.mp4?PHPSESSID=a851c4dd8d6aee8788e3074053884896e892fd33
+#EXTINF:-1 tvg-logo="https://bit.ly/3rjfcz1" type="VIDEO" group-title="FILMES", Tartarugas Ninja: Caos Mutante (2023)
+https://fv5-2.failiem.lv/Files.fm_2023-09-16_file_mtx2k39qu/Teenage.Mutant.Ninja.Turtles-Mutant.Mayhem%282023%29.mp4?PHPSESSID=c2d712003af04c74834e05a93613ded5eab6b564
 #EXTINF:-1 tvg-logo="https://bit.ly/3RciP4k" type="VIDEO" group-title="FILMES", Tetris (2023)	
 https://fv5-3.failiem.lv/Files.fm_2023-09-11_file_xbwmzb4h6/Tetris+%282023%29.mp4?PHPSESSID=17b532e2c0354faa50ae629d2ecd991db6619c97
 #EXTINF:-1 tvg-logo="https://bit.ly/3Ri2Ph1" type="VIDEO" group-title="FILMES", Esquema de Risco - Operação Fortune (2023)
@@ -372,36 +296,14 @@ https://fv5-2.failiem.lv/Files.fm_2023-09-11_file_nr7xzy76g/Esquema+de+Risco-+Op
 https://fv5-2.failiem.lv/Files.fm_2023-09-11_file_3ghekx26m/Scream+VI+%282023%29.mp4?PHPSESSID=5f7c67b286efdab0341f4459724b3809bb7d18d4
 #EXTINF:-1 tvg-logo="https://bit.ly/3ZkTbML" type="VIDEO" group-title="FILMES", Air (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-09-11_file_ykx8wvktd/Air-+A+Hist%C3%B3ria+Por+Tr%C3%A1s+do+Logo+%282023%29.mp4?PHPSESSID=5f7c67b286efdab0341f4459724b3809bb7d18d4
-#EXTINF:-1 tvg-logo="https://bit.ly/3EydAEx" type="VIDEO" group-title="FILMES", Transformers - O Despertar das Feras (2023)
-https://fv5-3.failiem.lv/Files.fm_2023-09-10_file_7qa549wgk/Transformers-+O+Despertar+das+Feras+%282023%29.mp4?PHPSESSID=b4c25a42ae2dad08c9b844fa712731907779dddc
 #EXTINF:-1 tvg-logo="https://bit.ly/3PxDFtB" type="VIDEO" group-title="FILMES", Belas e Recatadas (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-09-09_file_tfjnzywd3/Belas+e+Recatadas+%282023%29.mp4?PHPSESSID=95ff38d52b5e59dd0488a352fbc6f8ff4071716a
 #EXTINF:-1 tvg-logo="https://bit.ly/3RbLyGC" type="VIDEO" group-title="FILMES", Barbie (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-09-06_file_5j5h4qhzf/Barbie+%282023%29.mp4?PHPSESSID=23b5f578f50d4262f39d5dd70a36dceda5082dff
-#EXTINF:-1 tvg-logo="https://bit.ly/45yT5nc" type="VIDEO" group-title="FILMES", Indiana Jones And The Dial Of Destiny 2023
-https://fv5-2.failiem.lv/Files.fm_2023-08-30_file_xje6u9a94/Indiana+Jones+And+The+Dial+Of+Destiny+2023.mp4?PHPSESSID=4e2147ce73892894b60d453f28856ae6fa4b71e2
 #EXTINF:-1 tvg-logo="https://bit.ly/3L1arkk" type="VIDEO" group-title="FILMES", Boogeyman- Seu Medo é Real (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-08-29_file_w4r4tkrd3/Boogeyman-+Seu+Medo+%C3%A9+Real+%282023%29.mp4?PHPSESSID=bd5ab3b5d9782fc70bc43b519e6b575bb7bfa71c
 #EXTINF:-1 tvg-logo="https://bit.ly/3L69wyX" type="VIDEO" group-title="FILMES", Guardiões da Galáxia Vol. 3 (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-08-29_file_pbsm3k2qb/Guardi%C3%B5es+da+Gal%C3%A1xia+Vol.+3.mp4?PHPSESSID=bd5ab3b5d9782fc70bc43b519e6b575bb7bfa71c
-#EXTINF:-1 tvg-logo="https://bit.ly/3Pf2Qko" type="VIDEO" group-title="FILMES", Meg 2(2023)
-https://ia800508.us.archive.org/29/items/rreopq-5/%24RREOPQ5.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3PqVudR" type="VIDEO" group-title="FILMES", John Wick 4 (2023)
-https://fv5-3.failiem.lv/Files.fm_2023-08-26_file_97j24d8bv/Assistir+John+Wick+4-+Baba+Yaga+Online+em+HD+no+NetCine.mp4?PHPSESSID=b95fa858cf3b3e81a0ce2f91df8e733003f8b9ab
-#EXTINF:-1 tvg-logo="https://bit.ly/3Pgd989" type="VIDEO" group-title="FILMES", The Flash: Test Run(2023)
-https://archive.org/download/tf_20230826_202308/TF.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/47LO6Rt" type="VIDEO" group-title="FILMES", Teen Wolf- O Filme (2023)
-https://fv9-2.failiem.lv/Files.fm_2023-02-04_file_rqy9p3h5z/Teen%20Wolf-%20O%20Filme%202023.mp4?PHPSESSID=d0b291add8f01df3dba8d203f318761f2d1312ac
-#EXTINF:-1 tvg-logo="https://bit.ly/3PetPNk" type="VIDEO" group-title="FILMES", Agente Stone (2023)
-https://ia904603.us.archive.org/13/items/a.-s.-2023/A.%20S.%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/47M6yt1" type="VIDEO" group-title="FILMES", Missing (2023)
-https://archive.org/5/items/missing.-2023/Missing.2023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/45zQHfC" type="VIDEO" group-title="FILMES", Die Hart (2023)
-https://ia601606.us.archive.org/24/items/d.-h.-t.-m.-2023/D.H.T.M.2023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3sHw4Qm" type="VIDEO" group-title="FILMES", Top Gun Mavverick (2022)	
-https://fv9-3.failiem.lv/Files.fm_2023-09-02_file_w5xtvvsjg/Assistir+Top+Gun-+Maverick+Online+em+HD+no+NetCine+%282022%29.mp4?PHPSESSID=b95fa858cf3b3e81a0ce2f91df8e733003f8b9ab
-#EXTINF:-1 tvg-logo="https://bit.ly/44AyeP1" type="VIDEO" group-title="FILMES", Avatar- O Caminho da Água  (2022)
-https://fv5-2.failiem.lv/Files.fm_2023-08-31_file_muhxybda9/Avatar-+O+Caminho+da+%C3%81gua++%282022%29.mp4?PHPSESSID=8f73e5e65ecd30efe84014920105ad9290970f1b
 #EXTINF:-1 tvg-logo="https://bit.ly/3ONI5Lp" type="VIDEO" group-title="FILMES", O Pior Vizinho do Mundo (2022)
 https://archive.org/18/items/o-pior-vizinho.-2022/O%20PIOR%20VIZINHO.2022.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3KFBY8j" type="VIDEO" group-title="FILMES", Fresh (2022)
@@ -440,8 +342,6 @@ https://fv9-2.failiem.lv/Files.fm_2022-03-12_file_n76jsy9pf/Homem-Aranha-%20Sem%
 https://fv9-2.failiem.lv/Files.fm_2022-01-15_file_juqjh3vfc/Ghostbusters.Afterlife.2021.MP4?PHPSESSID=e08a2dacfa7397efb953093cc761ef82ef2f4ae5
 #EXTINF:-1 tvg-logo="https://bit.ly/33bHgbD" type="VIDEO" group-title="FILMES", Eternals (2021)
 https://fv9-4.failiem.lv/Files.fm_2022-01-14_file_suxmy2jsz/Eternals.mp4?PHPSESSID=257f96bcc3ed6c2cd8c78e030b30297cb4137d40
-#EXTINF:-1 tvg-logo="https://bit.ly/3HgRZjb" type="VIDEO" group-title="FILMES", MATRIX: RESURRECTIONS (2021)
-https://fv9-4.failiem.lv/Files.fm_2023-10-15_file_a2vsd52dn.mp4?v=1642267868&PHPSESSID=02b56c4c0ccaa75435a2651b81bfba5cfb8b7662
 #EXTINF:-1 tvg-logo="https://bit.ly/3nKGaLd" type="VIDEO" group-title="FILMES", VENOM: LET THERE BE CARNAGE (2021)
 https://fv9-4.failiem.lv/Files.fm_2022-01-17_file_q8je77dn9/Venom-%20Let%20There%20Be%20Carnage%202021.mp4?PHPSESSID=59361287e194bd8fb7163ecfc06a96d25accc02e
 #EXTINF:-1 tvg-logo="https://bit.ly/3F7d6DI" type="VIDEO" group-title="FILMES", 007 - SEM TEMPO PARA MORRER (2021)
@@ -476,10 +376,6 @@ https://fv9-3.failiem.lv/Files.fm_2021-11-11_file_wxw8m3g5g/Tudo%20sobre%20decks
 https://fv9-2.failiem.lv/Files.fm_2022-01-17_file_dvtmnusu8/O%20Esquadr%C3%A3o%20Suicida%202021.mp4?PHPSESSID=59361287e194bd8fb7163ecfc06a96d25accc02e
 #EXTINF:-1 tvg-logo="https://bit.ly/3D1tUeM" type="VIDEO" group-title="FILMES", AFTER (2020)
 https://fv2-2.failiem.lv/Files.fm_2021-07-29_file_t8f5xqj4p/after.mp4?PHPSESSID=08abef1377d1e514784f039235438a594da79d37
-#EXTINF:-1 tvg-logo="https://bit.ly/3qIeat7" type="VIDEO" group-title="FILMES", John Wick 3 (2019)
-https://fv9-3.failiem.lv/Files.fm_2022-01-19_file_nhzhak5uv/John%20Wick%20III%202019.mp4?PHPSESSID=db7b06c90eda49407a7490c9ec7226e7a2e21291
-#EXTINF:-1 tvg-logo="https://bit.ly/3FIEpEa" type="VIDEO" group-title="FILMES", Rambo V (2019)
-https://fv9-2.failiem.lv/Files.fm_2022-01-19_file_z3wwz7zwm/Rambo%20V%202019.mp4?PHPSESSID=db7b06c90eda49407a7490c9ec7226e7a2e21291
 #EXTINF:-1 tvg-logo="https://bit.ly/3KS2BaO" type="VIDEO" group-title="FILMES", 6 Underground (2019)
 https://fv9-3.failiem.lv/Files.fm_2022-01-29_file_8fem8yp28/6%20Underground%202019%20MP4.mp4?PHPSESSID=142763a742fc70b95369bf26e96dcdb626d8e56b
 #EXTINF:-1 tvg-logo="https://bit.ly/3u4hqkK" type="VIDEO" group-title="FILMES", Milagre Na Cela 7 (2019)
@@ -490,152 +386,68 @@ https://fv2-4.failiem.lv/Files.fm_2022-01-26_file_4gkvh3s2m/Terminator%20Dark%20
 https://fv2-2.failiem.lv/Files.fm_2022-01-19_file_sh98dvruv/Black%20Water%202016.mp4?PHPSESSID=3a17586368c8ff1a59223b4829a0161cac752a05
 #EXTINF:-1 tvg-logo="https://bit.ly/3kzKlaH" type="VIDEO" group-title="FILMES", The Mule (2018)
 https://fv9-3.failiem.lv/Files.fm_2022-01-31_file_exa7zb9ev/The%20mule%202018.mp4?PHPSESSID=fbb877ed544b5f2c8b80e846d4abad6bde3ff401
-#EXTINF:-1 tvg-logo="https://bit.ly/3sjKXWh" type="VIDEO" group-title="FILMES", Corrida Mortal 4 (2018)
-https://fv2-5.failiem.lv/Files.fm_2022-02-26_file_yekzd766x/Corrida%20Mortal%204%202018.mp4?PHPSESSID=a498eb56c0f351f0aa30186f0e4742635d99a465
-#EXTINF:-1 tvg-logo="https://bit.ly/3ie2BFB" type="VIDEO" group-title="FILMES", Missão Impossivel Nação Secreta (2018)
-https://fv2-1.failiem.lv/Files.fm_2022-01-26_file_rrqg7h93m/Missao%20Impossivel%20Na%C3%A7ao%20Secreta%202018.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
-#EXTINF:-1 tvg-logo="https://bit.ly/3nFK9si" type="VIDEO" group-title="FILMES", John Wick 2 (2017)
-https://fv9-1.failiem.lv/Files.fm_2022-01-19_file_m5g7bnm3m/John%20Wick-%20Chapter%202%202017.mp4?PHPSESSID=db7b06c90eda49407a7490c9ec7226e7a2e21291
 #EXTINF:-1 tvg-logo="https://bit.ly/3rYsxJs" type="VIDEO" group-title="FILMES", A Montanha Entre Nós (2017)
 https://fv9-3.failiem.lv/Files.fm_2022-01-29_file_ueqa6w9fk/Depois%20Daquela%20Montanha.mp4?PHPSESSID=142763a742fc70b95369bf26e96dcdb626d8e56b
-#EXTINF:-1 tvg-logo="https://bit.ly/3r8XCuN" type="VIDEO" group-title="FILMES", Alien: Covenant (2017)
-https://fv2-3.failiem.lv/Files.fm_2022-01-27_file_c34sk9cra/Alien%20Covenant%202017.mp4?PHPSESSID=1430f27e61a178b0a3c3eb64d0febe2ce052d5e3
 #EXTINF:-1 tvg-logo="https://bit.ly/31QxdaF" type="VIDEO" group-title="FILMES", Farol Das Orcas (2016)
 https://fv9-3.failiem.lv/Files.fm_2022-02-04_file_x8ur7cjkb/O%20Farol%20Das%20Orcas%202016.mkv?PHPSESSID=e4e78b0a7b5954697fadc73c8484c794605cb743
-#EXTINF:-1 tvg-logo="https://bit.ly/3FDZxeQ" type="VIDEO" group-title="FILMES", Now You See Me 2 (2016)
-https://fv9-2.failiem.lv/Files.fm_2022-01-18_file_6qshs2k38/Now%20You%20See%20Me%202%202016.MP4?PHPSESSID=fe1d97cfeab5928c2b0f7cee6fa92beb50e565a4
 #EXTINF:-1 tvg-logo="https://bit.ly/3qKvpu5" type="VIDEO" group-title="FILMES", A Lenda de Tarzan (2016)
 https://fv9-3.failiem.lv/Files.fm_2022-01-19_file_dnpmajgkf/The%20Legend%20of%20Tarzan%202016.mp4?PHPSESSID=3a17586368c8ff1a59223b4829a0161cac752a05
 #EXTINF:-1 tvg-logo="https://bit.ly/3fBT3Cz" type="VIDEO" group-title="FILMES", Triple 9 (2016)
 https://fv9-2.failiem.lv/Files.fm_2022-01-18_file_25phgub6n/Triple%209%202016.mp4?PHPSESSID=fe1d97cfeab5928c2b0f7cee6fa92beb50e565a4
 #EXTINF:-1 tvg-logo="https://bit.ly/35dmiKm" type="VIDEO" group-title="FILMES", Winter On Fire Ukraine's Fight For Freedom (2015)
 https://fv2-3.failiem.lv/Files.fm_2022-02-26_file_a7e9dbcgd/Winter%20on%20Fire-%20Ukraine%27s%20Fight%20for%20Freedom.mp4?PHPSESSID=1c3673f69609b4e75316744d79a9219293fd5fe3
-#EXTINF:-1 tvg-logo="https://bit.ly/3tvNeyF" type="VIDEO" group-title="FILMES", Creed (2015)
-https://fv9-2.failiem.lv/Files.fm_2022-01-16_file_5zaqpsrs3/RESIDENT%20EVIL%20WELCOME%20TO%20RACCOON%20CITY%20(2021).mp4?PHPSESSID=b7add0d7f7d432f5fb206056400fc3cf48287a32
 #EXTINF:-1 tvg-logo="https://bit.ly/34VGjVk" type="VIDEO" group-title="FILMES", Spy (2015)
 https://fv9-1.failiem.lv/Files.fm_2022-01-16_file_vmw3gwycv/Spy%202015.mp4?PHPSESSID=b7add0d7f7d432f5fb206056400fc3cf48287a32
 #EXTINF:-1 tvg-logo="https://bit.ly/34WKwIk" type="VIDEO" group-title="FILMES", The Revenant (2015)
 https://fv9-3.failiem.lv/Files.fm_2022-01-16_file_ymb9u8g59/The%20Revenant%202015.mp4?PHPSESSID=b7add0d7f7d432f5fb206056400fc3cf48287a32
-#EXTINF:-1 tvg-logo="https://bit.ly/33zp8IP" type="VIDEO" group-title="FILMES", John Wick (2014)
-https://fv9-4.failiem.lv/Files.fm_2022-01-19_file_kwzct6zjd/John%20Wick%202014.mp4?PHPSESSID=db7b06c90eda49407a7490c9ec7226e7a2e21291
 #EXTINF:-1 tvg-logo="https://bit.ly/35RUjQl" type="VIDEO" group-title="FILMES", Léon, o Profissional (2014)
 https://fv2-1.failiem.lv/Files.fm_2022-03-07_file_2vzcaej9q/O%20Profissional%201994.mp4?PHPSESSID=1d951efb7497152a81e58d40f8088f91c60c4221
 #EXTINF:-1 tvg-logo="https://bit.ly/3GB81Ey" type="VIDEO" group-title="FILMES", Robocop (2014)
 https://fv9-2.failiem.lv/Files.fm_2022-01-16_file_sseyabvxa/RoboCop%202014.mp4?PHPSESSID=b7add0d7f7d432f5fb206056400fc3cf48287a32
-#EXTINF:-1 tvg-logo="https://bit.ly/3IINcb6" type="VIDEO" group-title="FILMES", O Hobbit: A Batalha dos Cinco Exércitos (2014)
-https://fv9-4.failiem.lv/Files.fm_2022-01-28_file_27nrydpvh/03.%20O.Hobbit.A.Batalha.Dos.Cinco.Exercitos.2014.mp4?PHPSESSID=142763a742fc70b95369bf26e96dcdb626d8e56b
-#EXTINF:-1 tvg-logo="https://bit.ly/3FJf9gW" type="VIDEO" group-title="FILMES", Now You See Me  (2013)
-https://fv9-4.failiem.lv/Files.fm_2022-01-18_file_7htyqtqjy/Now%20You%20See%20Me%20%202013.MP4?PHPSESSID=fe1d97cfeab5928c2b0f7cee6fa92beb50e565a4
 #EXTINF:-1 tvg-logo="https://bit.ly/3qvYBEJ" type="VIDEO" group-title="FILMES", Homefront (2013)
 https://fv9-2.failiem.lv/Files.fm_2022-01-16_file_pgjzur55c/Homefront.mp4?PHPSESSID=b7add0d7f7d432f5fb206056400fc3cf48287a32
 #EXTINF:-1 tvg-logo="https://bit.ly/322R32Z" type="VIDEO" group-title="FILMES", Oblivion (2013)
 https://fv9-4.failiem.lv/Files.fm_2022-01-15_file_gfeyj98un/Oblivion.mp4?PHPSESSID=262699102c3248505c5323c9a1f54da68ec2a973
 #EXTINF:-1 tvg-logo="https://bit.ly/3ft3fx7" type="VIDEO" group-title="FILMES", Parker (2013)
 https://fv9-2.failiem.lv/Files.fm_2022-01-16_file_pcfavrd8z/Parker.mp4?PHPSESSID=b7add0d7f7d432f5fb206056400fc3cf48287a32
-#EXTINF:-1 tvg-logo="https://bit.ly/3AFS91o" type="VIDEO" group-title="FILMES", O Hobbit: A Desolação de Smaug (2013)
-https://fv9-4.failiem.lv/Files.fm_2022-01-28_file_mwbrgeyx3/02.%20O.Hobbit.A.Desolacao.De.Smaug.2013.mp4?PHPSESSID=142763a742fc70b95369bf26e96dcdb626d8e56b
-#EXTINF:-1 tvg-logo="https://bit.ly/3IrtReG" type="VIDEO" group-title="FILMES", Corrida Mortal 3 (2013)
-https://fv2-1.failiem.lv/Files.fm_2022-02-26_file_c6s86f7r3/Corrida%20Mortal%202013.mp4?PHPSESSID=a498eb56c0f351f0aa30186f0e4742635d99a465
 #EXTINF:-1 tvg-logo="https://bit.ly/3IbRUh5" type="VIDEO" group-title="FILMES", 6 Bullets (2012)
 https://fv9-4.failiem.lv/Files.fm_2022-01-15_file_qhs8rjtqd/6%20Bullets.mp4?PHPSESSID=b7add0d7f7d432f5fb206056400fc3cf48287a32
 #EXTINF:-1 tvg-logo="https://bit.ly/3fzHOKF" type="VIDEO" group-title="FILMES", Safe (2012)
 https://fv9-2.failiem.lv/Files.fm_2022-01-16_file_w2tzrsnds/Safe.mp4?PHPSESSID=dd1fa375019017c6d192d1eeecb100220b584b6b
-#EXTINF:-1 tvg-logo="https://bit.ly/3s0Lxah" type="VIDEO" group-title="FILMES", Prometheus (2012)
-https://fv2-1.failiem.lv/Files.fm_2022-01-27_file_be762n52v/05.%20Prometheus.2012.mp4?PHPSESSID=1430f27e61a178b0a3c3eb64d0febe2ce052d5e3
-#EXTINF:-1 tvg-logo="https://bit.ly/3AUrXk5" type="VIDEO" group-title="FILMES", O Hobbit: Uma Jornada Inesperada (2012)
-https://fv9-4.failiem.lv/Files.fm_2022-01-28_file_qxfjut8yf/01.%20O.Hobbit.Uma.Jornada.Inesperada.2012.mp4?PHPSESSID=142763a742fc70b95369bf26e96dcdb626d8e56b
-#EXTINF:-1 tvg-logo="https://bit.ly/3u3odLI" type="VIDEO" group-title="FILMES", The Twilight Saga Breaking Dawn Part 2 (2012)
-https://fv9-2.failiem.lv/Files.fm_2022-01-26_file_8tm3pccpb/The%20Twilight%20Saga%20Breaking%20Dawn%20Part%202012.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
-#EXTINF:-1 tvg-logo="https://bit.ly/3uaHRVM" type="VIDEO" group-title="FILMES", The Twilight Saga Breaking Dawn Part 1 (2011)
-https://fv9-2.failiem.lv/Files.fm_2022-01-24_file_sbh669z7k/The%20Twilight%20Saga%20Breaking%20Dawn%20Part%202011.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
 #EXTINF:-1 tvg-logo="https://bit.ly/3hguiwC" type="VIDEO" group-title="FILMES", Chico Xavier (2010)
 https://fv2-5.failiem.lv/Files.fm_2022-02-25_file_5w6dd2sdn/Chico.Xavier.2010.mp4?PHPSESSID=a498eb56c0f351f0aa30186f0e4742635d99a465
 #EXTINF:-1 tvg-logo="https://bit.ly/3snf7Ib" type="VIDEO" group-title="FILMES", Nosso Lar (2010)
 https://fv2-5.failiem.lv/Files.fm_2022-02-26_file_6296j4y7f/Nosso%20Lar%20[2010%20BRA].mp4?PHPSESSID=a498eb56c0f351f0aa30186f0e4742635d99a465
-#EXTINF:-1 tvg-logo="https://bit.ly/3G29tPd" type="VIDEO" group-title="FILMES", Twilight Saga Eclipse (2010)
-https://fv9-4.failiem.lv/Files.fm_2022-01-26_file_68fqs5qmh/Twilight%20Saga%20Eclipse%202010.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
-#EXTINF:-1 tvg-logo="https://bit.ly/3pikC92" type="VIDEO" group-title="FILMES", Corrida Mortal 2 (2010)
-https://fv2-5.failiem.lv/Files.fm_2022-02-26_file_66vud2n69/Corrida%20Mortal%202010.mp4?PHPSESSID=a498eb56c0f351f0aa30186f0e4742635d99a465
-#EXTINF:-1 tvg-logo="https://bit.ly/32EU2z6" type="VIDEO" group-title="FILMES", Twilight Saga New Moon (2009)
-https://fv9-3.failiem.lv/Files.fm_2022-01-26_file_5rs8usy95/Twilight%20Saga%20New%20Moon%202009.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
-#EXTINF:-1 tvg-logo="https://bit.ly/3rPL22A" type="VIDEO" group-title="FILMES", Avatar (2009)
-https://fv2-1.failiem.lv/Files.fm_2022-01-28_file_qahsh6z8y/Avatar%202009%20MP4.mp4?PHPSESSID=0a3c91a463d69ad11b5218daca41ced25da2e76b
-#EXTINF:-1 tvg-logo="https://bit.ly/3vpHdo7" type="VIDEO" group-title="FILMES", Corrida Mortal (2008)
-https://fv2-4.failiem.lv/Files.fm_2022-02-26_file_b96gd92zs/Corrida%20Mortal%202008.mp4?PHPSESSID=a498eb56c0f351f0aa30186f0e4742635d99a465
 #EXTINF:-1 tvg-logo="https://bit.ly/3npK6R9" type="VIDEO" group-title="FILMES", Speed Racer (2008)
 https://fv9-3.failiem.lv/Files.fm_2022-01-16_file_bx6gy9vus/Speed%20Racer.mp4?PHPSESSID=dd1fa375019017c6d192d1eeecb100220b584b6b
-#EXTINF:-1 tvg-logo="https://bit.ly/3IFg8R9" type="VIDEO" group-title="FILMES", Twilight Saga (2008)
-https://fv9-4.failiem.lv/Files.fm_2022-01-26_file_gdq2zw5jg/Twilight%20Saga%202008.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
-#EXTINF:-1 tvg-logo="https://bit.ly/3nucamx" type="VIDEO" group-title="FILMES", Rambo IV (2008)
-https://fv9-4.failiem.lv/Files.fm_2022-01-15_file_7qg4xs2rt/Rambo%20IV.mp4?PHPSESSID=dd1fa375019017c6d192d1eeecb100220b584b6b
-#EXTINF:-1 tvg-logo="https://bit.ly/35gB2I7" type="VIDEO" group-title="FILMES", Indiana Jones e o Reino da Caveira de Cristal (2008)
-https://fv2-1.failiem.lv/Files.fm_2022-01-22_file_4hreptwnt/Indiana%20Jones%20e%20a%20%C3%9Altima%20Cruzada%202008.mp4?PHPSESSID=29917e9af2dc10ddfb4f74dad4ea829da58cf7b1
 #EXTINF:-1 tvg-logo="https://bit.ly/3ts2Lzy" type="VIDEO" group-title="FILMES", Herbie: Prego a Fundo (2005)
 https://fv9-3.failiem.lv/Files.fm_2022-01-15_file_4mttfxbbv/Herbie%20Fully%20Loaded.mp4?PHPSESSID=262699102c3248505c5323c9a1f54da68ec2a973
-#EXTINF:-1 tvg-logo="https://bit.ly/3r8VRxI" type="VIDEO" group-title="FILMES", O Senhor dos Anéis - O Regresso do Rei (2003)
-https://fv2-1.failiem.lv/Files.fm_2022-01-27_file_qtyycvayg/O.Senhor.dos.An%C3%A9is.O.Retorno.do.Rei.2003.mp4?PHPSESSID=e470d900b8e8aff9993910c650e691a51b76fa26
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZsyWBQ" type="VIDEO" group-title="FILMES", O Senhor dos Anéis - As Duas Torres (2002)
-https://fv2-4.failiem.lv/Files.fm_2022-01-27_file_td8f6b23a/O.Senhor.dos.An%C3%A9is.As.Duas.Torres.2002.mp4?PHPSESSID=e470d900b8e8aff9993910c650e691a51b76fa26
-#EXTINF:-1 tvg-logo="https://bit.ly/3H8hweJ" type="VIDEO" group-title="FILMES", O Senhor dos Anéis - A Irmandade do Anel (2001)
-https://fv2-4.failiem.lv/Files.fm_2022-01-28_file_uf596fqju/O.Senhor.dos.An%C3%A9is.A.Sociedade.do.Anel.2001.MP4?PHPSESSID=0a3c91a463d69ad11b5218daca41ced25da2e76b
 #EXTINF:-1 tvg-logo="https://bit.ly/33vm93O" type="VIDEO" group-title="FILMES", UMA LOUCA CASA DE HOSPEDES (1999)
 https://fv9-3.failiem.lv/Files.fm_2022-01-12_file_7bs67pcj4/UMA%20LOUCA%20CASA%20DE%20HOSPEDES.mp4?PHPSESSID=62bd2f9a2e1526171ceb829289a9d37dc620c027
 #EXTINF:-1 tvg-logo="https://bit.ly/32H17PF" type="VIDEO" group-title="FILMES", Hora de Ponta (1998)
 https://fv9-1.failiem.lv/Files.fm_2022-01-29_file_kkm33p75c/Rush%20Hour%201998.mp4?PHPSESSID=142763a742fc70b95369bf26e96dcdb626d8e56b
-#EXTINF:-1 tvg-logo="https://bit.ly/3nPU5Q2" type="VIDEO" group-title="FILMES", Speed 2: Perigo a Bordo (1997)
-https://fv2-2.failiem.lv/Files.fm_2022-01-23_file_xfmqwcvhe/Velocidade%20M%C3%A1xima%202%201997.mp4?PHPSESSID=73f6c6539dc14449e4f9bc8299faf25f5be37ccb
-#EXTINF:-1 tvg-logo="https://bit.ly/3r8HgSY" type="VIDEO" group-title="FILMES", Alien: O Regresso (1997)
-https://fv2-5.failiem.lv/Files.fm_2022-01-27_file_k2mbg6hxv/04.%20Alien.4.1997.mp4?PHPSESSID=1430f27e61a178b0a3c3eb64d0febe2ce052d5e3
-#EXTINF:-1 tvg-logo="https://bit.ly/3G1TPDt" type="VIDEO" group-title="FILMES", The Ghost And The Darkness (1996)
+#EXTINF:-1 tvg-logo="https://bit.ly/48wX6cM" type="VIDEO" group-title="FILMES", The Ghost And The Darkness (1996)
 https://fv2-3.failiem.lv/Files.fm_2022-01-26_file_7hq3m4p84/The%20Ghost%20and%20the%20Darkness%201996.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
 #EXTINF:-1 tvg-logo="https://bit.ly/3qmRbE3" type="VIDEO" group-title="FILMES", THE QUEST (1996)
 https://fv9-3.failiem.lv/Files.fm_2022-01-13_file_h7x2x8x5h/The%20Quest.mp4?PHPSESSID=5c34c7e8ea4d3b7fdf8897b88340b2c0a4041591
 #EXTINF:-1 tvg-logo="https://bit.ly/3KKUc9k" type="VIDEO" group-title="FILMES", Timecup (1994)
 https://fv9-2.failiem.lv/Files.fm_2022-01-23_file_kdbmxuass/Timecop%201994.mp4?PHPSESSID=442c30a732d3f54059dd3819f59f452fbd0e708d
-#EXTINF:-1 tvg-logo="https://bit.ly/3qTs0Ju" type="VIDEO" group-title="FILMES", Speed - Perigo a Alta Velocidade (1994
-https://fv2-8.failiem.lv/Files.fm_2022-01-23_file_rebqgvpzu/Velocidade%20M%C3%A1xima%201994.mp4?PHPSESSID=73f6c6539dc14449e4f9bc8299faf25f5be37ccb
 #EXTINF:-1 tvg-logo="https://bit.ly/3Ky8XvX" type="VIDEO" group-title="FILMES", A Máscara (1994)
 https://fv2-8.failiem.lv/Files.fm_2022-01-23_file_eg4vzns6x/The%20Mask%201994.mp4?PHPSESSID=73f6c6539dc14449e4f9bc8299faf25f5be37ccb
 #EXTINF:-1 tvg-logo="https://bit.ly/3IuStTq" type="VIDEO" group-title="FILMES", Nowhere To Run (1993)
 https://fv9-2.failiem.lv/Files.fm_2022-01-23_file_89mrs845y/Nowhere%20to%20Run%201993.mp4?PHPSESSID=442c30a732d3f54059dd3819f59f452fbd0e708d
-#EXTINF:-1 tvg-logo="https://bit.ly/3AFz8wo" type="VIDEO" group-title="FILMES", Alien 3 - A Desforra (1992)
-https://fv2-5.failiem.lv/Files.fm_2022-01-27_file_dze25hn47/03.%20Alien.3.1992.mp4?PHPSESSID=1430f27e61a178b0a3c3eb64d0febe2ce052d5e3
 #EXTINF:-1 tvg-logo="https://bit.ly/3rKX8tX" type="VIDEO" group-title="FILMES", Showdown In Little Tokyo (1991)
 https://fv9-3.failiem.lv/Files.fm_2022-01-22_file_qf9qdvu2x/Showdown%20in%20Little%20Tokyo%201991.mp4?PHPSESSID=29917e9af2dc10ddfb4f74dad4ea829da58cf7b1
-#EXTINF:-1 tvg-logo="https://bit.ly/3tddGgj" type="VIDEO" group-title="FILMES", THE DELTA FORCE 2 (1990)
-https://fv9-3.failiem.lv/Files.fm_2022-01-12_file_4s4927cvb/Delta%20force%202.mp4?PHPSESSID=62bd2f9a2e1526171ceb829289a9d37dc620c027
-#EXTINF:-1 tvg-logo="https://bit.ly/3rzKqhq" type="VIDEO" group-title="FILMES", Indiana Jones e a Grande Cruzada (1989)
-https://fv2-3.failiem.lv/Files.fm_2022-01-22_file_3m5wcd87a/Indiana%20Jones%20e%20a%20%C3%9Altima%20Cruzada%201989.mp4?PHPSESSID=29917e9af2dc10ddfb4f74dad4ea829da58cf7b1
-#EXTINF:-1 tvg-logo="https://bit.ly/3KCquDt" type="VIDEO" group-title="FILMES", Rambo III (1988)
-https://fv9-2.failiem.lv/Files.fm_2022-01-19_file_6d8gthmxs/Rambo%20III%201988.mp4?PHPSESSID=db7b06c90eda49407a7490c9ec7226e7a2e21291
-#EXTINF:-1 tvg-logo="https://bit.ly/45Evfq4" type="VIDEO" group-title="FILMES", Top Gun Ases Indomaveis (1986)
-https://fv5-3.failiem.lv/Files.fm_2023-09-02_file_y4ktw746p/Assistir+Top+Gun+-+Ases+Indom%C3%A1veis+Online+em+HD+no+NetCine+%281986%29.mp4?PHPSESSID=b95fa858cf3b3e81a0ce2f91df8e733003f8b9ab
 #EXTINF:-1 tvg-logo="https://bit.ly/3f68SBf" type="VIDEO" group-title="FILMES", COBRA (1986)
 https://fv9-4.failiem.lv/Files.fm_2022-01-12_file_zfgdusjby/Cobra%20(1986).mp4?PHPSESSID=62bd2f9a2e1526171ceb829289a9d37dc620c027
-#EXTINF:-1 tvg-logo="https://bit.ly/3zASJNq" type="VIDEO" group-title="FILMES", THE DELTA FORCE (1986)
-https://fv9-2.failiem.lv/Files.fm_2022-01-12_file_s46jg7hmn/The%20Delta%20Force.mp4?PHPSESSID=62bd2f9a2e1526171ceb829289a9d37dc620c027
-#EXTINF:-1 tvg-logo="https://bit.ly/3IIJLRB" type="VIDEO" group-title="FILMES", Aliens - O Recontro Final (1986)
-https://fv2-1.failiem.lv/Files.fm_2022-01-27_file_85kh7qh3g/02.%20Aliens.2.1986.mp4?PHPSESSID=1430f27e61a178b0a3c3eb64d0febe2ce052d5e3
-#EXTINF:-1 tvg-logo="https://bit.ly/3AeLgnG" type="VIDEO" group-title="FILMES", Rambo II (1985)
-https://fv9-2.failiem.lv/Files.fm_2022-01-19_file_a9g3zyhf7/Rambo%20II%201985.mp4?PHPSESSID=db7b06c90eda49407a7490c9ec7226e7a2e21291
-#EXTINF:-1 tvg-logo="https://bit.ly/3fMraYn" type="VIDEO" group-title="FILMES", Indiana Jones e o Templo Perdido (1984)
-https://fv2-4.failiem.lv/Files.fm_2022-01-22_file_y6jnn6nsb/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%201984.mp4?PHPSESSID=29917e9af2dc10ddfb4f74dad4ea829da58cf7b1
 #EXTINF:-1 tvg-logo="https://bit.ly/3ocn40j" type="VIDEO" group-title="FILMES", Oficial e Cavalheiro (1982)
 https://fv9-4.failiem.lv/Files.fm_2022-01-30_file_8urmevrnw/Oficial%20e%20Cavalheiro.mp4?PHPSESSID=12568fe4fa28e4e33c1bd660186b4bb2c6e84ef5
 #EXTINF:-1 tvg-logo="https://bit.ly/3AoWZ38" type="VIDEO" group-title="FILMES", Blade Runner 1982
 https://fv2-8.failiem.lv/Files.fm_2022-01-22_file_5kqx96agy/Blade%20Runner%201982.mp4?PHPSESSID=442c30a732d3f54059dd3819f59f452fbd0e708d
 #EXTINF:-1 tvg-logo="https://bit.ly/3fQb8Nm" type="VIDEO" group-title="FILMES", E.T. - O Extra-Terrestre (1982)
 https://fv9-4.failiem.lv/Files.fm_2022-01-23_file_evqku6rh6/E.T.%20the%20Extra-Terrestrial%201982.mp4?PHPSESSID=442c30a732d3f54059dd3819f59f452fbd0e708d
-#EXTINF:-1 tvg-logo="https://bit.ly/355FglM" type="VIDEO" group-title="FILMES", Rambo (1982)
-https://fv9-3.failiem.lv/Files.fm_2022-01-19_file_behc9fngz/Rambo%201982.mp4?PHPSESSID=db7b06c90eda49407a7490c9ec7226e7a2e21291
 #EXTINF:-1 tvg-logo="https://bit.ly/3GXCT2o" type="VIDEO" group-title="FILMES", Silent Rage (1982)
 https://fv9-4.failiem.lv/Files.fm_2022-01-22_file_r8e8nwpaj/Silent%20Rage%201982.mp4?PHPSESSID=29917e9af2dc10ddfb4f74dad4ea829da58cf7b1
-#EXTINF:-1 tvg-logo="https://bit.ly/3qSb5ac" type="VIDEO" group-title="FILMES", Indiana Jones e os Caçadores da Arca Perdida (1981)
-https://fv2-2.failiem.lv/Files.fm_2022-01-22_file_dfdewa6eu/Indiana%20Jones%20e%20Os%20Ca%C3%A7adores%20da%20Arca%20Perdida%201981.mp4?PHPSESSID=29917e9af2dc10ddfb4f74dad4ea829da58cf7b1
-#EXTINF:-1 tvg-logo="https://bit.ly/47PTJxT" type="VIDEO" group-title="FILMES", Alien (1979)
-https://fv2-1.failiem.lv/Files.fm_2022-01-26_file_f2jcf87fj/01.%20Alien.1979.mp4?PHPSESSID=1430f27e61a178b0a3c3eb64d0febe2ce052d5e3
-#EXTINF:-1 tvg-logo="https://bit.ly/3qTlMYK" type="VIDEO" group-title="FILMES", ROCKY (1976)
-https://fv9-4.failiem.lv/Files.fm_2022-01-12_file_bxgues23d/Rocky-%20Um%20Lutador%201976.mp4?PHPSESSID=62bd2f9a2e1526171ceb829289a9d37dc620c027
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cEryUQKtbfDXLlzXUgX7sXJ9y5C.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Os Gigantes de La Mancha (2024)
