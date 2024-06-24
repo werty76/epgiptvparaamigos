@@ -47,10 +47,6 @@ https://cld.pt/dl/download/15463a17-20fe-4f30-b2c3-303989b36b09/Jogos%20Patri%C3
 https://cld.pt/dl/download/ee5b9b5b-3334-44de-9320-cdae9890ee0a/Ghostbusters-%20Apocalipse%20de%20Gelo%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg" type="VIDEO" group-title="FILMES", The Idea of You (2024)
 https://cld.pt/dl/download/a7447f39-b60e-44e0-bea3-a9fc20a6046b/The%20Idea%20of%20You%202024.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg" type="VIDEO" group-title="FILMES", Tropa de Elite (2007)
-https://cld.pt/dl/download/fc046619-ebb6-4391-96ba-7ce57c3bb617/Tropa%20de%20Elite%202007.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v39TyEFfzPUaj7uZlV6Xr5HD9tu.jpg" type="VIDEO" group-title="FILMES", Tropa de Elite 2 (2010)
-https://cld.pt/dl/download/f29a8281-e5c1-4ae3-90fe-f43d1805f200/Tropa%20de%20Elite%202.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1blZfK6KtBkCGWeo7iIPlLAzzqr.jpg" type="VIDEO" group-title="FILMES", Arcadian (2024)
 https://cld.pt/dl/download/923e0144-f247-4c97-aa62-238a55643516/Arcadian%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg" type="VIDEO" group-title="FILMES", Godzilla Minus One (2024)
@@ -751,10 +747,15 @@ https://cld.pt/dl/download/c0b9fcc1-325e-4fb5-88af-432d489676cb/Transformers%20%
 https://cld.pt/dl/download/6d8ffea0-2018-4cc9-9f2f-04d97813af31/Transformers%20Age%20Of%20Extinction%202014.mp4   
 #EXTINF:-1 tvg-logo="https://bit.ly/3Od5AhE" type="VIDEO" group-title="COLEÇÕES", Transformers 3
 https://cld.pt/dl/download/ffbeb7a0-1c5b-4266-9f8d-7cf5d9ca872b/Transformers%202011.mp4 
-#EXTINF:-1 tvg-logo="https://bit.ly/47Kq2Nt" type="VIDEO" group-title="COLEÇÕES",, Transformers: Retaliação
+#EXTINF:-1 tvg-logo="https://bit.ly/47Kq2Nt" type="VIDEO" group-title="COLEÇÕES", Transformers: Retaliação
 https://cld.pt/dl/download/f104c6d1-5674-4278-86b0-702d595f0b8f/Transformers%202009.mp4   
 #EXTINF:-1 tvg-logo="https://bit.ly/3OfAKEV" type="VIDEO" group-title="COLEÇÕES", Transformers
 https://cld.pt/dl/download/3a3d61de-1ed9-4771-afa3-c9f75fc29188/Transformers%202007.mp4  
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg" type="VIDEO" group-title="COLEÇÕES", Tropa de Elite (2007)
+https://cld.pt/dl/download/fc046619-ebb6-4391-96ba-7ce57c3bb617/Tropa%20de%20Elite%202007.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v39TyEFfzPUaj7uZlV6Xr5HD9tu.jpg" type="VIDEO" group-title="COLEÇÕES", Tropa de Elite 2 (2010)
+https://cld.pt/dl/download/f29a8281-e5c1-4ae3-90fe-f43d1805f200/Tropa%20de%20Elite%202.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3IFg8R9" type="VIDEO" group-title="COLEÇÕES", Crepúsculo
 https://fv9-4.failiem.lv/Files.fm_2022-01-26_file_gdq2zw5jg/Twilight%20Saga%202008.mp4?PHPSESSID=b55dc3aa53e863de8766bdbfdf7e6046203e1656
