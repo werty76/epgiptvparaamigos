@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR]Xogum A Gloriosa Saga do Japão[COLOR white] [/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3TREsaT</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Xogum</externallink>
+<fanart>https://image.tmdb.org/t/p/original/5zmiBoMzeeVdQ62no55JOJMY498.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Guerra 
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] No Japão, no ano de 1600, o Senhor Yoshii Toranaga está a lutar pela vida enquanto os seus inimigos do Conselho de Regentes se unem contra ele, quando um misterioso navio europeu é encontrado encalhado numa aldeia piscatória próxima.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]A Murder at the End of the World[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3uv7Byn</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/A%20Murder%20at%20the%20End%20of%20the%20World</externallink>
