@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Mrs. Davis[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/tMr3mFACLuL4J7AEj8yDwcf5rnr.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Mrs.Davis</externallink>
+<fanart>https://image.tmdb.org/t/p/original/k1sV0lgUPmgoQeyL6LoPSfiwiPc.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Comédia, Drama, Sci-Fi & Fantasy
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Irmã Simone faz parceria com seu ex-namorado em uma jornada mundial para destruir a Sra. Davis, uma poderosa inteligência artificial.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Twisted Metal[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3QNf9E9</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Twisted%20MetaL</externallink>
