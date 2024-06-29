@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Knuckles[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Knuckles</externallink>
+<fanart>https://image.tmdb.org/t/p/original/aMpNvgWjPimLldhKgwtCt5NjLen.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Action, Adventure, Família, Comédia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Knuckles embarca em uma jornada hilária e cheia de ação de autodescoberta ao concordar em treinar Wade como seu protegido e ensinar-lhe os costumes do guerreiro Echidna.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Lawmen: Bass Reeves[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3SOh2Dj</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Lawmen%20Bass%20Reeves</externallink>
