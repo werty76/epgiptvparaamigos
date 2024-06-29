@@ -2,6 +2,26 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Fallout[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Fallout</externallink>
+<fanart>https://image.tmdb.org/t/p/original/4d0tMAk49gqbVwgvtQjCriBwyb8.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, aventura, Mistério, Ficção científica e fantasia 
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Baseado numa das maiores sagas de videojogos de todos os tempos, Fallout é a história de quem tem e de quem não tem num mundo em que já não há quase nada para ter. Duzentos anos após o apocalipse, uma pacífica habitante de um acolhedor abrigo nuclear é forçada a regressar à superfície - e fica chocada ao descobrir o deserto que a espera.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]O Jogo da Morte[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3PTIld3</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/O%20jogo%20da%20Morte.m3u</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6MRSikknRfOfKJYeWfl9nsEiO9L.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Ficção científica e fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] </info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white] Matilha[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/428EP3w"</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/007%20Estrada%20para%20o%20Milh%C3%A3o_S01</externallink>
