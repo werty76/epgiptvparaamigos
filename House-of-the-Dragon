@@ -1,1 +1,27 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]House of the Dragon S01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/46dKWE6</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/House-of-the-Dragon-S01</externallink>
+<fanart>https://image.tmdb.org/t/p/original/s2lpKvS7u5fg9eNvWYbWaM7pNFR.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2022
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Drama, Ficção Científica e Fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] 200 anos antes dos eventos de “Game of Thrones”, os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.
+
+DOWNLO</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] [/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/t9XkeE7HzOsdQcDDDapDYh8Rrmt.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/House-of-the-Dragon-S02</externallink>
+<fanart>https://image.tmdb.org/t/p/original/8wIEd8DIWxN3Cm1PUQN1aKdQXL2.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Drama, Ficção Científica e Fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Uma guerra de sucessão interna dentro da Casa Targaryen no auge de seu poder, 172 anos antes do nascimento de Daenerys Targaryen.</info>
+</channel>
+
+</channels>
 
