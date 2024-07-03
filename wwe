@@ -2,6 +2,46 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Smackdown[/COLOR][/B]</name>
+<thumbnail>https://encurtador.com.br/kzBJL</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Smackdown.m3u</externallink>
+<fanart>https://en.wikipedia.org/wiki/WWE_SmackDown#/media/File:WWE_SmackDown_(2019)_Logo.svg</fanart>
+<info> WWE SmackDown , também conhecido como Friday Night SmackDown ou simplesmente SmackDown , é umprograma de televisão americano de luta livre profissional produzido pela WWE.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]RAW[/COLOR][/B]</name>
+<thumbnail>https://encurtador.com.br/ACM14</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Raw.m3u</externallink>
+<fanart>https://pt.wikipedia.org/wiki/WWE_Raw#/media/Ficheiro:WWE_Raw_Logo_2019.svg</fanart>
+<info>WWE Raw, também conhecido como Monday Night Raw ou simplesmente Raw, é um programa de televisão americano de luta livre profissional produzido pela WWE que atualmente é transmitido ao vivo todas as segundas-feiras.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WWE Clash At The Castle 2024[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3RIO86f</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Clash_At_The_Castle_2024</externallink>
+<fanart>https://upload.wikimedia.org/wikipedia/it/thumb/1/1f/Clash_at_the_Castle.png/1200px-Clash_at_the_Castle.png</fanart>
+<info>Clash at the Castle: Scotland foi um evento de luta livre profissional de 2024 produzido pela promoção americana WWE . Foi o segundo Clash at the Castle e ocorreu em 15 de junho de 2024, no OVO Hydro em Glasgow , Escócia.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WWE Backlash 2024[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/8BH27mY/Watch-WWE-Backlash-France-2024-PPV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Backlash.2024</externallink>
+<fanart>https://statico.sportskeeda.com/editor/2024/05/58b98-17145473902073-1920.jpg</fanart>
+<info>Backlash France foi um evento de luta livre profissional de 2024 produzido pela empresa americana WWE . Foi o 19º evento Backlash e ocorreu no sábado, 4 de maio de 2024, na LDLC Arena em Décines-Charpieu na Metrópole de Lyon , França.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WrestleMania XL 2024[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/4cPHkwq</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/WWE%20WrestleMania%20XL%202024.m3u</externallink>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/6/68/Wrestlemania_40.jpg</fanart>
+<info>WrestleMania XL foi um evento de luta livre profissional de 2024 produzido pela WWE . Foi a 40ª WrestleMania anual e ocorreu como um evento de duas noites em 6 e 7 de abril de 2024, no Lincoln Financial Field na Filadélfia , Pensilvânia.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]UNDERTAKER THE LAST RIDE[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3PCxJiY</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Undertaker%20-%20The%20Last%20Ride</externallink>
