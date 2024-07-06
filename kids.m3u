@@ -1,5 +1,15 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t7cPk3hTF3X8IMZr0hPAG0cVLTI.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Miraculous- As Aventuras de Ladybug (2021)
+https://cld.pt/dl/download/ee480fcd-5194-4d1b-ba78-0c6017056727/Miraculous-%20As%20Aventuras%20de%20Ladybug%202021.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9AaLJu94ii4DsCL5frufV2GFJlV.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Lego Scooby-Doo! Knight Time Terror (2015)
+https://cld.pt/dl/download/17c99b3a-575c-4588-b93b-ff053e0458d3/Lego%20Scooby-Doo%21%20Knight%20Time%20Terror%202015.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/A4brgTdVRfuULvZyZGm03qNdUlJ.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Scooby-Doo e o Fantasma da Ópera (2013)
+https://cld.pt/dl/download/ec505ca4-958a-468b-bdab-acd173c7df84/Scooby-Doo%21%20Stage%20Fright%202013.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lH2044BPN9ayk01eBDjKwRk6JOf.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Aloha, Scooby-Doo! (2005)
+https://cld.pt/dl/download/5de36874-a42b-4dfa-bf0b-035f7fca59f6/Aloha%2C%20Scooby-Doo%21%202005.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zaq9f2oDvk1cYLBa0ZliVoYa1ZT.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Scooby-Doo e a Lenda do Vampiro (2003)
+https://cld.pt/dl/download/27e9c117-f745-496c-b800-f068ee41c73d/Scooby-Doo%20and%20the%20Legend%20of%20the%20Vampire%202003.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eXVflCGYGUbNSN4TmkLqQqM1rXc.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Sem Tempo Para Espiar - Um Filme Loud Em Casa (2024)
 https://cld.pt/dl/download/b2a32ff7-60c4-4f0e-9e52-544bb3f32c5c/Sem%20Tempo%20Para%20Espiar%20-%20Um%20Filme%20Loud%20Em%20Casa%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/akMGja8juEoo4vefD2HVyOXT8K4.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Da Vinci- O Grande Inventor (2023)
