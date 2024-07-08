@@ -34,14 +34,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]CANAIS[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/2s0scwv/take-live-tv.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u</externallink>
-<fanart>https://melhores-sites.pt/images/canais-tv-2.jpg</fanart>
-<info>Os melhores canais generalistas portugueses estão aqui no seu famaflix</info>
-</channel>
-
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMAÇÃO EXTRA[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/VqqCpNv/take-anima-ao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/kids%20extra.m3u</externallink>
