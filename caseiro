@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6rK0xhMQ04muMKRY1m2GBkmHd47.jpg" type="VIDEO" group-title="FILMES", Crime Story (1993)
+https://cld.pt/dl/download/a2ab8282-fe4d-41cb-b2e7-e1bedb555c09/Crime.Story.1993.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg" type="VIDEO" group-title="FILMES", O Reino do Planeta dos Macacos (2024)
 https://cld.pt/dl/download/289961da-7a6c-4781-8a7e-2b0e640d2585/O.Reino.do.Planeta.dos.Macacos.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zszRKfzjM5jltiq8rk6rasKVpUv.jpg" type="VIDEO" group-title="FILMES", O Caça Polícias: Axel Foley (2024)
