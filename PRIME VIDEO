@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] [/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/The.Boys</externallink>
+<fanart>https://image.tmdb.org/t/p/original/bI37vIHSH7o4IVkq37P8cfxQGMx.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2019 / 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, aventura, Ficção científica e fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR]Num mundo onde os super-heróis abraçam o lado mais negro da sua fama e celebridade, a série foca-se num grupo de justiceiros conhecidos informalmente como "Os Rapazes", que têm como objetivo acabar com os super-heróis corruptos com apenas a sua determinação e disposição para jogar sujo. </info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Fallout[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Fallout</externallink>
