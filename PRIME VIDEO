@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Senhor Presidente - O Campeonato de Uma Vida[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/pdZlkpX61Ayq0q2rnSjQd0citCN.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Senhor.Presidente</externallink>
+<fanart>https://image.tmdb.org/t/p/original/re36UawpjRN6AGmOlzfKPT0LtC1.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Documentário
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Sr. Presidente é um retrato do polémico e provocador Presidente do FC Porto. Jorge Nuno Pinto da Costa é um apaixonado por desporto, mulheres, fado e poesia. Mas foi a sua maior paixão, o FC Porto, que lhe deu palco mundial. Os seus discursos tornaram-no sinónimo de uma região, uma cidade, um clube. Mas quem é este homem, que é o Presidente com mais títulos conquistados no futebol mundial?</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]The Boys[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/The.Boys</externallink>
