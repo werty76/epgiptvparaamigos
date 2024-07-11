@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1zIEycg0w9aT5lOOqcjJZruuVoe.jpg" type="playlist" group-title="PRIME VIDEO", The Boys
+https://raw.githubusercontent.com/werty76/famaseries/main/The.boys.SSiptv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg" type="playlist" group-title="PRIME VIDEO", Fallout
 https://raw.githubusercontent.com/werty76/famaseries/main/Fallout
 #EXTINF:-1 tvg-logo="https://bit.ly/3PTIld3" type="playlist" group-title="PRIME VIDEO", O Jogo da Morte 
