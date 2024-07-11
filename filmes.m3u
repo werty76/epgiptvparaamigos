@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTb6sSRt8Pw96JTan8ezU2xO0FU.jpg" type="VIDEO" group-title="FILMES", The Bikeriders (2024)
+https://cld.pt/dl/download/970630d5-e75c-4153-8772-842325408783/The%20Bikeriders%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6rK0xhMQ04muMKRY1m2GBkmHd47.jpg" type="VIDEO" group-title="FILMES", Crime Story (1993)
 https://cld.pt/dl/download/a2ab8282-fe4d-41cb-b2e7-e1bedb555c09/Crime.Story.1993.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg" type="VIDEO" group-title="FILMES", O Reino do Planeta dos Macacos (2024)
