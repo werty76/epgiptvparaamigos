@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Blue Dragon[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/kz1WUNjTUnjQCYvvpn4Jx0ZV22A.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://image.tmdb.org/t/p/original/465oZoaiJRuFAgEja2OkObV1iL2.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2007
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Comédia e Fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Como a vila de Shu estava sendo atacado por um inimigo desconhecido, ele e seus amigos, Jiro e Kluke decidem defender a sua casa. Eles logo encontram guerreiro Zola e recebem os poderes da Sombra, uma habilidade que nos deixa-los a transformar a sua sombra em um poderoso monstro. Shu recebe um dos monstros mais poderosos, Blue Dragon, e todos eles estabelecidos para derrotar seu inimigo.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Delicious in Dungeon[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/A7SBIS42Kmg4FmzDuNvQSPaI3kc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Delicious%20in%20Dungeon.m3u</externallink>
