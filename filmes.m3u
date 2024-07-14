@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iRXYk29JzZQHr4FPTbR0MKhkvzS.jpg" type="VIDEO" group-title="FILMES", O Exorcismo (2024)
+https://cld.pt/dl/download/27cd586b-9f9a-4a4c-a7bb-31def24896b6/The.Exorcism.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pOb3V9j4pt546e93CLMYudp9uZq.jpg" type="VIDEO" group-title="FILMES", Os Descendentes: Coração Rebelde (2024)
 https://cld.pt/dl/download/63377628-8839-4b68-8451-a16ba8a33fd4/Descendants-The.Rise.of.Red.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/skZJl4QOQOCPxnihPTbQxbYXTEg.jpg" type="VIDEO" group-title="FILMES", A Royal Runaway Romance (2022)
