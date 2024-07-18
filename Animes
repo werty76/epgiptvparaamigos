@@ -82,6 +82,16 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]One Piece[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/One.Piece</externallink>
+<fanart></fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 
+[B][COLOR deepskyblue]Género:[/B][/COLOR] 
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] </info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Suicide Squad Isekai[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Suicide.Squad.Isekai</externallink>
