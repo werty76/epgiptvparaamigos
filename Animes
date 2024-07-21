@@ -32,6 +32,16 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Dragon Ball Z[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Dragon.Ball.Z</externallink>
+<fanart>https://image.tmdb.org/t/p/original/4pBjYo4lJXOSEneevIlbTJSdqyt.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 1989
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Animação, Acção, Adventura, Sci-Fi e Fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Dragon Ball Z é a segunda parte do Anime Dragon Ball. Essa saga conta a história de Goku e seus amigos já adultos, amadurecidos e mais fortes, enfrentando inimigos como Vegeta, um Saiyajin da mesma raça que Goku; Freeza, um Chanjeling que escravizou e humilhou os Saiyajins durante muitos anos; Cell um androide criado pelo Doutor Maki Geroe e Majin Buu.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Dragon Ball GT[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3tnEcWA</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DRAGON%20BALL%20GT</externallink>
@@ -42,16 +52,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Dragon Ball Super[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3rCRd9F</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DRAGON%20BALL%20SUPER</externallink>
-<fanart>https://image.tmdb.org/t/p/original/qA2UwUQbj05aeBMCuC0mHSQ4loE.jpg</fanart>
-<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2015
-[B][COLOR deepskyblue]Género:[/B][/COLOR] Animação, Acção, Adventura, Sci-Fi e Fantasia
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Desde que Goku se tornou o maior herói da Terra e reuniu as sete Esferas do Dragão para derrotar o malvado Boo, a sua vida na Terra ficou um pouco aborrecida. Mas novas ameaças surgem, e Goku e os seus amigos terão que defender o planeta mais uma vez! Com o Universe 6 e 7 Invitational Fighting Tournament, Goku e os seus amigos retornam às suas vidas normais. Isto é, até que o Trunks do futuro apareça repentinamente para avisar a todos sobre uma nova ameaça - Goku Black, um misterioso guerreiro que se parece com Goku, mas que não é ele! Goku Black é um monstro que varreu a maior parte da Terra e todos os Deuses da Destruição e Lordes dos Lordes de todos os doze universos. Quem é esse homem misterioso!? Será que Goku e os seus amigos vão ser capazes de o deter!?</info>
-</channel>
-
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Dragon Ball Kai[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3Sq9KVY</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DRAGON%20BALL%20Z%20KAI</externallink>
@@ -59,6 +59,16 @@
 <info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2009
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Animação, Acção, Adventura, Sci-Fi e Fantasia
 [B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Dragon Ball Kai é uma versão remasterizada do Dragon Ball Z mais curta e fiel à obra original de Akira Toriyama. É um comemorativo dos vinte anos de Dragon Ball Z.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Dragon Ball Super[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3rCRd9F</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DRAGON%20BALL%20SUPER</externallink>
+<fanart>https://image.tmdb.org/t/p/original/qA2UwUQbj05aeBMCuC0mHSQ4loE.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2015
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Animação, Acção, Adventura, Sci-Fi e Fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Desde que Goku se tornou o maior herói da Terra e reuniu as sete Esferas do Dragão para derrotar o malvado Boo, a sua vida na Terra ficou um pouco aborrecida. Mas novas ameaças surgem, e Goku e os seus amigos terão que defender o planeta mais uma vez! Com o Universe 6 e 7 Invitational Fighting Tournament, Goku e os seus amigos retornam às suas vidas normais. Isto é, até que o Trunks do futuro apareça repentinamente para avisar a todos sobre uma nova ameaça - Goku Black, um misterioso guerreiro que se parece com Goku, mas que não é ele! Goku Black é um monstro que varreu a maior parte da Terra e todos os Deuses da Destruição e Lordes dos Lordes de todos os doze universos. Quem é esse homem misterioso!? Será que Goku e os seus amigos vão ser capazes de o deter!?</info>
 </channel>
 
 <channel>
