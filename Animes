@@ -32,6 +32,16 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Dragon Ball[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/onCLyCOgszTIyyVs2XKYSkKPOPG.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Dragon.Ball</externallink>
+<fanart>https://image.tmdb.org/t/p/original/nokCMxb0u5YtLsu7RGs4oUiA8DK.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 1986
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Animação, Acção, Adventura, Sci-Fi e Fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Nesta primeira série de Dragon Ball podemos presenciar a fantástica saga de Goku e Bulma em busca das 7 bolas do dragão que quando reunidas permitem invocar o poderoso dragão Shenlong capaz de realizar qualquer desejo. Ao longo da sua jornada Goku e Bulma irão viver grandes aventuras nas quais irão fazer novos amigos como Yamcha e Krillin, bem como terríveis inimigos como Pilaf e o terrível exército Red Ribbon. A saga culmina com a fabulosa batalha contra Piccollo pela salvação da terra.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Dragon Ball Z[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Dragon.Ball.Z</externallink>
