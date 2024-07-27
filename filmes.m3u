@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aH3ylfuCuTWGrh48MAJoBA5uzI3.jpg" type="VIDEO" group-title="FILMES", Horizon: Uma Saga Americana - Capítulo 1 (2024)
+https://cld.pt/dl/download/74f50f9b-8617-4c29-9f08-f471f0ccd19e/Horizon.An.American.Saga.Chapter.1.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hU42CRk14JuPEdqZG3AWmagiPAP.jpg" type="VIDEO" group-title="FILMES", Um Lugar Silencioso: Dia Um (2024)
 https://cld.pt/dl/download/507a9413-dda3-432d-b84a-0c0f46bdce00/Quiet.Place.Day.One.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg" type="VIDEO" group-title="FILMES", Bad Boys: Ride or Die (2024)
