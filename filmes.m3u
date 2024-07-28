@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ex7BjWQvSEnubQzCyxElw2qi1Zx.jpg" type="VIDEO" group-title="FILMES", Dead Sea (2024)
+https://cld.pt/dl/download/3331bd51-6108-4fd9-ad9f-33ff9d5c93ca/Flycatcher.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aH3ylfuCuTWGrh48MAJoBA5uzI3.jpg" type="VIDEO" group-title="FILMES", Horizon: Uma Saga Americana - Capítulo 1 (2024)
 https://cld.pt/dl/download/74f50f9b-8617-4c29-9f08-f471f0ccd19e/Horizon.An.American.Saga.Chapter.1.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hU42CRk14JuPEdqZG3AWmagiPAP.jpg" type="VIDEO" group-title="FILMES", Um Lugar Silencioso: Dia Um (2024)
