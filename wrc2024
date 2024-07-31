@@ -1,5 +1,12 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://shre.ink/Df43" tvg-id="RALLY WRC 2024", Rally Letônia 2024 Day 1
+https://rbmn-live.akamaized.net/hls/live/655944/240719WrcFriHiPri/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://shre.ink/Df43" tvg-id="RALLY WRC 2024", Rally Letônia 2024 Day 2
+https://rbmn-live.akamaized.net/hls/live/655944/240720WrcSatHiPri/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://shre.ink/Df43" tvg-id="RALLY WRC 2024", Rally Letônia 2024 Day 3
+https://rbmn-live.akamaized.net/hls/live/655944/240721WrcSunHiPri/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/4burCoD" tvg-id="RALLY WRC 2024", Rally Poland 2024 Day 1
 https://rbmn-live.akamaized.net/hls/live/655944/240628WrcFriHiPri/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/4burCoD" tvg-id="RALLY WRC 2024", Rally Poland 2024 Day 2
