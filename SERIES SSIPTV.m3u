@@ -28,6 +28,8 @@ https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/PRIME%20VIDEO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/showtime%20SSIPTV.m3u
 #EXTINF:0 tvg-logo="https://bit.ly/3QA9LEx" type="playlist", SIC OPTO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SICOPTO%20SSIPTV.m3u
+#EXTINF:0 tvg-logo="https://bit.ly/3WJgEYq" type="playlist", DRAGON BALL
+https://raw.githubusercontent.com/werty76/famaseries/main/Dragon.Ball
 #EXTINF:0 tvg-logo="https://bit.ly/3QzjdrM<" type="playlist", DRAGON BALL SUPER
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DRAGON%20BALL%20SUPER
 #EXTINF:0 tvg-logo="https://bit.ly/3uirzwa" type="playlist", DRAGON BALL Z KAI
