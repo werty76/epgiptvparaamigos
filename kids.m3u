@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xNSsIyZcbESWBm42VTo09zbjS6s.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", IF: Amigos Imaginários (2024)
+https://cld.pt/dl/download/7da243d1-3857-4f6d-8b06-d842606dc86e/IF.Amigos%20Im.gin%C3%A1rios.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xYduFGuch9OwbCOEUiamml18ZoB.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Garfield - O Filme (2024)
 https://cld.pt/dl/download/365b73ef-d820-4815-8eb9-78ac2fbd1778/Garfield-%20O%20Filme%20%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wwUsjCsYvFi6huVtsrzVLxY41CG.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Scooby-Doo! E a Maldição do Frankenstein (2014)
