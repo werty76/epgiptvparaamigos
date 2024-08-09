@@ -3,6 +3,14 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg" type="VIDEO" group-title="FILMES", MaXXXine (2024)
+https://cld.pt/dl/download/514a79a7-1d01-4be8-b452-d3c917f93bd7/MaXXXine.2024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hdBUjfbdr1ymS0kycAT7qguOmWA.jpg" type="VIDEO" group-title="FILMES", One Fast Move (2024)
+https://cld.pt/dl/download/54c94ae9-8a76-452a-8183-eafab870065c/One.Fast.Move.2024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vWb8fEIsqKpO36Y7K5QH4DyV7zn.jpg" type="VIDEO" group-title="FILMES", The Last Breath (2024)
+https://cld.pt/dl/download/b67fdd22-3be7-4c27-ab58-56c212a0ec3b/The.Last.Breath.2024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/82KOHShH9raGhkcAN3TztVjqjj3.jpg" type="VIDEO" group-title="FILMES",  Risky Business (1983)
+https://cld.pt/dl/download/02226e41-ec5d-455a-b780-8a3dfd535f83/Risky.Business.1983.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bHQG4UsLMFCy91gfLAFRpnCOPdP.jpg" type="VIDEO" group-title="FILMES", Non Negotiable (2024)
 https://cld.pt/dl/download/82c56d8b-7462-4964-88e1-aa10305f26a1/Non.Negotiable.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ex7BjWQvSEnubQzCyxElw2qi1Zx.jpg" type="VIDEO" group-title="FILMES", Dead Sea (2024)
