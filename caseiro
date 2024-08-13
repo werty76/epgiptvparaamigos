@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g7yg6jJj4Z377j5h6S3MBRmjQ7U.jpg" type="VIDEO" group-title="FILMES", Tornados (2024)
+https://cld.pt/dl/download/c00b0832-8be9-4915-a446-a1ca10630752/Twisters.2024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pIz9csYn1yjrzQi0BuBZNJrTMi0.jpg" type="VIDEO" group-title="FILMES", Instigadores (2024)
+https://cld.pt/dl/download/9e936b7b-32e2-4820-b6c4-e1f0dee20525/The.Instigators.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg" type="VIDEO" group-title="FILMES", MaXXXine (2024)
 https://cld.pt/dl/download/514a79a7-1d01-4be8-b452-d3c917f93bd7/MaXXXine.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hdBUjfbdr1ymS0kycAT7qguOmWA.jpg" type="VIDEO" group-title="FILMES", One Fast Move (2024)
