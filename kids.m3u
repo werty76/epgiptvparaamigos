@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zL7uRZfIguunWKQDWbOcOqYg1AX.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", O Diário de um Banana: O Rodrick é Terrível (2022)
+https://cld.pt/dl/download/2bfd819d-a25a-4d04-a46b-f5ec2d1f4c2f/O.Di%C3%A1rio.de.um.Banana-O.Rodrick.%C3%A9.Terr%C3%ADvel.2022.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mRCRJs5lee78cY27uu2IH92TINH.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", O Diário de um Banana (2021)
+https://cld.pt/dl/download/20092586-a768-4626-b4be-956b724d996a/O.Di%C3%A1rio.de.um.Banana.2021.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xNSsIyZcbESWBm42VTo09zbjS6s.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", IF: Amigos Imaginários (2024)
 https://cld.pt/dl/download/7da243d1-3857-4f6d-8b06-d842606dc86e/IF.Amigos%20Im.gin%C3%A1rios.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xYduFGuch9OwbCOEUiamml18ZoB.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Garfield - O Filme (2024)
