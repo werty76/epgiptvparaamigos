@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" type="VIDEO" group-title="FILMES", Deadpool & Wolverine (2024)
+https://cld.pt/dl/download/fc5353f6-00d2-4818-a80d-76dc21a0cec5/Deadpool.%26.Wolverine.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eek2D0ub9oyZHMxXMHpLWI9ERDz.jpg" type="VIDEO" group-title="FILMES", Fly Me To The Moon (2024)
 https://cld.pt/dl/download/111d2da9-a666-4de5-b894-661468f0f7ff/Fly.Me.to.the.Moon.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g7yg6jJj4Z377j5h6S3MBRmjQ7U.jpg" type="VIDEO" group-title="FILMES", Tornados (2024)
