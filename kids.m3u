@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xEc9bNtbeCP1Xf9Z6xhU62rqtYe.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", UP - Altamente! (2009)
+https://cld.pt/dl/download/2302fad9-e8a1-4643-a981-b337a18d7903/Up-Altamente.2009.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Divertida-Mente 2 (2024) 
 https://cld.pt/dl/download/4e62b9f1-b7bf-4372-ba30-0a426d7bf2c5/Divertida-Mente%202.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bl0XvEAEJ2mSUzNFuieyu1gvTXs.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", A Pequena Sereia (1989)
