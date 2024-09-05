@@ -15,8 +15,5 @@ https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/kids.m3u
 #EXTINF:1 tvg-logo="https://i.ibb.co/XyKMrjg/live-tv.jpg" type="playlist", LIVE TV
 https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/NxpV6tf/desporto.jpg" type="playlist", DESPORTO
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/desporto.m3u
-
 #EXTINF:1 tvg-logo="https://i.ibb.co/fkqxrsj/radios.jpg" type="playlist", RADIOS
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/radios.m3u
