@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="image.tmdb.org/t/p/original/dBVpWfVQDULaVehUyTKvOwkAZFA.jpg" type="VIDEO" group-title="FILMES", Someone Like You (2024)
+https://cld.pt/dl/download/e0f5e9a5-08ff-4f7f-9f68-3412f327bc98/Outra.Chance.para.o.Amor.2024.720p.MP4.LEG.BaixarSeriesMP4.pm.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dZXpE4BlesBJwLl53jUJ9mT1Jxr.jpg" type="VIDEO" group-title="FILMES", Pretty Woman (1990)
 https://cld.pt/dl/download/3c6b45a7-728d-46b5-823d-f1886e751d78/Pretty.Woman.1990.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" type="VIDEO" group-title="FILMES", Deadpool & Wolverine (2024)
