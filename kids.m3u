@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f2uhFiADjUFDHXpeUlw1lxgywMN.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Salvar Bikini Bottom: O Filme da Sandy Cheeks (2024)
+https://cld.pt/dl/download/5001b8e4-8a6b-4aba-912b-a823aa24e8c5/Salvar.Bikini.Bottom-O.Filme.da.Sandy.Cheeks.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v9vcWFGNRO2RtAJ3le9siiVgBo0.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Heróis na Hora (2024)
 https://cld.pt/dl/download/b6122ce5-d2d6-4e00-b468-f69aace0aad6/Her%C3%B3is.na.Hora.2023.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5B5dWRlUOpmHjtvY0jQlsdMbHhY.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Pinóquio: A História Verdadeira (2021)
