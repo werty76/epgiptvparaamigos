@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Nz3gFVLCaQzrAbChu14i8We3F6.jpg" type="VIDEO" group-title="FILMES", Luís, O Explorador (2024)
+https://cld.pt/dl/download/a4354f79-c4dc-49a5-a1d0-8b6412aa04be/Lu%C3%ADs-O.Explorador.2023.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qubwJJ5ysdXfyRb5a9fiMGuizSc.jpg" type="VIDEO" group-title="FILMES", O Teu Rosto Será o Último (2024)
 https://cld.pt/dl/download/086ca827-f5b8-42c2-9d47-2548b8abfcd2/O.Teu.Rosto.Ser%C3%A1.o.%C3%9Altimo.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xqPSxMaJ36etkUif4VggAX9tLu0.jpg" type="VIDEO" group-title="FILMES", Borderlands (2024)
