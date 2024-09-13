@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qubwJJ5ysdXfyRb5a9fiMGuizSc.jpg" type="VIDEO" group-title="FILMES", O Teu Rosto Será o Último (2024)
+https://cld.pt/dl/download/086ca827-f5b8-42c2-9d47-2548b8abfcd2/O.Teu.Rosto.Ser%C3%A1.o.%C3%9Altimo.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xqPSxMaJ36etkUif4VggAX9tLu0.jpg" type="VIDEO" group-title="FILMES", Borderlands (2024)
 https://cld.pt/dl/download/41d40741-8898-442b-bb33-33224a5bb6bc/BORDERLANDS2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dBVpWfVQDULaVehUyTKvOwkAZFA.jpg" type="VIDEO" group-title="FILMES", Someone Like You (2024)
