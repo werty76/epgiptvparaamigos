@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rfGQXlI1m2jvN9a07Kojo9e2deB.jpg" type="VIDEO" group-title="FILMES", É Assim Que Acaba (2024)
+https://cld.pt/dl/download/9a9f0e4f-dff0-43d3-b0ff-fb64e032ef6c/%C3%89.Assim.Que.Acaba.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hG0D28IEcl0HL5PhF3mkwtN80jC.jpg" type="VIDEO" group-title="FILMES", Double Blind (2024)
 https://cld.pt/dl/download/10b73a1f-e680-40ab-85a3-7717c5d9bec4/Fique%20Acordado.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g7ZNO5yvpr9jJqQBcTvcNICC9yF.jpg" type="VIDEO" group-title="FILMES", O Corvo (2024)
