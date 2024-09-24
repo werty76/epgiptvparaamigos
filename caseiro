@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fSrBQXN5u0EeG9Acv2SBX84yuBY.jpg" type="VIDEO" group-title="FILMES", Kill 'em All 2 (2024)
+https://cld.pt/dl/download/eea3fd1f-2264-4d4b-b0d0-e2644901da52/Kill%20%27Em%202.2024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k6UePQE4PStlu6TkcV1HCX1Rd4F.jpg" type="VIDEO" group-title="FILMES", Kill 'em All (2017)
+https://cld.pt/dl/download/4c490f09-0b6f-40b9-b1e6-8486f2d2688a/Kill%20%27Em%20All.2017.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rfGQXlI1m2jvN9a07Kojo9e2deB.jpg" type="VIDEO" group-title="FILMES", É Assim Que Acaba (2024)
 https://cld.pt/dl/download/9a9f0e4f-dff0-43d3-b0ff-fb64e032ef6c/%C3%89.Assim.Que.Acaba.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hG0D28IEcl0HL5PhF3mkwtN80jC.jpg" type="VIDEO" group-title="FILMES", Double Blind (2024)
