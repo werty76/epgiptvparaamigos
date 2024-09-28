@@ -1,5 +1,20 @@
 #EXTM3U size="medium"
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q7SltSvTLAY8jrKhe4uWRxoIfBG.jpg" type="VIDEO" group-title="FILMES",
+https://cld.pt/dl/download/6875dc62-a10f-4e0b-aa1b-2f2bc6432ffe/A%20True%20Gentleman.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hTcsoaYkQnOj6YSPDpeLv9kpaPm.jpg" type="VIDEO" group-title="FILMES", She Taught Love (2024)
+https://cld.pt/dl/download/3182d5a5-90e8-422f-9a1c-a8f9298617cd/She%20Taught%20Love.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l0JLHNflNJ3ihxMWwnAfmatXrIz.jpg" type="VIDEO" group-title="FILMES", My Spy - The Eternal City (2024)
+https://cld.pt/dl/download/c8900be7-fa85-4403-a971-292099cd29b6/My%20Spy%20-%20The%20Eternal%20City.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lRBT73EWsiQPuqK3YS3BnBW0Zwi.jpg" type="VIDEO" group-title="FILMES", Hounds of War (2024)
+https://cld.pt/dl/download/d0995186-3733-4bf0-a99f-a7d86868d7ab/Hounds%20of%20War.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mch69S8zHKVCHIrX8p17jN8VCGy.jpg" type="VIDEO" group-title="FILMES", Apartment 7A
+https://cld.pt/dl/download/c1af7c1e-102b-44cf-a7c1-f3c950738d72/Apartment%207A.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3KuLDrTvs77vVN0u49AZ7Nxuhhz.jpg" type="VIDEO" group-title="FILMES", Rez Ball (2024)
+https://cld.pt/dl/download/5e3db8f4-9628-4b47-9e9a-f93842cead27/Rez%20Ball.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lOPMU5t5gNJquxZuvtADNFhhrnR.jpg" type="VIDEO" group-title="FILMES", Hidden Memories (2024)
+https://cld.pt/dl/download/1d8cf070-eaf0-48aa-a038-66f70fcaead9/Hidden%20Memories.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fSrBQXN5u0EeG9Acv2SBX84yuBY.jpg" type="VIDEO" group-title="FILMES", Kill 'em All 2 (2024)
 https://cld.pt/dl/download/eea3fd1f-2264-4d4b-b0d0-e2644901da52/Kill%20%27Em%202.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k6UePQE4PStlu6TkcV1HCX1Rd4F.jpg" type="VIDEO" group-title="FILMES", Kill 'em All (2017)
