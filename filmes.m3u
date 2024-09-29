@@ -1,6 +1,7 @@
 #EXTM3U size="medium"
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o3O54y5EA9JoamzTtp4qOH3tHg4.jpg" type="VIDEO" group-title="FILMES", Wolfs (2024)
+https://cld.pt/dl/download/8eb40c3b-ae72-4023-a9ee-ef91bdf5e122/Wolfs.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q7SltSvTLAY8jrKhe4uWRxoIfBG.jpg" type="VIDEO" group-title="FILMES", A True Gentleman (2024)
 https://cld.pt/dl/download/6875dc62-a10f-4e0b-aa1b-2f2bc6432ffe/A%20True%20Gentleman.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hTcsoaYkQnOj6YSPDpeLv9kpaPm.jpg" type="VIDEO" group-title="FILMES", She Taught Love (2024)
