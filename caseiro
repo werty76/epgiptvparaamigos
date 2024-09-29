@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o3O54y5EA9JoamzTtp4qOH3tHg4.jpg" type="VIDEO" group-title="FILMES", Wolfs (2024)
+https://cld.pt/dl/download/8eb40c3b-ae72-4023-a9ee-ef91bdf5e122/Wolfs.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q7SltSvTLAY8jrKhe4uWRxoIfBG.jpg" type="VIDEO" group-title="FILMES", A True Gentleman (2024)
 https://cld.pt/dl/download/6875dc62-a10f-4e0b-aa1b-2f2bc6432ffe/A%20True%20Gentleman.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hTcsoaYkQnOj6YSPDpeLv9kpaPm.jpg" type="VIDEO" group-title="FILMES", She Taught Love (2024)
