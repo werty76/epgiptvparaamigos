@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a0pepZNFCjggc7Na9gEwbTI1f46.jpg" type="VIDEO" group-title="FILMES", She's All That (1999)
+https://cld.pt/dl/download/3e4aa984-8944-48ef-b509-7858f32dbb09/she%27s%20all%20that.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o3O54y5EA9JoamzTtp4qOH3tHg4.jpg" type="VIDEO" group-title="FILMES", Wolfs (2024)
 https://cld.pt/dl/download/8eb40c3b-ae72-4023-a9ee-ef91bdf5e122/Wolfs.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q7SltSvTLAY8jrKhe4uWRxoIfBG.jpg" type="VIDEO" group-title="FILMES", A True Gentleman (2024)
