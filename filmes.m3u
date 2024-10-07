@@ -1,6 +1,9 @@
 #EXTM3U size="medium"
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ildbg7ho14EHbt1fZWAkgqIyPqy.jpg" type="VIDEO" group-title="FILMES", Trouble (2024)
+https://cld.pt/dl/download/1a590b8e-8999-48ba-8336-e5fdaa7a748c/Trouble%202024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4zSsQzV8YOC1PiWNPo4bDMS4Fu4.jpg" type="VIDEO" group-title="FILMES", A Hora do Vampiro (2024)
+https://cld.pt/dl/download/2cc2a1f6-afbc-419a-8af9-5785d1079f7a/Salem%27s%20Lot%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z8ykp9HugsetInG2zTbZT6spamT.jpg" type="VIDEO" group-title="FILMES", Beetlejuice (1989)
 https://cld.pt/dl/download/93a2212e-0168-4ac0-b0cc-2acbd164d6a4/Beetlejuice%201988.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6a8b78lgDOg9YQ1edhgUk9fTcMc.jpg" type="VIDEO" group-title="FILMES", Treasure Trackers (2024)
