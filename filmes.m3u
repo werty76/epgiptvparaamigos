@@ -1,5 +1,8 @@
 #EXTM3U size="medium"
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z8ykp9HugsetInG2zTbZT6spamT.jpg" type="VIDEO" group-title="FILMES", Beetlejuice (1989)
+https://cld.pt/dl/download/93a2212e-0168-4ac0-b0cc-2acbd164d6a4/Beetlejuice%201988.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6a8b78lgDOg9YQ1edhgUk9fTcMc.jpg" type="VIDEO" group-title="FILMES", Treasure Trackers (2024)
 https://cld.pt/dl/download/7a83f58a-70c0-4fc1-9ce7-9296e1c6a994/Treasure%20Trackers%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9xgpaHkAvHvrVtsVDnHRRkXXZfW.jpg" type="VIDEO" group-title="FILMES", Balas & Bolinhos: Só Mais uma Coisa (2024)
