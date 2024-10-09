@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xFKcT3ljsOMorLlrv3cmSDhSXjk.jpg" type="VIDEO" group-title="FILMES", Cândido (2024)
+https://cld.pt/dl/download/472e9ad7-02d5-44e5-b989-28e036891f80/C%C3%A2ndido%20-%20O%20Espi%C3%A3o%20que%20Veio%20do%20Futebol%202024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xyKdcbzqX8pG17S4cLKURHlNlvN.jpg" type="VIDEO" group-title="FILMES", The Last Redemption (2024)
+https://cld.pt/dl/download/cec3ad7b-6f80-491b-9f19-6a41f00085bd/The%20Last%20Redemption%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ildbg7ho14EHbt1fZWAkgqIyPqy.jpg" type="VIDEO" group-title="FILMES", Trouble (2024)
 https://cld.pt/dl/download/1a590b8e-8999-48ba-8336-e5fdaa7a748c/Trouble%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4zSsQzV8YOC1PiWNPo4bDMS4Fu4.jpg" type="VIDEO" group-title="FILMES", A Hora do Vampiro (2024)
