@@ -92,6 +92,16 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Dragon Ball Daima[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/pc9jW4KdhGfJ7go74VTOq3qWxk5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/refs/heads/main/Dragon.Ball.DAIMA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Animação, Acção, Adventura, Sci-Fi e Fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR]Misteriosamente transformados em mini versões de si mesmos, Goku e seus amigos viajam para o Reino Demoníaco para descobrir a verdade e encontrar uma cura.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]My Adventures with Superman[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/a3n4IhEVfNoz1dcCcDGAwDPlJNC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/My.Adventures.with.Superman</externallink>
