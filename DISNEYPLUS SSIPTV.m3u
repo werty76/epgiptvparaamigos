@@ -1,28 +1,22 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" type="playlist" group-title="DISNEYPLUS", Andor S01
+#EXTINF:-1 tvg-logo="https://bit.ly/48cFBim" type="playlist" group-title="DISNEYPLUS", Andor 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Andor
-#EXTINF:-1 tvg-logo="https://bit.ly/3YQL8XL" type="playlist" group-title="DISNEYPLUS", Ahsoka S01
+#EXTINF:-1 tvg-logo="https://bit.ly/3YQL8XL" type="playlist" group-title="DISNEYPLUS", Ahsoka 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Ahsoka
-#EXTINF:-1 tvg-logo="https://bit.ly/4aVFxVC" type="playlist" group-title="DISNEYPLUS", Eco E01
+#EXTINF:-1 tvg-logo="https://bit.ly/4aVFxVC" type="playlist" group-title="DISNEYPLUS", Eco 
 https://raw.githubusercontent.com/werty76/famaseries/main/Eco
-#EXTINF:-1 tvg-logo="https://bit.ly/46T7ydV" type="playlist" group-title="DISNEYPLUS", Goosebumps S01
+#EXTINF:-1 tvg-logo="https://bit.ly/46T7ydV" type="playlist" group-title="DISNEYPLUS", Goosebumps 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Goosebumps
-#EXTINF:-1 tvg-logo="https://bit.ly/48VMPbh" type="playlist" group-title="DISNEYPLUS", Loki S01
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Loki%20_S01
-#EXTINF:-1 tvg-logo="https://bit.ly/3ZIp2av" type="playlist" group-title="DISNEYPLUS", Loki S02
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Loki_S02
-#EXTINF:-1 tvg-logo="https://bit.ly/3EyggSD" type="playlist" group-title="DISNEYPLUS", Moon Knight S01
+#EXTINF:-1 tvg-logo="https://bit.ly/3ZIp2av" type="playlist" group-title="DISNEYPLUS", Loki
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/refs/heads/master/LOKI.SSiptv
+#EXTINF:-1 tvg-logo="https://bit.ly/3EyggSD" type="playlist" group-title="DISNEYPLUS", Moon Knight 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Moon%20Knight
-#EXTINF:-1 tvg-logo="https://bit.ly/47SU81H" type="playlist" group-title="DISNEYPLUS", Percy Jackson and the Olympians S01
+#EXTINF:-1 tvg-logo="https://bit.ly/47SU81H" type="playlist" group-title="DISNEYPLUS", Percy Jackson and the Olympians 
 https://raw.githubusercontent.com/werty76/famaseries/main/Percy%20Jackson%20and%20the%20Olympians%20S01
-#EXTINF:-1 tvg-logo="https://bit.ly/3PvZutv" type="playlist" group-title="DISNEYPLUS", Hawkeye S01
+#EXTINF:-1 tvg-logo="https://bit.ly/3PvZutv" type="playlist" group-title="DISNEYPLUS", Hawkeye 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Hawkeye
-#EXTINF:-1 tvg-logo="https://bit.ly/3YTNbKz" type="playlist" group-title="DISNEYPLUS", Secret Invasion S01
+#EXTINF:-1 tvg-logo="https://bit.ly/3YTNbKz" type="playlist" group-title="DISNEYPLUS", Secret Invasion 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Secret%20Invasion
-#EXTINF:-1 tvg-logo="https://bit.ly/3EOj0cs" type="playlist" group-title="DISNEYPLUS", MANDALORIAN S01
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MANDALORIAN_S01
-#EXTINF:-1 tvg-logo="https://bit.ly/3OO8nNE" type="playlist" group-title="DISNEYPLUS", MANDALORIAN S02
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MANDALORIAN%20_S02
-#EXTINF:-1 tvg-logo="https://bit.ly/3Z02iSQ" type="playlist" group-title="DISNEYPLUS", MANDALORIAN S03
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MANDALORIAN_S03
+#EXTINF:-1 tvg-logo="https://bit.ly/3Z02iSQ" type="playlist" group-title="DISNEYPLUS", MANDALORIAN 
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/refs/heads/master/MANDALORIAN.SSiptv
