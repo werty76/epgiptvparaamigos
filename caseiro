@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6L3PfQEydRzONYrhtpWtchRhOuV.jpg" type="VIDEO" group-title="FILMES", The Substance (2024)
+https://cld.pt/dl/download/07d11c62-f49b-4a70-8374-8193adf2a430/The%20Substance%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6rr7r6cMWMYlgJFBGyPkSHEBDkk.jpg" type="VIDEO" group-title="FILMES", Alien: Rómulo (2024)
 https://cld.pt/dl/download/8de0a015-5e5b-4101-a7a2-eae9f997c834/Alien%20-%20Romulus%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qhuuFtTc3j2YH5uO3Z2Cn6i38Fd.jpg" type="VIDEO" group-title="FILMES", Beetlejuice Beetlejuice (2024)
