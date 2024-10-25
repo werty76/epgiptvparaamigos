@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gU9ubNnaDKYBxs1DCSfiUIqHSMR.jpg" type="VIDEO" group-title="FILMES", Terrifier 3 (2024)
+https://cld.pt/dl/download/07f063bf-865c-4cd1-aa32-61ab06b6a249/Terrifier%203%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rfzLtrGeH25k8t3WO8ceQzHi06J.jpg" type="VIDEO" group-title="FILMES", Hellboy e o Homem Torto (2024)
 https://cld.pt/dl/download/008ef15d-6275-4d2a-8336-d6d96714c3c5/Hellboy.The.Crooked.Man.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6L3PfQEydRzONYrhtpWtchRhOuV.jpg" type="VIDEO" group-title="FILMES", The Substance (2024)
