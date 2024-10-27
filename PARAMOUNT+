@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Tulsa King[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/zMFAdj30K84Sz90bCd6ePwiAO37.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Tulsa.King.SSiptv</externallink>
+<fanart>https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2022/2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Crime, Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Logo após ser libertado da prisão após 25 anos, o chefe da máfia de Nova York, Dwight "The General" Manfredi, é exilado sem cerimônia por seu chefe para abrir uma loja em Tulsa, Oklahoma. Percebendo que sua família mafiosa pode não ter seus melhores interesses em mente, Dwight lentamente constrói uma "equipe" de um grupo de personagens improváveis, para ajudá-lo a estabelecer um novo império criminoso em um lugar que para ele poderia muito bem ser outro planeta.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Knuckles[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Knuckles</externallink>
