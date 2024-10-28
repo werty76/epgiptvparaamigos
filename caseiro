@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oADi2Oy3wl6zhSuJR0CmJYnvwfT.jpg" type="VIDEO" group-title="FILMES", Sequestro 93 (2024)
+https://cld.pt/dl/download/c5d73038-9bac-450c-a62a-d5e7a8b95cb1/Hijack%20%2793%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gU9ubNnaDKYBxs1DCSfiUIqHSMR.jpg" type="VIDEO" group-title="FILMES", Terrifier 3 (2024)
 https://cld.pt/dl/download/07f063bf-865c-4cd1-aa32-61ab06b6a249/Terrifier%203%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rfzLtrGeH25k8t3WO8ceQzHi06J.jpg" type="VIDEO" group-title="FILMES", Hellboy e o Homem Torto (2024)
