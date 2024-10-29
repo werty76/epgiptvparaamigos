@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg" type="VIDEO" group-title="FILMES", Canary Black (2024)
+https://cld.pt/dl/download/2b15b008-66e2-40e2-a523-aae01ede7a03/Canary%20Black%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uJCxYoJ45N7NId1JvnzrsScxesY.jpg" type="VIDEO" group-title="FILMES", Cocorico (2024)
 https://cld.pt/dl/download/337a4bac-ef2b-433e-84dd-810a3c2761a5/Cocorico%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg" type="VIDEO" group-title="FILMES", Joker: Loucura a Dois (2024)
