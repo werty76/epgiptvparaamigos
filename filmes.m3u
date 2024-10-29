@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg" type="VIDEO" group-title="FILMES", Joker: Loucura a Dois (2024)
+https://cld.pt/dl/download/987b0bdc-bb44-47be-b0a7-a120d283ac6a/Joker%20-%20Folie%20%C3%A0%20Deux%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oADi2Oy3wl6zhSuJR0CmJYnvwfT.jpg" type="VIDEO" group-title="FILMES", Sequestro 93 (2024)
 https://cld.pt/dl/download/c5d73038-9bac-450c-a62a-d5e7a8b95cb1/Hijack%20%2793%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gU9ubNnaDKYBxs1DCSfiUIqHSMR.jpg" type="VIDEO" group-title="FILMES", Terrifier 3 (2024)
