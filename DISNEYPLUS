@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Agatha All Along[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Agatha.All.Along.S01</externallink>
+<fanart>https://image.tmdb.org/t/p/original/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Sci-Fi & Fantasy, Mistério
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR]A infame Agatha Harkness vê-se impotente após um estranho adolescente gótico a libertar de um feitiço distorcido. O interesse de Agatha é despertado quando ele lhe implora que o leve à lendária Estrada das Bruxas, um desafio mágico que, se superado, recompensa as bruxas com o que lhes falta. Juntos, Agatha e o Adolescente reúnem um clã desesperado e chegam ao fundo, ao fundo, ao fundo da Estrada.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Ahsoka[/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3YQL8XL</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Ahsoka</externallink>
