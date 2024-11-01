@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b2YL2kncIqlcDcqly78AsOPJi6r.jpg" type="VIDEO" group-title="FILMES", Freedom (2024)
+https://cld.pt/dl/download/1dc2d7e4-bf6b-44e3-8343-b64c084f1913/Freedom%202024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tsFAhay6bcjkawEVoOiu66GRkLT.jpg" type="VIDEO" group-title="FILMES", Apocalipse Z: O princípio do fim (2024)
+https://cld.pt/dl/download/3fbd9113-14c7-4f74-99bd-e1c714cbbbb3/Apocalipse%20Z-%20O%20Princ%C3%ADpio%20do%20Fim%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l8eFmBvkAGEfpM6JeAZHPrpMN0K.jpg" type="VIDEO" group-title="FILMES", Eduardo Mãos de Tesoura (1990)
 https://cld.pt/dl/download/c9a87fdb-0c78-45a6-a03a-ca7aeb0e2db0/Edward%20M%C3%A3os%20de%20Tesoura%201990.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg" type="VIDEO" group-title="FILMES", Canary Black (2024)
