@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg" type="playlist" group-title="PARAMOUNT+", Tulsa King 
 https://raw.githubusercontent.com/werty76/famaseries/main/Tulsa.King.SSiptv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg" type="VIDEO" group-title="PARAMOUNT+", Ghosts
+https://raw.githubusercontent.com/werty76/famaseries/main/Ghosts.SSiptv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg" type="playlist" group-title="PARAMOUNT+", Knuckles
 https://raw.githubusercontent.com/werty76/famaseries/main/Knuckles
 #EXTINF:-1 tvg-logo="https://bit.ly/47YdweR" type="playlist" group-title="PARAMOUNT+", 1883 
