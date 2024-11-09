@@ -1,6 +1,17 @@
 <layouttype>thumbnail</layouttype>
 
 <channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Cobra Kai[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3ULajKz</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Cobra.Kai</externallink>
+<fanart>https://image.tmdb.org/t/p/original/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Comédia e Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Inimigos figadais, dojos em guerra e sangue novo. Daniel e Johnny reacendem as velhas rivalidades de West Valley nesta série que se segue aos filmes “Momento da Verdade”.</info>
+</channel>
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR]Ángel Di María: Quebrar a Barreira S01[COLOR white] [/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/zG1iagmmcx5X5nK3BCjduAdUb55.jpg</thumbnail>
