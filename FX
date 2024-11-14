@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Grotesco[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/2m3yxbfb</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Grotesco.S01</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3uXDhQeWFyseTvJExzHu6VKcAsP.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Mistério, Crime
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Uma série de crimes hediondos abalou uma pequena comunidade, e a detetive Lois Tryon sente que eles são assustadoramente pessoais, como se alguém — ou algo — estivesse provocando-a.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR]Xogum A Gloriosa Saga do Japão[COLOR white] [/COLOR][/B]</name>
 <thumbnail>https://bit.ly/3TREsaT</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Xogum</externallink>
