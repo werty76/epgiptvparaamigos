@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/uhhfyf8u" type="VIDEO" group-title="FILMES", Arena Wars (2024)
+https://cld.pt/dl/download/9bbf3bb9-0257-4a3d-ae34-c7302668e4c9/Arena%20Wars.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1sRejtiHOZGggZd9RcmdqbapLM5.jpg" type="VIDEO" group-title="FILMES", Um Rapaz Chamado Natal (2021)
 https://cld.pt/dl/download/7538378a-eeae-45e2-8c8b-24fa5f5d8fc8/Um%20Rapaz%20Chamado%20Natal%202021.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/axIreLP9hr0ENvr5kR1sncxuYue.jpg" type="VIDEO" group-title="FILMES", Crónicas de Natal: Parte Dois (2020)
