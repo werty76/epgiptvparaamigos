@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/55e4tbu9" type="VIDEO" group-title="FILMES", Megalopolis (2024)
+https://cld.pt/dl/download/2a8d6a48-85b2-43ba-ba28-41d9883a8603/Megal%C3%B3polis%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/uhhfyf8u" type="VIDEO" group-title="FILMES", Arena Wars (2024)
 https://cld.pt/dl/download/9bbf3bb9-0257-4a3d-ae34-c7302668e4c9/Arena%20Wars.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1sRejtiHOZGggZd9RcmdqbapLM5.jpg" type="VIDEO" group-title="FILMES", Um Rapaz Chamado Natal (2021)
