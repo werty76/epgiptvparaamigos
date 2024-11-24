@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/as34y3k2" type="VIDEO" group-title="ANIMAÇÃO PT", O Feitiço (2024)
+https://cld.pt/dl/download/ad9ff627-2050-40ef-9913-e96eda10a29b/O%20Feiti%C3%A7o%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/csiyO6q8rR74pfgJDjwINzhoick.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Toy Story 4 (2019)
 https://cld.pt/dl/download/f7c81b7e-5894-4939-a238-c441803a3025/Toy%20Story%204%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aHxQdb3Ennws1EIraHnOS3BFjVJ.jpg" type="VIDEO" group-title="ANIMAÇÃO PT", Toy Story 3 (2010)
