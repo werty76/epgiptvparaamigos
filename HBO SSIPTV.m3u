@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3vwccs85" type="playlist" group-title="HBO", Chernobyl
+https://raw.githubusercontent.com/werty76/famaseries/main/Chernobyl.SSiptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/h65ubrk6" type="playlist" group-title="HBO", Game of Thrones
 https://raw.githubusercontent.com/werty76/famaseries/main/Game.of.Thrones..SSiptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ym6jpsvk" type="playlist" group-title="HBO", The Franchise
