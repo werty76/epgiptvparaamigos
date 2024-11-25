@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/byn64yjy" type="VIDEO" group-title="FILMES", Hunting With Tigers (2024)
+https://cld.pt/dl/download/2843e3ab-3f01-4c78-ad07-8edbf000dee4/Tigres%20et%20Hy%C3%A8nes%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3wd2y6wh" type="VIDEO" group-title="FILMES", Fora de Mim (2024)
 https://cld.pt/dl/download/9a773621-e0a7-44f0-b66b-db034109b9b9/Out%20of%20My%20Mind%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2s7fkhhh" type="VIDEO" group-title="FILMES", Blitz (2024)
