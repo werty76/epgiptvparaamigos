@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/4ka343ah" type="VIDEO" group-title="FILMES", Chuva de Verão (2024) [PT]
+https://cld.pt/dl/download/7239a594-4816-41d5-b9ad-2818cb6ead28/Chuva%20de%20Ver%C3%A3o%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/byn64yjy" type="VIDEO" group-title="FILMES", Hunting With Tigers (2024)
 https://cld.pt/dl/download/2843e3ab-3f01-4c78-ad07-8edbf000dee4/Tigres%20et%20Hy%C3%A8nes%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3wd2y6wh" type="VIDEO" group-title="FILMES", Fora de Mim (2024)
@@ -68,7 +70,7 @@ https://cld.pt/dl/download/8de0a015-5e5b-4101-a7a2-eae9f997c834/Alien%20-%20Romu
 https://cld.pt/dl/download/bbaa08a6-d33a-4982-85fa-6b7b73b568da/Os.Fantasmas.Ainda.se.Divertem.Beetlejuice.Beetlejuice.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fDtkrO2OAF8LKQTdzYmu1Y7lCLB.jpg" type="VIDEO" group-title="FILMES", Não Fales do Mal (2024)
 https://cld.pt/dl/download/8622bf73-062f-4a37-af3b-a5fc8fd11811/Speak%20No%20Evil%202024.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xFKcT3ljsOMorLlrv3cmSDhSXjk.jpg" type="VIDEO" group-title="FILMES", Cândido (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xFKcT3ljsOMorLlrv3cmSDhSXjk.jpg" type="VIDEO" group-title="FILMES", Cândido (2024) [PT]
 https://cld.pt/dl/download/472e9ad7-02d5-44e5-b989-28e036891f80/C%C3%A2ndido%20-%20O%20Espi%C3%A3o%20que%20Veio%20do%20Futebol%202024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xyKdcbzqX8pG17S4cLKURHlNlvN.jpg" type="VIDEO" group-title="FILMES", The Last Redemption (2024)
 https://cld.pt/dl/download/cec3ad7b-6f80-491b-9f19-6a41f00085bd/The%20Last%20Redemption%202024.mp4
@@ -80,7 +82,7 @@ https://cld.pt/dl/download/2cc2a1f6-afbc-419a-8af9-5785d1079f7a/Salem%27s%20Lot%
 https://cld.pt/dl/download/93a2212e-0168-4ac0-b0cc-2acbd164d6a4/Beetlejuice%201988.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6a8b78lgDOg9YQ1edhgUk9fTcMc.jpg" type="VIDEO" group-title="FILMES", Treasure Trackers (2024)
 https://cld.pt/dl/download/7a83f58a-70c0-4fc1-9ce7-9296e1c6a994/Treasure%20Trackers%202024.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9xgpaHkAvHvrVtsVDnHRRkXXZfW.jpg" type="VIDEO" group-title="FILMES", Balas & Bolinhos: Só Mais uma Coisa (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9xgpaHkAvHvrVtsVDnHRRkXXZfW.jpg" type="VIDEO" group-title="FILMES", Balas & Bolinhos: Só Mais uma Coisa (2024) [PT]
 https://cld.pt/dl/download/b38eafd8-2324-42d7-82e6-78fdfc94c873/Balas%20%26%20Bolinhos-%20S%C3%B3%20Mais%20uma%20Coisa.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a0pepZNFCjggc7Na9gEwbTI1f46.jpg" type="VIDEO" group-title="FILMES", She's All That (1999)
 https://cld.pt/dl/download/3e4aa984-8944-48ef-b509-7858f32dbb09/she%27s%20all%20that.mp4
@@ -110,9 +112,9 @@ https://cld.pt/dl/download/9a9f0e4f-dff0-43d3-b0ff-fb64e032ef6c/%C3%89.Assim.Que
 https://cld.pt/dl/download/10b73a1f-e680-40ab-85a3-7717c5d9bec4/Fique%20Acordado.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g7ZNO5yvpr9jJqQBcTvcNICC9yF.jpg" type="VIDEO" group-title="FILMES", O Corvo (2024)
 https://cld.pt/dl/download/125201aa-d677-4d34-96d6-317addd2510b/THE.CROW.2024.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Nz3gFVLCaQzrAbChu14i8We3F6.jpg" type="VIDEO" group-title="FILMES", Luís, O Explorador (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Nz3gFVLCaQzrAbChu14i8We3F6.jpg" type="VIDEO" group-title="FILMES", Luís, O Explorador (2024) [PT]
 https://cld.pt/dl/download/a4354f79-c4dc-49a5-a1d0-8b6412aa04be/Lu%C3%ADs-O.Explorador.2023.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qubwJJ5ysdXfyRb5a9fiMGuizSc.jpg" type="VIDEO" group-title="FILMES", O Teu Rosto Será o Último (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qubwJJ5ysdXfyRb5a9fiMGuizSc.jpg" type="VIDEO" group-title="FILMES", O Teu Rosto Será o Último (2024) [PT]
 https://cld.pt/dl/download/086ca827-f5b8-42c2-9d47-2548b8abfcd2/O.Teu.Rosto.Ser%C3%A1.o.%C3%9Altimo.2024.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xqPSxMaJ36etkUif4VggAX9tLu0.jpg" type="VIDEO" group-title="FILMES", Borderlands (2024)
 https://cld.pt/dl/download/41d40741-8898-442b-bb33-33224a5bb6bc/BORDERLANDS2024.mp4
@@ -312,7 +314,7 @@ https://cld.pt/dl/download/9b2cc472-0848-46ea-8d65-e33d4dbadf79/Em%20Ru%C3%ADnas
 https://cld.pt/dl/download/7dcfe01b-57d9-4de2-aa45-7c39197fe472/Ferrari%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3SxEBzA" type="VIDEO" group-title="FILMES", Ride On (2023)
 https://cld.pt/dl/download/d303d896-4e7a-459b-91b1-c67874e5173a/Ride%20On%202023.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/4b1SKwm" type="VIDEO" group-title="FILMES", Wonka PT (2023)
+#EXTINF:-1 tvg-logo="https://bit.ly/4b1SKwm" type="VIDEO" group-title="FILMES", Wonka (2023) [PT]
 https://cld.pt/dl/download/9ddc8326-40be-420d-8959-966a07e75855/Wonka%20PT%202023.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3Sv1kMY" type="VIDEO" group-title="FILMES", Aquaman e o Reino Perdido
 https://cld.pt/dl/download/5e38765b-1675-457a-beee-0046ca8c5f42/Aquaman%20and%20the%20Lost%20Kingdom%202023.mp4
@@ -352,7 +354,7 @@ https://cld.pt/dl/download/53ba635f-99e7-4285-907b-d74b649e9f22/Freelance.2023.m
 https://fv5-3.failiem.lv/Files.fm_2023-12-20_file_2xrnpryke4/The.Family.Plan.2023.mp4?PHPSESSID=0450f4c21bdf3ebeae2a6486d70d28204363a3fd
 #EXTINF:-1 tvg-logo="https://bit.ly/4abvSdl" type="VIDEO" group-title="FILMES", Leave the World Behind (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-12-10_file_7jkytwjraa/Leave.the.World.Behind.mp4?PHPSESSID=46cfc5d57678d721c0e6c10bf1430cb05c1f6023
-#EXTINF:-1 tvg-logo="https://bit.ly/46KcbGA" type="VIDEO" group-title="FILMES", Um Filme do Caraças (2023)
+#EXTINF:-1 tvg-logo="https://bit.ly/46KcbGA" type="VIDEO" group-title="FILMES", Um Filme do Caraças (2023) [PT]
 https://fv5-3.failiem.lv/Files.fm_2023-12-08_file_drjf3eh72q/Um.Filme.do.Cara%C3%A7as.2023.mp4?PHPSESSID=d21b3faf05757991d3888ba1341802143ab06a35
 #EXTINF:-1 tvg-logo="https://bit.ly/3Rd7TBL" type="VIDEO" group-title="FILMES", Candy Cane Lane (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-12-08_file_uswqu7uay6/Candy.Cane.Lane.mp4?v=1702066807&PHPSESSID=d21b3faf05757991d3888ba1341802143ab06a35
@@ -372,7 +374,7 @@ https://fv5-3.failiem.lv/Files.fm_2023-11-25_file_mg4xpq3jrk/Elf.Me.mp4?PHPSESSI
 https://fv5-3.failiem.lv/Files.fm_2023-11-25_file_r6yremq2uu/The.Marsh.King%27s.Daughter.mp4?PHPSESSID=beb3c4e32fdfa0a8c20662c899d90c69790b88f0
 #EXTINF:-1 tvg-logo="https://bit.ly/3u9H2i8" type="VIDEO" group-title="FILMES", The Killer (2023)
 https://fv5-2.failiem.lv/Files.fm_2023-11-15_file_f9jy7xcem6/The.Killer.mp4?PHPSESSID=4955de4b92592d40c2fab644a7693c9929a7b023
-#EXTINF:-1 tvg-logo="https://bit.ly/3Qx4v4r" type="VIDEO" group-title="FILMES", Pôr do Sol - O Mistério do Colar de São Cajó (2023)
+#EXTINF:-1 tvg-logo="https://bit.ly/3Qx4v4r" type="VIDEO" group-title="FILMES", Pôr do Sol - O Mistério do Colar de São Cajó (2023) [PT]
 https://fv5-3.failiem.lv/Files.fm_2023-11-10_file_a8t3xeysb7/P%C3%B4r+do+Sol+-+O+Mist%C3%A9rio+do+Colar+de+S%C3%A3o+Caj%C3%B3.mp4?PHPSESSID=821bc699856f4ca9dd59fd2e954c20bf9efceae8
 #EXTINF:-1 tvg-logo="https://bit.ly/3sBDJ2K" type="VIDEO" group-title="FILMES", Oppenheimer (2023)
 https://fv5-3.failiem.lv/Files.fm_2023-11-10_file_ru56djqnsh/Oppenheimer.mp4?PHPSESSID=fda43f2b040e8059729311fb1701ad51a7b216ef
