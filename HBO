@@ -3,6 +3,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Chernobyl[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/3vwccs85</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Chernobyl</externallink>
+<fanart>https://image.tmdb.org/t/p/original/8jZKtF5kwYHYHtD7FWHM9AwQnCD.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2019
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Uma minissérie épica que dramatiza os acontecimentos do acidente nuclear de Chernobil em 1986, contado pelas histórias das pessoas que fizeram sacrifícios incríveis para salvar a Europa de um desastre inimaginável.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Game of Thrones[/COLOR][/B]</name>
 <thumbnail>https://tinyurl.com/yn8a52zh</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Game.of.Thrones</externallink>
