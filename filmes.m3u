@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/a5z3nnn9" type="VIDEO" group-title="FILMES", Dear Santa (2024)
+https://cld.pt/dl/download/880f9ad0-76ae-49b4-9f8e-6e18c6bf920b/Dear%20Santa%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/v47k3tkb" type="VIDEO" group-title="FILMES", Juror #2 (2024)
 https://cld.pt/dl/download/303bc6c7-bac1-4fad-b909-05955b253a34/Juror%20%232.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3cm5uf9a" type="VIDEO" group-title="FILMES", Todo Tempo Que Temos (2024)
