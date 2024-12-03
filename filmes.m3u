@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/v47k3tkb" type="VIDEO" group-title="FILMES", Juror #2 (2024)
+https://cld.pt/dl/download/303bc6c7-bac1-4fad-b909-05955b253a34/Juror%20%232.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3cm5uf9a" type="VIDEO" group-title="FILMES", Todo Tempo Que Temos (2024)
 https://fv2-8.files.fm/down.php?i=sjh3yqxcy6&PHPSESSID=dd603de97a23923fca9d9275e9f3ab6a67bf6eed&pv=1&.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycxmj6w9" type="VIDEO" group-title="FILMES", Elevation (2024)
