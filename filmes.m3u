@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mu4re27p" type="VIDEO" group-title="FILMES", Venom: A Última Dança (2024)
+https://cld.pt/dl/download/8562d625-052e-406b-b517-0a3a1ba1bbbe/Venom%20-%20The%20Last%20Dance%202024.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2s4cvycz" type="VIDEO" group-title="FILMES", Conclave (2024)
+https://cld.pt/dl/download/1cdb9bf4-2f24-4d85-8696-0886659b529c/Conclave%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yjdhmdxa" type="VIDEO" group-title="FILMES", Alice Subservience (2024)
 https://cld.pt/dl/download/422f5315-daaa-40c8-8235-8c97ae7363f9/Alice%20Subservience%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bdhvcced" type="VIDEO" group-title="FILMES", Jack in Time for Christmas (2024)
