@@ -1,6 +1,17 @@
 <layouttype>thumbnail</layouttype>
 
 <channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Star Wars: Skeleton Crew: Aventura Pela Galáxia[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/5btafe6e</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Star.Wars%3ASkeleton.Crew%3A.Aventura.Pela.Gal%C3%A1xia.S01</externallink>
+<fanart>https://tinyurl.com/2tuzj3uf</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação e aventura, Ficção científica e fantasia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Quatros miúdos procuram o seu planeta depois de se perderem na galáxia de Star Wars.</info>
+</channel>
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Love Is In The Air[/COLOR][/B]</name>
 <thumbnail>https://tinyurl.com/yck8mb7s</thumbnail>
