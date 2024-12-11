@@ -3,11 +3,21 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]La Casa de Papel[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/3n6pb634</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/La.Casa.de.Papel</externallink>
+<fanart>https://tinyurl.com/3fh8vrm2</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2017/2021
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Crime, Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] O bando está no Banco de Espanha há mais de 100 horas e o Professor corre perigo. Para piorar ainda mais a situação, há um novo adversário a caminho: o exército.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Stranger Things[/COLOR][/B]</name>
 <thumbnail>https://tinyurl.com/5c2kk3hb</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Stranger.Things</externallink>
 <fanart>https://tinyurl.com/3fd5yaeh</fanart>
-<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2017 / 2022
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2017/2022
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Ficção científica e fantasia, Mistério, Ação e aventura
 [B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Quando um rapaz desaparece, uma pequena vila descobre um mistério relacionado com experiências secretas, assustadoras forças sobrenaturais e uma estranha rapariga.</info>
 </channel>
@@ -17,7 +27,7 @@
 <thumbnail>https://tinyurl.com/55wvn2t4</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Sweet.Tooth</externallink>
 <fanart>https://tinyurl.com/4xajhk3e</fanart>
-<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2021 / 2024
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2021/2024
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Drama, Sci-Fi & Fantasy
 [B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Numa perigosa aventura através de um mundo pós-apocalíptico, um adorável rapaz, metade humano, metade veado, procura um novo começo sob a proteção de um amigo.</info>
 </channel>
