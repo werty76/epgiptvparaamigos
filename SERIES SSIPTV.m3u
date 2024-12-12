@@ -2,21 +2,21 @@
 
 #EXTINF:0 tvg-logo="https://bit.ly/49AKnXG" type="playlist" group-title="AMC+", AMC+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/AMC%2B%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://apple.co/49vDM0R" type="playlist" group-title="APPLE TV+", APPLE TV+
+#EXTINF:0 tvg-logo="https://apple.co/49vDM0R" type="playlist", APPLE TV+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/APPLE%20TV%2B%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/3wip52s" type="playlist" group-title="Cinemax", Cinemax
+#EXTINF:0 tvg-logo="https://bit.ly/3wip52s" type="playlist", Cinemax
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Cinemax.SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/3MEvAS2" type="playlist" group-title="DISNEYPLUS", DISNEYPLUS 
+#EXTINF:0 tvg-logo="https://bit.ly/3MEvAS2" type="playlist", DISNEYPLUS 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DISNEYPLUS%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/47v4DIC" type="playlist" group-title="FX", FX
+#EXTINF:0 tvg-logo="https://bit.ly/47v4DIC" type="playlist", FX
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/FX.SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/40zpmbS" type="playlist" group-title="HBO", HBO
+#EXTINF:0 tvg-logo="https://bit.ly/40zpmbS" type="playlist", HBO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/HBO%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/3MRFq2Y" type="playlist" group-title="hulu", hulu
+#EXTINF:0 tvg-logo="https://bit.ly/3MRFq2Y" type="playlist", hulu
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/hulu%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/49ASnbi" type="playlist" group-title="MGM+", MGM+
+#EXTINF:0 tvg-logo="https://bit.ly/49ASnbi" type="playlist", MGM+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MGM%2B%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/40x72Ah" type="playlist" group-title="NETFLIX", NETFLIX
+#EXTINF:0 tvg-logo="https://bit.ly/40x72Ah" type="playlist", NETFLIX
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/NETFLIX%20%20SSIPTV.m3u
 #EXTINF:0 tvg-logo="https://bit.ly/40BS5N7" type="playlist" group-title="PARAMOUNT+", PARAMOUNT+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/PARAMOUNT%2B%20SSIPTV.m3u
