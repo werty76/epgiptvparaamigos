@@ -1,48 +1,48 @@
 #EXTM3U size="medium"
 
-#EXTINF:0 tvg-logo="https://bit.ly/49AKnXG" type="playlist", AMC+
+#EXTINF:0 tvg-logo="https://bit.ly/49AKnXG" type="playlist" group-title="AMC+", AMC+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/AMC%2B%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://apple.co/49vDM0R" type="playlist", APPLE TV+
+#EXTINF:0 tvg-logo="https://apple.co/49vDM0R" type="playlist" group-title="APPLE TV+", APPLE TV+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/APPLE%20TV%2B%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/3wip52s" type="playlist", Cinemax
+#EXTINF:0 tvg-logo="https://bit.ly/3wip52s" type="playlist" group-title="Cinemax", Cinemax
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Cinemax.SSIPTV.m3u
 #EXTINF:0 tvg-logo="https://bit.ly/3MEvAS2" type="playlist" group-title="DISNEYPLUS", DISNEYPLUS 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DISNEYPLUS%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/47v4DIC" type="playlist", FX
+#EXTINF:0 tvg-logo="https://bit.ly/47v4DIC" type="playlist" group-title="FX", FX
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/FX.SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/40zpmbS" type="playlist", HBO
+#EXTINF:0 tvg-logo="https://bit.ly/40zpmbS" type="playlist" group-title="HBO", HBO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/HBO%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/3MRFq2Y" type="playlist",hulu
+#EXTINF:0 tvg-logo="https://bit.ly/3MRFq2Y" type="playlist" group-title="hulu", hulu
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/hulu%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/49ASnbi" type="playlist", MGM+
+#EXTINF:0 tvg-logo="https://bit.ly/49ASnbi" type="playlist" group-title="MGM+", MGM+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MGM%2B%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/40x72Ah" type="playlist",NETFLIX
+#EXTINF:0 tvg-logo="https://bit.ly/40x72Ah" type="playlist" group-title="NETFLIX", NETFLIX
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/NETFLIX%20%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/40BS5N7" type="playlist", PARAMOUNT+
+#EXTINF:0 tvg-logo="https://bit.ly/40BS5N7" type="playlist" group-title="PARAMOUNT+", PARAMOUNT+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/PARAMOUNT%2B%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/40Iu5rT" type="playlist", PEACOCK
+#EXTINF:0 tvg-logo="https://bit.ly/40Iu5rT" type="playlist" group-title="PEACOCK", PEACOCK
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Peacock%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/3MHtKjs" type="playlist", PRIME VIDEO
+#EXTINF:0 tvg-logo="https://bit.ly/3MHtKjs" type="playlist" group-title="PRIME VIDEO", PRIME VIDEO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/PRIME%20VIDEO%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://s.sho.com/3N6aaxF" type="playlist", SHOWTIME
+#EXTINF:0 tvg-logo="https://s.sho.com/3N6aaxF" type="playlist" group-title="SHOWTIME", SHOWTIME
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/showtime%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/3QA9LEx" type="playlist", SIC OPTO
+#EXTINF:0 tvg-logo="https://bit.ly/3QA9LEx" type="playlist" group-title="SIC OPTO", SIC OPTO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SICOPTO%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/3WJgEYq" type="playlist", DRAGON BALL
+#EXTINF:0 tvg-logo="https://bit.ly/3WJgEYq" type="playlist" group-title="DRAGON BALL", DRAGON BALL
 https://raw.githubusercontent.com/werty76/famaseries/main/Dragon.Ball
-#EXTINF:0 tvg-logo="https://bit.ly/3QzjdrM<" type="playlist", DRAGON BALL SUPER
+#EXTINF:0 tvg-logo="https://bit.ly/3QzjdrM<" type="playlist" group-title="DRAGON BALL SUPER", DRAGON BALL SUPER
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DRAGON%20BALL%20SUPER
-#EXTINF:0 tvg-logo="https://bit.ly/3uirzwa" type="playlist", DRAGON BALL Z KAI
+#EXTINF:0 tvg-logo="https://bit.ly/3uirzwa" type="playlist" group-title="DRAGON BALL Z KAI", DRAGON BALL Z KAI
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DRAGON%20BALL%20Z%20KAI
-#EXTINF:0 tvg-logo="https://bit.ly/479J9kM" type="playlist", DRAGON BALL GT
+#EXTINF:0 tvg-logo="https://bit.ly/479J9kM" type="playlist" group-title="DRAGON BALL GT", DRAGON BALL GT
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DRAGON%20BALL%20GT
-#EXTINF:0 tvg-logo="https://bit.ly/3YyIasG" type="playlist", SUPER DRAGON BALL HEROES
+#EXTINF:0 tvg-logo="https://bit.ly/3YyIasG" type="playlist" group-title="SUPER DRAGON BALL HEROES", SUPER DRAGON BALL HEROES
 https://raw.githubusercontent.com/werty76/famaseries/main/Super%20Dragon%20Ball%20Heroes
-#EXTINF:0 tvg-logo="https://bit.ly/3U7k9pS" type="playlist", Dragon Ball Daima
+#EXTINF:0 tvg-logo="https://bit.ly/3U7k9pS" type="playlist" group-title="DRAGON BALL DAIMA", DRAGON BALL DAIMA
 https://raw.githubusercontent.com/werty76/famaseries/refs/heads/main/Dragon.Ball.DAIMA
-#EXTINF:0 tvg-logo="https://bit.ly/3QWJamy" type="playlist", WWE
+#EXTINF:0 tvg-logo="https://bit.ly/3QWJamy" type="playlist" group-title="WWE", WWE
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/wwe%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/3MEWzgd" type="playlist", RALLY WRC 2024
+#EXTINF:0 tvg-logo="https://bit.ly/3MEWzgd" type="playlist" group-title="RALLY WRC 2024", RALLY WRC 2024
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/wrc2024
-#EXTINF:0 tvg-logo="https://bit.ly/3MEWzgd" type="playlist", RALLY WRC 2023
+#EXTINF:0 tvg-logo="https://bit.ly/3MEWzgd" type="playlist" group-title="RALLY WRC 2023", RALLY WRC 2023
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/wrc2023
