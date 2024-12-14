@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pl5rC2M04YDDJFeqOUBH1tPBCzh.jpg" type="playlist" group-title="SIC OPTO", Lua Vermelha
 https://raw.githubusercontent.com/werty76/famaseries/main/Lua.vermelha.m3u
-#EXTINF:-1 tvg-logo="https://bit.ly/48YZxVz" type="playlist" group-title="SIC OPTO", Os Eleitos S01
+#EXTINF:-1 tvg-logo="https://bit.ly/48YZxVz" type="playlist" group-title="SIC OPTO", Os Eleitos 
 https://raw.githubusercontent.com/werty76/famaseries/main/Os%20Eleitos.m3u
 #EXTINF:-1 tvg-logo="https://bit.ly/3rgAY2d" type="playlist" group-title="SIC OPTO", O Clube S01
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S01
@@ -14,15 +14,13 @@ https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S03
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S04
 #EXTINF:-1 tvg-logo="https://bit.ly/41P4XQJ" type="playlist" group-title="SIC OPTO", O Clube S05
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S05
-#EXTINF:-1 tvg-logo="https://bit.ly/45WEkdl" type="playlist" group-title="SIC OPTO", Paulo Futre - O Primeiro Português - S01
+#EXTINF:-1 tvg-logo="https://bit.ly/45WEkdl" type="playlist" group-title="SIC OPTO", Paulo Futre - O Primeiro Portugues 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Paulo%20Futre%20-%20O%20Primeiro%20Portugu%C3%AAs
-#EXTINF:-1 tvg-logo="https://bit.ly/45cJqSZ" type="playlist" group-title="SIC OPTO", Vanda S01
+#EXTINF:-1 tvg-logo="https://bit.ly/45cJqSZ" type="playlist" group-title="SIC OPTO", Vanda
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Vanda
-#EXTINF:-1 tvg-logo="https://bit.ly/47NaZUO" type="playlist" group-title="SIC OPTO", Praxx S01
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/PraxxS01
-#EXTINF:-1 tvg-logo="https://bit.ly/3Hou8jG" type="playlist" group-title="SIC OPTO", Praxx S02
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/PraxxS02
-#EXTINF:-1 tvg-logo="https://bit.ly/3OPzAiT" type="playlist" group-title="SIC OPTO", Santiago S01
+#EXTINF:-1 tvg-logo="https://bit.ly/3Hou8jG" type="playlist" group-title="SIC OPTO", Praxx 
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Praxx.SSiptv
+#EXTINF:-1 tvg-logo="https://bit.ly/3OPzAiT" type="playlist" group-title="SIC OPTO", Santiago
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Santiago
-#EXTINF:-1 tvg-logo="https://bit.ly/47IyJJH" type="playlist" group-title="SIC OPTO", Tabu S01
+#EXTINF:-1 tvg-logo="https://bit.ly/47IyJJH" type="playlist" group-title="SIC OPTO", Tabu 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Tabu
