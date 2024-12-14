@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/BGdxPSw/filmes.jpg" type="playlist", FILMES
+#EXTINF:1 tvg-logo="https://i.ibb.co/BGdxPSw/filmes.jpg" type="playlist" group-title="FamaFlix", FILMES
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/filmes.m3u
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/cNv6RJh/Series.jpg" type="playlist", SERIES
