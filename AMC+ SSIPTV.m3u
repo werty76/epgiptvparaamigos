@@ -1,10 +1,10 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ywbacot78IuNhGW4uVZPxxxVTkm.jpg" type="playlist" group-title="AMC+", The Walking Dead The Ones Who Live
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ywbacot78IuNhGW4uVZPxxxVTkm.jpg" type="playlist", The Walking Dead The Ones Who Live
 https://raw.githubusercontent.com/werty76/famaseries/main/The%20Walking%20Dead%20The%20Ones%20Who%20Live.m3u
-#EXTINF:-1 tvg-logo="https://bit.ly/47Dvpi6" type="playlist" group-title="AMC+", The Vanishing Triangle
+#EXTINF:-1 tvg-logo="https://bit.ly/47Dvpi6" type="playlist", The Vanishing Triangle
 https://raw.githubusercontent.com/werty76/famaseries/main/The%20Vanishing%20Triangle
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AjnMXY6DH3nTDLYxdqksAH9Ft3n.jpg" type="playlist" group-title="AMC+", The Walking Dead: Daryl Dixon 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AjnMXY6DH3nTDLYxdqksAH9Ft3n.jpg" type="playlist", The Walking Dead: Daryl Dixon 
 https://raw.githubusercontent.com/werty76/famaseries/main/The.Walking.Dead%3ADaryl.Dixon.SSiptv
-#EXTINF:-1 tvg-logo="https://bit.ly/46y1Kq8" type="playlist" group-title="AMC+", The Walking Dead: Dead City 
+#EXTINF:-1 tvg-logo="https://bit.ly/46y1Kq8" type="playlist", The Walking Dead: Dead City 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Walking%20Dead%20Dead%20City
