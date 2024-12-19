@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 
 <channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Fubar[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/7238kupw</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/FUBAR</externallink>
+<fanart>https://image.tmdb.org/t/p/original/yBbYWG0wlAxpBYk1L8TgKGD726.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Action & Adventure, Drama, Comédia
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Quando pai e filha descobrem que ambos trabalham para a CIA, a sua relação disfuncional torna uma missão secreta já de si complexa numa espinhosa empreitada familiar.</info>
+</channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]La Casa de Papel[/COLOR][/B]</name>
