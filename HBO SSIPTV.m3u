@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yx9ezvc8" type="playlist" group-title="HBO", Dune: Prophecy 
 https://raw.githubusercontent.com/werty76/famaseries/main/Dune%3AProphecy.SSiptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ckvs6rxv" type="playlist" group-title="HBO", The Winchesters 
+https://raw.githubusercontent.com/werty76/famaseries/main/The.Winchesters
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3vwccs85" type="playlist" group-title="HBO", Chernobyl
 https://raw.githubusercontent.com/werty76/famaseries/main/Chernobyl.SSiptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/h65ubrk6" type="playlist" group-title="HBO", Game of Thrones
