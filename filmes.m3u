@@ -1,11 +1,13 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2r63dwfy" type="VIDEO" group-title="FILMES", O Sabor da Vida (2023)
-https://cld.pt/dl/download/6ea6670e-f494-4870-a378-4829634076c9/O%20Sabor%20da%20Vida%202023.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2ujrr3z5" type="VIDEO" group-title="FILMES", Gladiador II (2024)
+https://cld.pt/dl/download/0ac0bec2-692f-4a55-817a-26a5c2ddd6ee/Gladiador%202%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2ujrr3z5" type="VIDEO" group-title="FILMES", Red One: Missão Secreta (2024)
 https://cld.pt/dl/download/a16ef0c2-0cdf-4b6e-9024-2a9726dde511/Red%20One%20Miss%C3%A3o%20Secreta%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mu4re27p" type="VIDEO" group-title="FILMES", Venom: A Última Dança (2024)
 https://cld.pt/dl/download/8562d625-052e-406b-b517-0a3a1ba1bbbe/Venom%20-%20The%20Last%20Dance%202024.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2r63dwfy" type="VIDEO" group-title="FILMES", O Sabor da Vida (2023)
+https://cld.pt/dl/download/6ea6670e-f494-4870-a378-4829634076c9/O%20Sabor%20da%20Vida%202023.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/5cz5xw5x" type="VIDEO" group-title="FILMES", Heretic (2024)
 https://cld.pt/dl/download/ff89eee9-4b39-494a-a4a1-1ecc54d4ad5d/Herege%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2s4cvycz" type="VIDEO" group-title="FILMES", Conclave (2024)
