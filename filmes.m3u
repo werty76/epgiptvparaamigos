@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2d7csf3r" type="VIDEO" group-title="FILMES", Wicked (2024)
+https://cld.pt/dl/download/eb8ca622-0e99-4011-8670-57d53386b2de/Wicked%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2s525kfm" type="VIDEO" group-title="FILMES", Gladiador II (2024)
 https://cld.pt/dl/download/0ac0bec2-692f-4a55-817a-26a5c2ddd6ee/Gladiador%202%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2ujrr3z5" type="VIDEO" group-title="FILMES", Red One: Missão Secreta (2024)
