@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ystp23uh" type="VIDEO" group-title="FILMES", Os Condenados de Shawshank (1994)
+https://cld.pt/dl/download/9fcad76d-d134-4686-a871-f465a79f9b96/The%20Shawshank%20Redemption%201995.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mty6pb9w" type="VIDEO" group-title="FILMES", Perseguição Sem Tréguas (1993)
+https://cld.pt/dl/download/868376fc-935a-4d96-9cef-3c8068689644/Hard%20Target%201993.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3rhp5vpe" type="VIDEO" group-title="FILMES", Homem Demolidor (1993)
 https://cld.pt/dl/download/d0852076-71d7-431a-80ec-6fe104fd6f4e/Demolition%20Man%201993.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/azwshjx7" type="VIDEO" group-title="FILMES", Monster Summer (2024)
