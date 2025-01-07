@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/azwshjx7" type="VIDEO" group-title="FILMES", Monster Summer (2024)
+https://cld.pt/dl/download/d4bf867c-d979-42ed-9da2-7f3f8e8f0c93/Monster%20Summer%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2d7csf3r" type="VIDEO" group-title="FILMES", Wicked (2024)
 https://cld.pt/dl/download/eb8ca622-0e99-4011-8670-57d53386b2de/Wicked%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2s525kfm" type="VIDEO" group-title="FILMES", Gladiador II (2024)
