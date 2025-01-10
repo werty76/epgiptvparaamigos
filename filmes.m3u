@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/fbv7ux79" type="VIDEO" group-title="FILMES", Legend (2015)
+https://cld.pt/dl/download/28eb5fd5-5c6a-47d6-9cb6-fa12f5c406ff/Legend%202015.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yz89hvrh" type="VIDEO" group-title="FILMES", A Espera de Um Milagre (1999)
 https://cld.pt/dl/download/43dfe25f-537f-420a-b278-025431fc18dc/%C3%80%20Espera%20de%20um%20Milagre.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ystp23uh" type="VIDEO" group-title="FILMES", Os Condenados de Shawshank (1994)
