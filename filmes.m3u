@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/sz75j5rf" type="VIDEO" group-title="FILMES", Pequenas Coisas Como Estas (2024)
+https://cld.pt/dl/download/2681e90f-29d1-4e3d-bc04-4e6c81ab9967/Pequenas%20Coisas%20Como%20Estas%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/45ycskak" type="VIDEO" group-title="FILMES", Kraven, o Caçador (2024)
 https://cld.pt/dl/download/b46b7169-b956-4e8e-96e1-d299b101a09c/Kraven%20the%20Hunter%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/47anp5vp" type="VIDEO" group-title="FILMES", Year 10 (2024)
