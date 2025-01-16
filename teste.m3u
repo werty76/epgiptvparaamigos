@@ -1,7 +1,7 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yu8wskme" type="VIDEO" subtitles="https://cld.pt/dl/download/cc6c2ab7-0e0b-49df-960c-27f2c776568f/exmas.2023..por.srt" group-title="FILMES", Teste
+#EXTINF:-1 type="video" description="HD - 720P"  subtitles="https://cld.pt/dl/download/cc6c2ab7-0e0b-49df-960c-27f2c776568f/exmas.2023..por.srt", teste
 #EXTSIZE: Medium
 #EXTBG: #774343
 https://cld.pt/dl/download/1b8564c6-4320-4494-aaea-4a0e6810a8c1/Ad%20Vitam%202025.mp4
