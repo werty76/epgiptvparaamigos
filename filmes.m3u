@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3vj5xavk" type="VIDEO" group-title="FILMES", EXmas (2023)
+https://cld.pt/dl/download/ba3cae7a-62e4-43aa-ae46-73b008ddf498/EXmas.2023.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yu8wskme" type="VIDEO" group-title="FILMES", Ad Vitam (2025)
 https://cld.pt/dl/download/1b8564c6-4320-4494-aaea-4a0e6810a8c1/Ad%20Vitam%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/sz75j5rf" type="VIDEO" group-title="FILMES", Pequenas Coisas Como Estas (2024)
