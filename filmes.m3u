@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y5vyh56v" type="VIDEO" group-title="FILMES", In a Violent Nature (2024)
+https://cld.pt/dl/download/678b69e3-33d0-4ac2-a53a-1726c207e92a/In%20a%20Violent%20Nature%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/4cxyw74c" type="VIDEO" group-title="FILMES", The Killer's Game (2024)
 https://cld.pt/dl/download/8069c6ae-93e9-4665-bf1b-8dcb7d9bc280/The%20Killer%27s%20Game%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/4r6w67u9" type="VIDEO" group-title="FILMES", Interstellar (2014)
