@@ -1,14 +1,14 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3rgAY2d" type="playlist" group-title="SIC OPTO", O Clube S01
+#EXTINF:-1 tvg-logo="https://bit.ly/3rgAY2d" type="playlist", O Clube S01
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S01
-#EXTINF:-1 tvg-logo="https://bit.ly/3ImsMEP" type="playlist" group-title="SIC OPTO", O Clube S02
+#EXTINF:-1 tvg-logo="https://bit.ly/3ImsMEP" type="playlist", O Clube S02
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S02
-#EXTINF:-1 tvg-logo="https://bit.ly/3Fa8zAe" type="playlist" group-title="SIC OPTO", O Clube S03
+#EXTINF:-1 tvg-logo="https://bit.ly/3Fa8zAe" type="playlist", O Clube S03
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S03
-#EXTINF:-1 tvg-logo="https://bit.ly/3Rz1Qti" type="playlist" group-title="SIC OPTO", O Clube S04
+#EXTINF:-1 tvg-logo="https://bit.ly/3Rz1Qti" type="playlist", O Clube S04
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S04
-#EXTINF:-1 tvg-logo="https://bit.ly/41P4XQJ" type="playlist" group-title="SIC OPTO", O Clube S05
+#EXTINF:-1 tvg-logo="https://bit.ly/41P4XQJ" type="playlist", O Clube S05
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S05
-#EXTINF:-1 tvg-logo="https://tinyurl.com/56ez5dv7" type="playlist" group-title="SIC OPTO", O Clube S06
+#EXTINF:-1 tvg-logo="https://tinyurl.com/56ez5dv7" type="playlist", O Clube S06
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/O%20Clube_S06
