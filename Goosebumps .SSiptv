@@ -1,6 +1,6 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://bit.ly/46T7ydV" type="VIDEO", Goosebumps S01
+#EXTINF:-1 tvg-logo="https://bit.ly/46T7ydV" type="playlist" group-title="DISNEYPLUS", Goosebumps S01
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Goosebumps%20S01
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2sf5wdek" type="VIDEO", Goosebumps S02
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2sf5wdek" type="playlist" group-title="DISNEYPLUS", Goosebumps S02
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Goosebumps%20S02
