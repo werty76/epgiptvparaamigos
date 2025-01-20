@@ -1,0 +1,25 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Squid Game S01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3E6DhMe</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Squid.Game.S01</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ma5lK011oKOyvJkv9FibHGYvIks.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2021
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Action & Adventure, Mistério, Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Centenas de jogadores falidos aceitam um estranho convite para competir em jogos infantis. O prémio que os espera é tentador, mas as consequências são fatais.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Squid Game S02[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/ycxpkzy6</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Squid.Game.S02</externallink>
+<fanart>https://image.tmdb.org/t/p/original/8uWtkh4IynPKQtbI0yWwSX4JRXO.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2024
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Action & Adventure, Mistério, Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Tudo a postos para jogar pela vida? O jogador 456 regressa para mais jogos infantis de gelar o sangue, com novos desafios letais, mas armado com a própria agenda secreta.</info>
+</channel>
+
+</channels>
