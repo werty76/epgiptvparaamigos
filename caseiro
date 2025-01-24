@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ysj9b2kc" type="VIDEO" group-title="FILMES", The Damned (2025)
+https://cld.pt/dl/download/deaaef66-4edd-4341-ab80-7adee029d08c/The%20Damned%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mrxc2vse" type="VIDEO" group-title="FILMES", Alarum (2025)
 https://cld.pt/dl/download/27ffdbb1-3cb6-4262-a259-fd93a797a83c/Alarum%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/27f7v94w" type="VIDEO" group-title="FILMES", Sonic 3 O Filme (2024)
