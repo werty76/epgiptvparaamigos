@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mrxc2vse" type="VIDEO" group-title="FILMES", Alarum (2025)
+https://cld.pt/dl/download/27ffdbb1-3cb6-4262-a259-fd93a797a83c/Alarum%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/27f7v94w" type="VIDEO" group-title="FILMES", Sonic 3 O Filme (2024)
 https://cld.pt/dl/download/841c103e-8b36-4205-890c-4c96699ece15/Sonic%203-%20O%20Filme%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bdz6zjb6" type="VIDEO" group-title="FILMES", Back in Action (2025)
