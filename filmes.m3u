@@ -1,5 +1,11 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/bdfdcdp3" type="VIDEO" group-title="FILMES", Star Trek - Secção 31 (2025)
+https://cld.pt/dl/download/8b678f5b-9b9a-4c2e-bc86-9a246963d7cd/Star%20Trek%20-%20Section%2031%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3se8yh76" type="VIDEO" group-title="FILMES", The Sand Castle (2025)
+https://cld.pt/dl/download/b76b2a48-9636-4ab3-bebb-3533ae415711/The%20Sand%20Castle%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tsswzeue" type="VIDEO" group-title="FILMES", Nightbitch (2024)
+https://cld.pt/dl/download/e88332d7-39d5-472a-b38c-c9c37ce1b6bd/Nightbitch%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ysj9b2kc" type="VIDEO" group-title="FILMES", The Damned (2025)
 https://cld.pt/dl/download/deaaef66-4edd-4341-ab80-7adee029d08c/The%20Damned%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mrxc2vse" type="VIDEO" group-title="FILMES", Alarum (2025)
