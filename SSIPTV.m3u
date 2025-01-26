@@ -1,23 +1,23 @@
 #EXTM3U
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/BGdxPSw/filmes.jpg" type="playlist" group-title="FamaFlix", FILMES
+#EXTINF:1 tvg-logo="https://i.ibb.co/H7Fpn3j/Filmesssiptv.png" type="playlist" group-title="FamaFlix", FILMES
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/filmes.m3u
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/cNv6RJh/Series.jpg" type="playlist", SERIES
+#EXTINF:1 tvg-logo="https://i.ibb.co/hMChLnj/Seriesssiptv.png" type="playlist", SERIES
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SERIES%20SSIPTV.m3u
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/Fzf6vwB/cole-o.jpg" type="playlist", COLECOES
+#EXTINF:1 tvg-logo="https://i.ibb.co/q582BXJ/Cole-esssiptv.png" type="playlist", COLECOES
 https://raw.githubusercontent.com/werty76/cole-o/main/COLECAO.SSIPTV.m3u
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/fSQYPV6/anima-o.jpg" type="playlist", ANIMACAO
+#EXTINF:1 tvg-logo="https://i.ibb.co/W0jr9D9/Anima-ossiptv.png" type="playlist", ANIMACAO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/kids.m3u
 
 #EXTINF:1 tvg-logo="https://i.ibb.co/6vRKkGy/animes-japoneses.png" type="playlist", ANIMES
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Animes.SSiptv.m3u
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/XyKMrjg/live-tv.jpg" type="playlist", LIVE TV
+#EXTINF:1 tvg-logo="https://i.ibb.co/qrMMkW6/livetvssiptv.png" type="playlist", LIVE TV
 https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 
-#EXTINF:1 tvg-logo="https://i.ibb.co/fkqxrsj/radios.jpg" type="playlist", RADIOS
+#EXTINF:1 tvg-logo="https://i.ibb.co/GpN69Tx/radiossiptv.png" type="playlist", RADIOS
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/radios.m3u
 
