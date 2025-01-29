@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3ejvvsb6" type="VIDEO" group-title="ANIMAÇÃO PT", Vaiana 2 (2024)
+https://cld.pt/dl/download/2f545469-45b2-4e84-8eb9-2ea0d5bd866e/Vaiana%202%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/4rjuhvbh" type="VIDEO" group-title="ANIMAÇÃO PT", Wallace & Gromit: A Vingança das Aves (2024)
 https://cld.pt/dl/download/26b24869-692c-400f-aca1-dfaa85e0d1eb/Wallace%20e%20Gromit-%20A%20Vingan%C3%A7a%20das%20Aves%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bdfp8uyp" type="VIDEO" group-title="ANIMAÇÃO PT", Um Gato Com Sorte (2024)
