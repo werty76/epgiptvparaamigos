@@ -1,7 +1,7 @@
 #EXTM3U size="medium"
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3Hrcuf3" group-title="RADIO", ELECTRONIC DANCE RADIO
-http://sc-atr.1.fm:7700/
+https://strm112.1.fm/atr_mobile_mp3
  
 #EXTINF:-1 tvg-logo="https://bit.ly/3TUAK0O" group-title="RADIO", CIDADE FM
 https://stream-icy.bauermedia.pt/cidade.mp3
@@ -13,7 +13,7 @@ http://radiotrucker.com/pt/play/41316/mega-hits-fm
 http://centova.radios.pt:9522/stream/1/
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3entkgu" group-title="RADIO", Radio M80
-http://radiotrucker.com/pt/play/41316/radio-m80
+https://stream-icy.bauermedia.pt/m80.mp3
  
 #EXTINF:-1 tvg-logo="https://bit.ly/48P9y7M" group-title="RADIO", NOVA ERA
 http://centova.radios.pt:9478/stream/1/
@@ -28,7 +28,7 @@ https://stream-icy.bauermedia.pt/comercial.mp3
 http://centova.radios.pt:9524/stream
  
 #EXTINF:-1 tvg-logo="https://bit.ly/3O6338O" group-title="RADIO", RFM
-https://23623.live.streamtheworld.com/RFM_SC
+https://25643.live.streamtheworld.com/RFM.mp3
  
 #EXTINF:-1 tvg-logo="https://bit.ly/3tSGwWa" group-title="RADIO", RFM ON THE ROCK
 https://27793.live.streamtheworld.com/RFMONTHEROCKAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15
