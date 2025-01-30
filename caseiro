@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/msyx89zu" type="VIDEO" group-title="FILMES", Culpa Minha (2023)
+https://cld.pt/dl/download/070fcf94-c14a-4550-8bff-f834182eb5a8/Culpa%20Minha%202023.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/wpmn7zba" type="VIDEO" group-title="FILMES", Babygirl (2024)
 https://cld.pt/dl/download/84ceb5c7-6757-4262-8825-b109acd7f8c2/Babygirl%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/45nsvbkf" type="VIDEO" group-title="FILMES", Absolution (2024)
