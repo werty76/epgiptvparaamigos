@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/4nt3c9cp" type="VIDEO" group-title="FILMES", Tinhas Mesmo Que Ser Tu... (2010)
+https://cld.pt/dl/download/68773b12-ff89-497d-a221-32dcbd11de4f/Tinhas%20mesmo%20que%20ser%20tu%202010.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/59sf4yz8" type="VIDEO" group-title="FILMES", Paddington (2014)
 https://cld.pt/dl/download/4533cb12-56ec-4423-a58c-b6041aa219d9/As%20Aventuras%20de%20Paddington%202014.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/m33u2m6c" type="VIDEO" group-title="FILMES", Covil de Ladrões Pantera (2025)
