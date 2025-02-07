@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/bddbjedy" type="VIDEO" group-title="ANIMAÇÃO PT", Wall-E (2008)
+https://cld.pt/dl/download/50e8f283-9160-4366-9337-31bb861e879a/Wall-E%202008.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3ejvvsb6" type="VIDEO" group-title="ANIMAÇÃO PT", Vaiana 2 (2024)
 https://cld.pt/dl/download/2f545469-45b2-4e84-8eb9-2ea0d5bd866e/Vaiana%202%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/529aneux" type="VIDEO" group-title="ANIMAÇÃO PT", Rock-a-Doodle (1991)
