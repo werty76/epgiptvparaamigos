@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5x864svc" type="VIDEO" group-title="ANIMAÇÃO PT", Monster High 2 (2023)
+https://cld.pt/dl/download/61c9cb9b-0977-4973-8865-7bae68764d80/Monster%20High%2C%20O%20Filme%202%20%202023.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8erxunm" type="VIDEO" group-title="ANIMAÇÃO PT", Monster High: os pesadelos de Monster High (2012)
+https://cld.pt/dl/download/4ffd5479-e1c1-4a35-b8dd-a29447bbf076/Monster%20High-%20Monstrinhas%20Sobre%20Rodas%202012.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3uf2jzzt" type="VIDEO" group-title="ANIMAÇÃO PT", Monster High: Pesadelo de Uma Noite de Paixão (2012)
 https://cld.pt/dl/download/98d2cf58-a475-4027-8b33-ba785eb966bc/Monster%20High-%20Pesadelo%20de%20Uma%20Noite%20de%20Paix%C3%A3o%202012.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2d4btb5k" type="VIDEO" group-title="ANIMAÇÃO PT", Monster High: Choque de Culturas (2011)
