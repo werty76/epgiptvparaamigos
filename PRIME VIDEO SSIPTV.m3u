@@ -40,10 +40,8 @@ https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Wheel%2
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Wheel%20of%20Time_S02
 #EXTINF:-1 tvg-logo="https://bit.ly/3QrIaVK" type="playlist" group-title="PRIME VIDEO", The Terminal List S01
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Terminal%20List
-#EXTINF:-1 tvg-logo="https://bit.ly/3vF2pIW" type="playlist" group-title="PRIME VIDEO", Reacher S01
-https://raw.githubusercontent.com/werty76/famaseries/main/Reacher%20S01
-#EXTINF:-1 tvg-logo="https://bit.ly/48AaD3z" type="playlist" group-title="PRIME VIDEO", Reacher S02
-https://raw.githubusercontent.com/werty76/famaseries/main/Reacher%20S02
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3z2ntsxc" type="playlist" group-title="PRIME VIDEO", Reacher
+https://raw.githubusercontent.com/werty76/famaseries/refs/heads/main/Reacher.SSiptv
 #EXTINF:-1 tvg-logo="https://bit.ly/47QOFbm" type="playlist" group-title="PRIME VIDEO", Zorro
 https://raw.githubusercontent.com/werty76/famaseries/main/Zorro.m3u
 
