@@ -1,35 +1,35 @@
 #EXTM3U size="medium"
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/4pa4d4wu" type="playlist" group-title="Series", AMC+
+#EXTINF:0 tvg-logo="https://tinyurl.com/2kxs933j" type="playlist" group-title="Series", AMC+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/AMC%2B%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://tinyurl.com/3v5wt8ym" type="playlist", APPLE TV+
+#EXTINF:0 tvg-logo="https://tinyurl.com/373pfwvf" type="playlist", APPLE TV+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/APPLE%20TV%2B%20SSIPTV.m3u
 #EXTINF:0 tvg-logo="https://tinyurl.com/9sdweya4" type="playlist", Cinemax
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Cinemax.SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://tinyurl.com/4m5ajv82" type="playlist", DC-Universe
+#EXTINF:0 tvg-logo="https://tinyurl.com/4jtsza4f" type="playlist", DC-Universe
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DC-Universe.SSiptv.m3u
-#EXTINF:0 tvg-logo="https://tinyurl.com/k6dnr35m" type="playlist", DISNEYPLUS 
+#EXTINF:0 tvg-logo="https://tinyurl.com/2pemmvrn" type="playlist", DISNEYPLUS 
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/DISNEYPLUS%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/47v4DIC" type="playlist", FX
+#EXTINF:0 tvg-logo="https://tinyurl.com/5t3yb3h8" type="playlist", FX
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/FX.SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://tinyurl.com/3vj46zxx" type="playlist", HBO
+#EXTINF:0 tvg-logo="https://tinyurl.com/3dk3jukk" type="playlist", HBO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/HBO%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://tinyurl.com/yamwp225" type="playlist", hulu
+#EXTINF:0 tvg-logo="https://tinyurl.com/5n7bsrvv" type="playlist", hulu
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/hulu%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://tinyurl.com/4us972vh" type="playlist", MGM+
+#EXTINF:0 tvg-logo="https://tinyurl.com/58zmtvzz" type="playlist", MGM+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/MGM%2B%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://tinyurl.com/4cab5929" type="playlist", NETFLIX
+#EXTINF:0 tvg-logo="https://tinyurl.com/cjkfdmf6" type="playlist", NETFLIX
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/NETFLIX%20%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/40BS5N7" type="playlist", PARAMOUNT+
+#EXTINF:0 tvg-logo="https://tinyurl.com/yjzp8wzp" type="playlist", PARAMOUNT+
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/PARAMOUNT%2B%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://tinyurl.com/mvkfkfkn" type="playlist", PEACOCK
+#EXTINF:0 tvg-logo="https://tinyurl.com/3mkt9cxp" type="playlist", PEACOCK
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Peacock%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://tinyurl.com/yvk64jcn" type="playlist", PRIME VIDEO
+#EXTINF:0 tvg-logo="https://tinyurl.com/3pcxveuh" type="playlist", PRIME VIDEO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/PRIME%20VIDEO%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://tinyurl.com/25mkd54b" type="playlist", SHOWTIME
+#EXTINF:0 tvg-logo="https://tinyurl.com/47a5sy66" type="playlist", SHOWTIME
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/showtime%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://tinyurl.com/yc55auw7" type="playlist", SIC OPTO
+#EXTINF:0 tvg-logo="https://tinyurl.com/3z6m7hhy" type="playlist", SIC OPTO
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/SICOPTO%20SSIPTV.m3u
-#EXTINF:0 tvg-logo="https://bit.ly/3QWJamy" type="playlist", WWE
+#EXTINF:0 tvg-logo="https://tinyurl.com/6afa6cxx" type="playlist", WWE
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/wwe%20SSIPTV.m3u
 
