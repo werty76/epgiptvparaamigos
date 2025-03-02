@@ -1,6 +1,17 @@
 <layouttype>thumbnail</layouttype>
 
 <channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Rain[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/ywxz8cty</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/The.Rain</externallink>
+<fanart>https://image.tmdb.org/t/p/original/u5yBk0rxHIvwVjoDZ1UeSmVaZUp.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2018/2020
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Sci-Fi & Fantasy, Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Seis anos após um vírus ter dizimado a maior parte da Escandinávia, dois irmãos juntam-se a um grupo de jovens sobreviventes em busca de um porto seguro e de respostas.</info>
+</channel>
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]The Night Agent[/COLOR][/B]</name>
 <thumbnail>https://tinyurl.com/5yac42ja</thumbnail>
