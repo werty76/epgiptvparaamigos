@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3m4wc2c3" type="VIDEO" group-title="ANIMAÇÃO PT", Mufasa: O Rei Leão (2024)
+https://cld.pt/dl/download/c9b839f7-2bd9-4efc-89f2-90794db6750f/Mufasa%20O%20Rei%20Le%C3%A3o%20%282024%29%20%5BPT%5D.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ca93c8dn" type="VIDEO" group-title="ANIMAÇÃO PT", Monster High: The Movie (2022)
 https://cld.pt/dl/download/3447c736-eea2-4eda-89bd-3daac9fb9839/Monster%20High-%20O%20Filme%20%202022.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/5x864svc" type="VIDEO" group-title="ANIMAÇÃO PT", Monster High 2 (2023)
