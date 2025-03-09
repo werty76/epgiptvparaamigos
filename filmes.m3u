@@ -1,7 +1,6 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/3m4wc2c3" type="VIDEO" group-title="FILMES", Mufasa: O Rei Leão (2024) [PT]
-https://cld.pt/dl/download/c9b839f7-2bd9-4efc-89f2-90794db6750f/Mufasa%20O%20Rei%20Le%C3%A3o%20%282024%29%20%5BPT%5D.mp4
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2bjne3sp" type="VIDEO" group-title="FILMES", Flight Risk - Voo de Alto Risco (2025)
 https://cld.pt/dl/download/940dcadb-5c97-4d15-93e6-c25c2f8ea519/Flight%20Risk%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ye2737k3" type="VIDEO" group-title="FILMES", Culpa Minha: Londres (2025)
