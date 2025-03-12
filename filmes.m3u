@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/48k3suwd" type="VIDEO" group-title="FILMES", Paddington in Peru (2025)
+https://cld.pt/dl/download/385c4151-cb3a-4796-b5ea-206e2dd4cc21/Paddington%20in%20Peru%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2hwacwau" type="VIDEO" group-title="FILMES", Capitão América - Admirável Mundo Novo (2025)
 https://cld.pt/dl/download/25ea704f-c5ec-4ae3-b808-1fb9bd6afcb8/Captain%20America%20-%20Brave%20New%20World%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2d9n2vcb" type="VIDEO" group-title="FILMES", Ainda Estou Aqui (2025)
