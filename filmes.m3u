@@ -1,5 +1,13 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5hxveu5t" type="VIDEO" group-title="FILMES", It - Capítulo 2 (2019)
+https://cld.pt/dl/download/90a77797-b112-44e1-95e4-36160909c2b4/It%20-%20Cap%C3%ADtulo%202%202019.mp4?download=true
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5dj824a9" type="VIDEO" group-title="FILMES", It (2017)
+https://cld.pt/dl/download/c8aff72a-2dd4-48a9-b905-36f386c003c7/It-%20A%20Coisa%202017.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/bdzfu7xa" type="VIDEO" group-title="FILMES", It - Palhaço Assassino (1990)
+https://cld.pt/dl/download/70e75b6c-a314-4b0c-9508-926736c16d4c/It-%20Uma%20Obra-Prima%20do%20Medo%201998.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ma98yekp" type="VIDEO" group-title="FILMES", Companion (2025)
+https://cld.pt/dl/download/e23b107b-c53a-4400-a897-6c7cc882a6a0/Companion%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/48k3suwd" type="VIDEO" group-title="FILMES", Paddington in Peru (2025)
 https://cld.pt/dl/download/385c4151-cb3a-4796-b5ea-206e2dd4cc21/Paddington%20in%20Peru%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2hwacwau" type="VIDEO" group-title="FILMES", Capitão América - Admirável Mundo Novo (2025)
