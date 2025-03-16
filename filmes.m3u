@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/48k3suwd" type="VIDEO" group-title="FILMES", Paddington in Peru PT (2025)
+https://cld.pt/dl/download/07402eef-91cf-4a2a-b788-b2f83fc9150b/Paddington%20na%20Amaz%C3%B3nia%20pt.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/5hxveu5t" type="VIDEO" group-title="FILMES", It - Capítulo 2 (2019)
 https://cld.pt/dl/download/90a77797-b112-44e1-95e4-36160909c2b4/It%20-%20Cap%C3%ADtulo%202%202019.mp4?download=true
 #EXTINF:-1 tvg-logo="https://tinyurl.com/5dj824a9" type="VIDEO" group-title="FILMES", It (2017)
