@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2a9mxsnf" type="VIDEO" group-title="FILMES", Boot Camp (2024)
+https://cld.pt/dl/download/e3baddde-6d64-4810-afe3-e1865396c7b1/Boot.Camp.2024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/5ymtxaum" type="VIDEO" group-title="FILMES", A Vila (2004)
 https://cld.pt/dl/download/ab9ec084-76d0-4c40-b1ae-81c7ffcc9f30/The%20Village%202004.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/48k3suwd" type="VIDEO" group-title="FILMES", Paddington in Peru PT (2025)
