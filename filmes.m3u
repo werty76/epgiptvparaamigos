@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5ymtxaum" type="VIDEO" group-title="FILMES", A Vila (2004)
+https://cld.pt/dl/download/ab9ec084-76d0-4c40-b1ae-81c7ffcc9f30/The%20Village%202004.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/48k3suwd" type="VIDEO" group-title="FILMES", Paddington in Peru PT (2025)
 https://cld.pt/dl/download/07402eef-91cf-4a2a-b788-b2f83fc9150b/Paddington%20na%20Amaz%C3%B3nia%20pt.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/5hxveu5t" type="VIDEO" group-title="FILMES", It - Capítulo 2 (2019)
