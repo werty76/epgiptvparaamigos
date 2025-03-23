@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/bdem5ufj" type="VIDEO" group-title="FILMES", As Cinquenta Sombras Mais Negras (2017)
+https://cld.pt/dl/download/c5d5b4e8-3abb-43c9-91ea-e3d8491ccca5/As%20Cinquenta%20Sombras%20Mais%20Negras%202017.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2c6x7kcp" type="VIDEO" group-title="FILMES", Last Breath (2025)
 https://cld.pt/dl/download/af8204a0-1089-457c-8259-c364a32bf5dc/Last%20Breath%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/58667jp5" type="VIDEO" group-title="FILMES", Tully (2018)
