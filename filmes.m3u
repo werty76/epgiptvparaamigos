@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ms2259tx" type="VIDEO" group-title="FILMES", O Macaco (2025)
+https://cld.pt/dl/download/6e038798-8b7f-4eae-b812-19a3e3c5da17/O%20Macaco%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/4tfy5sbn" type="VIDEO" group-title="FILMES", Greenland - O Último Refúgio (2020)
 https://cld.pt/dl/download/f5780edd-4d52-485c-b607-aed380644aac/Greenland%202020.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/bdem5ufj" type="VIDEO" group-title="FILMES", As Cinquenta Sombras Mais Negras (2017)
