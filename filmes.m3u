@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/4ppjsd2j" type="VIDEO" group-title="FILMES", Alexander e a Viagem Terrível, Horrível, Péssima e Muito Má (2025)
+https://cld.pt/dl/download/f3970141-f33f-4aad-938d-e13604808a97/Alexander%20and%20the%20Terrible%2C%20Horrible%2C%20No%20Good%2C%20Very%20Bad%20Day%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/53awdutj" type="VIDEO" group-title="FILMES", Holland (2025)
+https://cld.pt/dl/download/3dd01d7b-225e-4821-b894-2744c4da19fb/Holland%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ms2259tx" type="VIDEO" group-title="FILMES", O Macaco (2025)
 https://cld.pt/dl/download/6e038798-8b7f-4eae-b812-19a3e3c5da17/O%20Macaco%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/4tfy5sbn" type="VIDEO" group-title="FILMES", Greenland - O Último Refúgio (2020)
