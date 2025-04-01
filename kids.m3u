@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/48zsk9cn" type="VIDEO" group-title="ANIMAÇÃO PT", Ratatui (2007)
+https://cld.pt/dl/download/7e06ebee-2cc9-4ce2-9431-d356e7399bd0/Ratatui%202007.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/55hy739b" type="VIDEO" group-title="ANIMAÇÃO PT", Plâncton: O Filme (2025)
 https://cld.pt/dl/download/18426f2d-2af8-40d1-828d-bc918827376d/Pl%C3%A2ncton-%20O%20Filme.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3m4wc2c3" type="VIDEO" group-title="ANIMAÇÃO PT", Mufasa: O Rei Leão (2024)
