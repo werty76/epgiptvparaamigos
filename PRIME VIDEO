@@ -1,6 +1,17 @@
 <layouttype>thumbnail</layouttype>
 
 <channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Casa de Davi[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/2vn52yz9</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/famaseries/main/Casa.de.Davi.S01</externallink>
+<fanart>https://image.tmdb.org/t/p/original/83y6rp55fVjVaEq9KkRtG7MgS8U.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] Drama
+[B][COLOR deepskyblue]Género:[/B][/COLOR] 2025
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Narra a ascensão da icónica figura bíblica de David, que acabaria por se tornar o rei mais famoso de Israel. O outrora poderoso Rei Saul sucumbe ao seu próprio orgulho. Sob a orientação de Deus, o profeta Samuel unge um jovem marginalizado como novo rei.</info>
+</channel>
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Citadel Diana[/COLOR][/B]</name>
 <thumbnail>https://tinyurl.com/4tvkyz7e</thumbnail>
