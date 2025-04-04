@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/4tb4p8w7" type="playlist" group-title="PRIME VIDEO", The Wheel of Time
+https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Wheel%20of%20Time.SSiptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/nyenmmpx" type="playlist" group-title="PRIME VIDEO", The Bondsman
 https://raw.githubusercontent.com/werty76/famaseries/main/The.Bondsman.S01
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2vn52yz9" type="playlist" group-title="PRIME VIDEO", Casa de Davi
@@ -38,10 +40,6 @@ https://raw.githubusercontent.com/werty76/famaseries/refs/heads/main/Tell.Me.Lie
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/he%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power
 #EXTINF:-1 tvg-logo="https://bit.ly/4edfhr4" type="playlist" group-title="PRIME VIDEO", The Lord of the Rings The Rings of Power S02
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/refs/heads/master/The.Lord.of.the.Rings.The.Rings.of.Power.S02
-#EXTINF:-1 tvg-logo="https://bit.ly/3sKs9Cg" type="playlist" group-title="PRIME VIDEO", The Wheel of Time S01
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Wheel%20of%20Time_S01
-#EXTINF:-1 tvg-logo="https://bit.ly/3raNfcs" type="playlist" group-title="PRIME VIDEO", The Wheel of Time S02
-https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Wheel%20of%20Time_S02
 #EXTINF:-1 tvg-logo="https://bit.ly/3QrIaVK" type="playlist" group-title="PRIME VIDEO", The Terminal List S01
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Terminal%20List
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3z2ntsxc" type="playlist" group-title="PRIME VIDEO", Reacher
