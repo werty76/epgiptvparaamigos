@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ypmy3ys" type="VIDEO" group-title="FILMES", The Gorge (2025)
+https://cld.pt/dl/download/3acbe428-7ea6-4372-809b-6a54a579291c/The%20Gorge%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mevzac3x" type="VIDEO" group-title="FILMES", Um Ano Para Ser Feliz (2025)
 https://cld.pt/dl/download/e4da58b5-ea72-46aa-b105-583c47f28760/The%20Life%20List%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/233h2u8r" type="VIDEO" group-title="FILMES", O Dia Depois de Amanhã (2004)
