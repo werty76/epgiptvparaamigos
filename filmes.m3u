@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/4h2fr68b" type="VIDEO" group-title="FILMES", Novocaine (2025)
+https://cld.pt/dl/download/776c846c-cf3e-4a1d-a6b7-11d46b95eba6/Novocaine%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3pv3nzbu" type="VIDEO" group-title="FILMES", Black Bag (2025)
 https://cld.pt/dl/download/3aeb307b-f970-4b4d-9853-ed1d9bec8f16/Black%20Bag%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2ud8sx28" type="VIDEO" group-title="FILMES", Mickey 17 (2025)
