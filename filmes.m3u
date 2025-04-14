@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2yypmkam" type="VIDEO" group-title="FILMES", In The Lost Lands (2025) 
+https://cld.pt/dl/download/59077c2a-95a1-42a9-8c3c-a6565bf0c01d/In%20the%20Lost%20Lands%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mv2t7pue" type="VIDEO" group-title="FILMES", G20 (2025)
 https://cld.pt/dl/download/96d776e0-63b2-402c-8006-d430d495385e/G20%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/5a59faxh" type="VIDEO" group-title="FILMES", The Alto Knights (2025)
