@@ -3,6 +3,16 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Last of Us[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/3Ez8eZF</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Last%20of%20Us.</externallink>
+<fanart>https://bit.ly/3u9iDJv</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023/2025
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Após uma pandemia destruir a civilização, um sobrevivente toma conta de uma rapariga de 14 anos que pode ser a última esperança da humanidade.</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Dune: Prophecy[/COLOR][/B]</name>
 <thumbnail>https://tinyurl.com/yx9ezvc8</thumbnail>
 <externallink>https://raw.githubusercontent.com/werty76/famaseries/refs/Dune%3AProphecy</externallink>
@@ -90,16 +100,6 @@
 <info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2020
 [B][COLOR deepskyblue]Género:[/B][/COLOR] Crime, Drama, Mistério
 [B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Um padre exilado tenta escapar dos seus demónios enquanto vive numa aldeia remota em Espanha.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]The Last of Us[/COLOR][/B]</name>
-<thumbnail>https://bit.ly/3Ez8eZF</thumbnail>
-<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/The%20Last%20of%20Us</externallink>
-<fanart>https://bit.ly/3u9iDJv</fanart>
-<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2023
-[B][COLOR deepskyblue]Género:[/B][/COLOR] Ação, Aventura, Drama
-[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] >Depois de uma pandemia global destruir a civilização, um sobrevivente endurecido assume o comando de uma menina de 14 anos que pode ser a última esperança da humanidade.</info>
 </channel>
 
 <channel>
