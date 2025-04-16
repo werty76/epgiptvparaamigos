@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc6me37h" type="VIDEO" group-title="FILMES", Um Trabalhador Implacável (2025)
+https://cld.pt/dl/download/9e16e1de-2998-414c-aff6-f8b85276a46d/A%20Working%20Man%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2pwvhkcc" type="VIDEO" group-title="FILMES", The Other Zoey (2023)
 https://cld.pt/dl/download/0fc367be-db2d-4d92-8978-dcd64bfce24b/The%20Other%20Zoey%202023.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2yypmkam" type="VIDEO" group-title="FILMES", In The Lost Lands (2025) 
