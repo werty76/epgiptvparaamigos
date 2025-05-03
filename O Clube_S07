@@ -1,4 +1,6 @@
 #EXTM3U size="medium"
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/43bkp2kw" type="VIDEO", O Clube S07E01
-https://cld.pt/dl/download/0768143a-6c63-469d-891e-0ccc1d13e515/O%20Clube%20S07E01.mp4?download=true
+https://cld.pt/dl/download/0768143a-6c63-469d-891e-0ccc1d13e515/O%20Clube%20S07E01.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/43bkp2kw" type="VIDEO", O Clube S07E02
+https://cld.pt/dl/download/9475d93d-7c65-4cf2-8919-b78ccbd8b152/O%20Clube%20S07E02.mp4
