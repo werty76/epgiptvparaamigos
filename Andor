@@ -1,0 +1,25 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] Andor S01[/COLOR][/B]</name>
+<thumbnail>https://bit.ly/48cFBim</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Andor.S01</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ajztm40qDPqMONaSJhQ2PaNe2Xd.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2022
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Sci-Fi & Fantasy, Action & Adventure, Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Numa era repleta de perigos, enganos e intriga, Cassian Andor vai descobrir a diferença que pode fazer na luta contra o tirânico Império Galático. Embarca numa jornada destinada a torná-lo um herói da Rebelião.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] Andor S02[/COLOR][/B]</name>
+<thumbnail>https://tinyurl.com/2s4wafus</thumbnail>
+<externallink>https://raw.githubusercontent.com/werty76/epgiptvparaamigos/master/Andor.S02</externallink>
+<fanart>https://image.tmdb.org/t/p/original/kCGwvjpqM1owt9kI4pkYPJWJLvc.jpg</fanart>
+<info>[B][COLOR deepskyblue]Ano:[/B][/COLOR] 2025
+[B][COLOR deepskyblue]Género:[/B][/COLOR] Sci-Fi & Fantasy, Action & Adventure, Drama
+[B][COLOR deepskyblue]Sinopse:[/B][/COLOR] Na 2ª temporada, Cassian Andor se transforma de soldado em líder e, em seguida, em herói, rumo ao seu destino épico. Sua história ativou um grupo cada vez maior de aliados e inimigos. Essas relações se intensificarão à medida que o horizonte da guerra galáctica se aproxima. Todos serão testados e, à medida que os riscos aumentam, as traições, os sacrifícios e os conflitos se tornarão profundos. Quem viverá para ver seu sonho realizado? Quem perceberá o quanto esse sonho custou?</info>
+</channel>
+
+</channels>
