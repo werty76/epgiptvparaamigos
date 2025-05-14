@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3ubr3bw5" type="VIDEO" group-title="FILMES", Um Filme Minecraft (2025)
+https://cld.pt/dl/download/819a0768-55d1-4187-90f1-d794dae44be5/A%20Minecraft%20Movie%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/4fv6xfkd" type="VIDEO" group-title="FILMES", Bala Perdida 3 (2025)
 https://cld.pt/dl/download/6a33d151-c662-46a6-b300-126fbfd5cc9d/Bala%20Perdida%203%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/5ekfvb6b" type="VIDEO" group-title="FILMES", Fight or Flight (2024)
