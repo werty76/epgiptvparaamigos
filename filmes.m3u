@@ -1,5 +1,11 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/4ehwbyva" type="VIDEO" group-title="FILMES", Peter Pan's Neverland Nightmare (2025)
+https://cld.pt/dl/download/dde3ae50-9918-4068-bc8e-e6e7cf4685c0/Peter%20Pan%27s%20Neverland%20Nightmare%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/msr6ds5j" type="VIDEO" group-title="FILMES", Branca de Neve PT (2025)
+https://cld.pt/dl/download/805ee3f2-32ad-4e7b-b961-e867de2ea19b/Branca%20de%20Neve%20PT%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3ubr3bw5" type="VIDEO" group-title="FILMES", Um Filme Minecraft PT(2025)
+https://cld.pt/dl/download/b5038d5c-8399-4845-b0a4-fadd197d4382/Um%20Filme%20Minecraft%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/msr6ds5j" type="VIDEO" group-title="FILMES", Branca de Neve (2025)
 https://cld.pt/dl/download/1ab58983-7e85-4b17-ad69-8d78f302d561/Branca%20de%20Neve%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/3ubr3bw5" type="VIDEO" group-title="FILMES", Um Filme Minecraft (2025)
