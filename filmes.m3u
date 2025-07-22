@@ -1,5 +1,11 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mtbw4hf3" type="VIDEO" group-title="FILMES", M3GAN 2.0 (2025)
+https://cld.pt/dl/download/c333310d-4b63-4ddf-9daf-a0b33d10f967/M3GAN%202.0%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mwvaz6dk" type="VIDEO" group-title="FILMES", How to Train Your Dragon (2025)
+https://cld.pt/dl/download/c0418602-f2cb-456e-bfa5-870fb5d324f9/How%20to%20Train%20Your%20Dragon%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2a4xhamf" type="VIDEO" group-title="FILMES", Diablo (2025)
+https://cld.pt/dl/download/feb86e19-9d82-4b57-9744-0b64b9982521/Diablo%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/4n3bkjx4" type="VIDEO" group-title="FILMES", Karate Kid Legends (2025)
 https://cld.pt/dl/download/e8a89488-8fba-4ff8-ae89-6e9540537987/Karate%20Kid%20Legends%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybnrwbe3" type="VIDEO" group-title="FILMES", Do Universo de John Wick - Ballerina (2025)
