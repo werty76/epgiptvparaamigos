@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2h7fymzv" type="VIDEO" group-title="FILMES", Lilo & Stitch PT (2025)
+https://cld.pt/dl/download/68e5fa22-0f8b-4235-a2a4-7185bf1c68a0/Lilo%20%26%20Stitch%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/39wrfs5x" type="VIDEO" group-title="FILMES", M3GAN (2022)
+https://cld.pt/dl/download/5015ce4f-dedb-4425-a728-1746b3eb965f/M3GAN%202022.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mtbw4hf3" type="VIDEO" group-title="FILMES", M3GAN 2.0 (2025)
 https://cld.pt/dl/download/c333310d-4b63-4ddf-9daf-a0b33d10f967/M3GAN%202.0%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mwvaz6dk" type="VIDEO" group-title="FILMES", How to Train Your Dragon (2025)
