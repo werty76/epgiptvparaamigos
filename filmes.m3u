@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3bnjdkze" type="VIDEO" group-title="FILMES", Mundo Jurássico - Renascimento (2025)
+https://cld.pt/dl/download/d15d251e-7017-45ea-a41d-e7821197b95b/Jurassic%20World%20-%20Rebirth%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2h7fymzv" type="VIDEO" group-title="FILMES", Lilo & Stitch PT (2025)
 https://cld.pt/dl/download/68e5fa22-0f8b-4235-a2a4-7185bf1c68a0/Lilo%20%26%20Stitch%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/39wrfs5x" type="VIDEO" group-title="FILMES", M3GAN (2022)
