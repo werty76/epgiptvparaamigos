@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yp2upp2h" type="VIDEO" group-title="ANIMAÇÃO PT", Preguiças & Companhia (2024)
+https://cld.pt/dl/download/5bddd43f-074f-400d-b194-24e6064a5d2b/Pregui%C3%A7as%20%26%20Companhia.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/msjvr685" type="VIDEO" group-title="ANIMAÇÃO PT", Dragonkeeper - Ping e o Dragão (2024)
 https://cld.pt/dl/download/86586658-d47d-4187-b1de-4d4e96ade90b/Dragonkeeper%20Ping%20e%20o%20Dragao.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/48zsk9cn" type="VIDEO" group-title="ANIMAÇÃO PT", Ratatui (2007)
