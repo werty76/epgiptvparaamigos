@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/s28csuw3" type="VIDEO" group-title="ANIMAÇÃO PT", Guerreiras do K-Pop (2025)
+https://cld.pt/dl/download/70f7c3b0-565e-4cf6-98d8-135fdcab1a45/Guerreiras%20do%20K-Pop.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2v4cfs6r" type="VIDEO" group-title="ANIMAÇÃO PT", Super Charlie (2025)
 https://cld.pt/dl/download/d84dd754-bf74-4e33-8a30-e5f8b1f0e67e/Super%20Charlie.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc85298e" type="VIDEO" group-title="ANIMAÇÃO PT", Dália e o Livro Mágico (2024)
