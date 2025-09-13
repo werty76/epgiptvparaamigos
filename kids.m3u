@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2v4cfs6r" type="VIDEO" group-title="ANIMAÇÃO PT", Super Charlie (2025)
+https://cld.pt/dl/download/d84dd754-bf74-4e33-8a30-e5f8b1f0e67e/Super%20Charlie.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc85298e" type="VIDEO" group-title="ANIMAÇÃO PT", Dália e o Livro Mágico (2024)
 https://cld.pt/dl/download/6c05f354-3735-44eb-b9d5-649b4b6d5505/Dalia%20e%20o%20Livro%20M%C3%A1gico.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/4xh86ph2" type="VIDEO" group-title="ANIMAÇÃO PT", Elio (2025)
