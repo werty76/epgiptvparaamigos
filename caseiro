@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/4knepmxj" type="VIDEO" group-title="FILMES", Slingshot (2024)
+https://cld.pt/dl/download/14e69934-d106-498b-92cb-f7ff05a54c14/Slingshot%202024.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/fpse496x" type="VIDEO" group-title="FILMES", The Naked Gun (2025)
 https://cld.pt/dl/download/814523e2-f108-41c6-84e6-c2c5f01b2aab/The%20Naked%20Gun%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc5nv2kb" type="VIDEO" group-title="FILMES", A Line of Fire (2025)
