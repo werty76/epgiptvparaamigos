@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/467bnvcu" type="VIDEO" group-title="ANIMAÇÃO PT", Um Panda em África (2025)
+https://cld.pt/dl/download/fd31e674-faa6-48be-be31-3e300144156a/Um%20Panda%20em%20%C3%81frica.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/4t447mu8" type="VIDEO" group-title="ANIMAÇÃO PT", Homem-Cão (2025)
+https://cld.pt/dl/download/b9a1a02f-eadb-430b-9416-871c5b398e27/Homem-C%C3%A3o.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mrarttk3" type="VIDEO" group-title="ANIMAÇÃO PT", Os Guardiões do Museu (2023)
 https://cld.pt/dl/download/c9b05175-b601-4168-b28e-79c640fbbe9f/Os%20Guardi%C3%B5es%20do%20Museu.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/577n2jus" type="VIDEO" group-title="ANIMAÇÃO PT", O Aprendiz do Tigre (2024)
