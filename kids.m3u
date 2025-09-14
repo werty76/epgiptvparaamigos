@@ -1,5 +1,9 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mrarttk3" type="VIDEO" group-title="ANIMAÇÃO PT", Os Guardiões do Museu (2023)
+https://cld.pt/dl/download/c9b05175-b601-4168-b28e-79c640fbbe9f/Os%20Guardi%C3%B5es%20do%20Museu.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/577n2jus" type="VIDEO" group-title="ANIMAÇÃO PT", O Aprendiz do Tigre (2024)
+https://cld.pt/dl/download/5d40c892-22ad-483f-ae67-7a0a643a93f9/O%20Aprendiz%20do%20Tigre.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/s28csuw3" type="VIDEO" group-title="ANIMAÇÃO PT", Guerreiras do K-Pop (2025)
 https://cld.pt/dl/download/70f7c3b0-565e-4cf6-98d8-135fdcab1a45/Guerreiras%20do%20K-Pop.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2v4cfs6r" type="VIDEO" group-title="ANIMAÇÃO PT", Super Charlie (2025)
