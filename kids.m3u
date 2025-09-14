@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/bdh9yvpj" type="VIDEO" group-title="ANIMAÇÃO PT", O Rei dos Reis (2025)
+https://cld.pt/dl/download/042ee5f1-7490-4781-94fe-61c4df534f95/O%20Rei%20dos%20Reis.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/467bnvcu" type="VIDEO" group-title="ANIMAÇÃO PT", Um Panda em África (2025)
 https://cld.pt/dl/download/fd31e674-faa6-48be-be31-3e300144156a/Um%20Panda%20em%20%C3%81frica.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/4t447mu8" type="VIDEO" group-title="ANIMAÇÃO PT", Homem-Cão (2025)
