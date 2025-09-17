@@ -1,5 +1,14 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mrymbdjs" type="VIDEO" group-title="FILMES", O Mapa que Me Leva até Ti (2025)
+https://cld.pt/dl/download/de973e7e-bb95-49a6-b328-7fac801fbe59/The%20Map%20That%20Leads%20to%20You%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/26xe5k84" type="VIDEO" group-title="FILMES", Motorista de Fuga (2025)
+https://cld.pt/dl/download/3a8a79c4-cf1f-4413-85a2-99385843fa3c/Eenie%20Meanie%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ha3zmsat" type="VIDEO" group-title="FILMES", Céus e Infernos (2025)
+https://cld.pt/dl/download/b018fc00-69d0-4b74-a202-d5797b994026/Highest%202%20Lowest%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yt7cea8s" type="VIDEO" group-title="FILMES", A Vida de Chuck (2025)
+https://cld.pt/dl/download/2a1d0e3d-94d5-442b-9e1d-c255bd5b5698/The%20Life%20of%20Chuck%202024.mp4
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2s3rtjuh" type="VIDEO" group-title="FILMES", The Pickup (2025)
 https://cld.pt/dl/download/f2a4e703-ffbe-4365-89aa-8e7de12d2c51/The%20Pickup%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/4knepmxj" type="VIDEO" group-title="FILMES", Slingshot (2024)
