@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/46YowY9" group-title="FAMAFLIX", Famaflix
 https://fv5-3.failiem.lv/Files.fm_2023-10-20_file_7bgzeha5zv/famaflix.mp4?PHPSESSID=45a5a1b1bcff24ece4a28e6bb5e2c9ebe383e2b9
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/4nvu4ysc" type="VIDEO" group-title="FILMES", Prisoner of War (2025)
+https://cld.pt/dl/download/f1537ca3-b91d-4239-9f74-8a75d3a9a413/Prisoner%20of%20War%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/t7uch8k3" type="VIDEO" group-title="FILMES", Os Salteadores do Ouro (2025)
+https://cld.pt/dl/download/ae344a4f-5591-449a-8102-a3c97ddeecaa/Gold%20Rush%20Gang%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mrymbdjs" type="VIDEO" group-title="FILMES", O Mapa que Me Leva até Ti (2025)
 https://cld.pt/dl/download/de973e7e-bb95-49a6-b328-7fac801fbe59/The%20Map%20That%20Leads%20to%20You%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/26xe5k84" type="VIDEO" group-title="FILMES", Motorista de Fuga (2025)
