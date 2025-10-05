@@ -1,5 +1,15 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fUCFEGFlMIFet9ja72JDAeG1he8.jpg" type="VIDEO" group-title="FILMES", Legends of the Condor Heroes: The Gallants (2025)
+https://cld.pt/dl/download/81203fa6-3244-416e-b6bc-d8053e1f8d85/Legends%20of%20the%20Condor%20Heroes%20-%20The%20Gallants%202025.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1eQP5tHFnIg1TuMWbNxOYGmkVJR.jpg" type="VIDEO" group-title="FILMES", O Autocarro Perdido (2025)
+https://cld.pt/dl/download/c3e88773-9c3f-47c6-bdcf-0e01b5d8bce2/The%20Lost%20Bus%202025.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lNy6FEDmi7MXY1IH0z8Q2pwisSC.jpg" type="VIDEO" group-title="FILMES", Sorry, Baby (2025)
+https://cld.pt/dl/download/16066a45-7e6d-468f-8970-678c2a02fc99/Sorry%2C%20Baby%202025.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg" type="VIDEO" group-title="FILMES", Play Dirty (2025)
+https://cld.pt/dl/download/31f9e374-619d-4f60-b4dc-f3b34ce06d6c/Play%20Dirty%202025.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/3hsnz3zm" type="VIDEO" group-title="FILMES", Apanhado a Roubar (2025)
+https://cld.pt/dl/download/3edfc189-9fa6-4bdf-bb6d-a20577d1956b/Caught%20Stealing%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/36ft6udr" type="VIDEO" group-title="FILMES", O Quarteto Fantástico: Primeiros Passos (2025)
 https://cld.pt/dl/download/2c3e21fc-7295-4885-b497-b65555997304/The%20Fantastic%20Four%20%20First%20Steps%202025.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/yc877n5u" type="VIDEO" group-title="FILMES", Nobody 2 (2025)
